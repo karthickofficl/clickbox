@@ -1930,8 +1930,8 @@ ol.digit-list p {
 .scroll .pink-hover:hover,
 .white-color .pink-hover:hover {
   color: #fff !important;
-  background-color: #eb1561;
-  border-color: #eb1561 !important;
+  background-color: #CB1F45  ;
+  border-color: #CB1F45  !important;
 }
 
 .btn-tra-pink,
@@ -4630,7 +4630,7 @@ p.terms-txt a,
 }
 
 .hero-14-txt p.p-xl {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 /*------------------------------------------*/
@@ -8815,4 +8815,10 @@ tr {
 .outlinewt {
   background-color: #ffffff;
 
+}
+.txt-justify{
+  text-align: justify !important;
+}
+.p-0{
+  padding: 0 !important;
 }

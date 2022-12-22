@@ -194,9 +194,9 @@ if (isset($_POST['send'])) {
 							<!-- Section ID -->
 							<!-- <span class="section-id purple-color txt-upcase">Fast Performance</span> -->
 
-							<p class="p-lg">Think about a few brands whose logos make you think of them right away, including the full name and history of the company. This is where the power of a logo comes from. Our skilled logo designers know how to put together the right number of symbols, calligraphy, design art, and other graphic elements that look good together to make such a powerful logo. The logo stirs up emotions and memories associated with your brand and helps people remember it, so you can reach a wider audience.</p>
+							<p class="p-lg txt-justify">Think about a few brands whose logos make you think of them right away, including the full name and history of the company. This is where the power of a logo comes from. Our skilled logo designers know how to put together the right number of symbols, calligraphy, design art, and other graphic elements that look good together to make such a powerful logo. The logo stirs up emotions and memories associated with your brand and helps people remember it, so you can reach a wider audience.</p>
 
-							<p class="p-lg">As the top logo design agency in Coimbatore, India, our skilled logo designers have made unique logos for small businesses and large corporations all over the world. Our logo designs are used in many different fields, such as real estate, education, finance, hospitality, e-commerce, IT, fashion, and more. For our custom logo design service, we offer different packages to meet the needs of every business. Contact us today to get a full quote for your logo needs and to work with the best logo designers in the business.</p>
+							<p class="p-lg txt-justify">As the top logo design agency in Coimbatore, India, our skilled logo designers have made unique logos for small businesses and large corporations all over the world. Our logo designs are used in many different fields, such as real estate, education, finance, hospitality, e-commerce, IT, fashion, and more. For our custom logo design service, we offer different packages to meet the needs of every business. Contact us today to get a full quote for your logo needs and to work with the best logo designers in the business.</p>
 						</div>
 					</div> <!-- END TEXT BLOCK -->
 
@@ -1277,7 +1277,7 @@ if (isset($_POST['send'])) {
 								<!-- QUES 10 -->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTen">
-										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen"aria-expanded="false" aria-controls="collapseTen">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
 											<b>Do you provide help after the completion of the logo design process?</b>
 										</button>
 									</h2>
@@ -1300,7 +1300,7 @@ if (isset($_POST['send'])) {
 										</div>
 									</div>
 								</div>
-								
+
 								<!-- QUES 12 -->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwelve">

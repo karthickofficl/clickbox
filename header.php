@@ -267,7 +267,7 @@
 							<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/blogs/">Blog</a></li>
 							<!-- HEADER BUTTON btn-stateblue -->
 							<li class="nl-simple" aria-haspopup="true">
-								<a href="https://clickboxagency.com/contacts/" class="btn  btn-pink tra-grey-hover last-link">Let's Talk</a>
+								<a href="https://clickboxagency.com/contacts/" class="btn  btn-pink yellow-hover last-link">Let's Talk</a>
 							</li>
 
 

@@ -222,15 +222,15 @@ if (isset($_POST['send'])) {
 
 						<!-- Title -->
 						<h2 class="h2-md text-center txtredd">Seriously <span>one stop solution that</span> delivers
-							<br><span class="txtyelloww outlinewt p-2"> outstanding results </span>
+							<br><span class="txtyelloww outlinewt p-0"> outstanding results </span>
 						</h2>
 
 						<!-- Text -->
-						<p class="p-xl text-center txtbluee">Hassle-Free Creative Marketing Company</p>
+						<p class="p-title-xs text-center txtbluee">Hassle-Free Creative Marketing Company</p>
 
 						<div class="col-md-12 col-lg-12 text-center form-btn mt-10">
-							<button type="submit" class="btn btn-md btn-pink tra-grey-hover2 submit" name="send">
-								<a href="../contacts/">Schedule A 1:1 Call With Our Expert</a></button>
+							<button type="submit" class="btn btn-md btn-pink yellow-hover submit" name="send">
+								<a href="../contacts/">Schedule A 1-1 Call With Our Expert</a></button>
 						</div>
 					</div>
 				</div> <!-- END HERO TEXT -->
@@ -532,7 +532,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Title -->
 							<!-- <h5 class="h5-md">Digital Marketing Services</h5> -->
-							<h5 class="h5-md">Complete Digital Marketing Services</h5>
+							<h5 class="h5-md">Complete Digital Marketing</h5>
 
 							<!-- Text -->
 							<p class="p-lg">ClickBox Agency offers world-wide digital marketing services. We tailor internet marketing to your business's requirements. Learn how our services may help your company flourish. We provide professional digital marketing services, from site building to SEO. Our skilled teams manage all areas of digital marketing for clients.
@@ -601,7 +601,7 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Google Ads Management Services</h5>
+							<h5 class="h5-md">Google Ads Management</h5>
 							<!-- Text -->
 							<p class="p-lg">
 								Want more sponsored search leads? Paid search advertising platforms like Google Ads allow you to target your customers precisely. The PPC team at ClickBox has been making and improving Google Ads campaigns in many different industries for years. The ClickBox Agency offers Google Ads campaign management.</p>
@@ -1696,7 +1696,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>

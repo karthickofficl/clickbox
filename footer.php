@@ -56,7 +56,7 @@
   		<div class="row">
   			<!-- FOOTER COLUMN -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4">
+  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
   					<!-- <img class="footer-logo" src="./images/logo-01.png" alt="footer-logo"> -->
@@ -70,7 +70,7 @@
   			</div>
   			<!-- SECOND SECTION -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4">
+  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
 				  <img class="footer-logo" src="../images/map-united-states.png" alt="footer-logo">
@@ -82,7 +82,7 @@
   			</div>
   			<!-- THIRD SECTION -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4">
+  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
 				  <img class="footer-logo" src="../images/map-india.png" alt="footer-logo">
