@@ -986,27 +986,27 @@ if (isset($_POST['send'])) {
 							<!-- TESTIMONIAL #5 -->
 							<!-- <div class="review-4 h-100"> -->
 
-								<!-- Text -->
-								<!-- <div class="review-4-txt"> -->
+							<!-- Text -->
+							<!-- <div class="review-4-txt"> -->
 
-									<!-- Text -->
-									<!-- <p class="p-lg">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
+							<!-- Text -->
+							<!-- <p class="p-lg">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
 										business has evolved. From web strategy, to social media management and paid campaigns. We also utilize their marketing
 										automation offering and appreciate the assistance provided with the execution of our campaigns for all our services.
 									</p> -->
 
-									<!-- Testimonial Author -->
-									<!-- <div class="author-data clearfix"> -->
+							<!-- Testimonial Author -->
+							<!-- <div class="author-data clearfix"> -->
 
 
-										<!-- Testimonial Author -->
-										<!-- <div class="review-author"> -->
+							<!-- Testimonial Author -->
+							<!-- <div class="review-author"> -->
 
-											<!-- <h6 class="h6-xl">Murugaesh Raja, CEO</h6>
+							<!-- <h6 class="h6-xl">Murugaesh Raja, CEO</h6>
 											<p class="p-md">Saravana ePharmacy</p> -->
 
-											<!-- Rating -->
-											<!-- <div class="review-rating ico-15 yellow-color">
+							<!-- Rating -->
+							<!-- <div class="review-rating ico-15 yellow-color">
 												<span class="flaticon-star-1"></span>
 												<span class="flaticon-star-1"></span>
 												<span class="flaticon-star-1"></span>
@@ -1016,9 +1016,9 @@ if (isset($_POST['send'])) {
 
 										</div> -->
 
-									<!-- </div> End Testimonial Author -->
+							<!-- </div> End Testimonial Author -->
 
-								<!-- </div> End Text -->
+							<!-- </div> End Text -->
 
 							<!-- </div> END TESTIMONIAL #5 -->
 						</div>

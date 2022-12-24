@@ -42,11 +42,7 @@
 		============================================= -->
 <div id="page" class="page">
 
-
-
-
-
-	<!-- HEADER
+<!-- HEADER
 			============================================= -->
 	<header id="header" class="header tra-menu navbar-light">
 		<div class="header-wrapper">

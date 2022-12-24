@@ -104,17 +104,13 @@ if (isset($_POST['send'])) {
 </head>
 
 <body>
-
-
-	<?php include('header.php') ?>
-
-
-	<!-- CONTACTS EDIT -->
+<?php include('header.php') ?>
+<!-- CONTACTS EDIT -->
 	<!-- <hr class="divider"> -->
 
-	<section id="cta-8" class="bg-snow  inner-page-hero cta-section division">
+	<section id="cta-8" class="bg-snow pt-85 cta-section division">
 		<div class="container">
-			<h1 class="p-lg text-center txtbluee">Our Office</h1>
+			<h1 class="p-lg text-center txtbluee">Our Offices</h1>
 			<h3 class="p-lg text-center">Visit our offices, we’re easy to reach</h3>
 			<div class="cta-8-wrapper pc-25">
 				<div class="row row-cols-1 row-cols-md-2 mt-lg-4">
@@ -266,7 +262,7 @@ if (isset($_POST['send'])) {
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-xl-6">
 					<div class="post-inner-img">
-						<img class="img-fluid" src="../images/contacts.png" width="400" height="500" alt="Branch office" />
+						<img class="img-fluid" src="../images/contacts.png" width="300" height="300" alt="Branch office" />
 					</div>
 				</div>
 				<div class="col-lg-6 col-xl-6">
@@ -275,35 +271,59 @@ if (isset($_POST['send'])) {
 
 							<!-- Form Select -->
 							<!-- Contact Form Input -->
-							<div class="col-md-12">
-								<p class="p-lg">Your Name: </p>
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Name: </p> -->
 								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
 							</div>
 
-							<div class="col-md-12">
-								<p class="p-lg">Your Email Address: </p>
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Email Address: </p> -->
 								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
-							<div class="col-md-12">
-								<p class="p-lg">Your Mobile Number: </p>
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Mobile Number: </p> -->
 								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
 							</div>
 
-							<div class="col-md-12">
-								<p class="p-lg">Services: </p>
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Services: </p> -->
 								<!-- <input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*"> -->
 								<select class="form-select" aria-label="services" name="services" id="services">
 									<option selected>services</option>
-									<option value="Content Writing">Content Writing</option>
-									<option value="Design">Design</option>
-									<option value="Development">Development</option>
 									<option value="Digital Marketing">Digital Marketing</option>
+									<option value="Content Writing">Content Writing</option>
+									<option value="Website Development">Website Development</option>
 									<option value="Videos Creation">Videos Creation</option>
+									<option value="Article Writing">Article Writing</option>
+									<option value="Seo Content Writing">Seo Content Writing</option>
+									<option value="Pressrelease Writing">Pressrelease Writing</option>
+									<option value="Website Content Writing">Website Content Writing</option>
+									<option value="Logo Design">Logo Design</option>
+									<option value="Brochure Design">Brochure Design</option>
+									<option value="Flyer Design">Flyer Design</option>
+									<option value="Ecommerce Website Development">Ecommerce Website Development</option>
+									<option value="Wordpress Website Development">Wordpress Website Development</option>
+									<option value="Wordpress Website Development">Wordpress Website Development</option>
+									<option value="Blog Writing ">Blog Writing</option>
+									<option value="Brochure Content Writing">Brochure Content Writing</option>
+									<option value="UI UX Design">UI UX Design</option>
+									<option value="Website Redesigning">Website Redesigning</option>
+									<option value="Shopify Website Development">Shopify Website Development</option>
+									<option value="Product Description Writing">Product Description Writing</option>
+									<option value="Packaging Design Writing">Packaging Design Writing</option>
+									<option value="Ecommerce Marketing">Ecommerce Marketing</option>
+									<option value="Ecommerce Seo">Ecommerce Seo</option>
+									<option value="Ebook Writing">Ebook Writing</option>
+									<option value="Company Profile Writing">Company Profile Writing</option>
+									<option value="Content Writing">Content Writing</option>
+									<option value="Company Profile Design">Company Profile Design</option>
+									
 								</select>
 							</div>
 							<div class="col-md-12">
-								<p class="p-lg">Share Your Requirements: </p>
-								<textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea>
+								<!-- <p class="p-lg">Share Your Requirements: </p> -->
+								<!-- <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea> -->
+								<textarea class="form-control message" name="message" rows="6" placeholder="Share Your Requirements:"></textarea>
 							</div>
 
 							<!-- Contact Form Button -->
