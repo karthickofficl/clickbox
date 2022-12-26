@@ -56,13 +56,12 @@
   		<div class="row">
   			<!-- FOOTER COLUMN -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
+  			<div class="col-sm-8 col-md-4 col-lg-4">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<!-- <img class="footer-logo" src="./images/logo-01.png" alt="footer-logo"> -->
+  					<img class="footer-logo" src="../images/map-canada.png" alt="footer-logo">
   					<!-- <p class="p-md">ClickBox Internet Marketing Agency</p> -->
-					  <img class="footer-logo" src="../images/map-canada.png" alt="footer-logo">
-  					<h6 class="h6-xl txtbluee"><b>Canada</b></h6>
+  					<h6 class="h6-xl txtbluee mt-2"><b>Canada</b></h6>
   					<p class="p-lg" style="color: #ededed;">644,Orchards Blvd SW,<br>Edmonton Alberta,<br>T6X 2L4,<br>+1 (780) 678-7657</p>
 
 
@@ -70,11 +69,11 @@
   			</div>
   			<!-- SECOND SECTION -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
+  			<div class="col-sm-8 col-md-4 col-lg-4">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-				  <img class="footer-logo" src="../images/map-united-states.png" alt="footer-logo">
-  					<h6 class="h6-xl txtbluee"><b>USA</b></h6>
+  					<img class="footer-logo" src="../images/map-united-states.png" alt="footer-logo">
+  					<h6 class="h6-xl txtbluee mt-2"><b>USA</b></h6>
   					<p class="p-lg" style="color: #ededed;">1040D Orchard Street,<br>North Brunswick,<br>NE 08902,<br>+1 587 545 6195</p>
 
 
@@ -82,11 +81,12 @@
   			</div>
   			<!-- THIRD SECTION -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
+  			<div class="col-sm-8 col-md-4 col-lg-4">
+
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-				  <img class="footer-logo" src="../images/map-india.png" alt="footer-logo">
-  					<h6 class="h6-xl txtbluee"><b>India - Coimbatore</b></h6>
+  					<img class="footer-logo" src="../images/map-india.png" alt="footer-logo">
+  					<h6 class="h6-xl txtbluee mt-2"><b>India - Coimbatore</b></h6>
   					<p class="p-lg" style="color: #ededed;"> 178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br>73586 44710</p>
   					<!-- Hope College, <br> -->
 

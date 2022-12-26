@@ -6,16 +6,11 @@
 
 <div id="ourclients">
 
-
-
-	<body>
+<body>
 		<!-- BRANDS-1
 			============================================= -->
-		<div id="brands-1" class="pt-60 pb-100 brands-section division">
+		<div id="brands-1" class="pt-40 pb-50 brands-section division">
 			<div class="container">
-
-
-
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
 						<div class="brands-title text-center">

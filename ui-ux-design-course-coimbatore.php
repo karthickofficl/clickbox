@@ -116,16 +116,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
 	<?php include('header-style.php') ?>
-
-
-
 </head>
 
 <body>
 
 	<?php include('header.php') ?>
-
-
 	<!-- HERO-21
 			============================================= -->
 	<section id="hero-21" class="bg-snow hero-section division">
@@ -246,7 +241,7 @@ if (isset($_POST['send'])) {
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/img-17.png" alt="content-image">
+								<img class="img-fluid" src="../images/accelerate-your-knowledge.png" alt="content-image">
 							</div>
 						</div>
 
@@ -355,7 +350,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-6 col-lg-7">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/key-insights.jpg" alt="content-image">
+						<img class="img-fluid" src="../images/digital-marketing-course-highlights.png" alt="content-image">
 					</div>
 				</div>
 
@@ -434,7 +429,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="../images/logo-design-01.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -661,9 +656,6 @@ if (isset($_POST['send'])) {
 
 							<!-- Title -->
 							<h5 class="h5-md">Portfolio Development</h5>
-
-
-
 							<!-- Text -->
 							<p class="p-lg">A design portfolio is necessary to be hired in the UI/UX sector. This module will assist you in compiling a portfolio that includes the assignments you'll complete for the course. You will be working on three design projects here to create websites, iOS apps, and Android apps.
 
@@ -690,10 +682,6 @@ if (isset($_POST['send'])) {
 
 							<!-- Title -->
 							<h5 class="h5-md">UX/UI Design Thinking </h5>
-
-
-
-
 							<!-- Text -->
 							<p class="p-lg">
 								Utilize design thinking to master strategic product and service innovation. Utilize the human-centered design framework to find and pursue innovation opportunities and create goods and services that are appealing, marketable, and practicable. Make a great influence in your work by using useful tools and innovative templates.
@@ -718,8 +706,6 @@ if (isset($_POST['send'])) {
 							<!-- Text -->
 							<p class="p-lg">Each Specialization comes with a practical project. The projects must be completed successfully in order for you to complete the Specialization and receive your certificate. After completion of all the courses, the hands-on projects will be allocated to the learners.</p>
 
-
-
 						</div>
 					</div>
 					<!-- FEATURE BOX #2 -->
@@ -741,12 +727,6 @@ if (isset($_POST['send'])) {
 
 						</div>
 					</div>
-
-
-					<!-- FEATURE BOX #3 -->
-
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-8 WRAPPER -->
 
@@ -828,8 +808,6 @@ if (isset($_POST['send'])) {
 				</div>
 			</div>
 		</div> <!-- END FEATURES-4 WRAPPER -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
 
@@ -978,7 +956,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -986,7 +964,7 @@ if (isset($_POST['send'])) {
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
-	
+
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 	<?php include('footer-script.php') ?>

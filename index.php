@@ -1261,7 +1261,7 @@ if (isset($_POST['send'])) {
 
 	<!-- BRANDS-1
 			============================================= -->
-	<div id="brands-1" class="pt-60 pb-100 brands-section division">
+	<div id="brands-1" class="pt-60 pb-50 brands-section division">
 		<div class="container">
 
 

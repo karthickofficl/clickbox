@@ -104,8 +104,8 @@ if (isset($_POST['send'])) {
 </head>
 
 <body>
-<?php include('header.php') ?>
-<!-- CONTACTS EDIT -->
+	<?php include('header.php') ?>
+	<!-- CONTACTS EDIT -->
 	<!-- <hr class="divider"> -->
 
 	<section id="cta-8" class="bg-snow pt-85 cta-section division">
@@ -206,8 +206,6 @@ if (isset($_POST['send'])) {
 						</div>
 					</div> <!-- END BOX #1 -->
 
-
-
 					<!-- BOX #2 -->
 					<div class="col">
 						<a href="faqs.html">
@@ -234,8 +232,6 @@ if (isset($_POST['send'])) {
 							</div>
 						</a>
 					</div> <!-- END BOX #2 -->
-
-
 				</div> <!-- End cta-8-wrapper -->
 			</div> <!-- End row -->
 		</div> <!-- End container -->
@@ -317,7 +313,7 @@ if (isset($_POST['send'])) {
 									<option value="Company Profile Writing">Company Profile Writing</option>
 									<option value="Content Writing">Content Writing</option>
 									<option value="Company Profile Design">Company Profile Design</option>
-									
+
 								</select>
 							</div>
 							<div class="col-md-12">
@@ -328,7 +324,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Contact Form Button -->
 							<div class="col-md-12 mt-15 form-btn text-right">
-								<button type="submit" class="btn btn-skyblue tra-grey-hover submit" name="send">Submit Request</button>
+								<button type="submit" class="btn btn-skyblue yellow-hover submit" name="send">Submit Request</button>
 							</div>
 
 							<!-- Contact Form Message -->
@@ -347,8 +343,6 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 			</div> <!-- END CONTACT FORM -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END CONTACTS-2 -->
 
@@ -379,12 +373,10 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>
-
-
 				</div>
 			</div> <!-- End row -->
 		</div> <!-- End container -->

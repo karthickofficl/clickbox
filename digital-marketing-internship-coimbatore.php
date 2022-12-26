@@ -214,7 +214,7 @@ if (isset($_POST['send'])) {
 
 	<!-- CONTENT-6
 			============================================= -->
-	<section id="content-6" class="content-6  content-section division">
+	<section id="content-6" class="content-6 pt-30 content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
 
@@ -279,27 +279,20 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 
-
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-6 col-lg-7">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
+						<img class="img-fluid" src="../images/digital-marketing-course-highlights.png" alt="content-image">
 					</div>
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-6 -->
 
-
-
-	<!-- FEATURES-4
+<!-- FEATURES-4
 			============================================= -->
 	<section id="features-4" class="features-section division">
 		<div class="container">
-
-
 			<!-- FEATURES-4 WRAPPER -->
 			<div class="fbox-4-wrapper fbox-4-wide">
 
@@ -323,7 +316,7 @@ if (isset($_POST['send'])) {
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/img-17.png" alt="content-image">
+								<img class="img-fluid" src="../images/accelerate-your-knowledge.png" alt="content-image">
 							</div>
 						</div>
 
@@ -369,7 +362,7 @@ if (isset($_POST['send'])) {
 
 	<!-- BRANDS-2
 ============================================= -->
-	<div id="brands-2" class="wide-70 brands-section division">
+	<div id="brands-2" class="pt-30 brands-section division">
 		<div class="container">
 
 

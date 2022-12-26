@@ -167,7 +167,7 @@ if (isset($_POST['send'])) {
 
 	<!-- CONTENT-2
 			============================================= -->
-	<section id="content-5" class="wide-20 content-5 ws-wrapper content-section division">
+	<section id="content-5" class="pt-50  content-5 ws-wrapper content-section division">
 		<div class="container">
 			<div class="content-5-wrapper bg-whitesmoke">
 				<!-- SECTION TITLE -->
@@ -185,8 +185,6 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 				<div class="row d-flex align-items-center">
-
-
 					<!-- TEXT BLOCK -->
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block left-column wow fadeInRight">
@@ -207,8 +205,6 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid" src="https://clickboxagency.com/images/logo-design-02.png" alt="innovative-logo-design-branding-company-coimbatore">
 						</div>
 					</div>
-
-
 				</div>
 			</div> <!-- End row -->
 		</div> <!-- End container -->
@@ -224,7 +220,7 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title -->
-						<h3 class="h3-md" style="color:#ffc11d;">A glimpse of our recent professional logos</h3>
+						<h3 class="h3-md" style="color:#ffc11d;">A Glimpse of Our Recent Professional Logos</h3>
 						<!-- Text -->
 						<p class="p-md">We are the leading company in Coimbatore, India, for making animated logos. Check out some of our projects for branding, logos, company profiles, packaging, and websites.</p>
 
@@ -496,27 +492,99 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-2 -->
 
+<!-- CONTACTS-2
+			================================wide-50=======inner-page-hero====== -->
+			<section id="contacts-2" class="bg-snow pt-40  contacts-section division">
+		<div class="container">
 
+			<!-- SECTION TITLE -->
+			<div class="row justify-content-center">
+				<div class="col-md-10 col-lg-8">
+					<div class="section-title title-02 mb-80">
+
+						<!-- Title -->
+						<h2 class="p-lg txtredd">Logo Design Enquiry</h2>
+
+					</div>
+				</div>
+			</div>
+
+			<!-- CONTACT FORM -->
+			<div class="row justify-content-center">
+				<div class="col-lg-6 col-xl-6">
+					<div class="post-inner-img">
+						<img class="img-fluid" src="https://clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+					</div>
+				</div>
+				<div class="col-lg-6 col-xl-6">
+					<div class="form-holder">
+						<form name="contactform" method="post" class="row contact-form">
+
+							<!-- Form Select -->
+							<!-- Contact Form Input -->
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Name: </p> -->
+								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
+							</div>
+
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Email Address: </p> -->
+								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
+							</div>
+							<div class="col-md-12">
+								<!-- <p class="p-lg">Your Mobile Number: </p> -->
+								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+							</div>
+
+							
+							<div class="col-md-12">
+								<!-- <p class="p-lg">Share Your Requirements: </p> -->
+								<!-- <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea> -->
+								<textarea class="form-control message" name="message" rows="6" placeholder="Share Your Requirements:"></textarea>
+							</div>
+
+							<!-- Contact Form Button -->
+							<div class="col-md-12 mt-15 form-btn text-right">
+								<button type="submit" class="btn btn-skyblue yellow-hover submit" name="send">Submit Request</button>
+							</div>
+
+							<!-- Contact Form Message -->
+							<div class="col-lg-12 contact-form-msg">
+								<span class="loading"></span>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-10 col-sm-offset-2">
+									<?php if (!empty($result)) {
+										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
+									} ?>
+								</div>
+							</div>
+
+						</form>
+					</div>
+				</div>
+			</div> <!-- END CONTACT FORM -->
+		</div> <!-- End container -->
+	</section> <!-- END CONTACTS-2 -->
 	<!-- NEWSLETTER-1
 			============================================= -->
-	<section id="newsletter-1" class="wide-20 newsletter-section division">
+	<!-- <section id="newsletter-1" class="wide-20 newsletter-section division">
 		<div class="container">
 			<div class="newsletter-wrapper bg-tra-yellow">
-				<div class="row d-flex align-items-center ">
+				<div class="row d-flex align-items-center "> -->
 
 					<!-- NEWSLETTER TEXT -->
-					<div class="col-lg-8 col-sm-12">
-						<div class="newsletter-txt pr-20">
+					<!-- <div class="col-lg-8 col-sm-12">
+						<div class="newsletter-txt pr-20"> -->
 
 							<!-- Title -->
-							<h4 class="h4-lg">Stay up to date with our news, ideas and updates</h4>
-
+							<!-- <h4 class="h4-lg">Stay Up to Date With Our News, Ideas and Updates</h4>
 						</div>
-					</div>
+					</div> -->
 
 
 					<!-- NEWSLETTER FORM -->
-					<div class="col-lg-4 col-sm-12">
+					<!-- <div class="col-lg-4 col-sm-12">
 						<form class="newsletter-form">
 
 							<div class="input-group">
@@ -524,22 +592,23 @@ if (isset($_POST['send'])) {
 								<span class="input-group-btn">
 									<a href="#contacts-2" type="submit" class="btn btn-md btn-pink tra-grey-hover">Subscribe Now</a>
 								</span>
-							</div>
+							</div> -->
 
 							<!-- Newsletter Form Notification -->
-							<label for="s-email" class="form-notification"></label>
+							<!-- <label for="s-email" class="form-notification"></label>
 
-						</form>
-					</div> <!-- END NEWSLETTER FORM -->
+						</form> -->
+					<!-- </div>  -->
+					<!-- END NEWSLETTER FORM -->
 
 
-				</div> <!-- End row -->
-			</div> <!-- End newsletter-wrapper -->
-		</div> <!-- End container -->
-	</section> <!-- END NEWSLETTER-1 -->
+				<!-- </div> <!-- End row --
+			</div> <!-- End newsletter-wrapper --
+		</div> <!-- End container --
+	</section> END NEWSLETTER-1 -->
 
 	<!-- SECTION -->
-	<section class="bg-snow wide-20 content-3 features-section division ">
+	<section class="bg-snow pt-20 content-3 features-section division ">
 		<div class="container ">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
@@ -565,7 +634,6 @@ if (isset($_POST['send'])) {
 
 							<!-- Text -->
 							<p class="p-lg">Logo designers are born creative. Clickbox logo designers are real and imaginative. Our designers have a vivid imagination. Our designers prioritize simplicity. Our designs are all eye-catching.</p>
-
 
 						</div>
 					</div>
@@ -650,10 +718,9 @@ if (isset($_POST['send'])) {
 	</section>
 	<!-- SECTION -->
 
-
 	<!-- DOWNLOAD-1
 			============================================= -->
-	<section id="download-1" class="bg-snow wide-30 download-section division">
+	<section id="download-1" class="bg-snow pt-20 download-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-11 col-lg-11">
@@ -663,7 +730,7 @@ if (isset($_POST['send'])) {
 						<!-- <span class="section-id txt-upcase">100+ Hiring Partners</span> -->
 
 						<!-- Title -->
-						<h2 class="h3-xs text-center" style="color:#cc0444;">Clickbox features several icons and drawings. Enter a term in the search field, then drag and drop a picture into your design.</h2>
+						<h2 class="h3-xs text-center" style="color:#cc0444;">Clickbox Features Several Icons and Drawings. Enter a Term in the Search Field, then Drag and Drop a Picture Into Your Design.</h2>
 
 					</div>
 				</div>
@@ -678,9 +745,7 @@ if (isset($_POST['send'])) {
 						<div class="release-data">
 
 							<h4 class="h4-xs">Branding Design</h4>
-
 							<!-- Version Data -->
-
 						</div>
 						<div class="row">
 							<div class="col-lg-6">
@@ -765,9 +830,6 @@ if (isset($_POST['send'])) {
 						<div class="release-data">
 
 							<h4 class="h4-xs">social poster design</h4>
-
-							<!-- Version Data -->
-
 						</div>
 						<div class="row">
 							<div class="col-lg-6">
@@ -1333,116 +1395,7 @@ if (isset($_POST['send'])) {
 	</section> <!-- END FAQs-2 -->
 	<!-- CONTACTS-2
 			================================wide-50=======inner-page-hero====== -->
-	<section id="contacts-2" class="bg-snow pt-40  contacts-section division">
-		<div class="container">
-
-			<!-- SECTION TITLE -->
-			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
-					<div class="section-title title-02 mb-30">
-
-						<!-- Title -->
-						<h2 class="h2-md" style="color:#ffc11d;">Logo Design Enquiry</h2>
-
-					</div>
-				</div>
-			</div>
-
-			<!-- CONTACT FORM -->
-			<div class="row justify-content-center mb-40">
-				<div class="col-lg-6 col-xl-8 col-sm-12">
-					<div class="form-holder">
-
-						<!-- Form -->
-						<form method="post">
-							<!-- Form Input -->
-							<div class="col-md-12">
-								<!-- <p class="p-lg">Your Name: </p> -->
-								<input type="text" name="name" class="form-control name" placeholder="Name*" autocomplete="off" required>
-							</div>
-							</br>
-							<!-- Form Input -->
-							<div class="col-md-12">
-								<input type="email" name="email" class="form-control email" placeholder="Email*" autocomplete="off" required>
-							</div>
-							</br>
-							<div class="col-md-12">
-								<input type="number" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
-							</div>
-							</br>
-							<div class="col-md-12">
-								<!-- <p class="p-lg">Share Your Requirements: </p> -->
-								<textarea class="form-control message" name="message" rows="3" placeholder="I have a problem with..."></textarea>
-							</div>
-							<!-- Form Button -->
-							<div class="col-md-12 form-btn mt-25 d-flex justify-content-center">
-								<button type="submit" class="btn btn-md btn-skyblue tra-grey-hover submit" name="send">Submit Request</button>
-							</div>
-
-							<!-- Form Message -->
-							<div class="col-md-12 request-form-msg text-center">
-								<span class="loading"></span>
-							</div>
-							<div class="form-group">
-								<div class="col-sm-10 col-sm-offset-2">
-									<?php if (!empty($result)) {
-										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-									} ?>
-								</div>
-							</div>
-						</form>
-						<!-- 
-						<form name="contactform" method="post" class="row contact-form">
-							
-							<div class="col-md-12">
-								<p class="p-lg">Your Name: </p>
-								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
-							</div>
-
-							<div class="col-md-12">
-								<p class="p-lg">Your Email Address: </p>
-								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
-							</div>
-							<div class="col-md-12">
-								<p class="p-lg">Your Mobile Number: </p>
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
-							</div>
-
-						
-
-							<div class="col-md-12">
-								<p class="p-lg">Share Your Requirements: </p>
-								<textarea class="form-control message" name="message" rows="1" placeholder="I have a problem with..."></textarea>
-							</div>
-
-							<!-- Contact Form Button --
-							<div class="col-md-12 mt-15 form-btn text-right">
-								<button type="submit" class="btn btn-skyblue tra-grey-hover submit" name="send">Submit Request</button>
-							</div>
-
-							<!-- Contact Form Message --
-							<div class="col-lg-12 contact-form-msg">
-								<span class="loading"></span>
-							</div>
-							<div class="form-group">
-								<div class="col-sm-10 col-sm-offset-2">
-									/*<?php /* if (!empty($result)) {
-										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-									} */ ?>
-								</div>
-							</div>
-
-						</form> -->
-					</div>
-				</div>
-				<!-- <div class="col-lg-6 col-xl-6  col-sm-12">
-                  
-				</div> -->
-			</div> <!-- END CONTACT FORM -->
-
-
-		</div> <!-- End container -->
-	</section> <!-- END CONTACTS-2 -->
+	
 
 	<!-- CALL TO ACTION-5
 			============================================= -->
@@ -1463,7 +1416,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>

@@ -43,49 +43,42 @@
   	}
   </style>
 
-
-
   <!-- FOOTER-1
 			============================================= -->
   <footer id="footer-1" class="footer division mt-lg-4 mt-sm-2 ">
   	<div class="container">
 
-
-
   		<!-- HEAD FOOTER -->
   		<div class="row">
   			<!-- FOOTER COLUMN -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
+  			<div class="col-sm-8 col-md-4 col-lg-4">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="./images/map-canada.png" alt="footer-logo">
+  					<img class="footer-logo" src="../images/map-canada.png" alt="footer-logo">
   					<!-- <p class="p-md">ClickBox Internet Marketing Agency</p> -->
   					<h6 class="h6-xl txtbluee mt-2"><b>Canada</b></h6>
   					<p class="p-lg" style="color: #ededed;">644,Orchards Blvd SW,<br>Edmonton Alberta,<br>T6X 2L4,<br>+1 (780) 678-7657</p>
-
-
   				</div>
   			</div>
   			<!-- SECOND SECTION -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
+  			<div class="col-sm-8 col-md-4 col-lg-4">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="./images/map-united-states.png" alt="footer-logo">
+  					<img class="footer-logo" src="../images/map-united-states.png" alt="footer-logo">
   					<h6 class="h6-xl txtbluee mt-2"><b>USA</b></h6>
   					<p class="p-lg" style="color: #ededed;">1040D Orchard Street,<br>North Brunswick,<br>NE 08902,<br>+1 587 545 6195</p>
-
 
   				</div>
   			</div>
   			<!-- THIRD SECTION -->
 
-  			<div class="col-sm-8 col-md-4 col-lg-4 text-center">
+  			<div class="col-sm-8 col-md-4 col-lg-4">
 
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="./images/map-india.png" alt="footer-logo">
+  					<img class="footer-logo" src="../images/map-india.png" alt="footer-logo">
   					<h6 class="h6-xl txtbluee mt-2"><b>India - Coimbatore</b></h6>
   					<p class="p-lg" style="color: #ededed;"> 178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br>73586 44710</p>
   					<!-- Hope College, <br> -->
@@ -98,10 +91,6 @@
   		<hr style="height:2px;border:none;color:#333;background-color:#333;">
   		<!-- FOOTER CONTENT -->
   		<div class="row mt-40">
-
-
-  			<!-- FOOTER INFO -->
-
   			<!-- FOOTER LINKS -->
   			<div class="col-sm-6 col-md-3 col-lg-3">
   				<div class="footer-links mb-40">
@@ -148,7 +137,7 @@
   					<!-- Footer List -->
   					<ul class="foo-links text-secondary clearfix">
   						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/best-digital-marketing-company-in-india/" style="color: #ededed;">Digital Marketing <br>Services</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/best-digital-marketing-company-in-india/" style="color: #ededed;">Digital Marketing Services</a></p>
   						</li>
   						<li>
   							<p class="p-lg"><a href="https://clickboxagency.com/seo-company-in-india/" style="color: #ededed;">SEO Services</a></p>
@@ -195,13 +184,13 @@
   						<!-- <li><p class="p-md"><a href="../seo-company-in-india">SEO Packages</a></p></li>
 									<li><p class="p-md"><a href="../ecommerce-seo-services">eCommerce SEO Packages</a></p></li> -->
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design-packages/" style="color: #ededed;">Logo Design <br>Packages</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design-packages/" style="color: #ededed;">Logo Design Packages</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/brochure-design-packages/" style="color: #ededed;">Brochure Design <br>Packages</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/brochure-design-packages/" style="color: #ededed;">Brochure Design Packages</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/website-design-packages/" style="color: #ededed;">Website Design <br>Packages</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/website-design-packages/" style="color: #ededed;">Website Design Packages</a></p>
   						</li>
   						<!-- <li aria-haspopup="true">
   							<p class="p-md"><a href="https://clickboxagency.com/orm-packages/" style="color: #ededed;">ORM Packages</a></p>
@@ -238,12 +227,8 @@
   			</div>
 
   			<!-- FOOTER LINKS -->
-  			<div class="col-sm-6 col-md-3 col-lg-3 ">
+  			<div class="col-sm-6 col-md-3 col-lg-3">
   				<div class="footer-links mb-40">
-
-
-  					<!-- Title -->
-
   					<!-- Footer Links -->
   					<h6 class="h6-xl txtyelloww"><b>Industry</b></h6>
 
@@ -281,7 +266,7 @@
   							<p class="p-lg"><a href="#" style="color: #ededed;">Medical & Health</a></p>
   						</li>
   						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Professional <br>Services</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Professional Services</a></p>
   						</li>
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Real Estate</a></p>
