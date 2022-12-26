@@ -43,9 +43,7 @@
   	}
   </style>
 
-
-
-  <!-- FOOTER-1
+<!-- FOOTER-1
 			============================================= -->
   <footer id="footer-1" class="footer division mt-lg-4 mt-sm-2 ">
   	<div class="container">
@@ -59,7 +57,7 @@
   			<div class="col-sm-8 col-md-4 col-lg-4">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="../images/map-canada.png" alt="footer-logo">
+  					<img class="footer-logo" src="https://clickboxagency.com/images/map-canada.png" alt="footer-logo">
   					<!-- <p class="p-md">ClickBox Internet Marketing Agency</p> -->
   					<h6 class="h6-xl txtbluee mt-2"><b>Canada</b></h6>
   					<p class="p-lg" style="color: #ededed;">644,Orchards Blvd SW,<br>Edmonton Alberta,<br>T6X 2L4,<br>+1 (780) 678-7657</p>
@@ -72,7 +70,7 @@
   			<div class="col-sm-8 col-md-4 col-lg-4">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="../images/map-united-states.png" alt="footer-logo">
+  					<img class="footer-logo" src="https://clickboxagency.com/images/map-united-states.png" alt="footer-logo">
   					<h6 class="h6-xl txtbluee mt-2"><b>USA</b></h6>
   					<p class="p-lg" style="color: #ededed;">1040D Orchard Street,<br>North Brunswick,<br>NE 08902,<br>+1 587 545 6195</p>
 
@@ -85,9 +83,9 @@
 
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="../images/map-india.png" alt="footer-logo">
+  					<img class="footer-logo" src="https://clickboxagency.com/images/map-india.png" alt="footer-logo">
   					<h6 class="h6-xl txtbluee mt-2"><b>India - Coimbatore</b></h6>
-  					<p class="p-lg" style="color: #ededed;"> 178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br>73586 44710</p>
+  					<p class="p-lg" style="color: #ededed;"> 178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br>+91 7418 555 205</p>
   					<!-- Hope College, <br> -->
 
   				</div>
@@ -172,7 +170,10 @@
   							<p class="p-md"><a href="#" style="color: #ededed;">Mobile App Marketing Services</a></p>
   						</li> -->
   						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Website Designing &amp; Development</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/website-development-service/" style="color: #ededed;">Website Designing &amp; Development</a></p>
+  						</li>
+						  <li>
+  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design/coimbatore/" style="color: #ededed;">Logo Design</a></p>
   						</li>
   						<!-- <li>
   							<p class="p-md"><a href="#" style="color: #ededed;">Youtube Video Marketing</a></p>
@@ -195,13 +196,13 @@
   						<!-- <li><p class="p-md"><a href="../seo-company-in-india">SEO Packages</a></p></li>
 									<li><p class="p-md"><a href="../ecommerce-seo-services">eCommerce SEO Packages</a></p></li> -->
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design-packages/" style="color: #ededed;">Logo Design Packages</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design-packages/" style="color: #ededed;">Logo Design </a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/brochure-design-packages/" style="color: #ededed;">Brochure Design Packages</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/brochure-design-packages/" style="color: #ededed;">Brochure Design </a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/website-design-packages/" style="color: #ededed;">Website Design Packages</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/website-design-packages/" style="color: #ededed;">Website Design </a></p>
   						</li>
   						<!-- <li aria-haspopup="true">
   							<p class="p-md"><a href="https://clickboxagency.com/orm-packages/" style="color: #ededed;">ORM Packages</a></p>
@@ -309,7 +310,7 @@
   		<div class='row'>
   			<div class="col-sm-8 col-md-4 col-lg-4 mt-md-4 ">
   				<div class="footer-links  ">
-  					<p class="p-md" style="color: #ededed;">Mobile:<a href="tel:07358644710" style="color: #ededed;"> +91 7418555205</a></p>
+  					<p class="p-md" style="color: #ededed;">Mobile:<a href="tel:07358644710" style="color: #ededed;"> +91 7418 555 205</a></p>
 
   				</div>
   			</div>

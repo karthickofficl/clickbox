@@ -8823,3 +8823,7 @@ tr {
 .p-0{
   padding: 0 !important;
 }
+.dflex-row{
+  display: flex;
+  align-items: center;
+}

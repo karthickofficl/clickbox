@@ -107,8 +107,116 @@ if (isset($_POST['send'])) {
 	<?php include('header.php') ?>
 	<!-- CONTACTS EDIT -->
 	<!-- <hr class="divider"> -->
+	<!-- CONTACTS-2
+			================================wide-50=======inner-page-hero====== -->
+	<section id="contacts-2" class="bg-snow pt-85 contacts-section division">
+		<div class="container">
 
-	<section id="cta-8" class="bg-snow pt-85 cta-section division">
+			<!-- SECTION TITLE -->
+			<div class="row justify-content-center">
+				<div class="col-md-10 col-lg-8">
+					<div class="section-title title-02 mb-80">
+
+						<!-- Title -->
+						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate, Drop us a Line</h2>
+
+					</div>
+				</div>
+			</div>
+
+			<!-- CONTACT FORM -->
+			<div class="row justify-content-center">
+				<div class="col-lg-6 col-xl-6">
+					<div class="post-inner-img">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+					</div>
+				</div>
+				<div class="col-lg-6 col-xl-6">
+					<div class="form-holder">
+						<form name="contactform" method="post" class="row contact-form">
+
+							<!-- Form Select -->
+							<!-- Contact Form Input -->
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Name: </p> -->
+								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
+							</div>
+
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Email Address: </p> -->
+								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
+							</div>
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Your Mobile Number: </p> -->
+								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+							</div>
+
+							<div class="col-md-6">
+								<!-- <p class="p-lg">Services: </p> -->
+								<!-- <input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*"> -->
+								<select class="form-select" aria-label="services" name="services" id="services">
+									<option selected>services</option>
+									<option value="Digital Marketing">Digital Marketing</option>
+									<option value="Content Writing">Content Writing</option>
+									<option value="Website Development">Website Development</option>
+									<option value="Videos Creation">Videos Creation</option>
+									<option value="Article Writing">Article Writing</option>
+									<option value="Seo Content Writing">Seo Content Writing</option>
+									<option value="Pressrelease Writing">Pressrelease Writing</option>
+									<option value="Website Content Writing">Website Content Writing</option>
+									<option value="Logo Design">Logo Design</option>
+									<option value="Brochure Design">Brochure Design</option>
+									<option value="Flyer Design">Flyer Design</option>
+									<option value="Ecommerce Website Development">Ecommerce Website Development</option>
+									<option value="Wordpress Website Development">Wordpress Website Development</option>
+
+									<option value="Blog Writing ">Blog Writing</option>
+									<option value="Brochure Content Writing">Brochure Content Writing</option>
+									<option value="UI UX Design">UI UX Design</option>
+									<option value="Website Redesigning">Website Redesigning</option>
+									<option value="Shopify Website Development">Shopify Website Development</option>
+									<option value="Product Description Writing">Product Description Writing</option>
+									<option value="Packaging Design Writing">Packaging Design Writing</option>
+									<option value="Ecommerce Marketing">Ecommerce Marketing</option>
+									<option value="Ecommerce Seo">Ecommerce Seo</option>
+									<option value="Ebook Writing">Ebook Writing</option>
+									<option value="Company Profile Writing">Company Profile Writing</option>
+									<option value="Content Writing">Content Writing</option>
+									<option value="Company Profile Design">Company Profile Design</option>
+
+								</select>
+							</div>
+							<div class="col-md-12">
+								<!-- <p class="p-lg">Share Your Requirements: </p> -->
+								<!-- <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea> -->
+								<textarea class="form-control message" name="message" rows="6" placeholder="Share Your Requirements:"></textarea>
+							</div>
+
+							<!-- Contact Form Button -->
+							<div class="col-md-12 mt-15 form-btn text-right">
+								<button type="submit" class="btn btn-skyblue yellow-hover submit" name="send">Submit Request</button>
+							</div>
+
+							<!-- Contact Form Message -->
+							<div class="col-lg-12 contact-form-msg">
+								<span class="loading"></span>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-10 col-sm-offset-2">
+									<?php if (!empty($result)) {
+										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
+									} ?>
+								</div>
+							</div>
+
+						</form>
+					</div>
+				</div>
+			</div> <!-- END CONTACT FORM -->
+		</div> <!-- End container -->
+	</section> <!-- END CONTACTS-2 -->
+
+	<section id="cta-8" class="bg-snow pt-30  cta-section division">
 		<div class="container">
 			<h1 class="p-lg text-center txtbluee">Our Offices</h1>
 			<h3 class="p-lg text-center">Visit our offices, we’re easy to reach</h3>
@@ -123,7 +231,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md text-center">Canada</h5>
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/flag-canada.jpg" width="200" height="200" alt="Branch office" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-canada.jpg" width="200" height="200" alt="Branch office" />
 							</div>
 							<!-- Text -->
 							<p class="p-md text-center">
@@ -142,7 +250,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md text-center">USA</h5>
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/flag-united-states-america.jpg" width="200" height="200" alt="Branch office" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-united-states-america.jpg" width="200" height="200" alt="Branch office" />
 							</div>
 							<!-- Text -->
 							<p class="p-md text-center">
@@ -159,13 +267,13 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md text-center">India - Coimbatore</h5>
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/flag-india.jpg" width="200" height="200" alt="Branch office" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-india.jpg" width="200" height="200" alt="Branch office" />
 							</div>
 							<!-- Text -->
 							<p class="p-md text-center">
 
 								<!-- <b>Address:</b> 178/4, KPN complex,</br> Opposite GRG School, Peelamedu,</br> Hope College, Coimbatore, Tamil Nadu - 641004 -->
-								178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br> +91 7418555205
+								178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br> +91 7418 555 205
 							</p>
 
 						</div>
@@ -175,7 +283,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-8 -->
 
-	<section id="cta-8" class="bg-snow pt-40 cta-section division">
+	<section id="cta-8" class="bg-snow pt-40 pb-20 cta-section division">
 		<div class="container">
 			<div class="cta-8-wrapper pc-25">
 				<div class="row row-cols-1 row-cols-md-2">
@@ -224,7 +332,7 @@ if (isset($_POST['send'])) {
 
 									<!-- Text -->
 									<h5 class="p-lg">
-										<b>Mobile:</b> +91 7418555205</br>
+										<b>Mobile:</b> +91 7418 555 205</br>
 									</h5>
 
 								</div>
@@ -237,114 +345,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-8 -->
 
-	<!-- CONTACTS-2
-			================================wide-50=======inner-page-hero====== -->
-	<section id="contacts-2" class="bg-snow pt-40  contacts-section division">
-		<div class="container">
 
-			<!-- SECTION TITLE -->
-			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
-					<div class="section-title title-02 mb-80">
-
-						<!-- Title -->
-						<h2 class="p-lg txtredd">Have a question? Need help? Don't hesitate, drop us a line</h2>
-
-					</div>
-				</div>
-			</div>
-
-			<!-- CONTACT FORM -->
-			<div class="row justify-content-center">
-				<div class="col-lg-6 col-xl-6">
-					<div class="post-inner-img">
-						<img class="img-fluid" src="../images/contacts.png" width="300" height="300" alt="Branch office" />
-					</div>
-				</div>
-				<div class="col-lg-6 col-xl-6">
-					<div class="form-holder">
-						<form name="contactform" method="post" class="row contact-form">
-
-							<!-- Form Select -->
-							<!-- Contact Form Input -->
-							<div class="col-md-6">
-								<!-- <p class="p-lg">Your Name: </p> -->
-								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
-							</div>
-
-							<div class="col-md-6">
-								<!-- <p class="p-lg">Your Email Address: </p> -->
-								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
-							</div>
-							<div class="col-md-6">
-								<!-- <p class="p-lg">Your Mobile Number: </p> -->
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
-							</div>
-
-							<div class="col-md-6">
-								<!-- <p class="p-lg">Services: </p> -->
-								<!-- <input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*"> -->
-								<select class="form-select" aria-label="services" name="services" id="services">
-									<option selected>services</option>
-									<option value="Digital Marketing">Digital Marketing</option>
-									<option value="Content Writing">Content Writing</option>
-									<option value="Website Development">Website Development</option>
-									<option value="Videos Creation">Videos Creation</option>
-									<option value="Article Writing">Article Writing</option>
-									<option value="Seo Content Writing">Seo Content Writing</option>
-									<option value="Pressrelease Writing">Pressrelease Writing</option>
-									<option value="Website Content Writing">Website Content Writing</option>
-									<option value="Logo Design">Logo Design</option>
-									<option value="Brochure Design">Brochure Design</option>
-									<option value="Flyer Design">Flyer Design</option>
-									<option value="Ecommerce Website Development">Ecommerce Website Development</option>
-									<option value="Wordpress Website Development">Wordpress Website Development</option>
-									<option value="Wordpress Website Development">Wordpress Website Development</option>
-									<option value="Blog Writing ">Blog Writing</option>
-									<option value="Brochure Content Writing">Brochure Content Writing</option>
-									<option value="UI UX Design">UI UX Design</option>
-									<option value="Website Redesigning">Website Redesigning</option>
-									<option value="Shopify Website Development">Shopify Website Development</option>
-									<option value="Product Description Writing">Product Description Writing</option>
-									<option value="Packaging Design Writing">Packaging Design Writing</option>
-									<option value="Ecommerce Marketing">Ecommerce Marketing</option>
-									<option value="Ecommerce Seo">Ecommerce Seo</option>
-									<option value="Ebook Writing">Ebook Writing</option>
-									<option value="Company Profile Writing">Company Profile Writing</option>
-									<option value="Content Writing">Content Writing</option>
-									<option value="Company Profile Design">Company Profile Design</option>
-
-								</select>
-							</div>
-							<div class="col-md-12">
-								<!-- <p class="p-lg">Share Your Requirements: </p> -->
-								<!-- <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea> -->
-								<textarea class="form-control message" name="message" rows="6" placeholder="Share Your Requirements:"></textarea>
-							</div>
-
-							<!-- Contact Form Button -->
-							<div class="col-md-12 mt-15 form-btn text-right">
-								<button type="submit" class="btn btn-skyblue yellow-hover submit" name="send">Submit Request</button>
-							</div>
-
-							<!-- Contact Form Message -->
-							<div class="col-lg-12 contact-form-msg">
-								<span class="loading"></span>
-							</div>
-							<div class="form-group">
-								<div class="col-sm-10 col-sm-offset-2">
-									<?php if (!empty($result)) {
-										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-									} ?>
-								</div>
-							</div>
-
-						</form>
-					</div>
-				</div>
-			</div> <!-- END CONTACT FORM -->
-		</div> <!-- End container -->
-	</section> <!-- END CONTACTS-2 -->
 
 
 	<!-- <div class="map-responsive">

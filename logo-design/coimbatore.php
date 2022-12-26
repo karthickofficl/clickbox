@@ -140,7 +140,7 @@ if (isset($_POST['send'])) {
 						<p class="p-xl">We design unforgettable logos for your brand. </p>
 
 						<!-- Button -->
-						<a href="#" class="btn btn-violet-red tra-white-hover">Contact us today</a>
+						<a href="#" class="btn btn-violet-red yellow-hover">Contact us today</a>
 
 					</div>
 				</div> <!-- END HERO TEXT -->
@@ -499,11 +499,11 @@ if (isset($_POST['send'])) {
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
+				<div class="col-md-10 col-lg-10">
 					<div class="section-title title-02 mb-80">
 
 						<!-- Title -->
-						<h2 class="p-lg txtredd">Logo Design Enquiry</h2>
+						<h2 class="p-lg txtredd">Looking for the Creative Logo Design Company? Enquire Now</h2>
 
 					</div>
 				</div>
@@ -614,7 +614,7 @@ if (isset($_POST['send'])) {
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h2 class="h3-xs text-center" style="color:#00a4e1;">Why Should You Use Clickbox for Logo Design? </h2>
-						<p class="p-lg">A great logo may boost brand recognition and user engagement. At ClickBox, a logo design company in Coimbatore, we make logos that are both interesting and improve the value of your brand. Our logo designers employ pleasant graphic elements, a nice color palette, elegant calligraphy, and great design art to make your company stand out. Logos help brand your firm.</p>
+						<p class="p-lg">A great logo may boost brand recognition and user engagement. At ClickBox, a logo design company in Coimbatore, we make logos that are both interesting and improve the value of your brand. Our logo designers employ pleasant graphic elements, a nice color palette, elegant calligraphy, and great design art to make your company stand out.</p>
 					</div>
 				</div>
 			</div>
@@ -630,7 +630,7 @@ if (isset($_POST['send'])) {
 								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img01.jpg" alt="feature-icon" />
 							</div>
 							<!-- Title -->
-							<h5 class="h5-md">Creative in our way</h5>
+							<h5 class="h5-md">Creative in Our Way</h5>
 
 							<!-- Text -->
 							<p class="p-lg">Logo designers are born creative. Clickbox logo designers are real and imaginative. Our designers have a vivid imagination. Our designers prioritize simplicity. Our designs are all eye-catching.</p>
@@ -647,7 +647,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md">Better Portfolio</h5>
 							<!-- Text -->
-							<p class="p-lg">Working with a reputable logo design business in Coimbatore lets you see how they interpret basic ideas. Our logo designers have time to show their work. Our logo designers' portfolios showcase their hobbies and show our work style and preferences.</p>
+							<p class="p-lg">Working with a reputable logo design agency in Coimbatore lets you see how they interpret basic ideas. Our logo designers have time to show their work. Our designers' portfolios showcase their hobbies and show our work style and preferences.</p>
 						</div>
 					</div>
 					<!-- FEATURE BOX #3 -->
@@ -681,7 +681,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md">Attractive Packages </h5>
 							<!-- Text -->
-							<p class="p-lg">Logo Design is a one-stop shop for all your design needs, which is great if you're ready to start your own business. We're just a click away from meeting your needs and providing you with quality branding at a convenient price and on time. Client-friendly packages are available.</p>
+							<p class="p-lg">If you're ready to start your own business, ClickBox is a one-stop solution for all your design needs. We're just a click away from meeting your needs and providing you with quality branding at a convenient price and on time. Client-friendly packages are available.</p>
 						</div>
 					</div>
 					<!-- FEATURE BOX #5 -->
@@ -705,10 +705,10 @@ if (isset($_POST['send'])) {
 								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img06.jpg" alt="feature-icon" />
 							</div>
 							<!-- Title -->
-							<h5 class="h5-md">Different design concepts
+							<h5 class="h5-md">Different Design Concepts
 							</h5>
 							<!-- Text -->
-							<p class="p-lg">We take a comprehensive approach to branding. Our imaginative designers, strategists, and developers help you create a distinctive brand. Our adaptable method meets your needs. Before branding, we investigate the customer's market and needs. This helps us produce meaningful, client-approved designs.
+							<p class="p-lg">Our imaginative designers, strategists, and developers help you create a distinctive brand. Our adaptable method meets your needs. Before branding, we investigate the customer's market and needs. This helps us produce meaningful, client-approved designs.
 							</p>
 						</div>
 					</div>
@@ -736,10 +736,10 @@ if (isset($_POST['send'])) {
 				</div>
 			</div>
 
-			<div class="row justify-content-center">
+			<div class="row justify-content-center ">
 				<div class="col-xl-10">
 					<!-- VERSION RELEASE -->
-					<div class="version-release">
+					<div class="version-release ">
 
 						<!-- Release Data -->
 						<div class="release-data">
@@ -747,10 +747,10 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-xs">Branding Design</h4>
 							<!-- Version Data -->
 						</div>
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p class="p-lg">A company's worth grows with recognizable, strong branding. We'll make a great first impression. ClickBox provides custom logo design, corporate logo design, e-business logo design, banner logo design, collateral design, etc. at Clickbox Branding, a leading logo design firm in Coimbatore, India. Get the ideal logo from our expert designers. We combine innovation, honesty, simplicity, trustworthiness, and the way it looks to make a logo that builds trust and strengthens relationships with customers.</p>
+									<p class="p-lg txt-justify">A company's worth grows with recognizable, strong branding. We'll make a great first impression. ClickBox provides custom logo design, corporate logo design, e-business logo design, banner logo design, collateral design, etc. at Clickbox Branding, a leading logo design firm in Coimbatore, India. Get the ideal logo from our expert designers. We combine innovation, honesty, simplicity, trustworthiness, and the way it looks to make a logo that builds trust and strengthens relationships with customers.</p>
 									<!-- <ul class="simple-list">
 										<li class="list-item">
 											<p class="p-lg">What is digital marketing?</p>
@@ -801,7 +801,7 @@ if (isset($_POST['send'])) {
 
 						<!-- Release Highlights -->
 
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<!-- Release Highlights -->
 								<div class="release-highlights">
@@ -814,7 +814,7 @@ if (isset($_POST['send'])) {
 							</div>
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p>ClicBox Agency can help you get brochures and flyers that are made just for your business. With an attractive brochure, a company can tell people about new products, give them information, promote sales, and get people interested. We help you get the attention of your target audience by making brochures that are both informative and interesting. With the brochures and flyers we make for you, you can tell people how you can help them solve their problems.</p>
+									<p class="p-lg txt-justify">ClicBox Agency can help you get brochures and flyers that are made just for your business. With an attractive brochure, a company can tell people about new products, give them information, promote sales, and get people interested. We help you get the attention of your target audience by making brochures that are both informative and interesting. With the brochures and flyers we make for you, you can tell people how you can help them solve their problems.</p>
 								</div>
 							</div>
 
@@ -829,12 +829,12 @@ if (isset($_POST['send'])) {
 						<!-- Release Data -->
 						<div class="release-data">
 
-							<h4 class="h4-xs">social poster design</h4>
+							<h4 class="h4-xs">Social Media Poster Design</h4>
 						</div>
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p class="p-lg">Clickbox's unique social media poster designs will grab your clients' attention. We help you develop your brand's identity by designing social media posters. ClickBox blends imagery, the brand logo, and typography to tell your business's narrative. We help you make a good first impression with your customers. ClickBox's designers follow market trends.</p>
+									<p class="p-lg txt-justify">Clickbox's unique social media poster designs will grab your clients' attention. We help you develop your brand's identity by designing social media posters. ClickBox blends imagery, the brand logo, and typography to tell your business's narrative. We help you make a good first impression with your customers. ClickBox's designers follow market trends.</p>
 								</div>
 							</div>
 							<div class="col-lg-6">
@@ -858,7 +858,7 @@ if (isset($_POST['send'])) {
 
 							<h4 class="h4-xs">Different Concepts</h4>
 						</div>
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<!-- Release Highlights -->
 								<div class="release-highlights">
@@ -871,7 +871,7 @@ if (isset($_POST['send'])) {
 							</div>
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p class="p-lg">With more and more companies and products competing for market recognition online and offline, a well-designed logo is a business advantage that grabs customers' attention and shows at a glance what a brand stands for. A good logo is more than just an icon; it shows what a company stands for and acts as a visual representation for the brand.</p>
+									<p class="p-lg txt-justify">With more and more companies and products competing for market recognition online and offline, a well-designed logo is a business advantage that grabs customers' attention and shows at a glance what a brand stands for. A good logo is more than just an icon; it shows what a company stands for and acts as a visual representation for the brand.</p>
 								</div>
 							</div>
 
@@ -884,15 +884,15 @@ if (isset($_POST['send'])) {
 						<!-- Release Data -->
 						<div class="release-data">
 
-							<h4 class="h4-xs">Website development</h4>
+							<h4 class="h4-xs">Website Development</h4>
 
 							<!-- Version Data -->
 
 						</div>
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p class="p-lg">Clickbox is a company that offers the best website development company in Coimbatore. We make money-making websites that not only bring in their target audiences but also persuade them to buy something. Having a website is no longer seen as important or expensive in this digital age. Instead, having a website is now just the way most businesses do things.</p>
+									<p class="p-lg txt-justify">Clickbox is a company that offers the best website development company in Coimbatore. We make money-making websites that not only bring in their target audiences but also persuade them to buy something. Having a website is no longer seen as important or expensive in this digital age. Instead, having a website is now just the way most businesses do things.</p>
 								</div>
 							</div>
 							<div class="col-lg-6">
@@ -914,12 +914,12 @@ if (isset($_POST['send'])) {
 						<!-- Release Data -->
 						<div class="release-data">
 
-							<h4 class="h4-xs"> Omni- Channel video</h4>
+							<h4 class="h4-xs">Omni Channel Video Creation</h4>
 						</div>
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p class="p-lg">Omni-channel marketing is the way of the future when it comes to engaging with customers. It lets your company's brand talk to customers and clients across all platforms and media. This helps build strong, long-lasting relationships with customers. You may use it to improve the experience that customers have with your company and to establish a large, devoted client base.</p>
+									<p class="p-lg txt-justify">Omni-channel marketing is the way of the future when it comes to engaging with customers. It lets your company's brand talk to customers and clients across all platforms and media. This helps build strong, long-lasting relationships with customers. You may use it to improve the experience that customers have with your company and to establish a large, devoted client base.</p>
 								</div>
 							</div>
 							<div class="col-lg-6">
@@ -941,9 +941,9 @@ if (isset($_POST['send'])) {
 						<!-- Release Data -->
 						<div class="release-data">
 
-							<h4 class="h4-xs">Video production </h4>
+							<h4 class="h4-xs">Video Production </h4>
 						</div>
-						<div class="row">
+						<div class="row dflex-row">
 							<div class="col-lg-6">
 								<!-- Release Highlights -->
 								<div class="release-highlights">
@@ -956,7 +956,7 @@ if (isset($_POST['send'])) {
 							</div>
 							<div class="col-lg-6">
 								<div class="release-highlights">
-									<p class="p-lg">No matter if you're representing a big brand or a startup, we know that as an expert, you can't show off your brand everywhere by yourself. That's why every brand needs professional videos.
+									<p class="p-lg txt-justify">No matter if you're representing a big brand or a startup, we know that as an expert, you can't show off your brand everywhere by yourself. That's why every brand needs professional videos.
 										As the best video editing service in Coimbatore, India, we believe in giving our clients one of the most powerful tools for marketing.
 									</p>
 								</div>
@@ -1217,7 +1217,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Start a project on ClickBox, choose how much you want to spend, and describe what you need from all sectors.<br>
+											<p class="p-lg text-justify">Start a project on ClickBox, choose how much you want to spend, and describe what you need from all sectors.<br>
 												Working with the global community of professional designers at ClickBox and giving feedback can help you find ideas and logos that you and your clients will lik
 											</p>
 										</div>
@@ -1232,7 +1232,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Yes, it is necessary to be ready for suggestions. You likely already know what your company's logo should look like, as well as the color and icon that should be employed. The better results you are likely to get will depend on how well you describe your needs for a logo. If you're short on time, use this page as inspiration and for some logo possibilities.</p>
+											<p class="p-lg text-justify">Yes, it is necessary to be ready for suggestions. You likely already know what your company's logo should look like, as well as the color and icon that should be employed. The better results you are likely to get will depend on how well you describe your needs for a logo. If you're short on time, use this page as inspiration and for some logo possibilities.</p>
 										</div>
 									</div>
 								</div>
@@ -1245,7 +1245,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">To make sure you get the perfect logo design for you, write a clear and detailed brief for the design of your logo, set a budget, and give designers direct, constructive feedback as they work.</p>
+											<p class="p-lg text-justify">To make sure you get the perfect logo design for you, write a clear and detailed brief for the design of your logo, set a budget, and give designers direct, constructive feedback as they work.</p>
 										</div>
 									</div>
 								</div>
@@ -1258,7 +1258,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">As soon as we get all of the necessary information from you, our logo designers will begin to generate ideas for an original and inventive logo design that meets your specifications. The final logo is finished within two to three weeks after all of your suggested changes have been made.</p>
+											<p class="p-lg text-justify">As soon as we get all of the necessary information from you, our logo designers will begin to generate ideas for an original and inventive logo design that meets your specifications. The final logo is finished within two to three weeks after all of your suggested changes have been made.</p>
 										</div>
 									</div>
 								</div>
@@ -1271,7 +1271,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Our logo design services center on a series of brainstorming sessions. Once we get your updated list of requirements, our logo designers will start working on possible logos and give you examples in two to three days.</p>
+											<p class="p-lg text-justify">Our logo design services center on a series of brainstorming sessions. Once we get your updated list of requirements, our logo designers will start working on possible logos and give you examples in two to three days.</p>
 										</div>
 									</div>
 								</div>
@@ -1284,7 +1284,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">In our very first meeting, we discussed your logo-related thoughts and vision. As part of our logo design services, we also pay close attention to your preferences, dislikes, and target demographic. Thus, we arrive at a design idea that meets your requirements. We then create examples and provide them to you. And once we've made all the necessary changes, we'll give you the finished logo.</p>
+											<p class="p-lg text-justify">In our very first meeting, we discussed your logo-related thoughts and vision. As part of our logo design services, we also pay close attention to your preferences, dislikes, and target demographic. Thus, we arrive at a design idea that meets your requirements. We then create examples and provide them to you. And once we've made all the necessary changes, we'll give you the finished logo.</p>
 										</div>
 									</div>
 								</div>
@@ -1306,7 +1306,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseSeven" class="accordion-collapse collapse show" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Sure, in reality, a logo's success depends a lot on what the client wants, how they see things, and what ideas they have.<br> We are the best logo design company because we follow a clear process that lets you talk directly to the designer and tell them what you think.</p>
+											<p class="p-lg text-justify">Sure, in reality, a logo's success depends a lot on what the client wants, how they see things, and what ideas they have.<br> We are the best logo design company because we follow a clear process that lets you talk directly to the designer and tell them what you think.</p>
 										</div>
 									</div>
 								</div>
@@ -1319,7 +1319,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">We provide three distinct options to companies, regardless of their size or sector. These plans are Basic, Plus, and Premium. Each plan has its own features, which you may choose depending on your needs and finances.</p>
+											<p class="p-lg text-justify">We provide three distinct options to companies, regardless of their size or sector. These plans are Basic, Plus, and Premium. Each plan has its own features, which you may choose depending on your needs and finances.</p>
 										</div>
 									</div>
 								</div>
@@ -1332,7 +1332,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Our dedicated logo designers try to create a logo that not only represents your business but also improves the overall image of your brand. We will happily make modifications till you reach the desired logo.</p>
+											<p class="p-lg text-justify">Our dedicated logo designers try to create a logo that not only represents your business but also improves the overall image of your brand. We will happily make modifications till you reach the desired logo.</p>
 										</div>
 									</div>
 								</div>
@@ -1345,7 +1345,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">As a premier logo design firm, we see our clients as our most valuable asset. So, we will continue to help even after the process of making the logo is done. Instead, we value our lengthy friendship.</p>
+											<p class="p-lg text-justify">As a premier logo design firm, we see our clients as our most valuable asset. So, we will continue to help even after the process of making the logo is done. Instead, we value our lengthy friendship.</p>
 										</div>
 									</div>
 								</div>
@@ -1358,7 +1358,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseLeven" class="accordion-collapse collapse" aria-labelledby="headingLeven" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">As soon as the logo is completed and all payments are received, we begin working on the copyright. Copyright protection grants you exclusive rights to the logo's print, exhibition, and distribution, allowing you to do whatever you want with it.</p>
+											<p class="p-lg text-justify">As soon as the logo is completed and all payments are received, we begin working on the copyright. Copyright protection grants you exclusive rights to the logo's print, exhibition, and distribution, allowing you to do whatever you want with it.</p>
 										</div>
 									</div>
 								</div>
@@ -1372,7 +1372,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Your ideas, goals, and vision will definitely be the main sources of inspiration for your company's logo. If you don't know how to design your logo, don't worry. Our logo designers will help you figure it out. so that we can give your brand a distinctive personality in the most inventive way.</p>
+											<p class="p-lg text-justify">Your ideas, goals, and vision will definitely be the main sources of inspiration for your company's logo. If you don't know how to design your logo, don't worry. Our logo designers will help you figure it out. so that we can give your brand a distinctive personality in the most inventive way.</p>
 										</div>
 									</div>
 								</div>
@@ -1401,7 +1401,7 @@ if (isset($_POST['send'])) {
 			============================================= -->
 	<section id="cta-5" class="cta-section division ">
 		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
+			<div class="rel bg-04 cta-5-wrapper">
 				<div class="row justify-content-center">
 					<!-- CALL TO ACTION TEXT -->
 					<div class="col-lg-8">

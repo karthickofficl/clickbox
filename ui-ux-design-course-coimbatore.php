@@ -444,7 +444,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/ui-ux6.jpg" alt="video-preview">
+						<img class="img-fluid" src="../images/who-can-take-up-this-uiux-design-course.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -539,7 +539,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux1.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="../images/ui-ux-design-course01.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->

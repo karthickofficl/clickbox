@@ -1,6 +1,6 @@
 <!-- PRELOADER SPINNER
 		============================================= -->
-		<?php /* <div id="loading" class="stateblue-loading">
+<?php /* <div id="loading" class="stateblue-loading">
 			<div id="loading-center">
 				<div id="loading-center-absolute">
 					<div class="object" id="object_one"></div>
@@ -80,87 +80,87 @@
 							<!--	<div class="wsmegamenu w-100 clearfix">-->
 							<!--		<div class="container">-->
 							<!--			<div class="row row-cols-1 row-cols-lg-5">-->
-											<!-- MEGAMENU LINKS -->
-											<!--<ul class="col link-list">-->
-											<!--	<li aria-haspopup="true"><a href="../">-->
-											<!--			<h5>Content Writing</h5>-->
-											<!--		</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Article Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Blog Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Copywriting</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Press Releases Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Product Descriptions Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">SEO Content Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Website Content Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Corporate Profile Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Brochure Content Writing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">eBook Writing</a></li>-->
-												<!-- <li aria-haspopup="true"><a href="../orm-packages">ORM Packages</a></li> -->
-												<!-- <li aria-haspopup="true"><a href="../ppc-packages">PPC Packages</a></li> -->
+							<!-- MEGAMENU LINKS -->
+							<!--<ul class="col link-list">-->
+							<!--	<li aria-haspopup="true"><a href="../">-->
+							<!--			<h5>Content Writing</h5>-->
+							<!--		</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Article Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Blog Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Copywriting</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Press Releases Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Product Descriptions Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">SEO Content Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Website Content Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Corporate Profile Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Brochure Content Writing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">eBook Writing</a></li>-->
+							<!-- <li aria-haspopup="true"><a href="../orm-packages">ORM Packages</a></li> -->
+							<!-- <li aria-haspopup="true"><a href="../ppc-packages">PPC Packages</a></li> -->
 
 
-											<!--</ul>-->
+							<!--</ul>-->
 
-											<!-- MEGAMENU LINKS -->
-											<!--<ul class="col link-list">-->
-											<!--	<li aria-haspopup="true"><a href="../">-->
-											<!--			<h5>Design</h5>-->
-											<!--		</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Logo Design</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">UI UX Design</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Brochure Design</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Packaging Design</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Flyer Design</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Company Profile Design</a></li>-->
-												<!-- <li aria-haspopup="true"><a href="../orm-packages">ORM Packages</a></li> -->
-												<!-- <li aria-haspopup="true"><a href="../ppc-packages">PPC Packages</a></li> -->
-
-
-											<!--</ul>-->
-
-											<!-- MEGAMENU LINKS -->
-											<!--<ul class="col link-list">-->
-											<!--	<li aria-haspopup="true"><a href="../">-->
-											<!--			<h5>Development</h5>-->
-											<!--		</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Website Development</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">WordPress Website Development</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Shopify Website Development</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Ecommerce Website</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Website Redesigning</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Mobile App Development</a></li>-->
-
-											<!--</ul>-->
-
-											<!-- MEGAMENU LINKS -->
-											<!--<ul class="col link-list">-->
-											<!--	<li aria-haspopup="true"><a href="../">-->
-											<!--			<h5>Digital Marketing</h5>-->
-											<!--		</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Search Engine Optimization</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Social Media Marketing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Google Ads Management</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Ecommerce Marketing</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">App Promotion</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">eCommerce SEO</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Online Reputation Management</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Content Marketing</a></li>-->
-											<!--</ul>-->
-											<!-- MEGAMENU LINKS -->
-											<!--<ul class="col link-list">-->
-											<!--	<li aria-haspopup="true"><a href="../">-->
-											<!--			<h5>Videos Creation</h5>-->
-											<!--		</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Explainer Videos</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Educational Videos</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Tutorial & How-to Videos</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Commercial Videos</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Whiteboard Animation</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Social Media Videos</a></li>-->
-											<!--	<li aria-haspopup="true"><a href="../">Ecommerce Product Videos</a></li>-->
+							<!-- MEGAMENU LINKS -->
+							<!--<ul class="col link-list">-->
+							<!--	<li aria-haspopup="true"><a href="../">-->
+							<!--			<h5>Design</h5>-->
+							<!--		</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Logo Design</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">UI UX Design</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Brochure Design</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Packaging Design</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Flyer Design</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Company Profile Design</a></li>-->
+							<!-- <li aria-haspopup="true"><a href="../orm-packages">ORM Packages</a></li> -->
+							<!-- <li aria-haspopup="true"><a href="../ppc-packages">PPC Packages</a></li> -->
 
 
-											<!--</ul>-->
+							<!--</ul>-->
+
+							<!-- MEGAMENU LINKS -->
+							<!--<ul class="col link-list">-->
+							<!--	<li aria-haspopup="true"><a href="../">-->
+							<!--			<h5>Development</h5>-->
+							<!--		</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Website Development</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">WordPress Website Development</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Shopify Website Development</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Ecommerce Website</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Website Redesigning</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Mobile App Development</a></li>-->
+
+							<!--</ul>-->
+
+							<!-- MEGAMENU LINKS -->
+							<!--<ul class="col link-list">-->
+							<!--	<li aria-haspopup="true"><a href="../">-->
+							<!--			<h5>Digital Marketing</h5>-->
+							<!--		</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Search Engine Optimization</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Social Media Marketing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Google Ads Management</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Ecommerce Marketing</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">App Promotion</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">eCommerce SEO</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Online Reputation Management</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Content Marketing</a></li>-->
+							<!--</ul>-->
+							<!-- MEGAMENU LINKS -->
+							<!--<ul class="col link-list">-->
+							<!--	<li aria-haspopup="true"><a href="../">-->
+							<!--			<h5>Videos Creation</h5>-->
+							<!--		</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Explainer Videos</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Educational Videos</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Tutorial & How-to Videos</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Commercial Videos</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Whiteboard Animation</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Social Media Videos</a></li>-->
+							<!--	<li aria-haspopup="true"><a href="../">Ecommerce Product Videos</a></li>-->
+
+
+							<!--</ul>-->
 
 							<!--			</div> <!-- End row -->
 							<!--		</div> <!-- End container -->
@@ -169,17 +169,18 @@
 
 							<!-- SERVIVE MEGA MENU -->
 
-						<li aria-haspopup="true"><a href="#">Services<span class="wsarrow"></span></a>
+							<li aria-haspopup="true"><a href="#">Services<span class="wsarrow"></span></a>
 								<ul class="sub-menu">
+								<li aria-haspopup="true"><a href="https://clickboxagency.com/seo-company-in-india/">SEO Service</a></li>
 									<li aria-haspopup="true"><a href="https://clickboxagency.com/seo-company-in-india/">SEO Service</a></li>
 									<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-seo-service/">Ecommerce Marketing</a></li>
 									<li aria-haspopup="true"><a href="https://clickboxagency.com/best-digital-marketing-company-in-india/">Complete Digital Marketing</a></li>
 									<li aria-haspopup="true"><a href="https://clickboxagency.com/google-ads-agency/">Google Ads / Adwords Management</a></li>
 
 									<!--<li aria-haspopup="true"><a href="#reviews-4">Wordpress Website Design</a></li>	-->
-							<!--<li aria-haspopup="true"><a href="#content-7">Ecommerce Website Design</a></li>-->
+									<!--<li aria-haspopup="true"><a href="#content-7">Ecommerce Website Design</a></li>-->
 								</ul>
-							</li> 
+							</li>
 							<!-- <li class="nl-simple" aria-haspopup="true"><a href="../digital-marketing-packages">Packages</a></li> -->
 
 							<!-- MEGA MENU  START-->
@@ -258,12 +259,12 @@
 
 							<!--  -->
 							<li aria-haspopup="true"><a href="#">Internship<span class="wsarrow"></span></a>
-							
-						            <ul class="sub-menu">
+
+								<ul class="sub-menu">
 									<li aria-haspopup="true"><a href="https://clickboxagency.com/digital-marketing-internship-coimbatore/">Digital Marketing Course</a></li>
 									<li aria-haspopup="true"><a href="https://clickboxagency.com/ui-ux-design-course-coimbatore/">UI UX Design Course</a></li>
-									</ul>
-								</li>
+								</ul>
+							</li>
 							<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/blogs/">Blog</a></li>
 							<!-- HEADER BUTTON btn-stateblue -->
 							<li class="nl-simple" aria-haspopup="true">

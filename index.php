@@ -221,8 +221,8 @@ if (isset($_POST['send'])) {
 						</span>
 
 						<!-- Title -->
-						<h2 class="h2-md text-center txtredd">Seriously <span>one stop solution that</span> delivers
-							<br><span class="txtyelloww outlinewt p-0"> outstanding results </span>
+						<h2 class="h2-md text-center txtredd">Seriously <span>one stop solution that</span>
+							<br><span class="txtyelloww outlinewt p-0">delivers outstanding results </span>
 						</h2>
 
 						<!-- Text -->
@@ -268,12 +268,12 @@ if (isset($_POST['send'])) {
 							<h2 class="h3-xs">ClickBox Advertising &amp; Marketing Agency</h2>
 
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 								Clickbox Agency is a creative digital marketing firm that works all over the world. a full-service digital marketing company that helps brands connect with the right customers. We are known for using the latest online marketing techniques and cutting-edge tools to give &nbsp; your business a digital edge. With "ClickBox Internet Marketing Agency" by your side, you can beat your competitors and stand out from the crowd.
 							</p>
 
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 								The Clickbox agency focuses on SEO, social media, PPC, content marketing, web hosting, responsive website design and ecommerce development. We help businesses get more sales, leads, and money from e-commerce. We care about you, and our only goal is to help you reach your business goals. Contact us today to get started on your project.
 							</p>
 
@@ -335,7 +335,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">We Have Proven Results</h5>
 
 								<!-- Text -->
-								<p class="p-lg">Why would you work with a digital marketing agency that doesn’t provide you with the results you are looking for? Stop throwing away your hard-earned money on a strategy that isn’t converting.
+								<p class="p-lg txt-justify">Why would you work with a digital marketing agency that doesn’t provide you with the results you are looking for? Stop throwing away your hard-earned money on a strategy that isn’t converting.
 								</p>
 
 							</div>
@@ -362,7 +362,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">We Are Honest & Ethical</h5>
 
 								<!-- Text -->
-								<p class="p-lg">At ClickBox, we believe in integrity, honesty and respecting our clients. We don’t believe in “selling” a service that you don’t need or applying a one-size-fits-all approach to each client.
+								<p class="p-lg txt-justify">At ClickBox, we believe in integrity, honesty and respecting our clients. We don’t believe in “selling” a service that you don’t need or applying a one-size-fits-all approach to each client.
 
 								</p>
 
@@ -387,11 +387,11 @@ if (isset($_POST['send'])) {
 							<div class="fbox-txt">
 
 								<!-- Title -->
-								<h5 class="h5-md">We Know Digital Marketing
+								<h5 class="h5-md ">We Know Digital Marketing
 								</h5>
 
 								<!-- Text -->
-								<p class="p-lg">Working with a digital marketing company that actually knows digital marketing seems obvious, but unfortunately, many agencies fail to deliver positive results. Our strategies are proven to work.
+								<p class="p-lg txt-justify">Working with a digital marketing company that actually knows digital marketing seems obvious, but unfortunately, many agencies fail to deliver positive results. Our strategies are proven to work.
 								</p>
 
 							</div>
@@ -419,7 +419,7 @@ if (isset($_POST['send'])) {
 								</h5>
 
 								<!-- Text -->
-								<p class="p-lg">Maintaining a customer-centric focus is a priority for many marketing firms, however, few actually follow through. As a digital marketing agency, ClickBox is different.
+								<p class="p-lg txt-justify">Maintaining a customer-centric focus is a priority for many marketing firms, however, few actually follow through. As a digital marketing agency, ClickBox is different.
 
 								</p>
 
@@ -448,7 +448,7 @@ if (isset($_POST['send'])) {
 								</h5>
 
 								<!-- Text -->
-								<p class="p-lg">Our digital marketing strategies are designed to succeed. We ensure that our marketing strategies bring you the preferred result.
+								<p class="p-lg txt-justify">Our digital marketing strategies are designed to succeed. We ensure that our marketing strategies bring you the preferred result.
 								</p>
 
 							</div>
@@ -475,7 +475,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Affordable</h5>
 
 								<!-- Text -->
-								<p class="p-lg">Charging a skyrocketing amount and fooling clients have never been our forte. Our digital marketing packages and plans are pocket- friendly.
+								<p class="p-lg txt-justify">Charging a skyrocketing amount and fooling clients have never been our forte. Our digital marketing packages and plans are pocket- friendly.
 
 								</p>
 
@@ -833,7 +833,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
+									<p class="p-lg txt-justify">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
 										also Search Engine Optimization and Google ads management. But most importantly they are great people and a pleasure to do
 										business with. I would definitely recommend their SEO services and Google Ads service to all existing and new business start-ups.
 									</p>
@@ -872,7 +872,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
+									<p class="p-lg txt-justify">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
 										Google and Facebook campaign… James takes care of the Digital Marketing of our Website. We are very happy with his work and
 										dedication. I would highly recommend his services to anyone in need of Digital Marketing Service.
 									</p>
@@ -910,7 +910,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
+									<p class="p-lg txt-justify">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
 										us on time. The marketing produced definitive and solid results. Everything was organized to perfection and delivered very
 										systematically. I cannot wait to work with James on the next expo and of course, on other projects!
 									</p>
@@ -949,7 +949,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We recently worked with James and his team to get our brand-new website. It is fantastic.
+									<p class="p-lg txt-justify">We recently worked with James and his team to get our brand-new website. It is fantastic.
 										We loved working with them, they were really communicative and made sure we were always in the loop.
 										They took into ads account all of our opinions and our ideas for what we felt like the new campaign should be,
 										and honestly, we are impressed. We love the branding and we got more leads, it's amazing. We highly recommend!
@@ -1441,7 +1441,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Yes, we have a dedicated in-house team for digital marketing services.
+											<p class="p-lg txt-justify">Yes, we have a dedicated in-house team for digital marketing services.
 												Our team has end-to-end digital capabilities to address every step of the marketing and sales funnel.</p>
 										</div>
 									</div>
@@ -1455,7 +1455,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Yes, we have a dedicated in-house team for digital marketing services. Our team has end-to-end digital capabilities to address every step of the marketing and sales funnel.
+											<p class="p-lg txt-justify">Yes, we have a dedicated in-house team for digital marketing services. Our team has end-to-end digital capabilities to address every step of the marketing and sales funnel.
 											</p>
 										</div>
 									</div>
@@ -1469,7 +1469,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">You should partner with us for digital marketing for many reasons. One, we increase your sales. Two, we are masters at SEM and Social media marketing. Three, we promote your business on all the search engines.
+											<p class="p-lg txt-justify">You should partner with us for digital marketing for many reasons. One, we increase your sales. Two, we are masters at SEM and Social media marketing. Three, we promote your business on all the search engines.
 											</p>
 										</div>
 									</div>
@@ -1492,7 +1492,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Before you commit to anything, we have an extensive “Client Requirement Form” that we ask you to fill out so that we can learn more about your needs, audience, and industry. Once it's done, If you trust us with your business’ digital growth, let’s get started!</p>
+											<p class="p-lg txt-justify">Before you commit to anything, we have an extensive “Client Requirement Form” that we ask you to fill out so that we can learn more about your needs, audience, and industry. Once it's done, If you trust us with your business’ digital growth, let’s get started!</p>
 										</div>
 									</div>
 								</div>
@@ -1518,7 +1518,7 @@ if (isset($_POST['send'])) {
 									</h2>
 									<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">The purpose of our digital marketing services is to lead your business towards success. Successful leads are a direct result of an effective digital marketing strategy. We ensure that you walk-along with your prospective buyers nurturing them with all the information to get to know your brand better before making a purchasing decision.</p>
+											<p class="p-lg txt-justify">The purpose of our digital marketing services is to lead your business towards success. Successful leads are a direct result of an effective digital marketing strategy. We ensure that you walk-along with your prospective buyers nurturing them with all the information to get to know your brand better before making a purchasing decision.</p>
 										</div>
 									</div>
 								</div>
