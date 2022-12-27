@@ -21,7 +21,9 @@
   	document.body.appendChild(s);
   </script>
   <a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
-  	<i class="fa fa-whatsapp"></i></a>
+  	<!-- <i class="fa fa-whatsapp"></i> -->
+	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="" sizes="" srcset="">
+</a>
   <!-- btn-success -->
 
 

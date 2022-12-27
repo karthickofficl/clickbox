@@ -1974,8 +1974,8 @@ ol.digit-list p {
 .scroll .red-hover:hover,
 .white-color .red-hover:hover {
   color: #fff !important;
-  background-color: #f6412d;
-  border-color: #f6412d !important;
+  background-color: #b10043;
+  border-color: #b10043 !important;
 }
 
 .btn-tra-red,
@@ -2084,8 +2084,8 @@ ol.digit-list p {
 .scroll .yellow-hover:hover,
 .white-color .yellow-hover:hover {
   color: #1d293f !important;
-  background-color: #ffb30c;
-  border-color: #ffb30c !important;
+  background-color: #ffc11d;
+  border-color: #ffc11d !important;
 }
 
 .btn-tra-yellow,
@@ -8826,4 +8826,8 @@ tr {
 .dflex-row{
   display: flex;
   align-items: center;
+}
+.wapp-wh{
+  width:40px !important;
+  height:40px !important;
 }

@@ -1431,10 +1431,10 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/logo-design-service/"
+			"url": "www.clickboxagency.com/logo-design/coimbatore/"
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://www.clickboxagency.com/logo-design-service/find?q={search_term_string}",
+				"target": "www.clickboxagency.com/logo-design/coimbatore/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}

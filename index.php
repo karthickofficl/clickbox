@@ -509,7 +509,7 @@ if (isset($_POST['send'])) {
 						</h2>
 
 						<!-- Text -->
-						<p class="p-xl">Whatever your marketing budget or challenge, ClickBox Agency has the creative and strategic skills to offer you the results you desire from your marketing investment.</p>
+						<p class="p-xl ">Whatever your marketing budget or challenge, ClickBox Agency has the creative and strategic skills to offer you the results you desire from your marketing investment.</p>
 
 					</div>
 				</div>
@@ -776,7 +776,7 @@ if (isset($_POST['send'])) {
 								<div class="cb-single-box">
 									<ul class="simple-list">
 										<li class="list-item">
-											<p class="p-md">ClickBox used SEO &amp; PPC to increase the overall traffic to the new Abhasa website by +434% and along with the new CRO-focused Website were able to increase online leads by over +250%.</p>
+											<p class="p-md txt-justify">ClickBox used SEO &amp; PPC to increase the overall traffic to the new Abhasa website by +434% and along with the new CRO-focused Website were able to increase online leads by over +250%.</p>
 										</li>
 									</ul>
 								</div>

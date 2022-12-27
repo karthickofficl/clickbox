@@ -219,7 +219,7 @@ if (isset($_POST['send'])) {
 	<section id="cta-8" class="bg-snow pt-30  cta-section division">
 		<div class="container">
 			<h1 class="p-lg text-center txtbluee">Our Offices</h1>
-			<h3 class="p-lg text-center">Visit our offices, we’re easy to reach</h3>
+			<h3 class="p-lg text-center">Visit Our Offices, We’re Easy to Reach</h3>
 			<div class="cta-8-wrapper pc-25">
 				<div class="row row-cols-1 row-cols-md-2 mt-lg-4">
 					<!-- row-cols-md-2 -->
