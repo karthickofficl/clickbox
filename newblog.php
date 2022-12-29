@@ -27,16 +27,13 @@
 				<div class="row">
 					<div class="col gallery-items-list">
 						<div class="masonry-wrap grid-loaded">
-
-
-
 							<!-- BLOG POST #1 -->
 							<div class="blog-3-post masonry-image">
 
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -46,25 +43,16 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../b2b-marketing-strategy">
+										<a href="https://clickboxagency.com/b2b-marketing-strategy/">
 											Best Guide to B2B Marketing Strategies - Follow These 10 Strategies
 										</a>
 									</h5>
 
 									<!-- Post Link -->
-									<p class="p-md post-tag">
-
-
-										Every entrepreneur is struggling to find their marketing strategy and the right path of marketing is ...
-
-									</p>
-
-
+									<p class="p-md post-tag">Every entrepreneur is struggling to find their marketing strategy and the right path of marketing is ...</p>
 								</div> <!-- END BLOG POST TEXT -->
 
 							</div> <!-- END BLOG POST #1 -->
-
-
 							<!-- BLOG POST #2 -->
 
 							<div class="blog-3-post masonry-image">
@@ -72,7 +60,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/digital-marketing-checklist.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -82,16 +70,13 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../digital-marketing-checklist">
+										<a href="https://clickboxagency.com/digital-marketing-checklist/">
 											Digital Marketing Checklists to Make Marketing Process Easier In 2022
 										</a>
 									</h5>
 
 									<!-- Post Link -->
-									<p class="p-md post-tag">
-
-
-										Marketing is the best business partner for every entrepreneur and marketer who wants to reach their target ...
+									<p class="p-md post-tag">Marketing is the best business partner for every entrepreneur and marketer who wants to reach their target ...
 									</p>
 
 								</div> <!-- END BLOG POST TEXT -->
@@ -100,13 +85,12 @@
 
 
 							<!-- BLOG POST #3 -->
-
 							<div class="blog-3-post masonry-image linked-in-section">
 
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/linkedin-post-lead.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/linkedin-post-lead.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -116,28 +100,17 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../linkedin-lead-generation.php">
+										<a href="https://clickboxagency.com/linkedin-lead-generation/">
 											Trending LinkedIn Lead Generation Techniques in 2022
 										</a>
 									</h5>
 
 									<!-- Post Link -->
-									<p class="p-md post-tag">
-
-										Social media has a wide range of users. Facebook and Twitter are used by people for sports, memes, and entertainment.
-
+									<p class="p-md post-tag">Social media has a wide range of users. Facebook and Twitter are used by people for sports, memes, and entertainment.
 									</p>
 
 								</div> <!-- END BLOG POST TEXT -->
-
 							</div> <!-- END BLOG POST #3-->
-
-
-
-
-
-
-
 						</div>
 					</div>
 				</div>

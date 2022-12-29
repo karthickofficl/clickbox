@@ -93,7 +93,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="../images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -114,7 +114,7 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="../b2b-marketing-strategy">
+						<div class="post-meta"><a href="https://clickboxagency.com/b2b-marketing-strategy/">
 								<p class="p-md">Read More</p>
 							</a></div>
 
@@ -147,7 +147,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/how-to-create-seo-friendly-website.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-create-seo-friendly-website.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -174,7 +174,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -184,7 +184,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/b2b-marketing-strategy">
+										<a href="https://clickboxagency.com/b2b-marketing-strategy/">
 											Best Guide to B2B Marketing Strategies - Follow These 10 Strategies
 										</a>
 									</h5>
@@ -207,7 +207,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/digital-marketing-checklist.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -217,7 +217,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../digital-marketing-checklist">
+										<a href="https://clickboxagency.com/digital-marketing-checklist/">
 											Digital Marketing Checklists to Make Marketing Process Easier In 2022
 										</a>
 									</h5>
@@ -242,7 +242,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/how-much-cost-facebook-advertising.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-much-cost-facebook-advertising.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -252,7 +252,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../how-much-does-it-cost-for-facebook-ads">
+										<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/">
 											How Much Does Facebook Advertising Cost in 2022?
 										</a>
 									</h5>
@@ -278,7 +278,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/role-of-orm-in-digital-marketing.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -288,7 +288,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../reputation-management-in-digital-marketing">
+										<a href="https://clickboxagency.com/reputation-management-in-digital-marketing/">
 											Role of ORM in Digital Marketing-How It Impacts Your Business?
 										</a>
 									</h5>
@@ -316,7 +316,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/how-to-choose-right-digital-marketing.jpg" alt="right-digital-marketing-agency-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-choose-right-digital-marketing.jpg" alt="right-digital-marketing-agency-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -326,7 +326,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../right-digital-marketing-agency">
+										<a href="https://clickboxagency.com/right-digital-marketing-agency/">
 											How to Choose the Right Digital Marketing Agency in 2022?
 										</a>
 									</h5>
@@ -354,7 +354,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/advanced-seo-techniques.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/advanced-seo-techniques.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -364,7 +364,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../advanced-seo-techniques">
+										<a href="https://clickboxagency.com/advanced-seo-techniques/">
 											Advanced SEO Techniques to Rank #1 in Google.
 										</a>
 									</h5>
@@ -392,7 +392,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/google-analytics-metrics.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/google-analytics-metrics.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -402,7 +402,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../google-analytics-metrics">
+										<a href="https://clickboxagency.com/google-analytics-metrics/">
 											Google Analytics Metrics for E Commerce Business.
 										</a>
 									</h5>
@@ -427,7 +427,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/linkedin-post-lead.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/linkedin-post-lead.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -437,20 +437,15 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../linkedin-lead-generation">
+										<a href="https://clickboxagency.com/linkedin-lead-generation/">
 											Trending LinkedIn Lead Generation Techniques in 2022
 										</a>
 									</h5>
 
 
 									<!-- Post Link -->
-									<p class="p-md post-tag">
-
-
-										Social media has a wide range of users. Facebook and Twitter are used by people for sports, memes, and entertainment.
-
-
-									</p>
+									<p class="p-md post-tag">	Social media has a wide range of users. Facebook and Twitter are used by people for sports, memes, and entertainment.
+</p>
 
 								</div> <!-- END BLOG POST TEXT -->
 
@@ -469,7 +464,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/nykaa-1.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/nykaa-1.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -479,7 +474,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../nykaa-success-story">
+										<a href="https://clickboxagency.com/nykaa-success-story/">
 											Nykaa- A Huge Success
 										</a>
 										<!--NYKAA- A HUGE SUCCESS-->
@@ -505,7 +500,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/saas-marketing-techniques.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -515,7 +510,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../saas-marketing-techniques">
+										<a href="https://clickboxagency.com/saas-marketing-techniques/">
 											What is SAAS Marketing?
 										</a>
 									</h5>
@@ -540,7 +535,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/viral-marketing.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/viral-marketing.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -550,7 +545,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../viral-marketing-campaigns">
+										<a href="https://clickboxagency.com/viral-marketing-campaigns/">
 											Viral Marketing Techniques
 										</a>
 										<!--VIRAL MARKETING TECHNIQUES-->
@@ -581,7 +576,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/fomo-marketing-techniques.png" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/fomo-marketing-techniques.png" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -591,7 +586,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../fomo-marketing-techniques">
+										<a href="https://clickboxagency.com/fomo-marketing-techniques/">
 											What is FOMO marketing?
 										</a>
 									</h5>
@@ -618,7 +613,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/boost-your-instagram.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/boost-your-instagram.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -628,7 +623,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../boost-your-instagram">
+										<a href="https://clickboxagency.com/boost-your-instagram/">
 											Instagram organic growth strategy
 										</a>
 									</h5>
@@ -651,7 +646,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/how-to-leads-for-business.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-leads-for-business.jpg" alt="blog-post-image" />
 
 										<div class="item-overlay"></div>
 									</div>
@@ -662,7 +657,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../how-to-generate-leads-for-business">
+										<a href="https://clickboxagency.com/how-to-generate-leads-for-business/">
 											How To Generate Leads For Business?
 										</a>
 									</h5>
@@ -676,11 +671,7 @@
 								</div> <!-- END BLOG POST TEXT -->
 
 							</div> <!-- END BLOG POST #14-->
-
-
-							
-
-							<!-- ................5th End..................... -->
+	<!-- ................5th End..................... -->
 						</div>
 					</div>
 
@@ -708,8 +699,8 @@
 									<span class="flaticon-back"></span>
 								</a>
 							</li>
-							<li class="page-item active" aria-current="page"><a class="page-link" href="../#">1</a></li>
-							<li class="page-item"><a class="page-link" href="../blog-page-one">2</a></li>
+							<li class="page-item active" aria-current="page"><a class="page-link" href="https://clickboxagency.com/blogs/">1</a></li>
+							<li class="page-item"><a class="page-link" href="https://clickboxagency.com/blog-page-one/">2</a></li>
 							<li class="page-item"><a class="page-link" href="../#">3</a></li>
 							<li class="page-item">
 								<a class="page-link" href="../#" aria-label="Next">

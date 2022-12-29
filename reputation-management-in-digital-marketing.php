@@ -149,7 +149,7 @@ if (isset($_POST['send'])) {
 
 						<!-- BLOG POST INNER IMAGE -->
 						<div class="post-inner-img">
-							<img class="img-fluid" src="../images/blog/reputation-management-in-digital-marketing.jpg" alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg" alt="blog-post-image" />
 						</div>
 
 

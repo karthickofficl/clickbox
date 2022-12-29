@@ -1984,9 +1984,9 @@ ol.digit-list p {
 .tra-red-hover:hover,
 .scroll .tra-red-hover:hover,
 .white-color .tra-red-hover:hover {
-  color: #f6412d !important;
+  color: #b10043 !important;
   background-color: transparent;
-  border-color: #f6412d !important;
+  border-color: #b10043 !important;
 }
 
 .btn-skyblue,
@@ -4819,7 +4819,7 @@ p.terms-txt a,
   /*------------------------------------------*/
 
 #hero-21 {
-  padding-top: 170px;
+  padding-top: 125px;
 }
 
 .hero-21-txt h2 {
@@ -8830,4 +8830,8 @@ tr {
 .wapp-wh{
   width:40px !important;
   height:40px !important;
+}
+.img-size2{
+  /* width: 250px; */
+  height: 260px;
 }

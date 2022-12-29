@@ -117,10 +117,7 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
 	<?php include('header-style.php') ?>
 
-
 </head>
-
-
 
 <body>
 
@@ -128,17 +125,15 @@ if (isset($_POST['send'])) {
 
 	<!-- HERO-21
 			============================================= -->
-	<section id="hero-21" class="bg-snow hero-section division">
+	<section id="hero-21" class="bg-snow division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
-
-
 				<!-- HERO TEXT -->
 				<div class="col-md-10 offset-md-1">
 					<div class="hero-21-txt text-center">
 
 						<!-- Title -->
-						<h2 class="h2-lg">ROI Driven Google Ads Marketing Agency</h2>
+						<h2 class="h2-lg txtyelloww ">ROI Driven Google Ads Marketing Agency</h2>
 
 						<!-- Text -->
 						<p class="p-xl">Google Ads is best source to <b>get more leads for your business</b>.
@@ -163,14 +158,13 @@ if (isset($_POST['send'])) {
 								</br>
 
 								<div class="col-sm-3">
-									<input type="number" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
+									<input type="text" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
 								</div>
 								</br>
 
 								<!-- Form Button -->
 								<div class="col-sm-3  ">
-									<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send" style="    padding: 10px 34px
-!important;">Get Started
+									<button type="submit" class="btn btn-md btn-pink yellow-hover submit" name="send" style=" padding: 10px 34px !important;">Get Started
 										Now</button>
 								</div>
 							</div>
@@ -188,10 +182,7 @@ if (isset($_POST['send'])) {
 							</div>
 
 						</form>
-
 						<!-- HERO QUICK FORM -->
-
-
 						<!-- Advantages List -->
 						<ul class="advantages mt-35">
 							<li class="first-li">
@@ -219,24 +210,20 @@ if (isset($_POST['send'])) {
 
 	<!-- FEATURES-8
 			============================================= -->
-	<section id="features-8" class="wide-60 features-section division">
+	<section id="features-8" class="pt-20 features-section division">
 		<div class="container">
 
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
+				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title -->
-						<h2 class="h2-md">Our Google Ads Management Services</h2>
+						<h2 class="h2-md txtredd">Our Google Ads Management Services</h2>
 
 						<!-- Text -->
-						<p class="p-xl">Google Ads/AdWords process requires smart techniques to improve your ad conversions. to convert your traffic into customers.
-
-
-
-						</p>
+						<p class="p-xl">Google Ads/AdWords process requires smart techniques to improve your ad conversions. to convert your traffic into customers.</p>
 
 					</div>
 				</div>
@@ -263,10 +250,7 @@ if (isset($_POST['send'])) {
 							<!-- Text -->
 							<p class="p-lg">PPC-> Pay-Per-Click
 								According to stats, with a PPC ads campaign, you can get $8 for every $1 spent on average. The great advantage with the PPC ad process is, you can get target traffic that will convert into customers and not end up only with ad clicks.
-								Also, you will pay only when the ad is clicked by the visitors that will save your budget.
-
-
-							</p>
+								Also, you will pay only when the ad is clicked by the visitors that will save your budget.</p>
 
 						</div>
 					</div>
@@ -282,15 +266,11 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Google Shopping Campaign
-							</h5>
+							<h5 class="h5-md">Google Shopping Campaign</h5>
 
 							<!-- Text -->
 							<p class="p-lg">Ecommerce business can see significant growth through the Google shopping ad campaign. The average amount spends on shopping ad campaigns is increasing year by year due to its effective results.
-								Since ecommerce buyers are engaging with search results, the Google ads service is the best way to convey your brand to the searchers on search engines.
-
-
-							</p>
+								Since ecommerce buyers are engaging with search results, the Google ads service is the best way to convey your brand to the searchers on search engines.</p>
 
 						</div>
 					</div>
@@ -306,28 +286,21 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">International Ad Campaigns
-							</h5>
+							<h5 class="h5-md">International Ad Campaigns</h5>
 
 							<!-- Text -->
 							<p class="p-lg">
 								Is your business receiving traffic from all over the world? Then, international ad campaigns help you run an ad to
 								get global customers. Once you connect with our advertising team, our expert will create a sales copy and unique
-								advertisement strategy to reach your global audience.
-
-							</p>
+								advertisement strategy to reach your global audience.</p>
 
 						</div>
 					</div>
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-8 WRAPPER -->
 			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center">
 				<div class="row row-cols-1 row-cols-md-3">
-
-
 					<!-- FEATURE BOX #1 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
@@ -338,18 +311,13 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Landing Page and Ad Conversion Optimization
-							</h5>
+							<h5 class="h5-md">Landing Page and Ad Conversion Optimization</h5>
 
 							<!-- Text -->
 							<p class="p-lg">After implementing PPC campaigns or display ads, the landing page is the next main focus.
 								Once the visitor clicks your ad, they will reach your landing page. That’s why, the landing page should be engaging,
 								attractive, and more informative about your business details.Our Google advertising agency provides your Google AdWords
-								expert who will help you build the high conversion landing page for your business to end up with successful sales.
-
-
-
-							</p>
+								expert who will help you build the high conversion landing page for your business to end up with successful sales.</p>
 
 						</div>
 					</div>
@@ -365,26 +333,16 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Display Ads
-
-							</h5>
+							<h5 class="h5-md">Display Ads</h5>
 
 							<!-- Text -->
 							<p class="p-lg">Display ads are quite different from PPC ads. If you have enough budget to spend on advertisement, you can implement
 								both PPC and display ads for your business. Otherwise, you can consider only the PPC ads service.
 								With display ads, you can see better results with CTR (Click-through Rate). And it is best for creating brand awareness
 								of your business. Our AdWords expert will take care of your ad that attracts the visitors visually to know about your
-								business products/services.
-
-
-
-
-							</p>
-
+								business products/services.</p>
 						</div>
 					</div>
-
-
 					<!-- FEATURE BOX #3 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
@@ -395,25 +353,17 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Remarketing Service
-
-							</h5>
+							<h5 class="h5-md">Remarketing Service</h5>
 
 							<!-- Text -->
 							<p class="p-lg">Retargeting plays an important role in the marketing process. Researchers said that half of the businesses get
 								customers with the help of retargeting.
 								By remarketing your products/services, you are creating an opportunity to turn your leads into organic customers.
 								Our retargeting sales copy will aid you to nurture customer growth. ClickBox ads management team automates your marketing operations,
-								ensuring the best results for your budget.
-
-
-
-							</p>
+								ensuring the best results for your budget. </p>
 
 						</div>
 					</div>
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-8 WRAPPER -->
 
@@ -422,20 +372,11 @@ if (isset($_POST['send'])) {
 
 	<hr class="divider">
 
-
-
-
-
-
 	<!-- DIVIDER LINE -->
 	<hr class="divider">
-
-
-
-
 	<!-- CONTENT-6
 			============================================= -->
-	<section id="content-6" class="content-6 wide-60 content-section division">
+	<section id="content-6" class="content-6 pt-20 content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
 
@@ -448,7 +389,7 @@ if (isset($_POST['send'])) {
 						<div class="txt-box mb-30">
 
 							<!-- Title -->
-							<h5 class="h5-lg">How Google Ads Can Help My Business Grow? </h5>
+							<h5 class="h5-lg txtbluee">How Google Ads Can Help My Business Grow? </h5>
 
 							<!-- Text -->
 							<p class="p-lg">Why it is important to run Google Ads? Know the advantages below:
@@ -506,8 +447,6 @@ if (isset($_POST['send'])) {
 						<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
 					</div>
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-6 -->
@@ -517,9 +456,8 @@ if (isset($_POST['send'])) {
 		<div class="container">
 			<div class="row justify-content-md-center">
 
-
 				<!-- BANNER TEXT -->
-				<div class="col col-lg-8">
+				<div class="col col-lg-10">
 					<div class="cta-6-txt white-color text-center">
 
 						<!-- Title -->
@@ -535,8 +473,6 @@ if (isset($_POST['send'])) {
 
 					</div>
 				</div> <!-- END BANNER TEXT -->
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section>
@@ -548,16 +484,14 @@ if (isset($_POST['send'])) {
 	<section id="features-4" class="wide-60 features-section division">
 		<div class="container">
 
-
 			<!-- FEATURES-4 WRAPPER -->
 			<div class="fbox-4-wrapper fbox-4-wide">
-
 				<div class="row justify-content-center">
-					<div class="col-lg-10 col-xl-8">
+					<div class="col-lg-10 col-xl-10">
 						<div class="section-title title-01 mb-70">
 
 							<!-- Title -->
-							<h2 class="h2-md">Why Choose ClickBox Agency? </h2>
+							<h2 class="h2-md txtyelloww">Why Choose ClickBox Agency? </h2>
 
 							<!-- Text -->
 							<p class="p-xl">From various Google Ads/AdWords agencies, you can choose our team for the following reasons:
@@ -568,8 +502,6 @@ if (isset($_POST['send'])) {
 				</div>
 				<div class="top-row pb-50">
 					<div class="row d-flex align-items-center">
-
-
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
@@ -583,47 +515,39 @@ if (isset($_POST['send'])) {
 							<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 
 								<!-- Text -->
-								<p class="p-lg"><b>Complete Research:</b> Google AdWords is not a simple process as it requires some analysis and money to get started. We will undergo complete research before running your ad campaign.
+								<p class="p-lg txt-justify"><b>Complete Research:</b> Google AdWords is not a simple process as it requires some analysis and money to get started. We will undergo complete research before running your ad campaign.
 								</p>
 
 								<!-- Text -->
-								<p class="p-lg"><b>A Unique Marketing Structure:</b> During our research, we will analyze your and your competitor’s performance and make a detailed ad campaign strategy to go ahead of your competitor.
+								<p class="p-lg txt-justify"><b>A Unique Marketing Structure:</b> During our research, we will analyze your and your competitor’s performance and make a detailed ad campaign strategy to go ahead of your competitor.
 								</p>
 
 								<!-- Text -->
-								<p class="p-lg"><b>Full-time Support:</b> Once you hire us, we start our services for your website and offer 24/7 support for your business growth.
+								<p class="p-lg txt-justify"><b>Full-time Support:</b> Once you hire us, we start our services for your website and offer 24/7 support for your business growth.
 								</p>
 
 								<!-- Text -->
-								<p class="p-lg"><b>Best Ad Packages:</b> If you see our price plans above, then you can know that our services will be suitable for your business in terms of budget and results.
+								<p class="p-lg txt-justify"><b>Best Ad Packages:</b> If you see our price plans above, then you can know that our services will be suitable for your business in terms of budget and results.
 								</p>
 
 								<!-- Text -->
-								<p class="p-lg"><b>Transparent Report:</b> Our AdWords experts will show timely reports (without fail) to track the marketing status of your ad campaign.
+								<p class="p-lg txt-justify"><b>Transparent Report:</b> Our AdWords experts will show timely reports (without fail) to track the marketing status of your ad campaign.
 								</p>
 
 								<!-- Text -->
-								<p class="p-lg"><b>Are you ready to grow your sales and revenue? Join us now!</b></p>
+								<p class="p-lg txt-justify"><b>Are you ready to grow your sales and revenue? Join us now!</b></p>
 								<div class="more-btn mt-20">
-									<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Hire Your Digital Advertising Partner</a>
+									<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-red yellow-hover">Hire Your Digital Advertising Partner</a>
 								</div>
 
 							</div>
 						</div> <!-- END TEXT BLOCK -->
-
-
 					</div>
 				</div>
-
-
 			</div>
 		</div> <!-- END FEATURES-4 WRAPPER -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
-
-
 
 
 	<section id="content-5" class="content-5 ws-wrapper content-section division">
@@ -640,7 +564,7 @@ if (isset($_POST['send'])) {
 							<span class="section-id txt-upcase">Our Google Ads Process </span>
 
 							<!-- Title -->
-							<h2 class="h2-xs">How to Start Your Google Ads/AdWords Process with Us?</h2>
+							<h2 class="h2-xs txtbluee">How to Start Your Google Ads/AdWords Process with Us?</h2>
 
 							<p class="p-lg">You can follow the simple steps given below:</p>
 
@@ -692,23 +616,14 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid" src="../images/img-10.png" alt="content-image">
 						</div>
 					</div>
-
-
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-5 -->
 
-
-
-
 	<!-- TESTIMONIALS-4
 			============================================= -->
-	<section id="reviews-4" class="rel reviews-section division">
-
-
+	<section id="reviews-4" class="rel pt-30 reviews-section division">
 		<!-- SECTION TITLE -->
 		<div class="container">
 			<div class="row justify-content-center">
@@ -716,7 +631,7 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-60">
 
 						<!-- Title -->
-						<h2 class="h2-md">Stories From Our Customers</h2>
+						<h2 class="h2-md txtredd">Stories From Our Customers</h2>
 
 					</div>
 				</div>
@@ -731,17 +646,13 @@ if (isset($_POST['send'])) {
 					<!-- TESTIMONIALS CAROUSEL -->
 					<div class="col-md-12">
 						<div class="owl-carousel owl-theme reviews-4-wrapper">
-
-
 							<!-- TESTIMONIAL #1 -->
 							<div class="review-4">
-
-
 								<!-- Text -->
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
+									<p class="p-lg txt-justify">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
 										also Search Engine Optimization and Google ads management. But most importantly they are great people and a pleasure to do
 										business with. I would definitely recommend their SEO services and Google Ads service to all existing and new business start-ups.
 									</p>
@@ -780,7 +691,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
+									<p class="p-lg txt-justify">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
 										Google and Facebook campaign… James takes care of the Digital Marketing of our Website. We are very happy with his work and
 										dedication. I would highly recommend his services to anyone in need of Digital Marketing Service.
 									</p>
@@ -820,7 +731,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
+									<p class="p-lg txt-justify">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
 										us on time. The marketing produced definitive and solid results. Everything was organized to perfection and delivered very
 										systematically. I cannot wait to work with James on the next expo and of course, on other projects!
 									</p>
@@ -859,7 +770,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We recently worked with James and his team to get our brand-new website. It is fantastic.
+									<p class="p-lg txt-justify">We recently worked with James and his team to get our brand-new website. It is fantastic.
 										We loved working with them, they were really communicative and made sure we were always in the loop.
 										They took into ads account all of our opinions and our ideas for what we felt like the new google ads campaign should be,
 										and honestly, we are impressed. We love the branding and we got more leads, it's amazing. We highly recommend!
@@ -900,7 +811,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
+									<p class="p-lg txt-justify">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
 										business has evolved. From web strategy, to social media management and google ads paid campaigns. We also utilize their marketing
 										automation offering and appreciate the assistance provided with the execution of our campaigns for all our services.
 									</p>
@@ -933,42 +844,31 @@ if (isset($_POST['send'])) {
 							</div> <!-- END TESTIMONIAL #5 -->
 						</div>
 					</div> <!-- END TESTIMONIALS CAROUSEL -->
-
-
 				</div>
 			</div> <!-- End container -->
 		</div>
 
-
 	</section> <!-- END TESTIMONIALS-4 -->
-
-
-
-
-	<!-- BRANDS-2
-============================================= -->
+	<!-- BRANDS-2============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
-
-
 
 	<!-- FAQs-2
 			============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+	<section id="faqs-2" class="pt-30 faqs-section division">
 		<div class="container">
 
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
+				<div class="col-md-10 col-lg-10">
 					<div class="section-title title-02 mb-75">
 
 						<!-- Section ID -->
 						<span class="section-id txt-upcase">Frequently Asked Questions</span>
 
 						<!-- Title -->
-						<h2 class="h2-xs">Google Ads Management Service</h2>
+						<h2 class="h2-xs txtbluee">Google Ads Management Service</h2>
 
 					</div>
 				</div>
@@ -979,12 +879,9 @@ if (isset($_POST['send'])) {
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
 
-
 					<!-- QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-
-
 							<!-- QUESTION #1 -->
 							<div class="question wow fadeInUp">
 
@@ -992,7 +889,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">What is the difference between PPC Ads and Display Ads?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">PPC Ads (or otherwise Google Ads) are the ads that are shown on search results. These PPC ads are useful for beginners and low budget businesses to reach the target audience easily.
+								<p class="p-lg txt-justify">PPC Ads (or otherwise Google Ads) are the ads that are shown on search results. These PPC ads are useful for beginners and low budget businesses to reach the target audience easily.
 
 									<br>Display ads are shown on the website or some other traffic-generating platform like social media, where the people may end up seeing ads when reading a blog or checking the social media feed. These display ads are useful for small businesses to create brand awareness and to increase their business to the next level. It is a little expensive than PPC Ads.
 								</p>
@@ -1007,24 +904,16 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">How much time needed for the Google Ads process?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">Google Ads does not guarantee to give results at the exact time. Since it involves people’s search about your products/ services and people’s engagement with your business industry, the time will vary. But our AdWords team will assure faster results (minimum one month) to grow your ROI.
+								<p class="p-lg txt-justify">Google Ads does not guarantee to give results at the exact time. Since it involves people’s search about your products/ services and people’s engagement with your business industry, the time will vary. But our AdWords team will assure faster results (minimum one month) to grow your ROI.
 								</p>
 
 							</div>
-
-
 						</div>
 					</div> <!-- END QUESTIONS HOLDER -->
-
 
 					<!-- QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pl-15">
-
-
-
-
-
 							<!-- QUESTION #3 -->
 							<div class="question wow fadeInUp">
 
@@ -1032,7 +921,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">How to choose the right Google Ads agency?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">Choosing the right Google Ads management company is the main process otherwise you have to spend too much amount for the non-working ad campaigns. You can research on search engines like Google to get the best AdWords agency list. Also, try using social media to get companies’ names from a particular location. Once you get the list, connect with each company to find a suitable digital partner for your business.
+								<p class="p-lg txt-justify">Choosing the right Google Ads management company is the main process otherwise you have to spend too much amount for the non-working ad campaigns. You can research on search engines like Google to get the best AdWords agency list. Also, try using social media to get companies’ names from a particular location. Once you get the list, connect with each company to find a suitable digital partner for your business.
 									<br>
 									Or simply, give us a call!
 								</p>
@@ -1046,21 +935,15 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">What kind of business use Google Ads/AdWords services?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">Google is for everyone and contains information about every business in detail. Since Google is the first search engine platform where most people are present, Google AdWords helps all type of business industry to reach the target audience quickly.
+								<p class="p-lg txt-justify">Google is for everyone and contains information about every business in detail. Since Google is the first search engine platform where most people are present, Google AdWords helps all type of business industry to reach the target audience quickly.
 								</p>
 
 							</div>
 
-
-
 						</div>
 					</div> <!-- END QUESTIONS HOLDER -->
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FAQs-2 QUESTIONS -->
-
-
 			<!-- MORE QUESTIONS BUTTON -->
 			<div class="row">
 				<div class="col">
@@ -1069,8 +952,6 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 			</div>
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
@@ -1078,7 +959,7 @@ if (isset($_POST['send'])) {
 			============================================= -->
 	<section id="cta-5" class="cta-section division ">
 		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
+			<div class="rel bg-03 cta-5-wrapper">
 				<div class="row justify-content-center">
 
 
@@ -1095,7 +976,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>

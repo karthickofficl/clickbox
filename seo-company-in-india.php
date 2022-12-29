@@ -2,7 +2,6 @@
 
 //  
 if (isset($_POST['send'])) {
-
 	// getting post values
 	$name = $_POST['name'];
 	$email = $_POST['email'];
@@ -131,8 +130,6 @@ if (isset($_POST['send'])) {
 	<section id="hero-4" class="bg-scroll hero-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
-
-
 				<!-- HERO TEXT -->
 				<div class="col-md-6">
 					<div class="hero-4-txt white-color">
@@ -144,16 +141,11 @@ if (isset($_POST['send'])) {
 						<ul class="simple-list">
 
 							<li class="list-item">
-								<p class="p-xl">Rank Your Website On 1st Page Google Search.
-
-									ClickBox Agency is here to help you! Contact today.
-
-
-								</p>
+								<p class="p-xl txt-justify">Rank Your Website On 1st Page Google Search. ClickBox Agency is here to help you! Contact today.</p>
 							</li>
 
 							<li class="list-item">
-								<p class="p-xl">We are one of the top SEO companies in India where our expert marketing strategies help to
+								<p class="p-xl txt-justify">We are one of the top SEO companies in India where our expert marketing strategies help to
 									boost your website traffic and sales growth.
 								</p>
 							</li>
@@ -195,13 +187,13 @@ if (isset($_POST['send'])) {
 							</br>
 
 							<div class="col-md-12">
-								<input type="number" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
+								<input type="text" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
 							</div>
 							</br>
 
 							<!-- Form Button -->
 							<div class="col-md-12 form-btn mt-10">
-								<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send">Get Started
+								<button type="submit" class="btn btn-md btn-pink yellow-hover submit" name="send">Get Started
 									Now</button>
 							</div>
 
@@ -221,8 +213,6 @@ if (isset($_POST['send'])) {
 
 					</div>
 				</div> <!-- END HERO REQUEST FORM -->
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 
@@ -237,17 +227,11 @@ if (isset($_POST['send'])) {
 
 
 	</section> <!-- END HERO-4 -->
-
-
-
-
 	<!-- CONTENT-2
 			============================================= -->
 	<section id="content-2" class="content-2 bg-snow wide-60 content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
-
-
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
@@ -260,37 +244,34 @@ if (isset($_POST['send'])) {
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
 
-
 						<!-- Title -->
-						<h2 class="h2-xs">Top-Notch SEO Solutions</h2>
+						<h2 class="h2-xs txtyelloww">Top-Notch SEO Solutions</h2>
 
 						<!-- List -->
 						<ul class="simple-list">
 
 							<li class="list-item">
-								<p class="p-lg">SEO (Search Engine Optimization) is a process where SEO specialists optimize a client’s website based on ranking keywords and high-quality SEO content.
+								<p class="p-lg txt-justify">SEO (Search Engine Optimization) is a process where SEO specialists optimize a client’s website based on ranking keywords and high-quality SEO content.
 								</p>
 							</li>
 
 							<li class="list-item">
-								<p class="p-lg">At ClickBox Agency, we will analyze your website quality and niche. According to your industry and website performance, we develop a separate, new, and complete SEO strategy. With this proven method, your on-page and off-page activities will be optimized and receive high quality and organic traffic. ClickBox Agency is a friendly place where are providing the best SEO services for our clients all over the world. </p>
+								<p class="p-lg txt-justify">At ClickBox Agency, we will analyze your website quality and niche. According to your industry and website performance, we develop a separate, new, and complete SEO strategy. With this proven method, your on-page and off-page activities will be optimized and receive high quality and organic traffic. ClickBox Agency is a friendly place where are providing the best SEO services for our clients all over the world. </p>
 							</li>
 
 							<li class="list-item">
-								<p class="p-lg">With our dedicated marketing team and well-planned SEO method, we together improve your website growth.
+								<p class="p-lg txt-justify">With our dedicated marketing team and well-planned SEO method, we together improve your website growth.
 								</p>
 							</li>
 
 						</ul>
 
 						<div class="more-btn mt-20">
-							<a href="../contacts" class="btn btn-violet-red tra-grey-hover">Talk to Your SEO Consultant</a>
+							<a href="../contacts" class="btn btn-red yellow-hover">Talk to Your SEO Consultant</a>
 						</div>
 
 					</div>
 				</div> <!-- END TEXT BLOCK -->
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-2 -->
@@ -304,18 +285,13 @@ if (isset($_POST['send'])) {
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
+				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-80">
-
 						<!-- Title -->
-						<h2 class="h2-md">Our Professional SEO Services</h2>
-
+						<h2 class="h2-md txtbluee">Our Professional SEO Services</h2>
 						<!-- Text -->
 						<p class="p-xl">Look at the following search engine optimization services that are provided by us to our customers.
-
-
 						</p>
-
 					</div>
 				</div>
 			</div>
@@ -324,8 +300,6 @@ if (isset($_POST['send'])) {
 			<!-- FEATURES-3 WRAPPER -->
 			<div class="fbox-3-wrapper text-center">
 				<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
-
-
 					<!-- FEATURE BOX #1 -->
 					<div class="col">
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
@@ -343,10 +317,7 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-lg">Our on-page services include the process of optimizing search engine friendly content. It includes website content like heading (H1, H2...H6), descriptions, tags, keywords, blog, etc., Also the internal linking quality is also analyzed. These tasks will help to list your website on top of search engine results on Google, Bing, etc.,
-
-
 								</p>
-
 							</div>
 
 						</div>
@@ -371,8 +342,6 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-lg">The off-page process is the activity of building backlinks to your website. The more quality backlinks, the more reach your website will receive. So, we assure you by building the best backlinks to your site by writing SEO content blog, press releases, attractive profile creations, etc.,
-
-
 								</p>
 
 							</div>
@@ -424,10 +393,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Content Optimization Services</h5>
 
 								<!-- Text -->
-								<p class="p-lg">In content optimization services, the SEO friendliness of the content is checked. It is similar to on-page services, but here, we not only analyze the on-page contents but also focus on contents that are created for social media posts.
-
-
-								</p>
+								<p class="p-lg">In content optimization services, the SEO friendliness of the content is checked. It is similar to on-page services, but here, we not only analyze the on-page contents but also focus on contents that are created for social media posts.</p>
 
 							</div>
 
@@ -451,13 +417,8 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Local SEO Service</h5>
 
 								<!-- Text -->
-								<p class="p-lg">We as a local SEO company, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
-
-
-								</p>
-
+								<p class="p-lg">We as a local SEO company, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.</p>
 							</div>
-
 						</div>
 					</div>
 
@@ -480,9 +441,7 @@ if (isset($_POST['send'])) {
 								<!-- Text -->
 								<p class="p-lg">In addition to local SEO services, we also help our abroad customers by providing international SEO services. Here, we optimize the site by using either global keywords or keywords focusing on particular regions. If your audience target is all over the world, then this service is perfect for your website.
 
-
 								</p>
-
 							</div>
 
 						</div>
@@ -504,10 +463,7 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-lg">People are using mobile apps more than websites and web apps, hence optimizing your mobile app or your website on the mobile screen is an important activity. So, mobile SEO is carried out here. We will help you to design a website that is perfect for mobile screens and also help you to optimize keywords based on mobile app searches.
-
-
 								</p>
-
 							</div>
 
 						</div>
@@ -522,17 +478,13 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
 								<span class="flaticon-layers"></span>
 							</div>
-
 							<!-- Text -->
 							<div class="fbox-txt-center">
-
 								<!-- Title -->
 								<h5 class="h5-md">Ecommerce SEO Services</h5>
 
 								<!-- Text -->
 								<p class="p-lg">A normal business website is different from an eCommerce website as the eCommerce site is all about selling different products to the customers. In eCommerce SEO services, we make a deep analysis to find the top and best keywords of the products that your customers are looking for. Based on this research, we will update your website on eCommerce keywords.
-
-
 								</p>
 
 							</div>
@@ -557,27 +509,15 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-lg">We expand our company by providing small business SEO and large business SEO services all over the world. From small-scale to large-scale business, we will help our customers to achieve wide branch reach and traffic conversion rate. Also, we are landing on all niches and uses a separate strategy for each niche.
-
-
 								</p>
 
 							</div>
-
 						</div>
 					</div>
-
-
-
 				</div>
 			</div> <!-- END FEATURES-3 WRAPPER -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-3 -->
-
-
-
-
 
 	<!-- CONTENT-5
 			============================================= -->
@@ -585,8 +525,6 @@ if (isset($_POST['send'])) {
 		<div class="container">
 			<div class="content-5-wrapper bg-whitesmoke">
 				<div class="row d-flex align-items-center">
-
-
 					<!-- TEXT BLOCK -->
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block left-column wow fadeInRight">
@@ -595,7 +533,7 @@ if (isset($_POST['send'])) {
 							<span class="section-id txt-upcase">Our SEO Process </span>
 
 							<!-- Title -->
-							<h2 class="h2-xs">How will you start your SEO process?</h2>
+							<h2 class="h2-xs txtredd">How will you start your SEO process?</h2>
 
 							<p class="p-lg">You can follow the simple steps given below:</p>
 
@@ -630,29 +568,20 @@ if (isset($_POST['send'])) {
 							</ol>
 						</div>
 					</div> <!-- END TEXT BLOCK -->
-
-
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
 							<img class="img-fluid" src="../images/how-will-start-business.png" alt="content-image">
 						</div>
 					</div>
-
-
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-5 -->
 
-
-
 	<!-- TESTIMONIALS-4
 			============================================= -->
-	<section id="reviews-4" class="rel reviews-section division">
-
+	<section id="reviews-4" class="rel pt-20 reviews-section division">
 
 		<!-- SECTION TITLE -->
 		<div class="container">
@@ -661,13 +590,12 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-60">
 
 						<!-- Title -->
-						<h2 class="h2-md">Stories From Our Customers</h2>
+						<h2 class="h2-md txtyelloww">Stories From Our Customers</h2>
 
 					</div>
 				</div>
 			</div>
 		</div>
-
 
 		<div class="reviews-4-holder">
 			<div class="container">
@@ -676,17 +604,14 @@ if (isset($_POST['send'])) {
 					<!-- TESTIMONIALS CAROUSEL -->
 					<div class="col-md-12">
 						<div class="owl-carousel owl-theme reviews-4-wrapper">
-
-
 							<!-- TESTIMONIAL #1 -->
 							<div class="review-4">
-
 
 								<!-- Text -->
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
+									<p class="p-lg txt-justify">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
 										also Search Engine Optimization and Google ads management. But most importantly they are great people and a pleasure to do
 										business with. I would definitely recommend their SEO services and Google Ads service to all existing and new business start-ups.
 									</p>
@@ -708,16 +633,10 @@ if (isset($_POST['send'])) {
 												<span class="flaticon-star-1"></span>
 												<span class="flaticon-star-half-empty"></span>
 											</div>
-
 										</div>
-
 									</div> <!-- End Testimonial Author -->
-
 								</div> <!-- End Text -->
-
 							</div> <!-- END TESTIMONIAL #1 -->
-
-
 							<!-- TESTIMONIAL #2 -->
 							<div class="review-4">
 
@@ -725,15 +644,12 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
+									<p class="p-lg txt-justify">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
 										Google and Facebook campaign… James takes care of the Digital Marketing of our Website. We are very happy with his work and
 										dedication. I would highly recommend his services to anyone in need of Digital Marketing Service.
 									</p>
-
 									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-
-
 										<!-- Testimonial Author -->
 										<div class="review-author">
 
@@ -748,13 +664,9 @@ if (isset($_POST['send'])) {
 												<span class="flaticon-star-1"></span>
 												<span class="flaticon-star-half-empty"></span>
 											</div>
-
 										</div>
-
 									</div> <!-- End Testimonial Author -->
-
 								</div> <!-- End Text -->
-
 							</div> <!-- END TESTIMONIAL #2 -->
 
 
@@ -765,7 +677,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
+									<p class="p-lg txt-justify">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
 										us on time. The marketing produced definitive and solid results. Everything was organized to perfection and delivered very
 										systematically. I cannot wait to work with James on the next expo and of course, on other projects!
 									</p>
@@ -789,11 +701,8 @@ if (isset($_POST['send'])) {
 											</div>
 
 										</div>
-
 									</div> <!-- End Testimonial Author -->
-
 								</div> <!-- End Text -->
-
 							</div> <!-- END TESTIMONIAL #3 -->
 
 
@@ -804,7 +713,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We recently worked with James and his team to get our brand-new website. It is fantastic.
+									<p class="p-lg txt-justify">We recently worked with James and his team to get our brand-new website. It is fantastic.
 										We loved working with them, they were really communicative and made sure we were always in the loop.
 										They took into ads account all of our opinions and our ideas for what we felt like the new campaign should be,
 										and honestly, we are impressed. We love the branding and we got more leads, it's amazing. We highly recommend!
@@ -828,11 +737,8 @@ if (isset($_POST['send'])) {
 												<span class="flaticon-star-1"></span>
 												<span class="flaticon-star-half-empty"></span>
 											</div>
-
 										</div>
-
 									</div> <!-- End Testimonial Author -->
-
 								</div> <!-- End Text -->
 
 							</div> <!-- END TESTIMONIAL #4 -->
@@ -840,20 +746,17 @@ if (isset($_POST['send'])) {
 
 							<!-- TESTIMONIAL #5 -->
 							<div class="review-4">
-
 								<!-- Text -->
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
+									<p class="p-lg txt-justify">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
 										business has evolved. From web strategy, to social media management and paid campaigns. We also utilize their marketing
 										automation offering and appreciate the assistance provided with the execution of our campaigns for all our services.
 									</p>
 
 									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-
-
 										<!-- Testimonial Author -->
 										<div class="review-author">
 
@@ -878,43 +781,29 @@ if (isset($_POST['send'])) {
 							</div> <!-- END TESTIMONIAL #5 -->
 						</div>
 					</div> <!-- END TESTIMONIALS CAROUSEL -->
-
-
 				</div>
 			</div> <!-- End container -->
 		</div>
-
-
 	</section> <!-- END TESTIMONIALS-4 -->
 
-
-
-
-	<!-- BRANDS-2
-	============================================= -->
+	<!-- BRANDS-2 ============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
-
-
-
 
 	<!-- FAQs-2
 			============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+	<section id="faqs-2" class="pt-30 faqs-section division">
 		<div class="container">
-
-
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
+				<div class="col-md-10 col-lg-10">
 					<div class="section-title title-02 mb-75">
 
 						<!-- Section ID -->
 						<span class="section-id txt-upcase">Frequently Asked Questions</span>
 
 						<!-- Title -->
-						<h2 class="h2-xs">Search Engine Optimization Service</h2>
+						<h2 class="h2-xs txtredd">Search Engine Optimization Service</h2>
 
 					</div>
 				</div>
@@ -924,13 +813,9 @@ if (isset($_POST['send'])) {
 			<!-- FAQs-2 QUESTIONS -->
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
-
-
 					<!-- QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-
-
 							<!-- QUESTION #1 -->
 							<div class="question wow fadeInUp">
 
@@ -943,7 +828,6 @@ if (isset($_POST['send'])) {
 
 							</div>
 
-
 							<!-- QUESTION #2 -->
 							<div class="question wow fadeInUp">
 
@@ -955,7 +839,6 @@ if (isset($_POST['send'])) {
 								</p>
 
 							</div>
-
 
 							<!-- QUESTION #3 -->
 							<div class="question wow fadeInUp">
@@ -970,20 +853,12 @@ if (isset($_POST['send'])) {
 								</p>
 
 							</div>
-
-
 						</div>
 					</div> <!-- END QUESTIONS HOLDER -->
-
 
 					<!-- QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pl-15">
-
-
-
-
-
 							<!-- QUESTION #3 -->
 							<div class="question wow fadeInUp">
 
@@ -1042,12 +917,8 @@ if (isset($_POST['send'])) {
 								</p>
 
 							</div>
-
-
 						</div>
 					</div> <!-- END QUESTIONS HOLDER -->
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FAQs-2 QUESTIONS -->
 
@@ -1069,7 +940,7 @@ if (isset($_POST['send'])) {
 			============================================= -->
 	<section id="cta-5" class="cta-section division ">
 		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
+			<div class="rel bg-01 cta-5-wrapper">
 				<div class="row justify-content-center">
 
 
@@ -1086,7 +957,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1116,8 +987,8 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Result Driven SEO Company In India",
-			"alternateName": "seo company india, seo services india, search engine optimization india, seo agency india"/>
-			"url": "https://www.clickboxagency.com/seo-company-in-india/"
+			"alternateName": "seo company india, seo services india, search engine optimization india, seo agency india" / >
+				"url": "https://www.clickboxagency.com/seo-company-in-india/"
 		}
 	</script>
 

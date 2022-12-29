@@ -587,4 +587,11 @@
   <priority>0.8</priority>
   <changefreq>daily</changefreq>
 </url>
+
+<url>
+  <loc>https://clickboxagency.com/blog/logo-design-process/</loc>
+   <lastmod>2022-12-30</lastmod>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
 </urlset>

@@ -91,7 +91,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="../images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -104,7 +104,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/b2b-marketing-strategy">Best Guide to B2B Marketing Strategies - Follow These 10 Strategies</a>
+							<a href="https://clickboxagency.com/b2b-marketing-strategy/">Best Guide to B2B Marketing Strategies - Follow These 10 Strategies</a>
 						</h5>
 
 						<!-- Text -->
@@ -112,7 +112,7 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="../b2b-marketing-strategy">
+						<div class="post-meta"><a href="https://clickboxagency.com/b2b-marketing-strategy/">
 								<p class="p-md">Read More</p>
 							</a></div>
 
@@ -146,7 +146,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/digital-marketing-specialist.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/digital-marketing-specialist.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -156,7 +156,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/become-digital-marketing-specialist">
+										<a href="https://clickboxagency.com/become-digital-marketing-specialist/">
 											How Do I Become an Effective Digital Marketing Specialist?
 										</a>
 									</h5>
@@ -179,7 +179,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="../images/blog/how-to-create-content-for-websites.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-create-content-for-websites.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>
@@ -189,7 +189,7 @@
 
 									<!-- Post Tag -->
 									<h5 class="h5-md">
-										<a href="../create-content-for-website">
+										<a href="https://clickboxagency.com/create-content-for-website/">
 											How to Create Content for Websites?
 										</a>
 									</h5>
@@ -227,8 +227,8 @@
 									<span class="flaticon-back"></span>
 								</a>
 							</li>
-							<li class="page-item active" aria-current="page"><a class="page-link" href="../#">1</a></li>
-							<li class="page-item"><a class="page-link" href="../#">2</a></li>
+							<li class="page-item active" aria-current="page"><a class="page-link" href="https://clickboxagency.com/blogs/">1</a></li>
+							<li class="page-item"><a class="page-link" href="https://clickboxagency.com/blog-page-one/">2</a></li>
 							<li class="page-item"><a class="page-link" href="../#">3</a></li>
 							<li class="page-item">
 								<a class="page-link" href="../#" aria-label="Next">
@@ -263,7 +263,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

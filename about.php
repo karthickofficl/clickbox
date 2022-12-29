@@ -86,14 +86,10 @@
 		</div> <!-- End bg-inner -->
 	</section> <!-- END ABOUT-2 -->
 
-
-
-
 	<!-- FEATURES-4
 			============================================= -->
 	<section id="features-4" class="wide-60 features-section division">
 		<div class="container">
-
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
@@ -292,11 +288,8 @@
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
 
-
-	<!-- DIVIDER LINE -->
+<!-- DIVIDER LINE -->
 	<hr class="divider">
-
-
 
 	<!-- CONTENT-3
 			============================================= -->
@@ -909,8 +902,6 @@
 				</div>
 			</div> <!-- End container -->
 		</div>
-
-
 	</section> <!-- END TESTIMONIALS-4 -->
 
 	<!-- CALL TO ACTION-5

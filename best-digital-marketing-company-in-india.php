@@ -151,12 +151,12 @@ if (isset($_POST['send'])) {
 							</div>
 							</br>
 							<div class="col-md-12">
-								<input type="number" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
+								<input type="text" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
 							</div>
 							</br>
 							<!-- Form Button -->
 							<div class="col-md-12 form-btn mt-15">
-								<button type="submit" class="btn btn-md btn-skyblue tra-grey-hover submit" name="send">Get Free Digital Audit!</button>
+								<button type="submit" class="btn btn-md btn-skyblue red-hover submit" name="send">Get Free Digital Audit!</button>
 							</div>
 
 							<!-- Form Message -->
@@ -195,8 +195,6 @@ if (isset($_POST['send'])) {
 						<img class="img-fluid" src="../images/result-oriented-digitalmarketing.png" alt="hero-image">
 					</div>
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END HERO-18 -->
@@ -222,21 +220,19 @@ if (isset($_POST['send'])) {
 				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
-
-
 						<!-- Title -->
-						<h2 class="h2-xs">360° Digital Marketing Service</h2>
+						<h2 class="h2-xs txtredd">360° Digital Marketing Service</h2>
 
 						<!-- List -->
 						<ul class="simple-list">
 
 							<li class="list-item">
-								<p class="p-lg">With new technologies introduced and people are adapted to new changes in the world, the marketing world is also changing now. We at ClickBox Agency are updating ourselves with recent marketing trends to increase our clients’ ROI.
+								<p class="p-lg txt-justify">With new technologies introduced and people are adapted to new changes in the world, the marketing world is also changing now. We at ClickBox Agency are updating ourselves with recent marketing trends to increase our clients’ ROI.
 								</p>
 							</li>
 
 							<li class="list-item">
-								<p class="p-lg">ClickBox Agency is the best digital marketing company in India and our marketers are working towards different marketing methods that meet our client needs.</p>
+								<p class="p-lg txt-justify">ClickBox Agency is the best digital marketing company in India and our marketers are working towards different marketing methods that meet our client needs.</p>
 							</li>
 
 							<li class="list-item">
@@ -245,7 +241,7 @@ if (isset($_POST['send'])) {
 							</li>
 
 							<li class="list-item">
-								<p class="p-lg">Want to promote your products or services online? Be a part of our digital marketing team.
+								<p class="p-lg txt-justify">Want to promote your products or services online? Be a part of our digital marketing team.
 								</p>
 							</li>
 
@@ -257,8 +253,6 @@ if (isset($_POST['send'])) {
 
 					</div>
 				</div> <!-- END TEXT BLOCK -->
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-2 -->
@@ -272,18 +266,14 @@ if (isset($_POST['send'])) {
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
+				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-80">
 
 						<!-- Title -->
-						<h2 class="h2-md">Our ROI Driven Digital Marketing Services</h2>
+						<h2 class="h2-md txtyelloww">Our ROI Driven Digital Marketing Services</h2>
 
 						<!-- Text -->
-						<p class="p-xl">As one of the professional digital marketing firms in India, we provide only practically working marketing services to our clients. Our services are as follows:
-
-
-
-						</p>
+						<p class="p-xl">As one of the professional digital marketing firms in India, we provide only practically working marketing services to our clients. Our services are as follows:</p>
 
 					</div>
 				</div>
@@ -317,9 +307,7 @@ if (isset($_POST['send'])) {
 									Our professional SEO services include the process of ranking your website position at top of the search engine results, that too organically.
 
 								</p>
-
 							</div>
-
 						</div>
 					</div>
 
@@ -371,9 +359,7 @@ if (isset($_POST['send'])) {
 									If you want immediate traffic, then paid ads are the wisest way. Our PPC Ads services include Google Ads or YouTube Ads; also includes social media ads- depending on your website niche.
 
 								</p>
-
 							</div>
-
 						</div>
 					</div>
 
@@ -529,19 +515,10 @@ if (isset($_POST['send'])) {
 
 						</div>
 					</div>
-
-
-
 				</div>
 			</div> <!-- END FEATURES-3 WRAPPER -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-3 -->
-
-
-
-
 
 	<!-- CONTENT-5
 			============================================= -->
@@ -559,7 +536,7 @@ if (isset($_POST['send'])) {
 							<span class="section-id txt-upcase">Digital Marketing Process </span>
 
 							<!-- Title -->
-							<h2 class="h2-xs">Our Digital Marketing Process </h2>
+							<h2 class="h2-xs txtbluee">Our Digital Marketing Process </h2>
 
 							<p class="p-lg">Start your digital marketing process just in a minute: </p>
 
@@ -597,22 +574,14 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid" src="../images/our-digital-marketing-process.png" alt="content-image">
 						</div>
 					</div>
-
-
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-5 -->
 
-
-
-
-
 	<!-- TESTIMONIALS-4
 			============================================= -->
-	<section id="reviews-4" class="rel reviews-section division">
+	<section id="reviews-4" class="rel pt-30 reviews-section division">
 
 
 		<!-- SECTION TITLE -->
@@ -622,7 +591,7 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-60">
 
 						<!-- Title -->
-						<h2 class="h2-md">Stories From Our Customers</h2>
+						<h2 class="h2-md txtyelloww">Stories From Our Customers</h2>
 
 					</div>
 				</div>
@@ -637,17 +606,13 @@ if (isset($_POST['send'])) {
 					<!-- TESTIMONIALS CAROUSEL -->
 					<div class="col-md-12">
 						<div class="owl-carousel owl-theme reviews-4-wrapper">
-
-
 							<!-- TESTIMONIAL #1 -->
 							<div class="review-4">
-
-
 								<!-- Text -->
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
+									<p class="p-lg txt-justify">ClickBox Agency provided our new business in various countries, with amazing web design for our company and
 										also Search Engine Optimization and Google ads management. But most importantly they are great people and a pleasure to do
 										business with. I would definitely recommend their SEO services and Google Ads service to all existing and new business start-ups.
 									</p>
@@ -686,7 +651,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
+									<p class="p-lg txt-justify">ClickBox Agency Team, has done the SEO work for our website www.efieldData.com and he is also running our
 										Google and Facebook campaign… James takes care of the Digital Marketing of our Website. We are very happy with his work and
 										dedication. I would highly recommend his services to anyone in need of Digital Marketing Service.
 									</p>
@@ -726,7 +691,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
+									<p class="p-lg txt-justify">We were truly impressed! Their social media marketing work was excellent too. All the deliverables reached
 										us on time. The marketing produced definitive and solid results. Everything was organized to perfection and delivered very
 										systematically. I cannot wait to work with James on the next expo and of course, on other projects!
 									</p>
@@ -765,7 +730,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">We recently worked with James and his team to get our brand-new website. It is fantastic.
+									<p class="p-lg txt-justify">We recently worked with James and his team to get our brand-new website. It is fantastic.
 										We loved working with them, they were really communicative and made sure we were always in the loop.
 										They took into ads account all of our opinions and our ideas for what we felt like the new campaign should be,
 										and honestly, we are impressed. We love the branding and we got more leads, it's amazing. We highly recommend!
@@ -806,7 +771,7 @@ if (isset($_POST['send'])) {
 								<div class="review-4-txt">
 
 									<!-- Text -->
-									<p class="p-lg">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
+									<p class="p-lg txt-justify">The ClickBox team has been a solid advertising and marketing partner for a variety of needs as my
 										business has evolved. From web strategy, to social media management and paid campaigns. We also utilize their marketing
 										automation offering and appreciate the assistance provided with the execution of our campaigns for all our services.
 									</p>
@@ -839,42 +804,30 @@ if (isset($_POST['send'])) {
 							</div> <!-- END TESTIMONIAL #5 -->
 						</div>
 					</div> <!-- END TESTIMONIALS CAROUSEL -->
-
-
 				</div>
 			</div> <!-- End container -->
 		</div>
-
-
 	</section> <!-- END TESTIMONIALS-4 -->
 
-
-
-
-	<!-- BRANDS-2
-============================================= -->
+	<!-- BRANDS-2 ============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
-
-
 
 	<!-- FAQs-2
 			============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+	<section id="faqs-2" class="pt-30 faqs-section division">
 		<div class="container">
-
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
+				<div class="col-md-10 col-lg-10">
 					<div class="section-title title-02 mb-75">
 
 						<!-- Section ID -->
 						<span class="section-id txt-upcase">Frequently Asked Questions</span>
 
 						<!-- Title -->
-						<h2 class="h2-xs">Top Digital Marketing Service India</h2>
+						<h2 class="h2-xs txtredd">Top Digital Marketing Service India</h2>
 
 					</div>
 				</div>
@@ -885,12 +838,9 @@ if (isset($_POST['send'])) {
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
 
-
 					<!-- QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-
-
 							<!-- QUESTION #1 -->
 							<div class="question wow fadeInUp">
 
@@ -898,7 +848,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">What is digital marketing?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">This is the most basic question that most of the clients’ asked. Digital marketing is the process of promoting your brand online through free and paid methods. With digital marketing, you can reach your customers easily online, and in any regions of the world. Thus, you can get more traffic and sales to your website.
+								<p class="p-lg txt-justify">This is the most basic question that most of the clients’ asked. Digital marketing is the process of promoting your brand online through free and paid methods. With digital marketing, you can reach your customers easily online, and in any regions of the world. Thus, you can get more traffic and sales to your website.
 								</p>
 
 							</div>
@@ -911,7 +861,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">When will my business rank top on Google?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">As said above, if your website is new, then it takes a minimum of 3 to 6 months to rank top on search engines like Google. But if your website is already ranking on the second page of SERPs, then our marketers will help you to rank on top within a short time. (like minimum 1month).
+								<p class="p-lg txt-justify">As said above, if your website is new, then it takes a minimum of 3 to 6 months to rank top on search engines like Google. But if your website is already ranking on the second page of SERPs, then our marketers will help you to rank on top within a short time. (like minimum 1month).
 								</p>
 
 							</div>
@@ -933,7 +883,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Which digital marketing service is the best for my business?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">Among the different marketing methods, if you want immediate traffic, then you can implement PPC Ads. But, SEO and SMM are the best for less expensive marketing plans.
+								<p class="p-lg txt-justify">Among the different marketing methods, if you want immediate traffic, then you can implement PPC Ads. But, SEO and SMM are the best for less expensive marketing plans.
 
 									<br>On the whole, it is appreciated to implement all of our digital marketing services (SEO, SMM, Content, Email, Paid Ads, etc.,) to improve the quality of your brand. Because every service leads to more brand reach.
 								</p>
@@ -947,7 +897,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">How do I start digital marketing?</h5>
 
 								<!-- Answer -->
-								<p class="p-lg">It is simple. When you merge with our team, our marketers will analyze your website requirements and take steps according to them. We will explain the best digital marketing strategy that your website is needed.
+								<p class="p-lg txt-justify">It is simple. When you merge with our team, our marketers will analyze your website requirements and take steps according to them. We will explain the best digital marketing strategy that your website is needed.
 								</p>
 
 							</div>
@@ -995,7 +945,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>

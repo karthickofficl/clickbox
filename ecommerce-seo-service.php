@@ -130,16 +130,12 @@ if (isset($_POST['send'])) {
 	<section id="hero-4" class="bg-scroll hero-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
-
-
 				<!-- HERO TEXT -->
 				<div class="col-md-6">
 					<div class="hero-4-txt white-color">
 
 						<!-- Title -->
 						<h2 class="h2-md">Improve Your Traffic With ClickBox’s eCommerce SEO Service</h2>
-
-
 					</div>
 				</div> <!-- END HERO TEXT -->
 
@@ -181,7 +177,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Form Button -->
 							<div class="col-md-12 form-btn mt-10">
-								<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send">Get Started
+								<button type="submit" class="btn btn-md btn-pink yellow-hover submit" name="send">Get Started
 									Now</button>
 							</div>
 
@@ -201,8 +197,6 @@ if (isset($_POST['send'])) {
 
 					</div>
 				</div> <!-- END HERO REQUEST FORM -->
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 
@@ -221,22 +215,16 @@ if (isset($_POST['send'])) {
 	<section id="content-6" class="content-6 pt-40 content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
-
-
 				<!-- TEXT BLOCK -->
 				<div class="col-md-6 col-lg-7">
 					<div class="txt-block left-column wow fadeInRight">
 
 						<!-- TEXT BOX -->
 						<div class="txt-box mb-30">
-
-
 							<!-- Text -->
-							<p class="p-lg">The success of your online store hinges on how simple it is for customers to find your goods. The simplicity of online shopping has increased competitiveness in this market.</p>
-
-
-							<p class="p-lg">We offer a complete and effective SEO eCommerce strategy to boost brand awareness, rank your e-commerce website higher in search results, and bring in high-quality customers who will increase sales and revenue. We employ eCommerce marketing strategy, SEO audits and checklists to ensure your SEO for eCommerce website is functionally sound and in good operating condition.</p>
-							<p class="p-lg">Traditional and digital trade is becoming more and more entwined. According to statistics, 63% of shopping experiences start online. This means that regardless of whether clients make their final purchase online or in a physical store, their online experience will determine whether or not they choose your brand. Online shopping has had a tremendous impact on the global economy over time. For conventional merchants, this led to the closure of several physical stores.</p>
+							<p class="p-lg txt-justify">The success of your online store hinges on how simple it is for customers to find your goods. The simplicity of online shopping has increased competitiveness in this market.</p>
+							<p class="p-lg txt-justify">We offer a complete and effective SEO eCommerce strategy to boost brand awareness, rank your e-commerce website higher in search results, and bring in high-quality customers who will increase sales and revenue. We employ eCommerce marketing strategy, SEO audits and checklists to ensure your SEO for eCommerce website is functionally sound and in good operating condition.</p>
+							<p class="p-lg txt-justify">Traditional and digital trade is becoming more and more entwined. According to statistics, 63% of shopping experiences start online. This means that regardless of whether clients make their final purchase online or in a physical store, their online experience will determine whether or not they choose your brand. Online shopping has had a tremendous impact on the global economy over time. For conventional merchants, this led to the closure of several physical stores.</p>
 
 						</div>
 					</div>
@@ -249,8 +237,6 @@ if (isset($_POST['send'])) {
 						<img class="img-fluid" src="../images/ecommerce-seo-01.png" alt="eCommerce-seo-strategy ">
 					</div>
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-1 -->
@@ -265,8 +251,6 @@ if (isset($_POST['send'])) {
 			<div class="top-row pb-30">
 
 				<div class="row d-flex align-items-center">
-
-
 					<!-- TEXT BLOCK -->
 					<div class="col-md-7 col-lg-6 order-last order-md-2">
 						<div class="txt-block left-column wow fadeInRight">
@@ -275,20 +259,15 @@ if (isset($_POST['send'])) {
 							<div class="txt-box mb-20">
 
 								<!-- Title -->
-								<h5 class="h5-lg">Acquire More Customers With Our eCommerce SEO</h5>
+								<h5 class="h5-lg txtyelloww">Acquire More Customers With Our eCommerce SEO</h5>
 
 								<!-- Text -->
-								<p class="p-lg">Consumer needs are changing quickly as a result of the internet and technological improvements. Customers today prefer making purchases in the simplest and fastest manner possible while still leading busy lives. In reality, studies indicate that 1.8 billion consumers use eCommerce marketing services to buy things globally.</p>
-								<p class="p-lg">Online retailers offer a level of ease that traditional retailers can only dream of matching. This indicates that eCommerce marketing SEO services are rapidly becoming a requirement for many retailers and business-to-business (B2B) firms.</p>
-
+								<p class="p-lg txt-justify">Consumer needs are changing quickly as a result of the internet and technological improvements. Customers today prefer making purchases in the simplest and fastest manner possible while still leading busy lives. In reality, studies indicate that 1.8 billion consumers use eCommerce marketing services to buy things globally.</p>
+								<p class="p-lg txt-justify">Online retailers offer a level of ease that traditional retailers can only dream of matching. This indicates that eCommerce marketing SEO services are rapidly becoming a requirement for many retailers and business-to-business (B2B) firms.</p>
 
 							</div>
-
-
 						</div>
 					</div> <!-- END TEXT BLOCK -->
-
-
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6 order-first order-md-2">
 						<div class="img-block right-column wow fadeInLeft">
@@ -299,8 +278,6 @@ if (isset($_POST['send'])) {
 
 				</div>
 			</div> <!-- END TOP ROW -->
-
-
 
 			<!-- BOTTOM ROW -->
 			<div class="bottom-row">
@@ -313,24 +290,20 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid" src="../images/ecommerce-seo-03.png" alt="ecommerce-seo-services-for-business-owners">
 						</div>
 					</div>
-
-
 					<!-- TEXT BLOCK -->
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInLeft">
 							<!-- Title -->
-							<h5 class="h5-lg">What Are the Pros of Ecommerce SEO Services for Business Owners?</h5>
-							<p class="p-lg">Your business troubles online won't be resolved by just owning an e-commerce site. Your website needs to be highlighted on well-known search engines. Your website rating needs to be raised if you want to be seen online. Only an ongoing SEO effort can improve this ranking.</p>
-							<p class="p-lg">Ecommerce SEO is a service that would really benefit your company and drive massive amounts of traffic to your website, causing your company to expand and make more money than ever each month and every year. ClickBox is an eCommerce SEO agency that has gained recognition and produces excellent projects on time and on budget. We have a pool of delighted clients who can attest to the quality of our services.</p>
-							<p class="p-lg">Depending on the keywords that your potential or target clients choose, we guarantee to offer the greatest results and plenty of traffic to your website. It is imperative to carefully plan and carry out your strategies in order to increase traffic to your website. Finding relevant keywords, which make up 70% of the job, will increase traffic to your website and allow you to focus on your target audience and convert potential customers into paying customers.</p>
+							<h5 class="h5-lg txtredd">What Are the Pros of Ecommerce SEO Services for Business Owners?</h5>
+							<p class="p-lg txt-justify" >Your business troubles online won't be resolved by just owning an e-commerce site. Your website needs to be highlighted on well-known search engines. Your website rating needs to be raised if you want to be seen online. Only an ongoing SEO effort can improve this ranking.</p>
+							<p class="p-lg txt-justify">Ecommerce SEO is a service that would really benefit your company and drive massive amounts of traffic to your website, causing your company to expand and make more money than ever each month and every year. ClickBox is an eCommerce SEO agency that has gained recognition and produces excellent projects on time and on budget. We have a pool of delighted clients who can attest to the quality of our services.</p>
+							<p class="p-lg txt-justify">Depending on the keywords that your potential or target clients choose, we guarantee to offer the greatest results and plenty of traffic to your website. It is imperative to carefully plan and carry out your strategies in order to increase traffic to your website. Finding relevant keywords, which make up 70% of the job, will increase traffic to your website and allow you to focus on your target audience and convert potential customers into paying customers.</p>
 
 						</div>
 					</div> <!-- END TEXT BLOCK -->
 				</div>
 
 			</div> <!-- END BOTTOM ROW -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-3 -->
 
@@ -350,7 +323,6 @@ if (isset($_POST['send'])) {
 				</div>
 			</div>
 			<div class="row d-flex align-items-center">
-
 
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
@@ -375,8 +347,6 @@ if (isset($_POST['send'])) {
 
 					</div>
 				</div> <!-- END TEXT BLOCK -->
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-2 -->
@@ -393,7 +363,7 @@ if (isset($_POST['send'])) {
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-02 mb-85">
 						<!-- Title -->
-						<h3 class="h3-xs">Our eCommerce SEO Services</h3>
+						<h3 class="h3-xs txtbluee ">Our eCommerce SEO Services</h3>
 
 					</div>
 				</div>
@@ -403,15 +373,13 @@ if (isset($_POST['send'])) {
 			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center">
 				<div class="row row-cols-1 row-cols-md-2">
-
-
 					<!-- FEATURE BOX #1 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-05.png" alt="research-and-optimization-of-keywords" />
+								<img class="img-size2" src="../images/ecommerce-seo-05.png" alt="research-and-optimization-of-keywords" />
 							</div>
 
 							<!-- Title -->
@@ -431,7 +399,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-06.png" alt="ecommerce-pay-per-click" />
+								<img class="img-size2" src="../images/ecommerce-seo-06.png" alt="ecommerce-pay-per-click" />
 							</div>
 
 							<!-- Title -->
@@ -451,7 +419,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-07.png" alt="local-seo" />
+								<img class="img-size2" src="../images/ecommerce-seo-07.png" alt="local-seo" />
 							</div>
 
 							<!-- Title -->
@@ -470,7 +438,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-08.png" alt="technical-seo" />
+								<img class="img-size2" src="../images/ecommerce-seo-08.png" alt="technical-seo" />
 							</div>
 
 							<!-- Title -->
@@ -489,7 +457,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-09.png" alt="eCommerce-website-design" />
+								<img class="img-size2" src="../images/ecommerce-seo-09.png" alt="eCommerce-website-design" />
 							</div>
 
 							<!-- Title -->
@@ -508,11 +476,11 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-10.png" alt="marketing-automation-via-email" />
+								<img class="img-size2" src="../images/ecommerce-seo-10.png" alt="marketing-automation-via-email" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Marketing Automation via Email</h5>
+							<h5 class="h5-md">Marketing Automation Via Email</h5>
 
 							<!-- Text -->
 							<p class="p-lg">Through automated email marketing, we assist you in generating more revenue and gaining more loyal consumers. Based on customer interests and purchases, we customize emails as a renowned eCommerce SEO business. Our SEO experts assess your email marketing efforts, write responsive, well-designed emails, and maintain contact with your devoted customers.
@@ -527,7 +495,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-11.png" alt="content-writing" />
+								<img class="img-size2" src="../images/ecommerce-seo-11.png" alt="content-writing" />
 							</div>
 
 							<!-- Title -->
@@ -547,7 +515,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-12.png" alt="conversion-rate-optimization" />
+								<img class="img-size2" src="../images/ecommerce-seo-12.png" alt="conversion-rate-optimization" />
 							</div>
 
 							<!-- Title -->
@@ -566,7 +534,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-13.png" alt="on-page seo" />
+								<img class="img-size2" src="../images/ecommerce-seo-13.png" alt="on-page seo" />
 							</div>
 
 							<!-- Title -->
@@ -585,7 +553,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ecommerce-seo-14.png" alt="off-pafe-seo" />
+								<img class="img-size2" src="../images/ecommerce-seo-14.png" alt="off-pafe-seo" />
 							</div>
 
 							<!-- Title -->
@@ -604,15 +572,12 @@ if (isset($_POST['send'])) {
 
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-8 -->
-
-
-
 	<!-- DIVIDER LINE -->
 	<hr class="divider">
 
 	<!-- FAQs-2>
 ============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+	<section id="faqs-2" class="pt-30 faqs-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
@@ -676,11 +641,7 @@ if (isset($_POST['send'])) {
 													<p class="p-lg"> developing an engaging website.
 													</p>
 												</li>
-
-
 											</ul>
-
-
 										</div>
 									</div>
 								</div>
@@ -760,12 +721,10 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
-
-
 				</div>
 			</div> <!-- End row -->
 		</div> <!-- End container -->
