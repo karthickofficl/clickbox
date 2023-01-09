@@ -33,17 +33,17 @@
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="https://www.clickboxagency.com/b2b-marketing-strategy/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/pricing/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="https://www.clickboxagency.com/b2b-marketing-strategy/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/pricing/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/b2b-marketing-strategy/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/pricing/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Digital Marketing Packages – Custom Price Plans for Your Brand" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 
@@ -65,15 +65,8 @@
 
 <body>
 
-
-
-
 	<?php include('header.php') ?>
-
-
-
-
-	<!-- PRICING-2
+<!-- PRICING-2
 			============================================= -->
 	<section id="pricing-2" class="bg-snow pb-60 inner-page-hero pricing-section division">
 		<div class="container">
@@ -440,8 +433,8 @@
 						<div class="col-lg-4">
 							<div class="text-end">
 								<div class="cta-4-btn text-center">
-									<a href="pricing.html" class="btn btn-skyblue tra-grey-hover">Get Started Now</a>
-									<p><a href="faqs.html">Read The FAQs</a></p>
+									<a href="https://clickboxagency.com/pricing/" class="btn btn-skyblue tra-grey-hover">Get Started Now</a>
+									<p><a href="https://clickboxagency.com/faqs/">Read The FAQs</a></p>
 								</div>
 							</div>
 						</div>
@@ -623,7 +616,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Have more questions? <a href="contacts.html">Ask your question here</a></h5>
+						<h5 class="h5-sm">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -1249,10 +1242,10 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/b2b-marketing-strategy/"
+			"url": "https://www.clickboxagency.com/pricing/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://www.clickboxagency.com/b2b-marketing-strategy/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/pricing/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -1262,8 +1255,8 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Digital Marketing Packages – Custom Price Plans for Your Brand",
-			"alternateName": "digital marketing packages, digital marketing pricing packages, digital marketing plans, digital marketing pricing, digital marketing cost, digital marketing price quotation, digital marketing monthly plan" / >
-				"url": "https://www.clickboxagency.com/b2b-marketing-strategy/"
+			"alternateName": "digital marketing packages, digital marketing pricing packages, digital marketing plans, digital marketing pricing, digital marketing cost, digital marketing price quotation, digital marketing monthly plan",
+				"url": "https://www.clickboxagency.com/pricing/"
 		}
 	</script>
 
@@ -1272,10 +1265,10 @@
 			"@context": "https://schema.org",
 			"@type": "Organization",
 			"name": "Digital Marketing Packages – Custom Price Plans for Your Brand",
-			"url": "https://www.clickboxagency.com/b2b-marketing-strategy/",
+			"url": "https://www.clickboxagency.com/pricing/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing..." / >
+			"description": "Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing...",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

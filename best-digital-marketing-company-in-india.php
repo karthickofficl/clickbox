@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/best-digital-marketing-company-in-india/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best Digital Marketing Company In India" />
 
@@ -115,7 +115,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Want to promote your business to your target audience? ClickBox Agency is one of the top digital companies in India that helps you to get traffic and sales. Let’s connect!" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -192,7 +192,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-md-5 col-lg-6">
 					<div class="hero-18-img wow fadeInLeft">
-						<img class="img-fluid" src="../images/result-oriented-digitalmarketing.png" alt="hero-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images/result-oriented-digitalmarketing.png" alt="hero-image">
 					</div>
 				</div>
 			</div> <!-- End row -->
@@ -212,7 +212,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/best-digital-marketing360.png" alt="video-preview">
+						<img class="img-fluid" src="https://clickboxagency.com/images/best-digital-marketing360.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -571,7 +571,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/our-digital-marketing-process.png" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images/our-digital-marketing-process.png" alt="content-image">
 						</div>
 					</div>
 				</div>
@@ -915,7 +915,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Let’s talk and work together to convey your business to the right audience! <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Let’s talk and work together to convey your business to the right audience! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>
@@ -945,7 +945,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -965,7 +965,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/best-digital-marketing-company-in-india/"
+			"url": "https://www.clickboxagency.com/best-digital-marketing-company-in-india/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/best-digital-marketing-company-in-india/find?q={search_term_string}",
@@ -978,7 +978,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Best Digital Marketing Company In India",
-			"alternateName": "best digital marketing company india, best digital marketing company india, best digital marketing service india, best digital marketing agency india, top marketing companies in india, top digital marketing companies in india, best digital marketing company in india, digital marketing consultant in india, best digital marketing agency in india, digital marketing specialist india, best digital marketing services india, digital marketing firm india" / >
+			"alternateName": "best digital marketing company india, best digital marketing company india, best digital marketing service india, best digital marketing agency india, top marketing companies in india, top digital marketing companies in india, best digital marketing company in india, digital marketing consultant in india, best digital marketing agency in india, digital marketing specialist india, best digital marketing services india, digital marketing firm india",
 				"url": "https://www.clickboxagency.com/best-digital-marketing-company-in-india/"
 		}
 	</script>
@@ -991,7 +991,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/best-digital-marketing-company-in-india/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Want to promote your business to your target audience? ClickBox Agency is one of the top digital companies in India that helps you to get traffic and sales. Let’s connect!" / >
+			"description": "Want to promote your business to your target audience? ClickBox Agency is one of the top digital companies in India that helps you to get traffic and sales. Let’s connect!",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
@@ -1019,7 +1019,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://clickboxagency.com/js/custom.js"></script>
 </body>
 
 </html>

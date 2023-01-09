@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/ui-ux-design-course-coimbatore/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="UI UX Design Course With Placement Assistance | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Ready to Expert in UI UX Design? Learn UI UX design Course in Coimbatore Best Institute from Industry Experts with 100% Placement and Internship." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -241,7 +241,7 @@ if (isset($_POST['send'])) {
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/accelerate-your-knowledge.png" alt="content-image">
+								<img class="img-fluid" src="https://clickboxagency.com/images/accelerate-your-knowledge.png" alt="content-image">
 							</div>
 						</div>
 
@@ -276,9 +276,6 @@ if (isset($_POST['send'])) {
 		</div> <!-- END FEATURES-4 WRAPPER -->
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
-
-
-
 	<!-- CONTENT-6
 			============================================= -->
 	<section id="content-6" class="content-6  content-section division">
@@ -345,8 +342,6 @@ if (isset($_POST['send'])) {
 						<p class="p-lg">You will take part in a number of brief projects in this Specialization, both visual and non-visual, to apply the knowledge you have learned. These exercises range from organizing and structuring screen-based content to setting goals and strategy to producing wireframes and visual mockups. By the end of this Specialization, you will have created a complex website's detailed plan as well as a mid-level digital prototype with simulated functionality.</p>
 					</div>
 				</div>
-
-
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-6 col-lg-7">
 					<div class="img-block right-column wow fadeInLeft">
@@ -368,8 +363,6 @@ if (isset($_POST['send'])) {
 				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6 order-last order-lg-1 order-md-1">
 					<div class="txt-block left-column wow fadeInLeft">
-
-
 						<!-- Title -->
 						<h4 class="h2-xs">UI UX Course Skills You Will Learn</h4>
 
@@ -927,7 +920,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -956,7 +949,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -973,7 +966,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/ui-ux-design-course-coimbatore/"
+			"url": "https://www.clickboxagency.com/ui-ux-design-course-coimbatore/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/ui-ux-design-course-coimbatore/find?q={search_term_string}",
@@ -986,8 +979,8 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "UI UX Design Course With Placement Assistance | ClickBox",
-			"alternateName": "ui ux design course, ux design course, ui design course, ux design institute, ui ux design course coimbatore, ux design course coimbatore, ux design institute coimbatore, ui design course coimbatore, ui ux design course with placement, ui ux designer course with placement" / >
-				"url": "https://www.clickboxagency.com/ui-ux-design-course-coimbatore/"
+			"alternateName": "ui ux design course, ux design course, ui design course, ux design institute, ui ux design course coimbatore, ux design course coimbatore, ux design institute coimbatore, ui design course coimbatore, ui ux design course with placement, ui ux designer course with placement",
+			"url": "https://www.clickboxagency.com/ui-ux-design-course-coimbatore/"
 		}
 	</script>
 
@@ -999,8 +992,8 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/ui-ux-design-course-coimbatore/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Ready to Expert in UI UX Design? Learn UI UX design Course in Coimbatore Best Institute from Industry Experts with 100% Placement and Internship." / >
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Ready to Expert in UI UX Design? Learn UI UX design Course in Coimbatore Best Institute from Industry Experts with 100% Placement and Internship.",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

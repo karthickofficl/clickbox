@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/website-redesigning-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content=" Professional Website Redesign Service | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="For expanding online businesses, ClickBox provides a website redesign service. The greatest UX strategies are the main emphasis of our website redesign and development process. Read more…" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -763,7 +763,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -797,7 +797,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -812,7 +812,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/website-redesigning-service/"
+			"url": "https://www.clickboxagency.com/website-redesigning-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/website-redesigning-service/find?q={search_term_string}",
@@ -825,7 +825,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Professional Website Redesign Service | ClickBox",
-			"alternateName": "website redesign, website redesign service, website redesign company, website redesign cost, site redesign, revamping website " / >
+			"alternateName": "website redesign, website redesign service, website redesign company, website redesign cost, site redesign, revamping website ",
 				"url": "https://www.clickboxagency.com/website-redesigning-service/"
 		}
 	</script>
@@ -838,7 +838,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/website-redesigning-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "For expanding online businesses, ClickBox provides a website redesign service. The greatest UX strategies are the main emphasis of our website redesign and development process. Read more…" / >
+			"description": "For expanding online businesses, ClickBox provides a website redesign service. The greatest UX strategies are the main emphasis of our website redesign and development process. Read more…",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

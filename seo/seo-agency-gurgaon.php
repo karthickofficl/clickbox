@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-gurgaon/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Agency Gurgaon" />
 
@@ -115,7 +115,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 

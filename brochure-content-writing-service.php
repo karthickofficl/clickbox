@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/brochure-content-writing-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional Brochure Content Writing Services | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="ClickBox offers brochure content writing services for direct, compelling brochure copy that is sure to deliver on-brand messaging and draw in new clients. Read more.." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -922,7 +922,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Have more questions? <a href="contacts.html">Ask your question here</a></h5>
+						<h5 class="h5-sm">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -940,7 +940,7 @@ if (isset($_POST['send'])) {
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "url":"https://www.clickboxagency.com/brochure-content-writing-service/"
+            "url":"https://www.clickboxagency.com/brochure-content-writing-service/",
             "potentialAction": {
                 "@type": "SearchAction",
                 "target": "https://www.clickboxagency.com/brochure-content-writing-service/find?q={search_term_string}",
@@ -955,7 +955,7 @@ if (isset($_POST['send'])) {
             "@context": "http://schema.org",
             "@type": "WebSite",
             "name": "Professional Brochure Content Writing Services | ClickBox",
-            "alternateName": "brochure content writing, brochure content writing services, brochure content, company brochure content, digital marketing brochure content"/>
+            "alternateName": "brochure content writing, brochure content writing services, brochure content, company brochure content, digital marketing brochure content",
              "url": "https://www.clickboxagency.com/brochure-content-writing-service/"
         }
     </script>
@@ -968,7 +968,7 @@ if (isset($_POST['send'])) {
             "url": "https://www.clickboxagency.com/brochure-content-writing-service/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
-            "description": "ClickBox offers brochure content writing services for direct, compelling brochure copy that is sure to deliver on-brand messaging and draw in new clients. Read more.. "/>
+            "description": "ClickBox offers brochure content writing services for direct, compelling brochure copy that is sure to deliver on-brand messaging and draw in new clients. Read more.. ",
             "logo": "www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",

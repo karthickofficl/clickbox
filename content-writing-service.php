@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/content-writing-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Content Writing Service | ClickBox" />
 
@@ -115,13 +115,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="With our expert content writing service, you can get the best content for your website and connect with talented content writers. Obtain content that increases traffic for your traffic." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 
 </head>
-
-
 
 <body>
 
@@ -152,14 +150,12 @@ if (isset($_POST['send'])) {
 
 						<!-- Small Logo -->
 						<div class="hero-logo-sm mb-20">
-							<img class="img-fluid" src="../images/logo-01.png" alt="hero-logo">
+							<img class="img-fluid" src="https://clickboxagency.com/images/logo-01.png" alt="hero-logo">
 						</div>
 
 						<!-- Title -->
 						<h4 class="h4-xs"> Professional Content Writing Service. Schedule a Call TODAY.</h4>
 
-						<!-- Text -->
-						<p class="p-lg"></p>
 
 						<!-- Form -->
 						<form method="post">
@@ -840,7 +836,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -868,7 +864,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -887,7 +883,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/content-writing-service/"
+			"url": "https://www.clickboxagency.com/content-writing-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/content-writing-service/find?q={search_term_string}",
@@ -900,7 +896,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Content Writing Service | ClickBox",
-			"alternateName": "content writing service, seo content writing, seo copywriting, seo writing, website content writer, content writing agency, website content writing" / >
+			"alternateName": "content writing service, seo content writing, seo copywriting, seo writing, website content writer, content writing agency, website content writing",
 				"url": "https://www.clickboxagency.com/content-writing-service/"
 		}
 	</script>
@@ -913,7 +909,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/content-writing-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "With our expert content writing service, you can get the best content for your website and connect with talented content writers. Obtain content that increases traffic for your traffic." / >
+			"description": "With our expert content writing service, you can get the best content for your website and connect with talented content writers. Obtain content that increases traffic for your traffic.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

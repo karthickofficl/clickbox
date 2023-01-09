@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/ecommerce-seo-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable eCommerce SEO Service | ClickBox" />
 
@@ -115,7 +115,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="ClickBox offers eCommerce SEO services, where eCommerce SEO is the implementation of a variety of strategies to raise the visibility of your website and product pages in search results." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 
@@ -146,7 +146,7 @@ if (isset($_POST['send'])) {
 
 						<!-- Small Logo -->
 						<div class="hero-logo-sm mb-20">
-							<img class="img-fluid" src="../images/logo-01.png" alt="hero-logo">
+							<img class="img-fluid" src="https://www.clickboxagency.com/images/logo-01.png" alt="hero-logo">
 						</div>
 
 						<!-- Title -->
@@ -234,7 +234,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-6 col-lg-5">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/ecommerce-seo-01.png" alt="eCommerce-seo-strategy ">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-01.png" alt="eCommerce-seo-strategy ">
 					</div>
 				</div>
 			</div> <!-- End row -->
@@ -271,7 +271,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6 order-first order-md-2">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/ecommerce-seo-02.png" alt="acquire-more-customers-with-eCommerce-seo">
+							<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-02.png" alt="acquire-more-customers-with-eCommerce-seo">
 						</div>
 					</div>
 
@@ -287,7 +287,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/ecommerce-seo-03.png" alt="ecommerce-seo-services-for-business-owners">
+							<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-03.png" alt="ecommerce-seo-services-for-business-owners">
 						</div>
 					</div>
 					<!-- TEXT BLOCK -->
@@ -327,7 +327,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/ecommerce-seo-04.png" alt="benefits-of-clickbox-eCommerce-seo">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-04.png" alt="benefits-of-clickbox-eCommerce-seo">
 					</div>
 				</div>
 
@@ -379,7 +379,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-05.png" alt="research-and-optimization-of-keywords" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-05.png" alt="research-and-optimization-of-keywords" />
 							</div>
 
 							<!-- Title -->
@@ -399,7 +399,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-06.png" alt="ecommerce-pay-per-click" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-06.png" alt="ecommerce-pay-per-click" />
 							</div>
 
 							<!-- Title -->
@@ -419,7 +419,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-07.png" alt="local-seo" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-07.png" alt="local-seo" />
 							</div>
 
 							<!-- Title -->
@@ -438,7 +438,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-08.png" alt="technical-seo" />
+								<img class="img-size2" src="https://www.clickboxagency.com/../images/ecommerce-seo-08.png" alt="technical-seo" />
 							</div>
 
 							<!-- Title -->
@@ -457,7 +457,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-09.png" alt="eCommerce-website-design" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="eCommerce-website-design" />
 							</div>
 
 							<!-- Title -->
@@ -476,7 +476,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-10.png" alt="marketing-automation-via-email" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-10.png" alt="marketing-automation-via-email" />
 							</div>
 
 							<!-- Title -->
@@ -495,7 +495,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-11.png" alt="content-writing" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-11.png" alt="content-writing" />
 							</div>
 
 							<!-- Title -->
@@ -515,7 +515,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-12.png" alt="conversion-rate-optimization" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-12.png" alt="conversion-rate-optimization" />
 							</div>
 
 							<!-- Title -->
@@ -534,7 +534,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-13.png" alt="on-page seo" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-13.png" alt="on-page seo" />
 							</div>
 
 							<!-- Title -->
@@ -553,7 +553,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-size2" src="../images/ecommerce-seo-14.png" alt="off-pafe-seo" />
+								<img class="img-size2" src="https://www.clickboxagency.com/images/ecommerce-seo-14.png" alt="off-pafe-seo" />
 							</div>
 
 							<!-- Title -->
@@ -693,7 +693,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://www.clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -721,7 +721,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+							<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -739,7 +739,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/ecommerce-seo-service/"
+			"url": "https://www.clickboxagency.com/ecommerce-seo-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/ecommerce-seo-service/find?q={search_term_string}",
@@ -752,7 +752,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable eCommerce SEO Service | ClickBox",
-			"alternateName": "ecommerce marketing, ecommerce seo, ecommerce marketing strategy, ecommerce seo service, seo for ecommerce website, ecommerce strategy" / >
+			"alternateName": "ecommerce marketing, ecommerce seo, ecommerce marketing strategy, ecommerce seo service, seo for ecommerce website, ecommerce strategy",
 				"url": "https://www.clickboxagency.com/ecommerce-seo-service/"
 		}
 	</script>
@@ -765,7 +765,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/ecommerce-seo-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "ClickBox offers eCommerce SEO services, where eCommerce SEO is the implementation of a variety of strategies to raise the visibility of your website and product pages in search results. " / >
+			"description": "ClickBox offers eCommerce SEO services, where eCommerce SEO is the implementation of a variety of strategies to raise the visibility of your website and product pages in search results. ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/logo-design/coimbatore/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="ClickBox: Creative Logo Design Company Coimbatore" />
 
@@ -114,14 +114,13 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="ClickBox is a best logo designing company in Coimbatore, provides brand identity services through logos, brochures, websites, flyers, corporate identity designs, and more. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
 
 </head>
 
 <body>
-
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
 
 	<!-- HERO-23
@@ -492,9 +491,9 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-2 -->
 
-<!-- CONTACTS-2
+	<!-- CONTACTS-2
 			================================wide-50=======inner-page-hero====== -->
-			<section id="contacts-2" class="bg-snow pt-40  contacts-section division">
+	<section id="contacts-2" class="bg-snow pt-40  contacts-section division">
 		<div class="container">
 
 			<!-- SECTION TITLE -->
@@ -536,7 +535,7 @@ if (isset($_POST['send'])) {
 								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
 							</div>
 
-							
+
 							<div class="col-md-12">
 								<!-- <p class="p-lg">Share Your Requirements: </p> -->
 								<!-- <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea> -->
@@ -573,18 +572,18 @@ if (isset($_POST['send'])) {
 			<div class="newsletter-wrapper bg-tra-yellow">
 				<div class="row d-flex align-items-center "> -->
 
-					<!-- NEWSLETTER TEXT -->
-					<!-- <div class="col-lg-8 col-sm-12">
+	<!-- NEWSLETTER TEXT -->
+	<!-- <div class="col-lg-8 col-sm-12">
 						<div class="newsletter-txt pr-20"> -->
 
-							<!-- Title -->
-							<!-- <h4 class="h4-lg">Stay Up to Date With Our News, Ideas and Updates</h4>
+	<!-- Title -->
+	<!-- <h4 class="h4-lg">Stay Up to Date With Our News, Ideas and Updates</h4>
 						</div>
 					</div> -->
 
 
-					<!-- NEWSLETTER FORM -->
-					<!-- <div class="col-lg-4 col-sm-12">
+	<!-- NEWSLETTER FORM -->
+	<!-- <div class="col-lg-4 col-sm-12">
 						<form class="newsletter-form">
 
 							<div class="input-group">
@@ -594,15 +593,15 @@ if (isset($_POST['send'])) {
 								</span>
 							</div> -->
 
-							<!-- Newsletter Form Notification -->
-							<!-- <label for="s-email" class="form-notification"></label>
+	<!-- Newsletter Form Notification -->
+	<!-- <label for="s-email" class="form-notification"></label>
 
 						</form> -->
-					<!-- </div>  -->
-					<!-- END NEWSLETTER FORM -->
+	<!-- </div>  -->
+	<!-- END NEWSLETTER FORM -->
 
 
-				<!-- </div> <!-- End row --
+	<!-- </div> <!-- End row --
 			</div> <!-- End newsletter-wrapper --
 		</div> <!-- End container --
 	</section> END NEWSLETTER-1 -->
@@ -1395,7 +1394,7 @@ if (isset($_POST['send'])) {
 	</section> <!-- END FAQs-2 -->
 	<!-- CONTACTS-2
 			================================wide-50=======inner-page-hero====== -->
-	
+
 
 	<!-- CALL TO ACTION-5
 			============================================= -->
@@ -1431,7 +1430,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "www.clickboxagency.com/logo-design/coimbatore/"
+			"url": "www.clickboxagency.com/logo-design/coimbatore/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "www.clickboxagency.com/logo-design/coimbatore/find?q={search_term_string}",
@@ -1444,7 +1443,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "ClickBox: Creative Logo Design Company Coimbatore",
-			"alternateName": "logo design company in coimbatore, logo design agency in coimbatore, logo designers coimbatore, logo design service in coimbatore, animated logo design services coimbatore, best logo design company in coimbatore, best logo design agency in coimbatore, best logo designers coimbatore" / >
+			"alternateName": "logo design company in coimbatore, logo design agency in coimbatore, logo designers coimbatore, logo design service in coimbatore, animated logo design services coimbatore, best logo design company in coimbatore, best logo design agency in coimbatore, best logo designers coimbatore",
 				"url": "https://www.clickboxagency.com/logo-design/coimbatore/"
 		}
 	</script>
@@ -1457,7 +1456,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/logo-design/coimbatore/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "ClickBox is a best logo designing company in Coimbatore, provides brand identity services through logos, brochures, websites, flyers, corporate identity designs, and more. " / >
+			"description": "ClickBox is a best logo designing company in Coimbatore, provides brand identity services through logos, brochures, websites, flyers, corporate identity designs, and more. ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

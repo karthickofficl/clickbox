@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-mumbai/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Agency Mumbai" />
 
@@ -115,15 +115,15 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Mumbai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<?php include($_SERVER['DOCUMENT_ROOT'].'/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 	<!-- HERO-4
 			============================================= -->
 	<section id="hero-4" class="bg-scroll hero-section division">
@@ -310,7 +310,6 @@ if (isset($_POST['send'])) {
 
 						<!-- Text -->
 						<p class="p-xl">Look at the following search engine optimization services mumbai that are provided by us to our customers.
-
 
 						</p>
 
@@ -563,20 +562,10 @@ if (isset($_POST['send'])) {
 
 						</div>
 					</div>
-
-
-
 				</div>
 			</div> <!-- END FEATURES-3 WRAPPER -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-3 -->
-
-
-
-
-
 	<!-- CONTENT-5
 			============================================= -->
 	<section id="content-5" class="content-5 ws-wrapper content-section division">
@@ -636,17 +625,10 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid" src="https://clickboxagency.com/images/how-will-start-business.png" alt="content-image">
 						</div>
 					</div>
-
-
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-5 -->
-
-
-
 	<!-- TESTIMONIALS-4
 			============================================= -->
 	<section id="reviews-4" class="rel reviews-section division">
@@ -665,8 +647,6 @@ if (isset($_POST['send'])) {
 				</div>
 			</div>
 		</div>
-
-
 		<div class="reviews-4-holder">
 			<div class="container">
 				<div class="row">
@@ -891,7 +871,7 @@ if (isset($_POST['send'])) {
 	<!-- BRANDS-2
 	============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
-	<?php include($_SERVER['DOCUMENT_ROOT'].'/our-clients.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/our-clients.php') ?>
 	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
 
@@ -1092,10 +1072,10 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'].'/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
@@ -1127,7 +1107,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Agency Mumbai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",
@@ -1155,7 +1135,7 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	<?php include($_SERVER['DOCUMENT_ROOT'].'/popup1.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/popup1.php') ?>
 
 </body>
 

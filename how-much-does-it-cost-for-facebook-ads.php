@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/how-much-does-it-cost-for-facebook-ads/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How Much Does Facebook Advertising Cost in 2022?" />
 
@@ -120,12 +120,12 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Facebook advertisement costs varies with the industry. Check this ultimate guide to know the cost of the Facebook advertisement in 2022." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -428,8 +428,6 @@ if (isset($_POST['send'])) {
 								<div class='didide '>
 									<span><a href="#">how much does it cost to advertise on Facebook</a></span>
 									<span><a href="#"> how much does it cost for Facebook ads</a></span>
-
-
 								</div>
 
 							</div>
@@ -576,7 +574,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -598,7 +596,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "https://www.clickboxagency.com/digital-marketing-checklist" / ,
+			"url": "https://www.clickboxagency.com/digital-marketing-checklist/" ,
 
 			"potentialAction": {
 

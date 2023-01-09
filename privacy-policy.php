@@ -22,57 +22,51 @@
  	<meta property="og:type" content="website" />
  	<meta property="og:url" content="https://www.clickboxagency.com/privacy-policy.php" />
  	<meta property="og:site_name" content="https://www.clickboxagency.com" />
- 	<meta property="og:image" content="www.clickboxagency.com/images/banner-img.png" />
+ 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
  	<meta property="og:title" content="Privacy Policy - ClickBox Advertising &amp; Digital Marketing Agency" />
  	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
  	<meta name="twitter:card" content="summary" />
  	<meta name="twitter:title" content="Privacy Policy - ClickBox Advertising &amp; Digital Marketing Agency" />
  	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
- 	<meta name="twitter:image" content="www.clickboxagency.com/images/banner-img.png" />
+ 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
  	<!-- FAVICON AND TOUCH ICONS -->
- 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
- 	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
- 	<link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
- 	<link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
- 	<link rel="apple-touch-icon" sizes="76x76" href="images/apple-touch-icon-76x76.png">
- 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
- 	<link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
+ 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+ 	<link rel="icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
+ 	<link rel="apple-touch-icon" sizes="152x152" href="https://clickboxagency.com/images/favicon.png">
+ 	<link rel="apple-touch-icon" sizes="120x120" href="https://clickboxagency.com/images/favicon.png">
+ 	<link rel="apple-touch-icon" sizes="76x76" href="https://clickboxagency.com/images/favicon.png">
+ 	<link rel="apple-touch-icon" href="https://clickboxagency.com/images/favicon.png">
+ 	<link rel="icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
  	<!-- GOOGLE FONTS -->
  	<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&amp;display=swap" rel="stylesheet">
 
  	<!-- BOOTSTRAP CSS -->
- 	<link href="../css/bootstrap.min.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/bootstrap.min.css" rel="stylesheet">
 
  	<!-- FONT ICONS -->
- 	<link href="../css/flaticon.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/flaticon.css" rel="stylesheet">
 
  	<!-- PLUGINS STYLESHEET -->
- 	<link href="../css/menu.css" rel="stylesheet">
- 	<link id="effect" href="../css/dropdown-effects/fade-down.css" media="all" rel="stylesheet">
- 	<link href="../css/magnific-popup.css" rel="stylesheet">
- 	<link href="../css/owl.carousel.min.css" rel="stylesheet">
- 	<link href="../css/owl.theme.default.min.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/menu.css" rel="stylesheet">
+ 	<link id="effect" href="https://clickboxagency.com/css/dropdown-effects/fade-down.css" media="all" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/magnific-popup.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/owl.carousel.min.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/owl.theme.default.min.css" rel="stylesheet">
 
  	<!-- ON SCROLL ANIMATION -->
- 	<link href="../css/animate.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/animate.css" rel="stylesheet">
 
  	<!-- TEMPLATE CSS -->
- 	<link href="../css/style.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/style.css" rel="stylesheet">
 
  	<!-- RESPONSIVE CSS -->
- 	<link href="../css/responsive.css" rel="stylesheet">
+ 	<link href="https://clickboxagency.com/css/responsive.css" rel="stylesheet">
 
  </head>
 
-
-
  <body>
-
-
-
-
  	<!-- PRELOADER SPINNER
 		============================================= -->
  	<!-- <div id="loading" class="skyblue-loading">
@@ -86,17 +80,11 @@
 			</div>
 		</div> -->
 
-
-
-
  	<!-- PAGE CONTENT
 		============================================= -->
  	<div id="page" class="page">
 
  		<?php include('header.php') ?>
-
-
-
 
  		<!-- TERMS & PRIVACY
 			============================================= -->
@@ -249,7 +237,7 @@
  								</p>
 
  								<!-- Button -->
- 								<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+ 								<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
  							</div>
  						</div>
@@ -265,7 +253,7 @@
  			{
  				"@context": "http://schema.org",
  				"@type": "WebSite",
- 				"url": "https://www.clickboxagency.com/privacy-policy/"
+ 				"url": "https://www.clickboxagency.com/privacy-policy/",
  				"potentialAction": {
  					"@type": "SearchAction",
  					"target": "https://www.clickboxagency.com/privacy-policy/find?q={search_term_string}",
@@ -278,8 +266,8 @@
  				"@context": "http://schema.org",
  				"@type": "WebSite",
  				"name": "Privacy Policy - ClickBox Advertising &amp; Digital Marketing Agency",
- 				"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india" / >
- 					"url": "https://www.clickboxagency.com/privacy-policy/"
+ 				"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
+ 				"url": "https://www.clickboxagency.com/privacy-policy/"
  			}
  		</script>
 
@@ -291,8 +279,8 @@
  				"url": "https://www.clickboxagency.com/privacy-policy/",
  				"email": "info@clickboxagency.com",
  				"foundingDate": "2022",
- 				"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " / >
- 					"logo": "www.clickboxagency.com/images/logo-01.png",
+ 				"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. ",
+ 				"logo": "www.clickboxagency.com/images/logo-01.png",
  				"contactPoint": {
  					"@type": "ContactPoint",
  					"telephone": "+91 7358644710",

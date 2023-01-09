@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/viral-marketing-campaigns/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="An ultimate Guide to Viral Marketing Campaigns" />
 
@@ -119,11 +119,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Viral marketing is a common and popular practice to grow your brand. Research and get information on the various techniques implemented in the viral marketing campaigns." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -537,7 +537,7 @@ if (isset($_POST['send'])) {
   						</p>
 
   						<!-- Button -->
-  						<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
   					</div>
   				</div>

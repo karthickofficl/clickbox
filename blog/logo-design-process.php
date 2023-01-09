@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://clickboxagency.com/blog/logo-design-process/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Logo Design Process From Scratch to End (2023 New Updated)" />
 
@@ -118,10 +118,10 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content=" The logo design process can be a complicated process. We have recently added new features and updates to our logo design process so you can get the best custom logo for your business. more..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="www.clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="www.clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
 
@@ -473,7 +473,8 @@ if (isset($_POST['send'])) {
 									<span><a href="#">how to design a logo</a></span>
 									<span><a href="#">tip for logo design process</a></span>
 									<span><a href="#">how to create logo design process</a></span>
-									<span><a href="#">how to create logo, how to make a logo</a></span>
+									<span><a href="#">how to create logo</a></span>
+									<span><a href="#"> how to make a logo</a></span>
 									<span><a href="#">how to create a company logo</a></span>
 									
 								</div>
@@ -605,7 +606,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

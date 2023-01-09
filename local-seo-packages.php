@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/local-seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best Local SEO Pricing and Packages | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -941,7 +941,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -971,7 +971,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -987,7 +987,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/local-seo-packages/"
+			"url": "https://www.clickboxagency.com/local-seo-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/local-seo-packages/find?q={search_term_string}",
@@ -1000,7 +1000,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": " Best Local SEO Pricing and Packages | ClickBox",
-			"alternateName": "local seo package pricing,local business seo packages,affordable local seo packages,best local seo packages,local seo service packages" / >
+			"alternateName": "local seo package pricing,local business seo packages,affordable local seo packages,best local seo packages,local seo service packages",
 				"url": "https://www.clickboxagency.com/local-seo-packages/"
 		}
 	</script>
@@ -1013,7 +1013,7 @@
 			"url": "https://www.clickboxagency.com/local-seo-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region. " / >
+			"description": "Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region. ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

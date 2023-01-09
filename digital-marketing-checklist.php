@@ -106,7 +106,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/digital-marketing-checklist/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Digital Marketing Checklists to Make Marketing Process Easier In 2022" />
 
@@ -118,11 +118,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Digital marketing is the perfect process to improve business success. Check this updated digital marketing audit checklist to get a successful marketing plan." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -156,11 +156,6 @@ if (isset($_POST['send'])) {
 
 
 						</div> <!-- END SINGLE POST TITLE -->
-
-
-
-
-
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
 
@@ -538,14 +533,7 @@ if (isset($_POST['send'])) {
 									<span><a href="#">digital marketing campaign checklist</a></span>
 									<span><a href="#">online marketing checklist</a></span>
 									<span><a href="#"> internet marketing checklist</a></span>
-
-
-
-
 									<span><a href="#">digital marketing audit checklist</a></span>
-
-
-
 									<span><a href="#">digital marketing agency checklist</a></span>
 
 								</div>
@@ -562,9 +550,6 @@ if (isset($_POST['send'])) {
 							</div>
 
 						</div>
-
-
-
 					</div>
 				</div>
 			</div> <!-- END SINGLE POST CONTENT -->
@@ -572,13 +557,6 @@ if (isset($_POST['send'])) {
 
 		</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
-
-
-
-
-
-
-
 	<!-- POST COMMENTS
 			============================================= -->
 	<section id="post-comments" class="post-comments division">
@@ -651,10 +629,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
 
-
-
-
-	<!-- BLOG-1
+<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">
@@ -698,7 +673,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -718,7 +693,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "https://www.clickboxagency.com/digital-marketing-checklist" / ,
+			"url": "https://www.clickboxagency.com/digital-marketing-checklist/",
 
 			"potentialAction": {
 

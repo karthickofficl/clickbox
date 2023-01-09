@@ -21,13 +21,13 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.clickboxagency.com/about.php" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
-	<meta property="og:image" content="www.clickboxagency.com/images/banner-img.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="About ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="About ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
-	<meta name="twitter:image" content="www.clickboxagency.com/images/banner-img.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -925,7 +925,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -942,7 +942,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/about/"
+			"url": "https://www.clickboxagency.com/about/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/about/find?q={search_term_string}",
@@ -955,7 +955,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "About ClickBox Advertising &amp; Digital Marketing Agency",
-			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india" / >
+			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india" ,
 				"url": "https://www.clickboxagency.com/about/"
 		}
 	</script>
@@ -968,7 +968,7 @@
 			"url": "https://www.clickboxagency.com/about/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue." / >
+			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue." ,
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

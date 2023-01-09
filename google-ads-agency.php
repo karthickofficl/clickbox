@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/google-ads-agency/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Google Ads Agency and Management Service India" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Avoid spending too much money on ads that have no conversions. Merge with a Google ads expert agency to know how to use Google ads strategy that increases your ROI." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -468,7 +468,7 @@ if (isset($_POST['send'])) {
 
 						<!-- Buttons Group -->
 						<div class="btns-group mb-30">
-							<a href="../digital-marketing-packages" class="btn btn-md btn-tra-white white-hover">View Pricing</a>
+							<a href="https://clickboxagency.com/digital-marketing-packages/" class="btn btn-md btn-tra-white white-hover">View Pricing</a>
 						</div>
 
 					</div>
@@ -948,7 +948,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Ready to increase your ROI with the perfect Google ads campaign? Let’s talk. <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Ready to increase your ROI with the perfect Google ads campaign? Let’s talk. <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>
@@ -976,7 +976,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -993,7 +993,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/google-ads-agency/"
+			"url": "https://www.clickboxagency.com/google-ads-agency/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/google-ads-agency/find?q={search_term_string}",
@@ -1006,7 +1006,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "ROI Driven Google Ads Agency and Management Service India",
-			"alternateName": " google ads agency, google ads company, google ads management company, google ads management services, google adwords agency, adwords management services, google adswords expert, adwords management agency, google advertising agency, google ads campaign management services, google ads expert agency " / >
+			"alternateName": " google ads agency, google ads company, google ads management company, google ads management services, google adwords agency, adwords management services, google adswords expert, adwords management agency, google advertising agency, google ads campaign management services, google ads expert agency ",
 				"url": "https://www.clickboxagency.com/google-ads-agency/"
 		}
 	</script>
@@ -1019,7 +1019,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/google-ads-agency/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Avoid spending too much money on ads that have no conversions. Merge with a Google ads expert in our agency to know how to use Google ads strategy that increases your ROI." / >
+			"description": "Avoid spending too much money on ads that have no conversions. Merge with a Google ads expert in our agency to know how to use Google ads strategy that increases your ROI.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

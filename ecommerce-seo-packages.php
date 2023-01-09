@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/ecommerce-seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Ecommerce SEO Package & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Our Affordable Ecommerce SEO package & services help you to increase your website ranking in search engine results at an affordable price." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -695,7 +695,7 @@
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -722,7 +722,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -738,7 +738,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/ecommerce-seo-packages/"
+			"url": "https://www.clickboxagency.com/ecommerce-seo-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/ecommerce-seo-packages/find?q={search_term_string}",
@@ -751,7 +751,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Ecommerce SEO Package & Pricing | ClickBox",
-			"alternateName": "Best ecommerce package,ecommerce website seo package, affordable ecommerce seo package,ecommerce seo pricing" / >
+			"alternateName": "Best ecommerce package,ecommerce website seo package, affordable ecommerce seo package,ecommerce seo pricing",
 				"url": "https://www.clickboxagency.com/ecommerce-seo-packages/"
 		}
 	</script>
@@ -764,7 +764,7 @@
 			"url": "https://www.clickboxagency.com/ecommerce-seo-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Our Affordable Ecommerce SEO package & services help you to increase your website ranking in search engine results at an affordable price." / >
+			"description": "Our Affordable Ecommerce SEO package & services help you to increase your website ranking in search engine results at an affordable price.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

@@ -108,7 +108,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/saas-marketing-techniques/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="8 Best SAAS Marketing Techniques to Multiply Your Business Revenue" />
 
@@ -123,11 +123,11 @@ if (isset($_POST['send'])) {
 		to make their products stand out of the crowd. This article elaborates on the tried and tested saas marketing techniques." />
 
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -298,7 +298,7 @@ if (isset($_POST['send'])) {
 								and interactive quizzes. Freshdesk, a SaaS business software has vast segments of quality content.</p>
 
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/blog/content-marketing.png" width="600" height="700" alt="content-marketing" />
+								<img class="img-fluid" src="https://clickboxagency.com/images/blog/content-marketing.png" width="600" height="700" alt="content-marketing" />
 							</div>
 
 							<h4 class="h4-lg">Work On Your SEO</h4>
@@ -319,7 +319,7 @@ if (isset($_POST['send'])) {
 
 
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/blog/pay-per-click.png" width="600" height="700" alt="pay-per-click" />
+								<img class="img-fluid" src="https://clickboxagency.com/images/blog/pay-per-click.png" width="600" height="700" alt="pay-per-click" />
 							</div>
 
 							<h4 class="h4-lg"> Customer Service Support</h4>
@@ -330,7 +330,7 @@ if (isset($_POST['send'])) {
 								Provide 24*7 customer support for any enquiries related to your SAAS product.</p>
 
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/blog/customer-service.png" width="600" height="700" alt="customer-service" />
+								<img class="img-fluid" src="https://clickboxagency.com/images/blog/customer-service.png" width="600" height="700" alt="customer-service" />
 							</div>
 
 							<h4 class="h4-lg">Limit Customer Choice </h4>
@@ -339,7 +339,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg">As a SAAS business owner you may want to provide ample choices to your customers, but stop, it is not a great idea. Come up with limited plans and packages so that the customer makes a choice that suits his needs. Example:</p>
 
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/blog/customer-choice.png" width="600" height="700" alt="customer-choice" />
+								<img class="img-fluid" src="https://clickboxagency.com/images/blog/customer-choice.png" width="600" height="700" alt="customer-choice" />
 							</div>
 
 							<h4 class="h4-lg">Hype Free Software Trials</h4>
@@ -355,7 +355,7 @@ if (isset($_POST['send'])) {
 								watching shows free of cost for a month and further pay to avail of more services.</p>
 
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/blog/hype-free.png" width="600" height="700" alt="hype-free" />
+								<img class="img-fluid" src="https://clickboxagency.com/images/blog/hype-free.png" width="600" height="700" alt="hype-free" />
 							</div>
 
 							<h4 class="h4-lg"> SAAS Email Marketing</h4>
@@ -379,7 +379,7 @@ if (isset($_POST['send'])) {
 								in reviewing sites. Saas product reviews are more convincing for a customer to avail your service. </p>
 
 							<div class="post-inner-img">
-								<img class="img-fluid" src="../images/blog/reviews.png" width="600" height="700" alt="reviews" />
+								<img class="img-fluid" src="https://clickboxagency.com/images/blog/reviews.png" width="600" height="700" alt="reviews" />
 							</div>
 
 							<h4 class="h4-lg">Referrals</h4>
@@ -404,19 +404,11 @@ if (isset($_POST['send'])) {
 									<span><a href="#"> b2b saas marketing</a></span>
 									<span><a href="#"> saas content marketing</a></span>
 									<span><a href="#">saas marketing strategy</a></span>
-
 									<span><a href="#">saas marketing channels</a></span>
 									<span><a href="#"> saas marketing examples</a></span>
 									<span><a href="#"> saas digital marketing company</a></span>
-
-
-
-
 									<span><a href="#"> saas marketing best practices</a></span>
 									<span><a href="#"> saas digital marketing agency</a></span>
-
-
-
 								</div>
 
 							</div>
@@ -424,16 +416,13 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href="https://www.facebook.com/people/Clickbox-Agency/100078058999078/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
 									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
 								</ul>
 							</div>
 
 						</div> <!-- SINGLE POST SHARE LINKS END -->
-
-
-
 					</div>
 				</div>
 			</div> <!-- END SINGLE POST CONTENT -->
@@ -514,10 +503,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
 
-
-
-
-	<!-- BLOG-1
+<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">
@@ -560,7 +546,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

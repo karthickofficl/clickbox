@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/packaging-design-writing-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best Packaging Design Services in India| ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Designing product packaging to safely contain, identify, and deliver a product is known as packaging design. ClickBox Agency is the best option if you're looking for engaging design services." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -579,7 +579,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -607,7 +607,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -623,7 +623,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/packaging-design-writing-service/"
+			"url": "https://www.clickboxagency.com/packaging-design-writing-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/packaging-design-writing-service/find?q={search_term_string}",
@@ -636,7 +636,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Best Packaging Design Services in India| ClickBox",
-			"alternateName": "packaging design,packaging design services,product packaging design,best packaging design,packaging design agency,creative packaging design " / >
+			"alternateName": "packaging design,packaging design services,product packaging design,best packaging design,packaging design agency,creative packaging design ",
 				"url": "https://www.clickboxagency.com/packaging-design-writing-service/"
 		}
 	</script>
@@ -649,7 +649,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/packaging-design-writing-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Designing product packaging to safely contain, identify, and deliver a product is known as packaging design. ClickBox Agency is the best option if you're looking for engaging design services." / >
+			"description": "Designing product packaging to safely contain, identify, and deliver a product is known as packaging design. ClickBox Agency is the best option if you're looking for engaging design services.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

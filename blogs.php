@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/blogs/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 </head>
@@ -106,7 +106,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="../b2b-marketing-strategy">Best Guide to B2B Marketing Strategies - Follow These 10 Strategies</a>
+							<a href="https://clickboxagency.com/b2b-marketing-strategy/">Best Guide to B2B Marketing Strategies - Follow These 10 Strategies</a>
 						</h5>
 
 						<!-- Text -->
@@ -735,7 +735,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

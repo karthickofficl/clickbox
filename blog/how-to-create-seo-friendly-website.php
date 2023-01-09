@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/how-to-create-seo-friendly-website/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Create SEO Friendly Website In 2023 (Updated)" />
 
@@ -118,10 +118,10 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content=" Websites designed for SEO allow Google and other search engines to efficiently crawl and index each page. This article explains how to rapidly create a website that is SEO-friendly." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
 

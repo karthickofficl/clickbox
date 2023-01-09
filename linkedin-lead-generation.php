@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/linkedin-lead-generation/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Trending LinkedIn Lead Generation Techniques in 2022" />
 
@@ -120,15 +120,14 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:description" content=" According to LinkedIn statistics of 2021, the number of sessions on the LinkedIn rise by 45% and 450 billion feed updates were viewed. Read more..." />
 
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
-
 
 </head>
 
@@ -150,8 +149,6 @@ if (isset($_POST['send'])) {
 						<div class="post-inner-img">
 							<img class="img-fluid" src="../images/blog/linkedin-post-lead.png" alt="blog-post-image" />
 						</div>
-
-
 						<!-- SINGLE POST TITLE -->
 						<div class="single-post-title">
 
@@ -160,10 +157,6 @@ if (isset($_POST['send'])) {
 
 
 						</div> <!-- END SINGLE POST TITLE -->
-
-
-
-
 
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
@@ -310,7 +303,7 @@ if (isset($_POST['send'])) {
 								via shared connections. Monthly and yearly subscriptions are available for purchase. LinkedIn b2b lead generation can be easily
 								handled by accessing the <a href="https://www.techtarget.com/whatis/definition/LinkedIn-Sales-Navigator#:~:text=LinkedIn%20Sales%20Navigator%20is%20a,to%20prospects%20through%20shared%20connections." style="color:#0000FF;"><u>sales navigator.</u></a></p>
 
-							<img class="img-fluid" src="../images/blog/linkedin-saless.png" , width="700" height="600" alt="blog-post-image" /><br><br>
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/linkedin-saless.png" , width="700" height="600" alt="blog-post-image" /><br><br>
 
 							<h4 class="h4-lg">6. Check out LinkedIn Ads</h4>
 
@@ -403,8 +396,6 @@ if (isset($_POST['send'])) {
 
 									<span><a href="#">linkedin b2b lead generation</a></span>
 									<span><a href="#">linkedin lead generation service</a></span>
-
-
 								</div>
 
 							</div>
@@ -426,13 +417,6 @@ if (isset($_POST['send'])) {
 
 		</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
-
-
-
-
-
-
-
 	<!-- POST COMMENTS
 			============================================= -->
 	<section id="post-comments" class=" post-comments division">
@@ -505,9 +489,6 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
 
-
-
-
 	<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
@@ -550,7 +531,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

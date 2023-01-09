@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/company-profile-writing-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional Company Profile Writing Service | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="With the help of our creatively written Company Profile Writing Services, you can increase the worth of your company and draw in more customers." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -898,7 +898,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Have more questions? <a href="contacts.html">Ask your question here</a></h5>
+						<h5 class="h5-sm">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -928,7 +928,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -944,7 +944,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/company-profile-writing-service/"
+			"url": "https://www.clickboxagency.com/company-profile-writing-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/company-profile-writing-service/find?q={search_term_string}",
@@ -957,7 +957,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Professional Company Profile Writing Service | ClickBox",
-			"alternateName": "company profile writing, company profile writing service, corporate profile writing, company profile write up, prepare company profile, company profile writing sample" / >
+			"alternateName": "company profile writing, company profile writing service, corporate profile writing, company profile write up, prepare company profile, company profile writing sample",
 				"url": "https://www.clickboxagency.com/company-profile-writing-service/"
 		}
 	</script>
@@ -970,7 +970,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/company-profile-writing-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "With the help of our creatively written Company Profile Writing Services, you can increase the worth of your company and draw in more customers." / >
+			"description": "With the help of our creatively written Company Profile Writing Services, you can increase the worth of your company and draw in more customers.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

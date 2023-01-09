@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/product-description-writing-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best Product Description Writing Service | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Hire ClickBox's product description writers to provide listing page content that has a strong chance of ranking. Our content adheres to the greatest eCommerce copywriting service standards, incorporates contextually relevant keywords at the right frequency, and adheres to your brand rules." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -961,7 +961,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Have more questions? <a href="contacts.html">Ask your question here</a></h5>
+						<h5 class="h5-sm">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -991,7 +991,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1006,7 +1006,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/product-description-writing-service/"
+			"url": "https://www.clickboxagency.com/product-description-writing-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/product-description-writing-service/find?q={search_term_string}",
@@ -1019,7 +1019,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Best Product Description Writing Service | ClickBox",
-			"alternateName": "product description writing, product description writing service, creative product descriptions, seo product description, best product description, a product description " / >
+			"alternateName": "product description writing, product description writing service, creative product descriptions, seo product description, best product description, a product description ",
 				"url": "https://www.clickboxagency.com/product-description-writing-service/"
 		}
 	</script>
@@ -1032,7 +1032,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/product-description-writing-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Hire ClickBox's product description writers to provide listing page content that has a strong chance of ranking. Our content adheres to the greatest eCommerce copywriting service standards, incorporates contextually relevant keywords at the right frequency, and adheres to your brand rules." / >
+			"description": "Hire ClickBox's product description writers to provide listing page content that has a strong chance of ranking. Our content adheres to the greatest eCommerce copywriting service standards, incorporates contextually relevant keywords at the right frequency, and adheres to your brand rules.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

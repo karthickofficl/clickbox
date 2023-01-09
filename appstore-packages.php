@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/appstore-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="App Store Optimization Packages | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="App Store Optimization packages include initial technical analysis, On-Page SEO suggestions, in-depth competitive, keywords research & finalization ." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -89,7 +89,7 @@
 							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
+									<img class="img-fluid" src="https://clickboxagency.com/images/ads-03.png" alt="content-image">
 								</div>
 							</div>
 
@@ -857,7 +857,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -887,7 +887,7 @@
   						</p>
 
   						<!-- Button -->
-  						<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
   					</div>
   				</div>
@@ -905,7 +905,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/appstore-packages/"
+			"url": "https://www.clickboxagency.com/appstore-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/appstore-packages/find?q={search_term_string}",
@@ -918,7 +918,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "App Store Optimization Packages | ClickBox",
-			"alternateName": "app store optimization packages, app store marketing packages,app store marketing,best app marketing" / >
+			"alternateName": "app store optimization packages, app store marketing packages,app store marketing,best app marketing",
 				"url": "https://www.clickboxagency.com/appstore-packages/"
 		}
 	</script>
@@ -931,7 +931,7 @@
 			"url": "https://www.clickboxagency.com/appstore-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "App Store Optimization packages include initial technical analysis, On-Page SEO suggestions, in-depth competitive, keywords research & finalization . " / >
+			"description": "App Store Optimization packages include initial technical analysis, On-Page SEO suggestions, in-depth competitive, keywords research & finalization . ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

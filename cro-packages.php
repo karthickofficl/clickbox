@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/cro-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Conversion Rate Optimization packages(CRO) Package & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -751,7 +751,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -799,7 +799,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/cro-packages/"
+			"url": "https://www.clickboxagency.com/cro-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/cro-packages/find?q={search_term_string}",
@@ -812,7 +812,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Conversion Rate Optimization packages(CRO) Package & Pricing | ClickBox",
-			"alternateName": "conversion rate optimization packages,conversion rate optimization pricing, conversion rate optimization service, ecommerce conversion rate optimization package, conversion rate optimization agency" / >
+			"alternateName": "conversion rate optimization packages,conversion rate optimization pricing, conversion rate optimization service, ecommerce conversion rate optimization package, conversion rate optimization agency",
 				"url": "https://www.clickboxagency.com/cro-packages/"
 		}
 	</script>
@@ -825,7 +825,7 @@
 			"url": "https://www.clickboxagency.com/cro-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates. " / >
+			"description": "Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates. ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

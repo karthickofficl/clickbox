@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://clickboxagency.com/advanced-seo-techniques/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Advanced SEO Techniques to Rank #1 in Google" />
 
@@ -119,11 +119,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="A guide to optimizing your website by applying the right advanced SEO techniques. Generate your website to the top of SERPs by adding quality content and accurate strategies." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -135,13 +135,7 @@ if (isset($_POST['send'])) {
 
 <body>
 
-
-
-
 	<?php include('header.php') ?>
-
-
-
 
 	<!-- SINGLE POST
 			============================================= -->
@@ -157,7 +151,7 @@ if (isset($_POST['send'])) {
 
 						<!-- BLOG POST INNER IMAGE -->
 						<div class="post-inner-img">
-							<img class="img-fluid" src="../images/blog/advanced-seo-techniques.jpg" alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/advanced-seo-techniques.jpg" alt="blog-post-image" />
 						</div>
 
 
@@ -560,12 +554,6 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
 
-
-
-
-
-
-
 	<!-- POST COMMENTS
 			=================================wide-80============ -->
 	<section id="post-comments" class=" post-comments division">
@@ -661,46 +649,42 @@ if (isset($_POST['send'])) {
 
 			<?php include('newblog.php') ?>
 
-
-
-
-
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
 
- <!-- CALL TO ACTION-5
+	<!-- CALL TO ACTION-5
 			============================================= -->
-			<section id="cta-5" class="cta-section division ">
-  	<div class="container">
-  		<div class="rel bg-10 cta-5-wrapper">
-  			<div class="row justify-content-center">
+	<section id="cta-5" class="cta-section division ">
+		<div class="container">
+			<div class="rel bg-10 cta-5-wrapper">
+				<div class="row justify-content-center">
 
 
-  				<!-- CALL TO ACTION TEXT -->
-  				<div class="col-lg-8">
-  					<div class="cta-5-txt white-color text-center">
+					<!-- CALL TO ACTION TEXT -->
+					<div class="col-lg-8">
+						<div class="cta-5-txt white-color text-center">
 
-  						<!-- Title -->
-  						<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
+							<!-- Title -->
+							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
 
-  						<!-- Text -->
-  						<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
+							<!-- Text -->
+							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
 
-  						</p>
+							</p>
 
-  						<!-- Button -->
-  						<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<!-- Button -->
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
-  					</div>
-  				</div>
-  			</div>
-  		</div> <!-- End row -->
-  	</div> <!-- End container -->
-  </section> <!-- END CALL TO ACTION-5 -->
+						</div>
+					</div>
+				</div>
+			</div> <!-- End row -->
+		</div> <!-- End container -->
+	</section> <!-- END CALL TO ACTION-5 -->
 
 
 	<?php include('footer.php') ?>
-   </div> <!-- END PAGE CONTENT -->
+	</div> <!-- END PAGE CONTENT -->
 
 	<?php include('footer-script.php') ?>
 
@@ -789,19 +773,12 @@ if (isset($_POST['send'])) {
 			},
 
 			"sameAs": [
-
-				" https://twitter.com/",
-
-				" https://www.facebook.com/",
-
-				" https://www.instagram.com/",
-
-				" https://www.linkedin.com/",
-
-				" https://www.youtube.com/",
-
-				" https://in.pinterest.com/"
-
+				" https://twitter.com/clickboxagency",
+				" https://www.facebook.com/people/Clickbox-Agency/100078058999078/",
+				" https://www.instagram.com/clickbox_agency/",
+				" https://www.linkedin.com/company/clickbox-agency/",
+				" https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw",
+				" https://in.pinterest.com/clickboxagency/"
 			]
 
 		}

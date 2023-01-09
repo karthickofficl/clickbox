@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-chennai/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Agency Chennai" />
 
@@ -115,13 +115,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Chennai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
-
-
 
 <body>
 
@@ -146,10 +144,7 @@ if (isset($_POST['send'])) {
 							<li class="list-item">
 								<p class="p-xl">Rank Your Website On 1st Page Google Search.
 
-									ClickBox Agency is here to help you! Contact today.
-
-
-								</p>
+									ClickBox Agency is here to help you! Contact today.</p>
 							</li>
 
 							<li class="list-item">
@@ -234,12 +229,7 @@ if (isset($_POST['send'])) {
 				</path>
 			</svg>
 		</div>
-
-
 	</section> <!-- END HERO-4 -->
-
-
-
 
 	<!-- CONTENT-2
 			============================================= -->
@@ -312,10 +302,7 @@ if (isset($_POST['send'])) {
 
 						<!-- Text -->
 						<p class="p-xl">Look at the following search engine optimization services chennai that are provided by us to our customers.
-
-
 						</p>
-
 					</div>
 				</div>
 			</div>
@@ -343,12 +330,8 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-lg">Our on-page services include the process of optimizing search engine friendly content. It includes website content like heading (H1, H2...H6), descriptions, tags, keywords, blog, etc., Also the internal linking quality is also analyzed. These tasks will help to list your website on top of search engine results on Google, Bing, etc.,
-
-
 								</p>
-
 							</div>
-
 						</div>
 					</div>
 
@@ -372,11 +355,8 @@ if (isset($_POST['send'])) {
 								<!-- Text -->
 								<p class="p-lg">The off-page process is the activity of building backlinks to your website. The more quality backlinks, the more reach your website will receive. So, we assure you by building the best backlinks to your site by writing SEO content blog, press releases, attractive profile creations, etc.,
 
-
 								</p>
-
 							</div>
-
 						</div>
 					</div>
 
@@ -565,13 +545,8 @@ if (isset($_POST['send'])) {
 
 						</div>
 					</div>
-
-
-
 				</div>
 			</div> <!-- END FEATURES-3 WRAPPER -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-3 -->
 
@@ -638,11 +613,7 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid" src="https://clickboxagency.com/images/how-will-start-business.png" alt="content-image">
 						</div>
 					</div>
-
-
 				</div>
-
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-5 -->
@@ -878,26 +849,14 @@ if (isset($_POST['send'])) {
 							</div> <!-- END TESTIMONIAL #5 -->
 						</div>
 					</div> <!-- END TESTIMONIALS CAROUSEL -->
-
-
 				</div>
 			</div> <!-- End container -->
 		</div>
-
-
 	</section> <!-- END TESTIMONIALS-4 -->
 
-
-
-
-	<!-- BRANDS-2
-	============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/our-clients.php') ?>
 	<!-- ADD OUR CLIENTS IN PHP FILE END -->
-
-
-
 
 	<!-- FAQs-2
 			============================================= -->
@@ -1118,7 +1077,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Result Driven SEO Agency Chennai",
 			"alternateName": "seo agency chennai, seo services chennai, search engine optimization chennai, seo agency chennai",
-				"url": "https://www.clickboxagency.com/seo/seo-agency-chennai/"
+			"url": "https://www.clickboxagency.com/seo/seo-agency-chennai/"
 		}
 	</script>
 
@@ -1131,7 +1090,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Agency Chennai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-kolkata/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Agency Kolkata" />
 
@@ -115,13 +115,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Kolkata, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
-
-
 
 <body>
 
@@ -887,18 +885,11 @@ if (isset($_POST['send'])) {
 
 	</section> <!-- END TESTIMONIALS-4 -->
 
-
-
-
 	<!-- BRANDS-2
 	============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/our-clients.php') ?>
 	<!-- ADD OUR CLIENTS IN PHP FILE END -->
-
-
-
-
 	<!-- FAQs-2
 			============================================= -->
 	<section id="faqs-2" class="wide-60 faqs-section division">
@@ -979,10 +970,6 @@ if (isset($_POST['send'])) {
 					<!-- QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pl-15">
-
-
-
-
 
 							<!-- QUESTION #3 -->
 							<div class="question wow fadeInUp">
@@ -1117,7 +1104,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Result Driven SEO Agency Kolkata",
 			"alternateName": "SEO Agency Kolkata, seo services chennai, search engine optimization chennai, SEO Agency Kolkata",
-				"url": "https://www.clickboxagency.com/seo/seo-agency-kolkata/"
+			"url": "https://www.clickboxagency.com/seo/seo-agency-kolkata/"
 		}
 	</script>
 
@@ -1130,7 +1117,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Agency Kolkata, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

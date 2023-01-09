@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/website-design-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable LinkedIn Marketing Packages & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Are you looking for website design packages to grow your company? For pricing details on website design, visit Clickbox. We offer affordable website design packages for all businesses." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -643,7 +643,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="www.clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -673,7 +673,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -690,7 +690,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/website-design-packages/"
+			"url": "https://www.clickboxagency.com/website-design-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/website-design-packages/find?q={search_term_string}",
@@ -703,7 +703,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Website Design Packages & Pricing | ClickBox",
-			"alternateName": "website design packages, website development pricing, website development packages, website development cost, affordable website design packages, monthly website maintenance packages " / >
+			"alternateName": "website design packages, website development pricing, website development packages, website development cost, affordable website design packages, monthly website maintenance packages ",
 				"url": "https://www.clickboxagency.com/website-design-packages/"
 		}
 	</script>
@@ -716,7 +716,7 @@
 			"url": "https://www.clickboxagency.com/website-design-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Are you looking for website design packages to grow your company? For pricing details on website design, visit Clickbox. We offer affordable website design packages for all businesses." / >
+			"description": "Are you looking for website design packages to grow your company? For pricing details on website design, visit Clickbox. We offer affordable website design packages for all businesses.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

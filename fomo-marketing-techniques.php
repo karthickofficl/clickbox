@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/fomo-marketing-techniques/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Get More Results Implementing This 7 Best FOMO Marketing Strategies" />
 
@@ -118,16 +118,14 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="FOMO marketing is a set of strategies pulling the customer's emotional strings. Societal pressure pushes the customer to get influenced by FOMO and purchase the product. Read below the 10 successful FOMO marketing strategies." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="www.clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="www.clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
 </head>
-
-
 
 <body>
 	<?php include('header.php') ?>
@@ -146,21 +144,13 @@ if (isset($_POST['send'])) {
 						<div class="post-inner-img">
 							<img class="img-fluid" src="../images/blog/fomo-marketing-techniques.png" alt="fomo marketing techniques" />
 						</div>
-
-
 						<!-- SINGLE POST TITLE -->
 						<div class="single-post-title">
 
 							<!-- TITLE -->
 							<h1 class="h2-md">What is FOMO marketing? </h1>
 
-
 						</div> <!-- END SINGLE POST TITLE -->
-
-
-
-
-
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
 
@@ -365,13 +355,7 @@ if (isset($_POST['send'])) {
 									<span><a href="#">fomo marketing examples</a></span>
 									<span><a href="#">fomo marketing strategy</a></span>
 									<span><a href="#">fomo marketing campaigns</a></span>
-
-
-
 									<span><a href="#">fomo marketing techniques</a></span>
-
-
-
 
 								</div>
 
@@ -466,11 +450,7 @@ if (isset($_POST['send'])) {
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
-
-
-
-
-	<!-- BLOG-1
+<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">
@@ -512,7 +492,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

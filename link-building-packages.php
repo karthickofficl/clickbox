@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/link-building-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Link Building Package & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -689,10 +689,6 @@
 										</div>
 									</div>
 								</div>
-
-
-
-
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
@@ -706,7 +702,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -735,7 +731,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -752,7 +748,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/"
+			"url": "https://www.clickboxagency.com/link-building-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/link-building-packages/find?q={search_term_string}",
@@ -765,7 +761,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Link Building Package & Pricing | ClickBox",
-			"alternateName": "link building packages, best link building service, link building pricing, link building service, link building sites, organic link building" / >
+			"alternateName": "link building packages, best link building service, link building pricing, link building service, link building sites, organic link building",
 				"url": "https://www.clickboxagency.com/link-building-packages/"
 		}
 	</script>
@@ -778,7 +774,7 @@
 			"url": "https://www.clickboxagency.com/link-building-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings." / >
+			"description": "The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

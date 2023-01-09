@@ -106,7 +106,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/right-digital-marketing-agency/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Choose the Right Digital Marketing Agency in 2022?" />
 
@@ -119,10 +119,10 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="How to find experienced marketers for your business? Here is the guide on how to choose the right digital marketing agency." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON ADD-->
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 

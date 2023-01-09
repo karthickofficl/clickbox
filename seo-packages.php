@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Monthly SEO Packages & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -1159,7 +1159,7 @@
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -1187,7 +1187,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1202,10 +1202,10 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/"
+			"url": "https://www.clickboxagency.com/seo-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://www.clickboxagency.com/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/seo-packages/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -1214,11 +1214,9 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "A Beginner's Guide to 7 Strategies To Organically Boost Your Instagram Followers",
-			"alternateName": "instagram organic growth, organically increase instagram followers, growing organic instagram followers,
-			instagram organic growth service,
-			instagram organic growth strategy "/>
-			"url": "https://www.clickboxagency.com/"
+			"name": "Affordable Monthly SEO Packages & Pricing | ClickBox",
+			"alternateName": "affordable seo packages, best seo packages, affordable seo packages for small business, seo package prices, organic seo packages, basic seo packages, seo monthly packages",
+			"url": "https://www.clickboxagency.com/seo-packages/"
 		}
 	</script>
 
@@ -1226,11 +1224,11 @@
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "A Beginner's Guide to 7 Strategies To Organically Boost Your Instagram Followers",
-			"url": "https://www.clickboxagency.com/boost-your-instagram/",
+			"name": "Affordable Monthly SEO Packages & Pricing | ClickBox",
+			"url": "https://www.clickboxagency.com/seo-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "fllowing the right strategies. " / >
+			"description": "The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

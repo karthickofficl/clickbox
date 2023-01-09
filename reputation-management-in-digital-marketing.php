@@ -127,14 +127,7 @@ if (isset($_POST['send'])) {
 
 
 <body>
-
-
-
-
 	<?php include('header.php') ?>
-
-
-
 
 	<!-- SINGLE POST
 			============================================= -->
@@ -159,12 +152,7 @@ if (isset($_POST['send'])) {
 							<!-- TITLE -->
 							<h1 class="h2-md">Role of ORM in Digital Marketing-How It Impacts Your Business?</h1>
 
-
 						</div> <!-- END SINGLE POST TITLE -->
-
-
-
-
 
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
@@ -230,8 +218,6 @@ if (isset($_POST['send'])) {
 
 
 							</p>
-
-
 							<h4 class="h4-lg">Who Needs ORM Services?
 							</h4>
 
@@ -297,10 +283,6 @@ if (isset($_POST['send'])) {
 							<p class="p-lg">Do you have a small or no customer service team?
 								<br>When you do complete research on Google or social media, you will find the best reputation marketing companies.
 								<br>Hire someone from these companies who can manage the ORM process of your business. You can hire them based on your budget and needs.
-
-
-
-
 							</p>
 
 							<h4 class="h4-lg">Final Words:
@@ -311,11 +293,6 @@ if (isset($_POST['send'])) {
 								<br>If you are busy with your customers and do not have time for ORM activities, then hire us!
 								<br>We are the experienced online reputation management agency that helps you to create a successful online presence of your brand and assure you to receive more traffic and sales to your business. Let’s work together!
 							</p>
-
-
-
-
-
 						</div> <!-- END BLOG POST TEXT -->
 
 
@@ -348,13 +325,6 @@ if (isset($_POST['send'])) {
 
 		</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
-
-
-
-
-
-
-
 	<!-- POST COMMENTS
 			============================================= -->
 	<section id="post-comments" class="wide-80 post-comments division">
@@ -427,10 +397,6 @@ if (isset($_POST['send'])) {
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
-
-
-
-
 	<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient wide-60 blog-section division">
@@ -568,39 +534,39 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
 
- <!-- CALL TO ACTION-5
+	<!-- CALL TO ACTION-5
 			============================================= -->
-			<section id="cta-5" class="cta-section division ">
-  	<div class="container">
-  		<div class="rel bg-10 cta-5-wrapper">
-  			<div class="row justify-content-center">
+	<section id="cta-5" class="cta-section division ">
+		<div class="container">
+			<div class="rel bg-10 cta-5-wrapper">
+				<div class="row justify-content-center">
 
 
-  				<!-- CALL TO ACTION TEXT -->
-  				<div class="col-lg-8">
-  					<div class="cta-5-txt white-color text-center">
+					<!-- CALL TO ACTION TEXT -->
+					<div class="col-lg-8">
+						<div class="cta-5-txt white-color text-center">
 
-  						<!-- Title -->
-  						<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
+							<!-- Title -->
+							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
 
-  						<!-- Text -->
-  						<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
+							<!-- Text -->
+							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
 
-  						</p>
+							</p>
 
-  						<!-- Button -->
-  						<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<!-- Button -->
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
-  					</div>
-  				</div>
-  			</div>
-  		</div> <!-- End row -->
-  	</div> <!-- End container -->
-  </section> <!-- END CALL TO ACTION-5 -->
+						</div>
+					</div>
+				</div>
+			</div> <!-- End row -->
+		</div> <!-- End container -->
+	</section> <!-- END CALL TO ACTION-5 -->
 
 
 	<?php include('footer.php') ?>
-</div> <!-- END PAGE CONTENT -->
+	</div> <!-- END PAGE CONTENT -->
 
 
 	<?php include('footer-script.php') ?>
@@ -612,7 +578,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "https://www.clickboxagency.com/reputation-management-in-digital-marketing/"  ,
+			"url": "https://www.clickboxagency.com/reputation-management-in-digital-marketing/",
 
 			"potentialAction": {
 

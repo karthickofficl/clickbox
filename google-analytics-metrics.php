@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/google-analytics-metrics/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Google Analytics Metrics for E Commerce Business" />
 
@@ -119,25 +119,18 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Google Analytics Metrics elaborates on the sources of traffickers and the performance of their website. Google Analytics helps businesses to analyze the growth. Read more…." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!--FAVICON-->
-
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 </head>
 
-
-
 <body>
 
 	<?php include('header.php') ?>
-
-
-
-
 	<!-- SINGLE POST
 			============================================= -->
 	<section id="single-post" class="wide-30 inner-page-hero single-post-section division">
@@ -391,8 +384,6 @@ if (isset($_POST['send'])) {
 								<div class='didide'>
 									<span><a href="#">google analytics metrics</a></span>
 									<span><a href="#">important google analytics metrics</a></span>
-
-
 								</div>
 
 							</div>
@@ -400,8 +391,8 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href="https://www.facebook.com/people/Clickbox-Agency/100078058999078/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
 									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
 								</ul>
 							</div>
@@ -419,13 +410,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
 
-
-
-
-
-
-
-	<!-- POST COMMENTS
+<!-- POST COMMENTS
 			============================================= -->
 	<section id="post-comments" class=" post-comments division">
 		<div class="container">
@@ -541,7 +526,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -551,8 +536,8 @@ if (isset($_POST['send'])) {
 	</section> <!-- END CALL TO ACTION-5 -->
 
 	<?php include('footer.php') ?>
-    
-</div> <!-- END PAGE CONTENT -->
+
+	</div> <!-- END PAGE CONTENT -->
 
 	<?php include('footer-script.php') ?>
 

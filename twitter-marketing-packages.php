@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/twitter-marketing-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Twitter Marketing Packages & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="The internal social media strategists and content producers at Clickbox provide Twitter marketing services that promote brand visibility, follower engagement, and influencer relationships." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -788,7 +788,7 @@
 				<div class="row">
 					<div class="col  ">
 						<div class="more-questions">
-							<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+							<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 						</div>
 					</div>
 				</div>
@@ -818,7 +818,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -833,7 +833,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/twitter-marketing-packages/"
+			"url": "https://www.clickboxagency.com/twitter-marketing-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/twitter-marketing-packages/find?q={search_term_string}",
@@ -846,7 +846,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Twitter Marketing Packages & Pricing | ClickBox",
-			"alternateName": "twitter marketing packages, twitter marketing costs, twitter ads cost, twitter advertising" / >
+			"alternateName": "twitter marketing packages, twitter marketing costs, twitter ads cost, twitter advertising",
 				"url": "https://www.clickboxagency.com/twitter-marketing-packages/"
 		}
 	</script>
@@ -859,7 +859,7 @@
 			"url": "https://www.clickboxagency.com/twitter-marketing-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "The internal social media strategists and content producers at Clickbox provide Twitter marketing services that promote brand visibility, follower engagement, and influencer relationships. " / >
+			"description": "The internal social media strategists and content producers at Clickbox provide Twitter marketing services that promote brand visibility, follower engagement, and influencer relationships. ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

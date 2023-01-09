@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-delhi/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Agency Delhi" />
 
@@ -115,7 +115,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Delhi, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
@@ -1056,7 +1056,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Ready to make us your SEO consultant in Delhi? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Ready to make us your SEO consultant in Delhi? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>

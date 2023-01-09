@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/digital-marketing-internship-coimbatore/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Advanced Certified Digital Marketing Internship Program Coimbatore" />
 
@@ -114,14 +114,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Ready to Expert in Digital Marketing? Learn Digital Marketing Course in Coimbatore from Industry Experts with 100% Placement and Internship." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
 </head>
-
-
-
 <body>
 
 	<?php include('header.php') ?>
@@ -1996,7 +1993,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -2019,7 +2016,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/"
+			"url": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/find?q={search_term_string}",
@@ -2032,7 +2029,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Advanced Certified Digital Marketing Internship Program Coimbatore",
-			"alternateName": "Digital Marketing Internship, Digital Marketing Internship Coimbatore, Digital Marketing Course Coimbatore, Digital Marketing Training Coimbatore" / >
+			"alternateName": "Digital Marketing Internship, Digital Marketing Internship Coimbatore, Digital Marketing Course Coimbatore, Digital Marketing Training Coimbatore",
 				"url": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/"
 		}
 	</script>
@@ -2045,7 +2042,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Ready to Expert in Digital Marketing? Learn Digital Marketing Course in Coimbatore from Industry Experts with 100% Placement and Internship" / >
+			"description": "Ready to Expert in Digital Marketing? Learn Digital Marketing Course in Coimbatore from Industry Experts with 100% Placement and Internship",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/ecommerce-marketing-services/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Ecommerce SEO Service Company In India" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Our ecommerce SEO expert provides unique and the best ecommerce SEO services that help to run your eCommerce website with the best ROI rate." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -145,9 +145,6 @@ if (isset($_POST['send'])) {
 						<p class="p-md">SEO is one of the affordable marketing types to grow your online store.
 							With the ecommerce SEO process, you can rank your ecommerce website/store at top of search results.
 							Get more traffic and boost your sales by merging with our ecommerce SEO services.
-
-
-
 						</p>
 
 						<!-- Form -->
@@ -252,7 +249,7 @@ if (isset($_POST['send'])) {
 						</ul>
 
 						<div class="more-btn mt-20">
-							<a href="../contacts" class="btn btn-violet-red tra-grey-hover">Talk to Your Ecommerce SEO Expert</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-violet-red tra-grey-hover">Talk to Your Ecommerce SEO Expert</a>
 						</div>
 
 					</div>
@@ -1009,7 +1006,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Ready to change your ecommerce website based on SEO? Let’s talk to grow your ecommerce business! <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Ready to change your ecommerce website based on SEO? Let’s talk to grow your ecommerce business! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>
@@ -1038,7 +1035,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1055,7 +1052,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/ecommerce-marketing-services/"
+			"url": "https://www.clickboxagency.com/ecommerce-marketing-services/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/ecommerce-marketing-services/find?q={search_term_string}",
@@ -1068,7 +1065,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Ecommerce SEO Service Company In India",
-			"alternateName": "ecommerce seo agency, ecommerce seo company, woocommerce seo, shopify seo, magento seo, bigcommerce seo, best ecommerce seo, seo for shopify store, ecommerce seo specialist, shopify seo experts, ecommerce seo packages, ecommerce seo, ecommerce seo services, ecommerce seo packages, seo for ecommerce website, seo in ecommerce, ecommerce seo expert" / >
+			"alternateName": "ecommerce seo agency, ecommerce seo company, woocommerce seo, shopify seo, magento seo, bigcommerce seo, best ecommerce seo, seo for shopify store, ecommerce seo specialist, shopify seo experts, ecommerce seo packages, ecommerce seo, ecommerce seo services, ecommerce seo packages, seo for ecommerce website, seo in ecommerce, ecommerce seo expert",
 				"url": "https://www.clickboxagency.com/ecommerce-marketing-services/"
 		}
 	</script>
@@ -1081,7 +1078,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/ecommerce-marketing-services/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Our ecommerce SEO expert provides unique and the best ecommerce SEO services that help to run your eCommerce website with the best ROI rate." / >
+			"description": "Our ecommerce SEO expert provides unique and the best ecommerce SEO services that help to run your eCommerce website with the best ROI rate." ,
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 </head>
@@ -361,18 +361,12 @@
 			},
 
 			"sameAs": [
-
-				" https://twitter.com/",
-
-				" https://www.facebook.com/",
-
-				" https://www.instagram.com/",
-
-				" https://www.linkedin.com/",
-
-				" https://www.youtube.com/",
-
-				" https://in.pinterest.com/"
+				" https://twitter.com/clickboxagency",
+				" https://www.facebook.com/people/Clickbox-Agency/100078058999078/",
+				" https://www.instagram.com/clickbox_agency/",
+				" https://www.linkedin.com/company/clickbox-agency/",
+				" https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw",
+				" https://in.pinterest.com/clickboxagency/"
 
 			]
 

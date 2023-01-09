@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/youtube-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="YouTube Marketing Packages | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Every YouTube marketing Package Optimization for Videos Campaign Setup Onboarding Call, Custom title, descriptions, and tags for YouTube" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -1097,7 +1097,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -1126,7 +1126,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1143,7 +1143,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/youtube-packages/"
+			"url": "https://www.clickboxagency.com/youtube-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/youtube-packages/find?q={search_term_string}",
@@ -1156,7 +1156,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "YouTube Marketing Packages | ClickBox",
-			"alternateName": "You tube marketing packages,you tube marketing,you tube advertising,youtube ad cost,youtube advertising cost,you tube promotion cost,youtube advertising rates " / >
+			"alternateName": "You tube marketing packages,you tube marketing,you tube advertising,youtube ad cost,youtube advertising cost,you tube promotion cost,youtube advertising rates ",
 				"url": "https://www.clickboxagency.com/youtube-packages/"
 		}
 	</script>
@@ -1169,7 +1169,7 @@
 			"url": "https://www.clickboxagency.com/youtube-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Every YouTube marketing Package Optimization for Videos Campaign Setup Onboarding Call, Custom title, descriptions, and tags for YouTube" / >
+			"description": "Every YouTube marketing Package Optimization for Videos Campaign Setup Onboarding Call, Custom title, descriptions, and tags for YouTube",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

@@ -108,7 +108,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/nykaa-success-story/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="NYKAA- A HUGE SUCCES" />
 
@@ -122,11 +122,11 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:description" content="In today's world, buying cosmetics from a store is a bit tough. Why don't we buy cosmetics online that everything has 
 		been made simple and we can get everything from the comfort of our own homes? This is where Nykaa began." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -379,10 +379,7 @@ if (isset($_POST['send'])) {
 								<div class='didide '>
 									<span><a href="#">nykaa, beauty products</a></span>
 									<span><a href="#">cosmetics market</a></span>
-
 									<span><a href="#">women entrepreneur</a></span>
-
-
 									<span><a href="#">nykaa online shopping</a></span>
 									<span><a href="#"> ecommerce shopping</a></span>
 
@@ -393,8 +390,8 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href=" https://www.facebook.com/people/Clickbox-Agency/100078058999078/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
 									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
 								</ul>
 							</div>
@@ -490,14 +487,10 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
 
-
-
-
 	<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">
-
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
@@ -510,8 +503,6 @@ if (isset($_POST['send'])) {
 			<!-- INCLUDE BLOGS -->
 
 			<?php include('newblog.php') ?>
-
-
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
 	<!-- CALL TO ACTION-5
@@ -520,7 +511,6 @@ if (isset($_POST['send'])) {
 		<div class="container">
 			<div class="rel bg-10 cta-5-wrapper">
 				<div class="row justify-content-center">
-
 
 					<!-- CALL TO ACTION TEXT -->
 					<div class="col-lg-8">
@@ -535,7 +525,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

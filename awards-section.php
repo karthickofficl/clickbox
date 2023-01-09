@@ -25,7 +25,7 @@
 					<div class="col p-sm-2">
 						<div class="brand-logo">
 							<a href="#">
-								<img class="award-img-size" src="./images/blog/web-design-develope1.png" alt="brand-logo" />
+								<img class="award-img-size" src="https://clickboxagency.com/images/blog/web-design-develope1.png" alt="brand-logo" />
 							</a>
 						</div>
 					</div>
@@ -35,7 +35,7 @@
 					<div class="col p-sm-2">
 						<div class="brand-logo ">
 							<a href="https://www.designrush.com/agency/digital-marketing/financial-services/">
-								<img class="award-img-size" src="./images/blog/web-design-develope7.svg" alt="brand-logo" />
+								<img class="award-img-size" src="https://clickboxagency.com/images/blog/web-design-develope7.svg" alt="brand-logo" />
 							</a>
 						</div>
 					</div>
@@ -45,7 +45,7 @@
 					<div class="col p-sm-2">
 						<div class="brand-logo ">
 							<a href="#">
-								<img class="award-img-size" src="./images/blog/web-design-develope3.png" alt="brand-logo" />
+								<img class="award-img-size" src="https://clickboxagency.com/images/blog/web-design-develope3.png" alt="brand-logo" />
 							</a>
 						</div>
 					</div>
@@ -55,7 +55,7 @@
 					<div class="col p-sm-2">
 						<div class="brand-logo">
 							<a href="https://www.goodfirms.co/company/clickbox-agency/">
-								<img class="award-img-size" src="./images/blog/web-design-develope8.svg" alt="brand-logo" />
+								<img class="award-img-size" src="https://clickboxagency.com/images/blog/web-design-develope8.svg" alt="brand-logo" />
 							</a>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 					<div class="col p-sm-2">
 						<div class="brand-logo">
 							<a href="#">
-								<img class="award-img-size" src="./images/blog/web-design-develope5.png" alt="brand-logo" />
+								<img class="award-img-size" src="https://clickboxagency.com/images/blog/web-design-develope5.png" alt="brand-logo" />
 							</a>
 						</div>
 					</div>
@@ -75,7 +75,7 @@
 					<div class="col p-sm-2">
 						<div class="brand-logo">
 							<a href="#">
-								<img class="award-img-size " src="./images/blog/web-design-develope6.png" alt="brand-logo" />
+								<img class="award-img-size " src="https://clickboxagency.com/images/blog/web-design-develope6.png" alt="brand-logo" />
 							</a>
 						</div>
 					</div>

@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/digital-marketing-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Digital Marketing Packages – Custom Price Plans for Your Brand" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -74,7 +74,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-							<img class="img-fluid" src="../images/complete-packages.svg" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images/complete-packages.svg" alt="content-image">
 						</div>
 					</div>
 
@@ -1195,7 +1195,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1212,10 +1212,10 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/"
+			"url": "https://www.clickboxagency.com/digital-marketing-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://www.clickboxagency.com/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/digital-marketing-packages/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -1225,8 +1225,8 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Digital Marketing Packages – Custom Price Plans for Your Brand",
-			"alternateName": "digital marketing packages, digital marketing pricing packages, digital marketing plans, digital marketing pricing, digital marketing cost, digital marketing price quotation, digital marketing monthly plan " / >
-				"url": "https://www.clickboxagency.com/"
+			"alternateName": "digital marketing packages, digital marketing pricing packages, digital marketing plans, digital marketing pricing, digital marketing cost, digital marketing price quotation, digital marketing monthly plan ",
+				"url": "https://www.clickboxagency.com/digital-marketing-packages/"
 		}
 	</script>
 
@@ -1235,10 +1235,10 @@
 			"@context": "https://schema.org",
 			"@type": "Organization",
 			"name": "Digital Marketing Packages – Custom Price Plans for Your Brand",
-			"url": "https://www.clickboxagency.com/boost-your-instagram/",
+			"url": "https://www.clickboxagency.com/digital-marketing-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing..." / >
+			"description": "Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing...",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

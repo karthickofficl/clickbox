@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/facebook-marketing-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Facebook Advertising Packages & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Clickbox provides a complete, customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -795,7 +795,7 @@
 				<div class="row">
 					<div class="col  ">
 						<div class="more-questions">
-							<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+							<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 						</div>
 					</div>
 				</div>
@@ -824,7 +824,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -840,7 +840,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/facebook-marketing-packages/"
+			"url": "https://www.clickboxagency.com/facebook-marketing-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/facebook-marketing-packages/find?q={search_term_string}",
@@ -853,7 +853,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Facebook Advertising Packages & Pricing | ClickBox",
-			"alternateName": "facebook advertising packages, facebook marketing services packages, facebook ad management packages, facebook marketing packages, facebook ads packages" / >
+			"alternateName": "facebook advertising packages, facebook marketing services packages, facebook ad management packages, facebook marketing packages, facebook ads packages",
 				"url": "https://www.clickboxagency.com/facebook-marketing-packages/"
 		}
 	</script>
@@ -866,7 +866,7 @@
 			"url": "https://www.clickboxagency.com/facebook-marketing-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox provides a complete, customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more... " / >
+			"description": "Clickbox provides a complete, customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more... ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

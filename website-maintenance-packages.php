@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/website-maintenance-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Website Maintenance Package & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="A unique logo design company, Clickbox offers affordable logo design packages. Engage with the top logo designers to make your company premier. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -819,7 +819,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -849,7 +849,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -865,7 +865,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/website-maintenance-packages/"
+			"url": "https://www.clickboxagency.com/website-maintenance-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/website-maintenance-packages/find?q={search_term_string}",
@@ -878,7 +878,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Website Maintenance Package & Pricing | ClickBox",
-			"alternateName": "website maintenance package, wordpress website maintenance packages, website maintenance packages pricing, website maintenance pricing " / >
+			"alternateName": "website maintenance package, wordpress website maintenance packages, website maintenance packages pricing, website maintenance pricing ",
 				"url": "https://www.clickboxagency.com/website-maintenance-packages/"
 		}
 	</script>
@@ -891,7 +891,7 @@
 			"url": "https://www.clickboxagency.com/website-maintenance-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "For our clients, Clickbox has been providing professional and efficient website maintenance services. Our extremely qualified team operates fulltime to assure prompt service delivery.  " / >
+			"description": "For our clients, Clickbox has been providing professional and efficient website maintenance services. Our extremely qualified team operates fulltime to assure prompt service delivery.  ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

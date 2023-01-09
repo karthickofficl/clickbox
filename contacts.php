@@ -92,13 +92,13 @@ if (isset($_POST['send'])) {
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.clickboxagency.com/contacts.php" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
-	<meta property="og:image" content="www.clickboxagency.com/images/banner-img.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
-	<meta name="twitter:image" content="www.clickboxagency.com/images/banner-img.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -316,7 +316,7 @@ if (isset($_POST['send'])) {
 
 					<!-- BOX #2 -->
 					<div class="col">
-						<a href="faqs.html">
+						<!-- <a href="https://clickboxagency.com/faqs.html"> -->
 							<div class="cta-box bg-white wow fadeInUp">
 
 								<!-- Icon -->
@@ -338,7 +338,7 @@ if (isset($_POST['send'])) {
 								</div>
 
 							</div>
-						</a>
+						<!-- </a> -->
 					</div> <!-- END BOX #2 -->
 				</div> <!-- End cta-8-wrapper -->
 			</div> <!-- End row -->
@@ -374,7 +374,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -390,7 +390,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/contacts/"
+			"url": "https://www.clickboxagency.com/contacts/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/contacts/find?q={search_term_string}",
@@ -403,7 +403,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Contact Us - ClickBox Advertising &amp; Digital Marketing Agency",
-			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india" / >
+			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
 				"url": "https://www.clickboxagency.com/contacts/"
 		}
 	</script>
@@ -416,7 +416,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/contacts/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " / >
+			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. ",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

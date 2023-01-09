@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/logo-design-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Logo Designing Package & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="A unique logo design company, Clickbox offers affordable logo design packages. Engage with the top logo designers to make your company premier. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 	<style>
 		.shadow {
@@ -84,19 +84,10 @@
 	</style>
 
 </head>
-
-
-
 <body>
-
-
-
-
 	<?php include('header.php') ?>
 
-
-
-	<section id="content-3" class="bg-snow inner-page-hero content-3  content-section division">
+<section id="content-3" class="bg-snow inner-page-hero content-3  content-section division">
 		<div class="container">
 
 
@@ -119,7 +110,7 @@
 							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
+									<img class="img-fluid" src="https://www.clickboxagency.com/images/ads-03.png" alt="content-image">
 								</div>
 							</div>
 
@@ -181,7 +172,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/img-21.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -202,7 +193,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/img-22.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -230,7 +221,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/img-seoservice.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -252,7 +243,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/img-21.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -281,7 +272,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images/img-16.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -346,13 +337,7 @@
 
 	<!-- FOUR SECTION START END -->
 
-
-
-
-
-
-
-	<!-- PRICING-2 TABLE
+<!-- PRICING-2 TABLE
 			============================================= -->
 	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
 		<div class="container">
@@ -730,7 +715,7 @@
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://www.clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -759,7 +744,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -777,7 +762,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/logo-design-packages/"
+			"url": "https://www.clickboxagency.com/logo-design-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/logo-design-packages/find?q={search_term_string}",
@@ -792,7 +777,7 @@
 			"name": "Affordable Logo Designing Package & Pricing | ClickBox",
 			"alternateName": "instagram organic growth, organically increase instagram followers, growing organic instagram followers,
 			instagram organic growth service,
-			instagram organic growth strategy "/>
+			instagram organic growth strategy ",
 			"url": "https://www.clickboxagency.com/logo-design-packages/"
 		}
 	</script>
@@ -805,7 +790,7 @@
 			"url": "https://www.clickboxagency.com/logo-design-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "A unique logo design company, Clickbox offers affordable logo design packages. Engage with the top logo designers to make your company premier." / >
+			"description": "A unique logo design company, Clickbox offers affordable logo design packages. Engage with the top logo designers to make your company premier.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

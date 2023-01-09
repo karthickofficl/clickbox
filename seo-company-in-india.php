@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo-company-in-india/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Company In India" />
 
@@ -114,14 +114,11 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO company in India, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 
 </head>
-
-
-
 <body>
 
 	<?php include('header1.php') ?>
@@ -162,7 +159,7 @@ if (isset($_POST['send'])) {
 
 						<!-- Small Logo -->
 						<div class="hero-logo-sm mb-20">
-							<img class="img-fluid" src="../images/logo-01.png" alt="hero-logo">
+							<img class="img-fluid" src="https://clickboxagency.com/images/logo-01.png" alt="hero-logo">
 						</div>
 
 						<!-- Title -->
@@ -235,7 +232,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/top-notch-seo.png" alt="video-preview">
+						<img class="img-fluid" src="https://clickboxagency.com/images/top-notch-seo.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -267,7 +264,7 @@ if (isset($_POST['send'])) {
 						</ul>
 
 						<div class="more-btn mt-20">
-							<a href="../contacts" class="btn btn-red yellow-hover">Talk to Your SEO Consultant</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover">Talk to Your SEO Consultant</a>
 						</div>
 
 					</div>
@@ -571,7 +568,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/how-will-start-business.png" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images/how-will-start-business.png" alt="content-image">
 						</div>
 					</div>
 				</div>
@@ -808,8 +805,6 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 			</div>
-
-
 			<!-- FAQs-2 QUESTIONS -->
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
@@ -927,7 +922,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Ready to make us your SEO consultant in India? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Ready to make us your SEO consultant in India? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>
@@ -957,7 +952,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -974,7 +969,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/seo-company-in-india/"
+			"url": "https://www.clickboxagency.com/seo-company-in-india/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/seo-company-in-india/find?q={search_term_string}",
@@ -987,7 +982,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Result Driven SEO Company In India",
-			"alternateName": "seo company india, seo services india, search engine optimization india, seo agency india" / >
+			"alternateName": "seo company india, seo services india, search engine optimization india, seo agency india",
 				"url": "https://www.clickboxagency.com/seo-company-in-india/"
 		}
 	</script>
@@ -1000,7 +995,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/seo-company-in-india/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "As a leading SEO Company in India, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," / >
+			"description": "As a leading SEO Company in India, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

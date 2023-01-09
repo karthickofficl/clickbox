@@ -77,11 +77,7 @@ if (isset($_POST['send'])) {
 
 	<meta name=description content="Instagram is a social media platform where business owners can 
 		market their brand to a large audience. To boost your follower base organically, there are few
-		strategies and advantages that business owners should be aware of before they market their brand.<br><br
-		Social media platforms are the latest trend to market your product for growing your business. These platforms 
-		open a lot of marketing channels for business owners to exhibit their products and services so the potential buyers can get the product. <br><br>
-		Instagram is one such platform wherein many business owners have witnessed amazing success. It has over two billion monthly active users. 
-		In this overcrowded battleground it is a difficult competition to stand out. But there are ways to boost instagram growth by following the right strategies. " />
+		strategies and advantages that business owners should be aware of before they market their brand " />
 
 	<meta name=keywords content="instagram organic growth, organically increase instagram followers, growing organic instagram followers,
 		instagram organic growth service, instagram organic growth strategy " />
@@ -114,7 +110,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content=" https://www.clickboxagency.com/boost-your-instagram/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="A Beginner's Guide to 7 Strategies To Organically Boost Your Instagram Followers" />
 
@@ -126,19 +122,15 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Instagram is a social media platform where business owners can 
 		market their brand to a large audience. To boost your follower base organically, there are few
-		strategies and advantages that business owners should be aware of before they market their brand.<br><br
-		Social media platforms are the latest trend to market your product for growing your business. These platforms 
-		open a lot of marketing channels for business owners to exhibit their products and services so the potential buyers can get the product. <br><br>
-		Instagram is one such platform wherein many business owners have witnessed amazing success. It has over two billion monthly active users. 
-		In this overcrowded battleground it is a difficult competition to stand out. But there are ways to boost instagram growth by following the right strategies.." />
+		strategies and advantages that business owners should be aware of before they market their brand." />
 
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!--FAVICON-->
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -161,7 +153,7 @@ if (isset($_POST['send'])) {
 
 						<!-- BLOG POST INNER IMAGE -->
 						<div class="post-inner-img">
-							<img class="img-fluid" src="../images/blog/boost-your-instagram.jpg" alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/boost-your-instagram.jpg" alt="blog-post-image" />
 						</div>
 
 						<!-- SINGLE POST TITLE -->
@@ -364,11 +356,7 @@ if (isset($_POST['send'])) {
 							<div class="col-md-9 col-xl-9 post-tags-list">
 								<div class='didide p-3'>
 									<span><a href="#">instagram organic growth</a></span>
-
-
 									<span><a href="#">growing organic instagram followers</a></span>
-
-
 									<span><a href="#">instagram organic growth service</a></span>
 									<span><a href="#">instagram organic growth strategy</a></span>
 									<span><a href="#">organically increase instagram followers</a></span>
@@ -509,7 +497,7 @@ if (isset($_POST['send'])) {
 									</p>
 
 									<!-- Button -->
-									<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+									<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 								</div>
 							</div>
@@ -531,7 +519,7 @@ if (isset($_POST['send'])) {
 
 				"@type": "WebSite",
 
-				"url": "https://www.clickboxagency.com/boost-your-instagram/"
+				"url": "https://www.clickboxagency.com/boost-your-instagram/",
 
 				"potentialAction": {
 
@@ -557,7 +545,7 @@ if (isset($_POST['send'])) {
 
 				"alternateName": "instagram organic growth, organically increase instagram followers, growing organic instagram followers,
 				instagram organic growth service,
-				instagram organic growth strategy "/>
+				instagram organic growth strategy ",
 
 
 				"url": "https://www.clickboxagency.com/boost-your-instagram/"
@@ -582,15 +570,7 @@ if (isset($_POST['send'])) {
 
 				"description": "Instagram is a social media platform where business owners can 
 				market their brand to a large audience.To boost your follower base organically,
-				there are few
-				strategies and advantages that business owners should be aware of before they market their brand. < br > < br
-				Social media platforms are the latest trend to market your product
-				for growing your business.These platforms
-				open a lot of marketing channels
-				for business owners to exhibit their products and services so the potential buyers can get the product. < br > < br >
-					Instagram is one such platform wherein many business owners have witnessed amazing success.It has over two billion monthly active users.
-				In this overcrowded battleground it is a difficult competition to stand out.But there are ways to boost instagram growth by following the right strategies.
-				"
+				there are few strategies and advantages that business owners should be aware of before they market their brand.",
 
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 

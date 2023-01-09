@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/how-to-generate-leads-for-business/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How To Generate Leads For Business?" />
 
@@ -118,10 +118,10 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content=" The process of approaching new customers to your business and improving their interest through training, with the ultimate objective of turning them into customers, is known as lead generation. Check this article to learn more about how to generate leads for your business." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<link rel="icon" href="../images/favicon1.png" type="image/x-icon">
-	<link rel="shortcut icon" href="../images/favicon1.png" type="image/x-icon">
+	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -155,22 +155,10 @@ if (isset($_POST['send'])) {
 	</style>
 
 	<!-- STYLE -->
-
-
-
 </head>
 
-
-
 <body>
-
-
-
-
 	<?php include('header.php') ?>
-
-
-
 
 	<!-- SINGLE POST
 			============================================= -->
@@ -197,11 +185,6 @@ if (isset($_POST['send'])) {
 
 
 						</div> <!-- END SINGLE POST TITLE -->
-
-
-
-
-
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
 
@@ -212,25 +195,15 @@ if (isset($_POST['send'])) {
 							<h5 class="h4-lg">
 								<center>" Lead generation is a fairly core activity to marketing "<br> – Chris Brogan</center>
 							</h5>
-
-
 							<p class="p-lg">
-
-
 								Any individual who expresses interest in a company's goods or services in any way is considered a lead, whereas lead generation is the process of engaging new customers to your business and improving their interest through training, with the ultimate objective of turning them into customers, is known as
 								<a href="https://salespanel.io/blog/marketing/lead-generation-in-digital-marketing/" style="color:#0000FF;"><u> lead generation</u></a>
 								Job applications, live events, posters, videos, blog articles, and online material are a few ways to generate leads.
 								This blog explains the technique of how to generate leads in digital marketing.
 
 						</div>
-
-
-
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
-
-
-
 
 							<h5 class="h4-lg">Why is lead generation necessary?</h5>
 
@@ -323,12 +296,6 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<p class="p-lg">For the lead generation process, CRM is essential.<a href="https://www.salesforce.com/in/crm/what-is-crm/#:~:text=Customer%20relationship%20management%20(CRM)%20is,streamline%20processes%2C%20and%20improve%20profitability." style="color:#0000FF;"><u>Customer relationship management</u></a> (CRM) is a tool, used to handle all interactions and relationships between your business and its clients. The objective of a CRM is to strengthen business ties. CRM systems help businesses in keeping in contact with current procedures, and clients and boost profitability. </p>
-
-
-
-
-
-
 							<div class="post-inner-img">
 								<img class="img-fluid" src="../images/blog/lead-generation-process.jpg" alt="hard-skills-digital-marketing" />
 							</div>
@@ -342,20 +309,13 @@ if (isset($_POST['send'])) {
 							<p class="p-lg">Depending on the platform you choose to use to gather leads, there are a variety of approaches, campaigns, and strategies that go under the cover of online lead generation. Here we discussed the best ways to gather leads once a site visitor has arrived.</p>
 							<p class="p-lg">Let's explore lead generation tactics for a few well-known sites.</p>
 
-
-
 							<!-- Title -->
 
 							<h6 class="h4-lg">LinkedIn Lead Generation</h6>
 
-
-
 							<p class="p-lg">
 								In recent days, LinkedIn has grown rapidly in the advertising sector. When it comes to lead generation, LinkedIn developed Lead Gen Forms that make it simple to collect data, and also sales navigator provided by Linkedin is very helpful in generating leads from all over our world.
 								How to generate b2b leads on linkedin is a challenging task for all businesses. Yes, LinkedIn is a perfect platform for connecting many professionals. These techniques include building a strong profile, figuring out your customers, connecting them, and making them your leads. A creative approach to <a href="https://clickboxagency.com/b2b-marketing-strategy/" style="color:#0000FF;"><u>b2b lead generation</u></a> is necessary for all business models.
-
-
-
 
 								<!-- Title -->
 
@@ -411,18 +371,12 @@ if (isset($_POST['send'])) {
 
 								</ul>
 							</div>
-
-
-
 							<!--TEXT-->
 							<p class="p-lg">
 								In conclusion, it is recorded that for lead generation, content marketing is used by 80% of B2B businesses, similarly, social networking is used to generate leads for business by 66% of marketers and 75% of companies employ marketing automation software. By analyzing the importance of lead generation, various steps are taken to improve it.
 								Do enquire <a href="https://clickboxagency.com/" style="color:#0000FF;"><u>Clickbox agency,</u></a> if you want to learn to get leads for your business and become an expert in digital marketing.
 
 							</p>
-
-
-
 						</div> <!-- END BLOG POST TEXT -->
 
 						<!--KEY WORDS SECTION-->
@@ -439,7 +393,6 @@ if (isset($_POST['send'])) {
 									<span><a href="#">get leads for your business</a></span>
 									<span><a href="#">how to generate leads for business</a></span>
 									<span><a href="#">generate leads for business</a></span>
-
 									<span><a href="#">how to get leads for business</a></span>
 
 								</div>
@@ -449,18 +402,13 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href=" https://www.facebook.com/people/Clickbox-Agency/100078058999078/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
 									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
 								</ul>
 							</div>
 
 						</div> <!-- SINGLE POST SHARE LINKS END -->
-
-
-
-
-
 
 					</div>
 				</div> <!-- END SINGLE POST CONTENT -->
@@ -468,12 +416,6 @@ if (isset($_POST['send'])) {
 
 			</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
-
-
-
-
-
-
 
 	<!-- POST COMMENTS
 			============================================= -->
@@ -547,9 +489,6 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
 
-
-
-
 	<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
@@ -592,7 +531,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

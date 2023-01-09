@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/website-development-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content=" Professional Website Development Services | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Our website development and design services let the clients find you online through a search engine. ClickBox services provide friendly development and design of websites and mobile applications. Read more.." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -135,7 +135,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-lg-5 order-last order-lg-2">
 					<div class="hero-8-img pc-20 text-center">
-						<img class="img-fluid" src="../images/hero-8-img.png" alt="hero-image">
+						<img class="img-fluid" src="../images/create-a-professional-website.png" alt="hero-image">
 					</div>
 				</div>
 
@@ -201,8 +201,8 @@ if (isset($_POST['send'])) {
 							<!-- <h5 class="h5-md">Advanced Analytics Review</h5> -->
 
 							<!-- Text -->
-							<p class="p-lg">Website development services promote the creation of all varieties of web-based software and provide a positive online experience. In order to achieve high conversion and adoption rates, ClickBox professionally designs, redesigns, and provides ongoing support for customer-facing and enterprise web apps. Every business relies heavily on a website. Depending on the needs of the business, we can create websites with simple or complicated designs. As the best web development company, ClickBox contends that a website should read the user's mind and blend with its content's topic to increase conversion.</p>
-							<p class="p-lg">In terms of the website development services, our UX team will do market and strategy research. After that, we'll start with user experience and move towards responsive HTML conversion or dynamic conversion. We have a team that is knowledgeable about the most recent technologies to talk to computers and databases as well.
+							<p class="p-lg txt-justify">Website development services promote the creation of all varieties of web-based software and provide a positive online experience. In order to achieve high conversion and adoption rates, ClickBox professionally designs, redesigns, and provides ongoing support for customer-facing and enterprise web apps. Every business relies heavily on a website. Depending on the needs of the business, we can create websites with simple or complicated designs. As the best web development company, ClickBox contends that a website should read the user's mind and blend with its content's topic to increase conversion.</p>
+							<p class="p-lg txt-justify">In terms of the website development services, our UX team will do market and strategy research. After that, we'll start with user experience and move towards responsive HTML conversion or dynamic conversion. We have a team that is knowledgeable about the most recent technologies to talk to computers and databases as well.
 								<br>Through a customer-centric and data-driven strategy, we are a premier web design and development company in India that can assist you in defining your brand and increasing the demand for your goods or services. We recognize the value of having an interesting website in the current digital world and make sure to include all parts of digital marketing including SEO, PPC, content marketing, website development, and more to provide excellent results.
 							</p>
 
@@ -250,8 +250,8 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">What Is The Importance Of Website Development Of a Company?</h4>
 
-							<p class="p-lg">A business may benefit from using a well-designed website to reach a larger and more interested audience. In order to reach a wider audience and produce more leads or consumers, a website must be well-designed. You may gather and read customer reviews of your goods and services far more swiftly and conveniently using a website.</p>
-							<p class="p-lg">The creation and design of websites aid in promoting a business's brand. Basically, a corporation is deemed to be functioning on a global scale if its website can be accessed over the World Wide Web. This implies that a little-known business could be sought out, and clients who reside far away could receive its products.</p>
+							<p class="p-lg txt-justify">A business may benefit from using a well-designed website to reach a larger and more interested audience. In order to reach a wider audience and produce more leads or consumers, a website must be well-designed. You may gather and read customer reviews of your goods and services far more swiftly and conveniently using a website.</p>
+							<p class="p-lg txt-justify">The creation and design of websites aid in promoting a business's brand. Basically, a corporation is deemed to be functioning on a global scale if its website can be accessed over the World Wide Web. This implies that a little-known business could be sought out, and clients who reside far away could receive its products.</p>
 
 						</div>
 					</div> <!-- END TEXT BLOCK -->
@@ -279,7 +279,7 @@ if (isset($_POST['send'])) {
 						<h2 class="h2-md">Why Choose ClickBox For Web Development Service?</h2>
 
 						<!-- Text  -->
-						<p class="p-md">A comprehensive range of website design services is offered by ClickBox to both small and large businesses. Our team of skilled web designers and seasoned digital marketing professionals create user-friendly business websites and dynamic web applications using the most recent technology and tried-and-true marketing techniques, then market them to increase client reach.
+						<p class="p-md txt-justify">A comprehensive range of website design services is offered by ClickBox to both small and large businesses. Our team of skilled web designers and seasoned digital marketing professionals create user-friendly business websites and dynamic web applications using the most recent technology and tried-and-true marketing techniques, then market them to increase client reach.
 						</p>
 
 					</div>
@@ -304,9 +304,7 @@ if (isset($_POST['send'])) {
 							<h5 class="h5-sm">Customer Engagement</h5>
 
 							<!-- Text -->
-							<p class="p-lg">The foundation of our website builder is design and simplicity. We design, adapt and market a beautiful website. Our website builder aids in realizing your distinctive vision. No prior design or coding knowledge is necessary. Create your own unique, mobile-friendly website with digital wording.</p>
-
-
+							<p class="p-lg txt-justify">The foundation of our website builder is design and simplicity. We design, adapt and market a beautiful website. Our website builder aids in realizing your distinctive vision. No prior design or coding knowledge is necessary. Create your own unique, mobile-friendly website with digital wording.</p>
 						</div>
 					</div>
 
@@ -324,7 +322,7 @@ if (isset($_POST['send'])) {
 							<h5 class="h5-sm">Affordable Price</h5>
 
 							<!-- Text -->
-							<p class="p-lg">Our sequence pricing is reasonable and competitive. The benefit for our customers is that they can select the segment based on their comfort and happiness. Our non-premium segment offers excellent goods and services.</p>
+							<p class="p-lg txt-justify">Our sequence pricing is reasonable and competitive. The benefit for our customers is that they can select the segment based on their comfort and happiness. Our non-premium segment offers excellent goods and services.</p>
 
 
 						</div>
@@ -344,7 +342,7 @@ if (isset($_POST['send'])) {
 							<h5 class="h5-sm">Easy and Effective</h5>
 
 							<!-- Text -->
-							<p class="p-lg">Our service platform provides a number of solutions that are simple to adopt and plug in. It offers a variety of goods, services, and solutions that users can choose from according to their needs and convenience.
+							<p class="p-lg txt-justify">Our service platform provides a number of solutions that are simple to adopt and plug in. It offers a variety of goods, services, and solutions that users can choose from according to their needs and convenience.
 							</p>
 
 						</div>
@@ -364,14 +362,10 @@ if (isset($_POST['send'])) {
 							<h5 class="h5-sm">Experienced Website Developers</h5>
 
 							<!-- Text -->
-							<p class="p-lg">Our skilled designers, who have experience working on a variety of projects, will be at your disposal as needed. We pledge to assist you swiftly, urgently, and, of course, with a human connection.</p>
-
+							<p class="p-lg txt-justify">Our skilled designers, who have experience working on a variety of projects, will be at your disposal as needed. We pledge to assist you swiftly, urgently, and, of course, with a human connection.</p>
 
 						</div>
 					</div>
-
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-5 WRAPPER -->
 		</div> <!-- End container -->
@@ -403,7 +397,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Title -->
 							<h5 class="h5-md">Website Design For StartUp Businesses</h5>
-							<p class="p-lg">Following India's announcement of its interest in digitization, a number of startups with various conceptual concepts have appeared in the past ten years, and a large number of these websites are still to come. An organization needs a structured website, and web design continues to be the core of it, in order to maintain a prominent place in the commercial world and to gain new markets and a client base. We provide excellent web design services in India to help new businesses realize their objective of growing quickly with the aid of our perceptive designs. We deliver the website design for startups with a 100% distinctive touch because we are very conscious of the need to retain conciseness. With the help of our web design services and development assistance, we keep the essential accuracy in conveying the USP of our startup clients' websites.</p>
+							<p class="p-lg txt-justify">Following India's announcement of its interest in digitization, a number of startups with various conceptual concepts have appeared in the past ten years, and a large number of these websites are still to come. An organization needs a structured website, and web design continues to be the core of it, in order to maintain a prominent place in the commercial world and to gain new markets and a client base. We provide excellent web design services in India to help new businesses realize their objective of growing quickly with the aid of our perceptive designs. We deliver the website design for startups with a 100% distinctive touch because we are very conscious of the need to retain conciseness. With the help of our web design services and development assistance, we keep the essential accuracy in conveying the USP of our startup clients' websites.</p>
 
 						</div> <!-- END TEXT BOX -->
 
@@ -431,7 +425,7 @@ if (isset($_POST['send'])) {
 						</h2>
 
 						<!-- Text -->
-						<p class="p-xl">While every business has its own unique needs in terms of scale, we start small or big, as
+						<p class="p-xl txt-justify">While every business has its own unique needs in terms of scale, we start small or big, as
 							per your needs and the stage of your digital growth.
 						</p>
 
@@ -865,7 +859,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -900,7 +894,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -916,7 +910,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/website-development-service/"
+			"url": "https://www.clickboxagency.com/website-development-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/website-development-service/find?q={search_term_string}",
@@ -929,7 +923,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": " Professional Website Development Services | ClickBoxx",
-			"alternateName": "website development services, web development service, website development company, web design company, wordpress development services, website developers, ecommerce development services " / >
+			"alternateName": "website development services, web development service, website development company, web design company, wordpress development services, website developers, ecommerce development services ",
 				"url": "https://www.clickboxagency.com/website-development-service/"
 		}
 	</script>
@@ -942,7 +936,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/website-development-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Our website development and design services let the clients find you online through a search engine. ClickBox services provide friendly development and design of websites and mobile applications. Read more.." / >
+			"description": "Our website development and design services let the clients find you online through a search engine. ClickBox services provide friendly development and design of websites and mobile applications. Read more..",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

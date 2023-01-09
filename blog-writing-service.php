@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/blog-writing-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional Blog Writing Service | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Are you looking to increase website traffic with creative and highly structured blogs? You can quickly establish your internet reputation by using our blog content writing services." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -133,7 +133,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-lg-5 order-last order-lg-2">
 					<div class="hero-8-img pc-20 text-center">
-						<img class="img-fluid" src="../images/hero-8-img.png" alt="hero-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images/hero-8-img.png" alt="hero-image">
 					</div>
 				</div>
 
@@ -930,7 +930,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Have more questions? <a href="contacts.html">Ask your question here</a></h5>
+						<h5 class="h5-sm">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -960,7 +960,7 @@ if (isset($_POST['send'])) {
   						</p>
 
   						<!-- Button -->
-  						<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
   					</div>
   				</div>
@@ -978,7 +978,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/blog-writing-service/"
+			"url": "https://www.clickboxagency.com/blog-writing-service/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/blog-writing-service/find?q={search_term_string}",
@@ -993,7 +993,7 @@ if (isset($_POST['send'])) {
 			"name": "Professional Blog Writing Service | ClickBox",
 			"alternateName": "blog content writing, blog writing service, blog content writing services, blog post writing service, best blog writing services,
 			instagram organic growth service,
-			instagram organic growth strategy "/>
+			instagram organic growth strategy ",
 			"url": "https://www.clickboxagency.com/blog-writing-service/"
 		}
 	</script>
@@ -1006,7 +1006,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/blog-writing-service/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Are you looking to increase website traffic with creative and highly structured blogs? You can quickly establish your internet reputation by using our blog content writing services." / >
+			"description": "Are you looking to increase website traffic with creative and highly structured blogs? You can quickly establish your internet reputation by using our blog content writing services.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

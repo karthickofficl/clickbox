@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="www.clickboxagency.com/orm-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Monthly ORM Packages & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -1046,7 +1046,7 @@ The final price will be displayed on the checkout page, before the payment is co
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/https://clickboxagency.com/contacts//">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -1076,7 +1076,7 @@ The final price will be displayed on the checkout page, before the payment is co
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -1092,7 +1092,7 @@ The final price will be displayed on the checkout page, before the payment is co
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/orm-packages/"
+			"url": "https://www.clickboxagency.com/orm-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/orm-packages/find?q={search_term_string}",
@@ -1105,7 +1105,7 @@ The final price will be displayed on the checkout page, before the payment is co
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Monthly ORM Packages & Pricing | ClickBox",
-			"alternateName": "orm packages, online reputation management packages, online reputation management services packages, reputation management packages, online reputation management pricing " / >
+			"alternateName": "orm packages, online reputation management packages, online reputation management services packages, reputation management packages, online reputation management pricing ",
 				"url": "https://www.clickboxagency.com/orm-packages/"
 		}
 	</script>
@@ -1118,7 +1118,7 @@ The final price will be displayed on the checkout page, before the payment is co
 			"url": "https://www.clickboxagency.com/orm-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility" / >
+			"description": "Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

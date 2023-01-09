@@ -103,7 +103,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-bangalore/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Professional SEO Agency Bangalore" />
 
@@ -115,14 +115,12 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Bangalore, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
 
 
 </head>
-
-
 
 <body>
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
@@ -449,7 +447,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Local SEO Service</h5>
 
 								<!-- Text -->
-								<p class="p-lg">We as a local SEO company bangalore, provide local SEO services that mean,  we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
+								<p class="p-lg">We as a local SEO company bangalore, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
 
 
 								</p>
@@ -1126,7 +1124,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Result Driven SEO Agency Bangalore",
 			"alternateName": "seo agency bangalore, seo services bangalore, search engine optimization bangalore, seo agency bangalore",
-				"url": "https://www.clickboxagency.com/seo/seo-agency-bangalore/"
+			"url": "https://www.clickboxagency.com/seo/seo-agency-bangalore/"
 		}
 	</script>
 
@@ -1139,7 +1137,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Agency Bangalore, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

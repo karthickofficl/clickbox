@@ -102,7 +102,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="www.clickboxagency.com/ui-ux-design-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best UI UX Design Service| ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Design Studio Provides A Complete Range Of UI Development And User Experience Design. Lean UX/UI Designing, ClickBox Agency is the best option if you're looking for engaging design services." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -725,7 +725,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -753,7 +753,7 @@ if (isset($_POST['send'])) {
   						</p>
 
   						<!-- Button -->
-  						<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
   					</div>
   				</div>
@@ -769,7 +769,7 @@ if (isset($_POST['send'])) {
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "url":"https://www.clickboxagency.com/ui-ux-design-service/"
+            "url":"https://www.clickboxagency.com/ui-ux-design-service/",
             "potentialAction": {
                 "@type": "SearchAction",
                 "target": "https://www.clickboxagency.com/ui-ux-design-service/find?q={search_term_string}",
@@ -784,7 +784,7 @@ if (isset($_POST['send'])) {
             "@context": "http://schema.org",
             "@type": "WebSite",
             "name": "Best UI UX Design Service| ClickBox",
-            "alternateName": "ui ux design,ui ux design service,ux design agency,ux design company,ux design services,best ui ux design company"/>
+            "alternateName": "ui ux design,ui ux design service,ux design agency,ux design company,ux design services,best ui ux design company",
              "url": "https://www.clickboxagency.com/ui-ux-design-service/"
         }
     </script>
@@ -797,7 +797,7 @@ if (isset($_POST['send'])) {
             "url": "https://www.clickboxagency.com/ui-ux-design-service/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
-            "description": "Design Studio Provides A Complete Range Of UI Development And User Experience Design. Lean UX/UI Designing, ClickBox Agency is the best option if you're looking for engaging design services. "/>
+            "description": "Design Studio Provides A Complete Range Of UI Development And User Experience Design. Lean UX/UI Designing, ClickBox Agency is the best option if you're looking for engaging design services. ",
             "logo": "www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",

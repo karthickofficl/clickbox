@@ -1,11 +1,18 @@
 		<!-- FAVICON AND TOUCH ICONS -->
-		<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon1.png" type="image/x-icon">
+		<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
+		<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://clickboxagency.com/images/apple-icons.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://clickboxagency.com/images/apple-icons.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://clickboxagency.com/images/apple-icons.png">
+		<link rel="apple-touch-icon" href="https://clickboxagency.com/images/apple-icons.png">
+		<link rel="icon" href="https://clickboxagency.com/images/apple-icons.png" type="image/x-icon">
+		<!-- <link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 		<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 		<link rel="apple-touch-icon" sizes="152x152" href="https://clickboxagency.com/images/apple-touch-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="120x120" href="https://clickboxagency.com/images/apple-touch-icon-120x120.png">
 		<link rel="apple-touch-icon" sizes="76x76" href="https://clickboxagency.com/images/apple-touch-icon-76x76.png">
 		<link rel="apple-touch-icon" href="https://clickboxagency.com/images/apple-touch-icon.png">
-		<link rel="icon" href="https://clickboxagency.com/images/apple-touch-icon.png" type="image/x-icon">
+		<link rel="icon" href="https://clickboxagency.com/images/apple-touch-icon.png" type="image/x-icon"> -->
 
 		<!-- GOOGLE FONTS -->
 		<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&amp;display=swap" rel="stylesheet">
