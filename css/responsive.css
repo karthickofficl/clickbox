@@ -2863,7 +2863,8 @@
   .hero-7-txt h2 { font-size: 1.85rem; margin-bottom: 20px; }
   .hero-7-txt .btns-group { margin-top: 30px; }
   .hero-7-txt .btns-group .btn.mr-15 { margin: 0 15px 15px; }
-  .hero-7-img { margin: 40px 0 -40px; }
+  /* .hero-7-img { margin: 40px 0 -40px; } */
+  .hero-7-img { margin: 40px 0 0px; }
 
   /* Hero-8 */
   .hero-8-txt { padding: 0; }
@@ -3707,7 +3708,8 @@
   .hero-7-txt { padding: 0; }
   .hero-7-txt h2 { font-size: 1.85rem; margin-bottom: 20px; }
   .hero-7-txt .btns-group { margin-top: 30px; }
-  .hero-7-img { margin: 40px 0 -40px; }
+  .hero-7-img { margin: 40px 0 0px; }
+  /* .hero-7-img { margin: 40px 0 -40px; } */
 
   /* Hero-8 */
   .hero-8-txt { padding: 0; }
@@ -4563,7 +4565,7 @@
   .hero-7-txt { padding: 0; }
   .hero-7-txt h2 { font-size: 1.75rem; margin-bottom: 15px; }
   .hero-7-txt .btns-group { margin-top: 30px; }
-  .hero-7-img { margin: 40px 0 -40px; }
+  .hero-7-img { margin: 40px 0 0px; }
 
   /* Hero-8 */
   .hero-8-txt { padding: 0;  }

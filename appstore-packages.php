@@ -58,12 +58,10 @@
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
-
 </head>
 
 <body>
 	<?php include('header.php') ?>
-
 
 	<!-- SECTION 1 -->
 	<section id="content-3" class="bg-snow content-3 inner-page-hero content-section division">
@@ -242,11 +240,7 @@
 									<p class="p-lg">User Reviews and Ratings. </p>
 
 								</li>
-
-
 							</ul>
-
-
 						</div> <!-- END TEXT BOX -->
 
 					</div>
@@ -277,8 +271,6 @@
 				<div>
 
 					<div class="row d-flex align-items-center">
-
-
 						<!-- TEXT BLOCK -->
 						<div class="col-md-6 col-lg-6">
 							<div class="txt-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
@@ -318,9 +310,6 @@
 										</li>
 
 									</ul>
-
-
-
 								</div>
 
 							</div>
@@ -456,8 +445,6 @@
 	</section> <!-- END CONTENT-3 -->
 	<!-- SECTION 5 END -->
 
-
-
 	<!-- PRICING-2
 			============================================= -->
 	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
@@ -471,9 +458,6 @@
 
 						<!-- Title -->
 						<h2 class="h2-md" style="color:#cc0444;">Our App Store Packages</h2>
-
-
-
 					</div>
 				</div>
 			</div>
@@ -553,7 +537,7 @@
 							</ul>
 
 							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -637,7 +621,7 @@
 							</ul>
 
 							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -721,7 +705,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -866,35 +850,35 @@
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	 <!-- CALL TO ACTION-5
+	<!-- CALL TO ACTION-5
 			============================================= -->
-			<section id="cta-5" class="cta-section division ">
-  	<div class="container">
-  		<div class="rel bg-10 cta-5-wrapper">
-  			<div class="row justify-content-center">
+	<section id="cta-5" class="cta-section division ">
+		<div class="container">
+			<div class="rel bg-10 cta-5-wrapper">
+				<div class="row justify-content-center">
 
 
-  				<!-- CALL TO ACTION TEXT -->
-  				<div class="col-lg-8">
-  					<div class="cta-5-txt white-color text-center">
+					<!-- CALL TO ACTION TEXT -->
+					<div class="col-lg-8">
+						<div class="cta-5-txt white-color text-center">
 
-  						<!-- Title -->
-  						<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
+							<!-- Title -->
+							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
 
-  						<!-- Text -->
-  						<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
+							<!-- Text -->
+							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
 
-  						</p>
+							</p>
 
-  						<!-- Button -->
-  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<!-- Button -->
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
-  					</div>
-  				</div>
-  			</div>
-  		</div> <!-- End row -->
-  	</div> <!-- End container -->
-  </section> <!-- END CALL TO ACTION-5 -->
+						</div>
+					</div>
+				</div>
+			</div> <!-- End row -->
+		</div> <!-- End container -->
+	</section> <!-- END CALL TO ACTION-5 -->
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
@@ -919,7 +903,7 @@
 			"@type": "WebSite",
 			"name": "App Store Optimization Packages | ClickBox",
 			"alternateName": "app store optimization packages, app store marketing packages,app store marketing,best app marketing",
-				"url": "https://www.clickboxagency.com/appstore-packages/"
+			"url": "https://www.clickboxagency.com/appstore-packages/"
 		}
 	</script>
 
@@ -932,7 +916,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "App Store Optimization packages include initial technical analysis, On-Page SEO suggestions, in-depth competitive, keywords research & finalization . ",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

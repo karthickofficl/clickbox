@@ -301,10 +301,13 @@ if (isset($_POST['send'])) {
 
 							<!-- POST TAGS -->
 							<div class="col-md-9 col-xl-8 post-tags-list">
-								<span><a href="#">Life</a></span>
-								<span><a href="#">Ideas</a></span>
-								<span><a href="#">Story</a></span>
-								<span><a href="#">Web Design</a></span>
+								<span><a href="#">online reputation marketing</a></span>
+								<span><a href="#">reputation management in digital marketing</a></span>
+								<span><a href="#">online brand reputation management</a></span>
+								<span><a href="#">reputation management in SEO</a></span>
+								<span><a href="#">online reputation management agency</a></span>
+								<span><a href="#">best reputation marketing companies</a></span>
+								<!-- online reputation marketing, reputation management in digital marketing, online brand reputation management, reputation management in SEO, online reputation management agency, best reputation marketing companies -->
 							</div>
 
 							<!-- POST SHARE ICONS -->
@@ -399,141 +402,27 @@ if (isset($_POST['send'])) {
 	</section> <!-- END POST COMMENTS -->
 	<!-- BLOG-1
 			============================================= -->
-	<section id="blog-1" class="bg-whitesmoke-gradient wide-60 blog-section division">
+			<section id="blog-1" class="bg-whitesmoke-gradient blog-section division">
 		<div class="container">
 
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01 mb-70">
+					<div class="section-title title-01 mt-20">
 						<h2 class="h2-md">Keep Reading...</h2>
 					</div>
 				</div>
 			</div>
 
 
-			<!-- BLOG POSTS -->
-			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+			<!-- INCLUDE BLOGS -->
 
-
-				<!-- BLOG POST #1 -->
-				<div class="col">
-					<div id="bp-1-1" class="blog-1-post mb-40 wow fadeInUp">
-
-						<!-- BLOG POST IMAGE -->
-						<div class="blog-post-img">
-							<div class="hover-overlay">
-								<img class="img-fluid" src="../images/blog/post-1-img.jpg" alt="blog-post-image" />
-								<div class="item-overlay"></div>
-							</div>
-						</div>
-
-						<!-- BLOG POST TEXT -->
-						<div class="blog-post-txt">
-
-							<!-- Post Tag -->
-							<p class="p-md post-tag">OLMO News &ensp;|&ensp; June 12, 2021</p>
-
-							<!-- Post Link -->
-							<h5 class="h5-md">
-								<a href="single-post.html">Integer urna turpis donec ipsum a porta justo auctor</a>
-							</h5>
-
-							<!-- Text -->
-							<p class="p-lg">Donec sapien augue integer turpis urna cursus porta, mauris augue...</p>
-
-							<!-- Post Meta -->
-							<div class="post-meta">
-								<p class="p-md">9 Comments</p>
-							</div>
-
-						</div> <!-- END BLOG POST TEXT -->
-
-					</div>
-				</div> <!-- END  BLOG POST #1 -->
-
-
-				<!-- BLOG POST #2 -->
-				<div class="col">
-					<div id="bp-1-2" class="blog-1-post mb-40 wow fadeInUp">
-
-						<!-- BLOG POST IMAGE -->
-						<div class="blog-post-img">
-							<div class="hover-overlay">
-								<img class="img-fluid" src="../images/blog/post-5-img.jpg" alt="blog-post-image" />
-								<div class="item-overlay"></div>
-							</div>
-						</div>
-
-						<!-- BLOG POST TEXT -->
-						<div class="blog-post-txt">
-
-							<!-- Post Tag -->
-							<p class="p-md post-tag">Tutorials &ensp;|&ensp; June 3, 2021</p>
-
-							<!-- Post Link -->
-							<h5 class="h5-md">
-								<a href="single-post.html">A ligula risus auctor tempus</a>
-							</h5>
-
-							<!-- Text -->
-							<p class="p-lg">Donec sapien augue integer turpis urna cursus porta a mauris dolor...</p>
-
-							<!-- Post Meta -->
-							<div class="post-meta">
-								<p class="p-md">12 Comments</p>
-							</div>
-
-						</div> <!-- END BLOG POST TEXT -->
-
-					</div>
-				</div> <!-- END  BLOG POST #2 -->
-
-
-				<!-- BLOG POST #3 -->
-				<div class="col">
-					<div id="bp-1-3" class="blog-1-post mb-40 wow fadeInUp">
-
-						<!-- BLOG POST IMAGE -->
-						<div class="blog-post-img">
-							<div class="hover-overlay">
-								<img class="img-fluid" src="../images/blog/post-2-img.jpg" alt="blog-post-image" />
-								<div class="item-overlay"></div>
-							</div>
-						</div>
-
-						<!-- BLOG POST TEXT -->
-						<div class="blog-post-txt">
-
-							<!-- Post Tag -->
-							<p class="p-md post-tag">Inspiration &ensp;|&ensp; May 18, 2021</p>
-
-							<!-- Post Link -->
-							<h5 class="h5-md">
-								<a href="single-post.html">Donec sapien augue integer turpis at cursus porta mauris</a>
-							</h5>
-
-							<!-- Text -->
-							<p class="p-lg">Donec sapien augue integer turpis urna cursus porta, mauris augue...</p>
-
-							<!-- Post Meta -->
-							<div class="post-meta">
-								<p class="p-md">3 Comments</p>
-							</div>
-
-						</div> <!-- END BLOG POST TEXT -->
-
-					</div>
-				</div> <!-- END  BLOG POST #3 -->
-
-
-			</div> <!-- END BLOG POSTS -->
+			<?php include('newblog.php') ?>
 
 
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
-
 	<!-- CALL TO ACTION-5
 			============================================= -->
 	<section id="cta-5" class="cta-section division ">

@@ -1229,7 +1229,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits.",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

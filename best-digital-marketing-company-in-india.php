@@ -73,7 +73,7 @@ if (isset($_POST['send'])) {
 
 	<meta name=description content="Want to promote your business to your target audience? ClickBox Agency is one of the top digital companies in India that helps you to get traffic and sales. Let’s connect!" />
 
-	<meta name=keywords content="best digital marketing company india, best digital marketing company india, best digital marketing service india, best digital marketing agency india, top marketing companies in india, top digital marketing companies in india, best digital marketing company in india, digital marketing consultant in india, best digital marketing agency in india, digital marketing specialist india, best digital marketing services india, digital marketing firm india" />
+	<meta name=keywords content="best digital marketing company india,  best digital marketing service india, best digital marketing agency india, top marketing companies in india, top digital marketing companies in india, best digital marketing company in india, digital marketing consultant in india, best digital marketing agency in india, digital marketing specialist india, best digital marketing services india, digital marketing firm india" />
 
 	<meta name="language" content="en" />
 
@@ -978,7 +978,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Best Digital Marketing Company In India",
-			"alternateName": "best digital marketing company india, best digital marketing company india, best digital marketing service india, best digital marketing agency india, top marketing companies in india, top digital marketing companies in india, best digital marketing company in india, digital marketing consultant in india, best digital marketing agency in india, digital marketing specialist india, best digital marketing services india, digital marketing firm india",
+			"alternateName": "best digital marketing company india,best digital marketing service india, best digital marketing agency india, top marketing companies in india, top digital marketing companies in india, best digital marketing company in india, digital marketing consultant in india, best digital marketing agency in india, digital marketing specialist india, best digital marketing services india, digital marketing firm india",
 				"url": "https://www.clickboxagency.com/best-digital-marketing-company-in-india/"
 		}
 	</script>

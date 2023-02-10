@@ -96,7 +96,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="https://www.clickboxagency.com/right-digital-marketing-agency" />
+	<link rel="canonical" href="https://www.clickboxagency.com/right-digital-marketing-agency/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -329,13 +329,7 @@ if (isset($_POST['send'])) {
 			</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
 
-
-
-
-
-
-
-	<!-- POST COMMENTS
+<!-- POST COMMENTS
 			============================================= -->
 	<section id="post-comments" class=" post-comments division">
 		<div class="container">

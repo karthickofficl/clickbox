@@ -360,12 +360,7 @@
 
 	<!-- SECTION 3# END -->
 
-
-
-
-
-
-	<!-- PRICING-2
+<!-- PRICING-2
 			============================================= -->
 	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
 		<div class="container">

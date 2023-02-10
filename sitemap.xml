@@ -594,4 +594,11 @@
   <priority>0.8</priority>
   <changefreq>daily</changefreq>
 </url>
+
+<url>
+  <loc>https://clickboxagency.com/blog/online-free-logo-makers/</loc>
+   <lastmod>20223-2-10</lastmod>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
 </urlset>

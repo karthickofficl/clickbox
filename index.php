@@ -269,7 +269,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Text -->
 							<p class="p-lg txt-justify">
-								Clickbox Agency is a creative digital marketing firm that works all over the world. a full-service digital marketing company that helps brands connect with the right customers. We are known for using the latest online marketing techniques and cutting-edge tools to give &nbsp; your business a digital edge. With "ClickBox Internet Marketing Agency" by your side, you can beat your competitors and stand out from the crowd.
+								Clickbox Agency is a creative digital marketing firm that works all over the world. A full-service digital marketing company that helps brands connect with the right customers. We are known for using the latest online marketing techniques and cutting-edge tools to give &nbsp; your business a digital edge. With "ClickBox Internet Marketing Agency" by your side, you can beat your competitors and stand out from the crowd.
 							</p>
 
 							<!-- Text -->

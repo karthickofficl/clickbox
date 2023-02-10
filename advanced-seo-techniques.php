@@ -163,11 +163,6 @@ if (isset($_POST['send'])) {
 
 
 						</div> <!-- END SINGLE POST TITLE -->
-
-
-
-
-
 						<!-- BLOG POST TEXT -->
 						<div class="single-post-txt">
 
@@ -255,7 +250,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">We divide the 10 strategies into 3 steps:</h4>
 
 							<!-- Digit List -->
-							<ul class="digit-list" style="list-style: upper-alpha;">
+							<ul class="digit-list" style="list-style: upper-alpha;  padding-left:21px;">
 
 								<li>
 									<p class="p-lg">Reaching Right Customers</p>
@@ -434,7 +429,7 @@ if (isset($_POST['send'])) {
 
 							<br>These 6 ways will help you to connect with your target audience easily. Follow all these methods to get quick traffic.
 
-							<br><b>(B) Selling Products to Customers: </b>
+							<h4 class="h4-lg">(B) Selling Products to Customers: </h4>
 
 							<br>Now, we will jump into the second step. When you follow these above-mentioned marketing methods, traffic will increase, and leads will start entering your business.
 

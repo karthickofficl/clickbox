@@ -160,7 +160,7 @@ if (isset($_POST['send'])) {
 						<div class="single-post-txt">
 
 							<!-- Text -->
-							<p class="p-lg">Marketing is the best business partner for every entrepreneur and marketer who wants to reach their target audience. Since the world is becoming more digital, digital marketing is the best way to implement your advertising activities rather than traditional marketing methods.
+							<p class="p-lg txt-justify">Marketing is the best business partner for every entrepreneur and marketer who wants to reach their target audience. Since the world is becoming more digital, digital marketing is the best way to implement your advertising activities rather than traditional marketing methods.
 
 								<br>When you land on digital marketing; you will have many marketing channels to find your customer. To make your marketing process easier, we created a successful digital marketing strategy checklist that includes all the necessary tasks to be performed. Let’s discuss the checklist in detail.
 							</p>
@@ -176,7 +176,7 @@ if (isset($_POST['send'])) {
 							</h4>
 
 							<!-- Text -->
-							<p class="p-lg">First of all, you may doubt how to use this checklist. The best way is to implement all these steps in your marketing process so that you can have expected results. With all these points, you can able to create your digital marketing plan for your business.
+							<p class="p-lg txt-justify">First of all, you may doubt how to use this checklist. The best way is to implement all these steps in your marketing process so that you can have expected results. With all these points, you can able to create your digital marketing plan for your business.
 
 								<br>Before doing that, it’s important to know the digital marketing components.
 							</p>
@@ -184,11 +184,11 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">Components of Digital Marketing:</h4>
 
 							<!-- Text -->
-							<p class="p-lg">Digital marketing is like a tree with many branches (marketing disciplines), that includes:
+							<p class="p-lg txt-justify">Digital marketing is like a tree with many branches (marketing disciplines), that includes:
 
 
 								<!-- Digit List -->
-							<ul class="digit-list" style="list-style: upper-alpha;">
+							<ul class="digit-list" style="list-style: upper-alpha;  padding-left:21px;">
 
 								<li>
 									<p class="p-lg"> Basic marketing needs</p>
@@ -217,7 +217,7 @@ if (isset($_POST['send'])) {
 
 							</ul>
 							<!-- Text -->
-							<p class="p-lg">You have to use all these marketing disciplines to run a complete digital marketing campaign. To help you better,
+							<p class="p-lg txt-justify">You have to use all these marketing disciplines to run a complete digital marketing campaign. To help you better,
 								<br>the checklist is created in a way where you can find all the required processes for each category. Let’s dive into the step.
 							</p>
 							<!-- Title -->
@@ -226,66 +226,66 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">1. Basic Marketing Needs:</h4>
 
 							<!-- Text -->
-							<p class="p-lg">Are you a beginner in digital marketing? Then you have to understand the basics. </p>
+							<p class="p-lg txt-justify">Are you a beginner in digital marketing? Then you have to understand the basics. </p>
 							<!-- Title -->
 							<h4 class="h4-lg">• Understand Digital Marketing:</h4>
 							<!-- Text -->
-							<p class="p-lg">In simple, digital marketing is the process where you will implement marketing activities on different internet platforms. As said above,
+							<p class="p-lg txt-justify">In simple, digital marketing is the process where you will implement marketing activities on different internet platforms. As said above,
 								<br>it contains subparts like content marketing, video marketing, etc., you can try all these methods to identify the best method for your business.
 							</p>
 							<!-- Title -->
 							<h4 class="h4-lg">• Learn / Hire:</h4>
 							<!-- Text -->
-							<p class="p-lg">If you are a beginner, you can learn the process now. Learning is not enough to know about this process as it includes many strategies. <br>Executing is the main thing.
+							<p class="p-lg txt-justify">If you are a beginner, you can learn the process now. Learning is not enough to know about this process as it includes many strategies. <br>Executing is the main thing.
 
 							</p>
 							<!-- Text -->
-							<p class="p-lg">Another best way to run a digital marketing campaign is, you can simply hire digital marketers like us to save your time wisely.
+							<p class="p-lg txt-justify">Another best way to run a digital marketing campaign is, you can simply hire digital marketers like us to save your time wisely.
 								<br>When you hired a digital marketing team, you have time to concentrate on other things in your business-like product sales, client support, etc., and the team will take over your complete marketing activity.
 								<br>You can also check the digital marketing certificate when hiring the best team.
 
 							</p>
 							<!-- Text -->
-							<p class="p-lg">Either you can learn or hire, it’s good to know the checklist so that it helps you to track the marketing activity on the right path.
+							<p class="p-lg txt-justify">Either you can learn or hire, it’s good to know the checklist so that it helps you to track the marketing activity on the right path.
 
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Choosing the Best Marketing Medium:</h4>
 							<!-- Text -->
-							<p class="p-lg">From the list of marketing strategies (like content, email, video), you want to choose the best platform that suits your business niche.
+							<p class="p-lg txt-justify">From the list of marketing strategies (like content, email, video), you want to choose the best platform that suits your business niche.
 								<br>Even it is not necessary, you can try all methods to find the best marketing medium.
 
 							</p>
 							<!-- Title -->
 							<h4 class="h4-lg">2. Effective Website:</h4>
 							<!-- Text -->
-							<p class="p-lg">Website is the identity of your business.
+							<p class="p-lg txt-justify">Website is the identity of your business.
 								<br>Creating an effective website is the prior task as it is the place where your customers will be able to know your business in detail.
 							</p>
 							<!-- Title -->
 							<h4 class="h4-lg">• Designing Friendly Website:</h4>
 							<!-- Text -->
-							<p class="p-lg">Branding is everything! Your website will talk about your business brand.
+							<p class="p-lg txt-justify">Branding is everything! Your website will talk about your business brand.
 								<br>You have to design a website that should represent the brand, your business products or services,
 								<br>and all other offers that you are providing to your customers.
 								<!-- Text -->
-							<p class="p-lg">A good website must need a faster loading speed; otherwise, people may navigate to a competitor’s site.
+							<p class="p-lg txt-justify">A good website must need a faster loading speed; otherwise, people may navigate to a competitor’s site.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Attractive Landing Pages:</h4>
 							<!-- Text -->
-							<p class="p-lg">When visitors land on your website, they will note the appearance of the website. (i.e.,) the UI (User Interface) of the site should give a better experience to the visitors.
-							<p class="p-lg">When the visitors move on to the next page of the website, it should perform smoothly.
+							<p class="p-lg  txt-justify">When visitors land on your website, they will note the appearance of the website. (i.e.,) the UI (User Interface) of the site should give a better experience to the visitors.
+							<p class="p-lg txt-justify">When the visitors move on to the next page of the website, it should perform smoothly.
 								<br>The more the friendliness of the site, the more time the visitors engage on your site.
-							<p class="p-lg">The landing page should be designed with a purpose where you want your visitors to take action on your business.
+							<p class="p-lg txt-justify">The landing page should be designed with a purpose where you want your visitors to take action on your business.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Optimize Website Structure:</h4>
 							<!-- Text -->
-							<p class="p-lg">When designing a website, follow some structure. For example, if you have many products to display, arrange them in the category.
+							<p class="p-lg txt-justify">When designing a website, follow some structure. For example, if you have many products to display, arrange them in the category.
 								<br>Or if you are providing services, then display all the offers clearly with the pricing list. Similarly, you can arrange all the web pages (like home page, contact page, about page, FAQ) in a specific order,
 								<br>so that the customers will easily navigate to the web page that they are looking for.
 							</p>
@@ -293,24 +293,24 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">• Optimize Website SEO:</h4>
 							<!-- Text -->
-							<p class="p-lg">We will discuss SEO in detail later. But here, you have to know that SEO is the main process for ranking your website on Google.
+							<p class="p-lg txt-justify">We will discuss SEO in detail later. But here, you have to know that SEO is the main process for ranking your website on Google.
 								<br>All the content on your website should be optimized with keywords related to your business niche.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Overall Website Checklist:</h4>
 							<!-- Text -->
-							<p class="p-lg">Once you finished all the above processes, you can merge your website with tracking tools like Google Analytics and Google Search Console.
+							<p class="p-lg txt-justify">Once you finished all the above processes, you can merge your website with tracking tools like Google Analytics and Google Search Console.
 								<br>With these tools, you can easily track the performance of your website.
-							<p class="p-lg">After getting the report from these tools, you can easily improve website quality and performance.
+							<p class="p-lg txt-justify">After getting the report from these tools, you can easily improve website quality and performance.
 								<br>If you are done with these steps, you will have the best website to continue the next step.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">3. Understanding Customers:</h4>
 							<!-- Text -->
-							<p class="p-lg">You are doing the advertisements only intending to reach customers. Customers are the soul of your business.
-							<p class="p-lg">When you understand the needs of your customers, you reached half of the way to reach them. Use the following methods to understand the people:
+							<p class="p-lg txt-justify">You are doing the advertisements only intending to reach customers. Customers are the soul of your business.
+							<p class="p-lg txt-justify">When you understand the needs of your customers, you reached half of the way to reach them. Use the following methods to understand the people:
 							</p>
 
 							<!-- Title -->
@@ -326,43 +326,43 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">• Measure Metrics:</h4>
 							<!-- Text -->
-							<p class="p-lg">When you use the above tracking tools, you will get a report of your website performance. These are the important metrics that talk about your customers.
-							<p class="p-lg">When you check the traffic rate, traffic conversion rate (visitors into customers), web page engagement rate, etc., you can know the quality of the site and improve those metrics to the next level.
+							<p class="p-lg txt-justify">When you use the above tracking tools, you will get a report of your website performance. These are the important metrics that talk about your customers.
+							<p class="p-lg txt-justify">When you check the traffic rate, traffic conversion rate (visitors into customers), web page engagement rate, etc., you can know the quality of the site and improve those metrics to the next level.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Customer’s FAQ:</h4>
 							<!-- Text -->
-							<p class="p-lg">FAQ – Frequently Asked Questions
-							<p class="p-lg">Every people have some common questions related to the business niche. You can simply create a web page and answer all these common questions with an effective solution.
+							<p class="p-lg txt-justify">FAQ – Frequently Asked Questions
+							<p class="p-lg txt-justify">Every people have some common questions related to the business niche. You can simply create a web page and answer all these common questions with an effective solution.
 								<br>This will drag people to your website and you can end up getting an organic customer.
-							<p class="p-lg">These are the ways to draw attention between the visitors and understand their necessities.
+							<p class="p-lg txt-justify">These are the ways to draw attention between the visitors and understand their necessities.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">4. Content Marketing:</h4>
 							<!-- Text -->
-							<p class="p-lg">Content is the main source of marketing. Content marketing is the process of creating informative content for your business to attract visitors.
+							<p class="p-lg txt-justify">Content is the main source of marketing. Content marketing is the process of creating informative content for your business to attract visitors.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Create Target Content:</h4>
 							<!-- Text -->
-							<p class="p-lg">After completing the third step, you will understand the customer’s needs better. Now it’s time to create content that your customers want. Target the content.
+							<p class="p-lg txt-justify">After completing the third step, you will understand the customer’s needs better. Now it’s time to create content that your customers want. Target the content.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Write SEO Friendly Content:</h4>
 							<!-- Text -->
-							<p class="p-lg">The blog is the webpage where you can write more articles based on the customer’s query. When writing an article, remember to include keywords in your content.
+							<p class="p-lg txt-justify">The blog is the webpage where you can write more articles based on the customer’s query. When writing an article, remember to include keywords in your content.
 								<br>When optimizing the content, it will become SEO friendly and it’s easy to rank your blog on Google easily.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Keep Content Editorial Calendar:</h4>
 							<!-- Text -->
-							<p class="p-lg">Blog writing is a consistent process that you need to follow regularly. The audience will rely on your website until your website gives new content frequently.
-							<p class="p-lg">To upload the content daily, you can create an editorial calendar and decide the future content that saves your time.
+							<p class="p-lg txt-justify">Blog writing is a consistent process that you need to follow regularly. The audience will rely on your website until your website gives new content frequently.
+							<p class="p-lg txt-justify">To upload the content daily, you can create an editorial calendar and decide the future content that saves your time.
 								<br>If you are working as a team, then the calendar will help you to convey all the required tasks to your team members, so that all processes will complete on time.
 							</p>
 
@@ -377,49 +377,49 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">• Publish on All Platforms:</h4>
 							<!-- Text -->
-							<p class="p-lg">You can also focus on other internet platforms to publish your content in addition to your blog.
+							<p class="p-lg txt-justify">You can also focus on other internet platforms to publish your content in addition to your blog.
 								<br>You can write guest posts on others’ websites (only related to your niche) to drive some more visitors to your website.
-							<p class="p-lg">By doing these content strategies, you will see improvements in your business.
+							<p class="p-lg txt-justify">By doing these content strategies, you will see improvements in your business.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">5. Video Marketing:</h4>
 							<!-- Text -->
-							<p class="p-lg">YouTube is one of the popular platforms. Even blogs are accessed on Google, people like to get content in visual form.
-							<p class="p-lg">Writing blogs (text) is not only the content. Creating images, audio files, and videos are also popular content formats. Video marketing is part of content marketing.
+							<p class="p-lg txt-justify">YouTube is one of the popular platforms. Even blogs are accessed on Google, people like to get content in visual form.
+							<p class="p-lg txt-justify">Writing blogs (text) is not only the content. Creating images, audio files, and videos are also popular content formats. Video marketing is part of content marketing.
 								<br>Simply implement all the above content marketing strategies with video to complete the video marketing process.
-							<p class="p-lg">When you create videos related to your business products or services, it is the better way to explain your business offering to your customers easily.
-							<p class="p-lg">While doing this process, you can also create images with perfect slogans to publish them online. Creating presentations, infographics, etc., are also different ways of content that you can try.
+							<p class="p-lg txt-justify">When you create videos related to your business products or services, it is the better way to explain your business offering to your customers easily.
+							<p class="p-lg txt-justify">While doing this process, you can also create images with perfect slogans to publish them online. Creating presentations, infographics, etc., are also different ways of content that you can try.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">6. Social Media Marketing:</h4>
 							<!-- Text -->
-							<p class="p-lg">Social Media Marketing (SMM) is an easy and well-known process that any person can do. Social media is a profitable platform if you use the best social media marketing strategy.
+							<p class="p-lg txt-justify">Social Media Marketing (SMM) is an easy and well-known process that any person can do. Social media is a profitable platform if you use the best social media marketing strategy.
 							</p>
 							<!-- Title -->
 							<h4 class="h4-lg">• Create Different Social Media Accounts:</h4>
 							<!-- Text -->
-							<p class="p-lg">The best tip to create a strategy is to create accounts on all the available and popular social media platforms. Confirm that you have an account on the following:
+							<p class="p-lg txt-justify">The best tip to create a strategy is to create accounts on all the available and popular social media platforms. Confirm that you have an account on the following:
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">Facebook with a separate business page: </h4>
 							<!-- Text -->
-							<p class="p-lg">Facebook is the most famous social network, where you have to create a business page to make your account professional. Facebook videos are more popular and effective than a text posts.
+							<p class="p-lg txt-justify">Facebook is the most famous social network, where you have to create a business page to make your account professional. Facebook videos are more popular and effective than a text posts.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">LinkedIn with a separate business page: </h4>
 							<!-- Text -->
-							<p class="p-lg">Among all the social networks, LinkedIn is specifically developed for business. It is a more friendly network to connect with like-minded business people.
+							<p class="p-lg txt-justify">Among all the social networks, LinkedIn is specifically developed for business. It is a more friendly network to connect with like-minded business people.
 								<br>After registering on LinkedIn, try to create a unique business page to update your business details with your customers.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">Instagram with the business page: </h4>
 							<!-- Text -->
-							<p class="p-lg">Instagram is acquired by Facebook (as you know already), so follow the same process as Facebook. You can also connect both of them to make the process easier. Instagram is perfect for posting images.
+							<p class="p-lg txt-justify">Instagram is acquired by Facebook (as you know already), so follow the same process as Facebook. You can also connect both of them to make the process easier. Instagram is perfect for posting images.
 							</p>
 
 							<!-- Title -->
@@ -431,42 +431,42 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">Twitter: </h4>
 							<!-- Text -->
-							<p class="p-lg">Twitter is the fastest information-spreading platform that you can use to post the current updates of your business.
+							<p class="p-lg txt-justify">Twitter is the fastest information-spreading platform that you can use to post the current updates of your business.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">Reddit:</h4>
 							<!-- Text -->
-							<p class="p-lg">Reddit is the discussion platform where you can answer customers’ questions to convey your product or services to them.
+							<p class="p-lg txt-justify">Reddit is the discussion platform where you can answer customers’ questions to convey your product or services to them.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">TikTok /YouTube: </h4>
 							<!-- Text -->
-							<p class="p-lg">As seen, video marketing is one of the practical ways to get traffic, TikTok and YouTube are the best platforms to post your videos.
+							<p class="p-lg txt-justify">As seen, video marketing is one of the practical ways to get traffic, TikTok and YouTube are the best platforms to post your videos.
 								<br>Other platforms like Quora are also available that you should consider while doing SMM.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Make Social Media Marketing Plan:</h4>
 							<!-- Text -->
-							<p class="p-lg">Follow the below steps to have the best Social Media Marketing (SMM) strategy:
-							<h4 class="h4-lg">Create Attractive Profile: </h4>
-							<p class="p-lg">On creating an account on each network, optimize the social media profile with a perfect display picture (DP) and with your business name.
+							<p class="p-lg txt-justify">Follow the below steps to have the best Social Media Marketing (SMM) strategy:
+							<h4 class="h4-lg ">Create Attractive Profile: </h4>
+							<p class="p-lg txt-justify">On creating an account on each network, optimize the social media profile with a perfect display picture (DP) and with your business name.
 								<br>Your DP should be your logo and tell your business details clearly on the profile description along with the website domain.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">Post Consistently: </h4>
 							<!-- Text -->
-							<p class="p-lg">Post images and videos regularly and give your presence daily. Also, check others’ profiles to connect with them. Similar to the content editorial calendar, you need to create an SMM-based calendar to decide the future post.
+							<p class="p-lg txt-justify">Post images and videos regularly and give your presence daily. Also, check others’ profiles to connect with them. Similar to the content editorial calendar, you need to create an SMM-based calendar to decide the future post.
 								<br>This will also help your team members to complete the process quickly.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">Connect with Followers: </h4>
 							<!-- Text -->
-							<p class="p-lg">Emails are a gift to your marketing process. With the help of email-ids, you can re-target your customers for your new products or services. You can also convey your seasonal deals or offers to them easily.
+							<p class="p-lg txt-justify">Emails are a gift to your marketing process. With the help of email-ids, you can re-target your customers for your new products or services. You can also convey your seasonal deals or offers to them easily.
 								<br>Retaining old customers is a big thing that can be done with the help of email.
 								Email marketing is the process where you send informative emails (about your business updates) to your visitors/customers.
 
@@ -475,7 +475,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">• Best Way to Get Email:</h4>
 							<!-- Text -->
-							<p class="p-lg">Getting a customer’s email requires some action. You can ask for feedback from your customers along with their email-id.
+							<p class="p-lg txt-justify">Getting a customer’s email requires some action. You can ask for feedback from your customers along with their email-id.
 								<br>Some other ways are, providing free eBooks or free access to your specific products/services is the proven way to get the customers’ mail-ids.
 								<br>Build an email list and keep connecting with them regularly to receive old and new customers.
 
@@ -484,37 +484,37 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h4 class="h4-lg">8. SEO and Paid Ads:</h4>
 							<!-- Text -->
-							<p class="p-lg">The last step to implement is SEO and paid ads. These two processes are the same with a small difference.
+							<p class="p-lg txt-justify">The last step to implement is SEO and paid ads. These two processes are the same with a small difference.
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• SEO:</h4>
 							<!-- Text -->
-							<p class="p-lg">Search Engine Optimization (SEO) is the process of optimizing content based on keywords. Keywords are the search terms used by the people on search engines to get some information or to reach some business.
-							<p class="p-lg">Some of the popular search engines are Google, YouTube, Bing, Pinterest, Facebook, etc., Every search engine varies with the keyword's popularity. Try to use keywords that are used by most people. At the same time, concentrate on long-term and low-competitive keywords to rank easily on search engines.
-							<p class="p-lg">On-Page SEO: On-Page SEO is the process of optimizing website content based on search terms. This will improve the ranking of your website on search engines.
-							<p class="p-lg">Off-Page SEO: Off-Page SEO is the process of developing backlinks to your website. When someone reaches your website through another website, that site creates a backlink to your website. Backlinks also help to rank higher on search results.
-							<p class="p-lg">SEO should be followed in all the above-mentioned marketing strategies.
+							<p class="p-lg txt-justify">Search Engine Optimization (SEO) is the process of optimizing content based on keywords. Keywords are the search terms used by the people on search engines to get some information or to reach some business.
+							<p class="p-lg txt-justify">Some of the popular search engines are Google, YouTube, Bing, Pinterest, Facebook, etc., Every search engine varies with the keyword's popularity. Try to use keywords that are used by most people. At the same time, concentrate on long-term and low-competitive keywords to rank easily on search engines.
+							<p class="p-lg txt-justify">On-Page SEO: On-Page SEO is the process of optimizing website content based on search terms. This will improve the ranking of your website on search engines.
+							<p class="p-lg txt-justify">Off-Page SEO: Off-Page SEO is the process of developing backlinks to your website. When someone reaches your website through another website, that site creates a backlink to your website. Backlinks also help to rank higher on search results.
+							<p class="p-lg txt-justify">SEO should be followed in all the above-mentioned marketing strategies.
 
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">• Paid Ads:</h4>
 							<!-- Text -->
-							<p class="p-lg">Paid ads are a faster way to get customers and to make sales. Running a paid digital marketing campaign like a social media marketing campaign, Google Ads campaigns are more effective than the above processes. This process is mentioned as SEM (Search Engine Marketing) which is all about running paid advertisements.
-							<p class="p-lg">The difference between SEO and SEM is, you have to pay some amount for the SEM process whereas SEO is a free process for driving traffic. As a beginner, it is not necessary to use paid ads, but if you want to get customers quickly, paid ads are worth investing in.
-							<p class="p-lg">To save your cost on paid ads, you can use A/B tests. This means you can create two types of content and implement them at two different times. The content which receives more engagements or conversions is the best one that you can use for a long-time.
+							<p class="p-lg txt-justify">Paid ads are a faster way to get customers and to make sales. Running a paid digital marketing campaign like a social media marketing campaign, Google Ads campaigns are more effective than the above processes. This process is mentioned as SEM (Search Engine Marketing) which is all about running paid advertisements.
+							<p class="p-lg txt-justify">The difference between SEO and SEM is, you have to pay some amount for the SEM process whereas SEO is a free process for driving traffic. As a beginner, it is not necessary to use paid ads, but if you want to get customers quickly, paid ads are worth investing in.
+							<p class="p-lg txt-justify">To save your cost on paid ads, you can use A/B tests. This means you can create two types of content and implement them at two different times. The content which receives more engagements or conversions is the best one that you can use for a long-time.
 
 							</p>
 
 							<!-- Title -->
 							<h4 class="h4-lg">Final Words:</h4>
 							<!-- Text -->
-							<p class="p-lg">We hope this internet marketing checklist helps you to create a unique marketing strategy for your business.
+							<p class="p-lg txt-justify">We hope this internet marketing checklist helps you to create a unique marketing strategy for your business.
 								Digital marketing is a powerful process that becomes easier when you do it wisely.
 
-							<p class="p-lg">Digital marketing is a powerful process that becomes easier when you do it wisely.
-							<p class="p-lg">If you are a beginner or don’t have time for marketing activities, then leave this digital marketing process with us.
+							<p class="p-lg txt-justify">Digital marketing is a powerful process that becomes easier when you do it wisely.
+							<p class="p-lg txt-justify" >If you are a beginner or don’t have time for marketing activities, then leave this digital marketing process with us.
 								<br>From optimizing a friendly website to understanding customers’ needs, from SEO to paid ads, we will help you to run a successful digital marketing campaign that will make sales to your business.
 								Connect with Us!
 

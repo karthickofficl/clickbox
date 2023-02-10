@@ -73,7 +73,7 @@ if (isset($_POST['send'])) {
 
 	<meta name=description content="As a leading SEO Agency Mumbai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name=keywords content="SEO Agency Mumbai, seo services chennai, search engine optimization chennai, SEO Agency Mumbai" />
+	<meta name=keywords content=" seo agency mumbai, seo services in mumbai ,seo companies in mumbai , best seo company mumbai" />
 
 	<meta name="language" content="en" />
 
@@ -117,13 +117,13 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
 
 </head>
 
 <body>
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
 	<!-- HERO-4
 			============================================= -->
 	<section id="hero-4" class="bg-scroll hero-section division">
@@ -871,7 +871,7 @@ if (isset($_POST['send'])) {
 	<!-- BRANDS-2
 	============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/our-clients.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/our-clients.php') ?>
 	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
 
@@ -1072,10 +1072,10 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
 	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
@@ -1093,7 +1093,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Result Driven SEO Agency Mumbai",
-			"alternateName": "SEO Agency Mumbai, seo services chennai, search engine optimization chennai, SEO Agency Mumbai",
+			"alternateName": " seo agency mumbai, seo services in mumbai ,seo companies in mumbai , best seo company mumbai",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-mumbai/"
 		}
 	</script>
@@ -1135,7 +1135,7 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/popup1.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/popup1.php') ?>
 
 </body>
 

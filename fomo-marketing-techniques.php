@@ -148,7 +148,7 @@ if (isset($_POST['send'])) {
 						<div class="single-post-title">
 
 							<!-- TITLE -->
-							<h1 class="h2-md">What is FOMO marketing? </h1>
+							<h1 class="h2-md">What is FOMO Marketing? </h1>
 
 						</div> <!-- END SINGLE POST TITLE -->
 						<!-- BLOG POST TEXT -->
@@ -157,7 +157,7 @@ if (isset($_POST['send'])) {
 							<!-- Text -->
 							<p class="p-lg">
 
-								FOMO or fear of missing out is a marketing strategy used by at least 56% of marketers. It works out conveniently.
+								FOMO or Fear Of Missing Out is a marketing strategy used by at least 56% of marketers. It works out conveniently.
 								Customers don't want to miss out on something special available for a limited time. FOMO tactics create urgency and push a
 								customer to make quick decisions to purchase a product.
 							</p>

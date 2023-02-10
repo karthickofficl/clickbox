@@ -997,7 +997,7 @@
 							</ul>
 
 							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -1095,7 +1095,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -1206,7 +1206,7 @@
 							</ul>
 
 							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -1218,11 +1218,6 @@
 
 		</div> <!-- End container -->
 	</section> <!-- END PRICING-2 -->
-
-
-
-
-
 
 	<!-- BRANDS-2
 			============================================= -->
@@ -1434,7 +1429,7 @@
 			"@type": "WebSite",
 			"name": "Mobile SEO Best Packages and Pricing| CLICKBOX",
 			"alternateName": "mobile seo packages, best mobile seo,mobile seo best practices,mobile seo services,mobile search engine optimization ",
-				"url": "https://www.clickboxagency.com/mobile-seo-packages/"
+			"url": "https://www.clickboxagency.com/mobile-seo-packages/"
 		}
 	</script>
 
@@ -1447,7 +1442,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Our best mobile SEO services help to ease accessibility; usability consulting; keywords by using effective strategies to optimize your website for the mobile device.",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

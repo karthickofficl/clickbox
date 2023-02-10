@@ -239,8 +239,8 @@ if (isset($_POST['send'])) {
 
 							<h4 class="h4-lg">H2H - Human to Human marketing</h4>
 
-							<p class="p-lg">“It's not about brand building anymore. It's about becoming an icon in your industry, just like Nike. i
-								t's about being authentic and genuine, which is why Drift's principles are to put customers at the center of everything we do.”-
+							<p class="p-lg">“It's not about brand building anymore. It's about becoming an icon in your industry, just like Nike. 
+								it's about being authentic and genuine, which is why Drift's principles are to put customers at the center of everything we do.”-
 								Mark Kilens <br><br>
 								You should know that this marketing strategy, though conventional, builds a strong trust with the customer. We live in a highly
 								digitalized era were bots, artificial intelligence, and other forms of machine learning triumph. H2H is a strategy for a living
@@ -503,7 +503,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END POST COMMENTS -->
 
-<!-- BLOG-1
+	<!-- BLOG-1
 			============================================= -->
 	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">

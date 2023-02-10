@@ -132,7 +132,7 @@
 									<!-- Text -->
 									<p class="p-lg"><b>The Best Logo Design Packages For Your Brand</b> </p>
 									<p class="p-lg">
-										A logo is a visual sign, sign, or icon that assists in establishing a company's unique brand identity. Here, there is no upper restriction on how much you can spend on a company logo. It totally depends on the individual, business, or organization you engaged to do your logo-design project.</p>
+										A logo is a visual sign, sign or icon that assists in establishing a company's unique brand identity. Here, there is no upper restriction on how much you can spend on a company logo. It totally depends on the individual, business, or organization you engaged to do your logo-design project.</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
@@ -820,6 +820,8 @@
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
 	<?php include('popup1.php') ?>
+<!--  -->
+
 
 </body>
 

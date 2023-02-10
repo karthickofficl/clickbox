@@ -647,7 +647,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "The Best Logo Design Service | ClickBox",
 			"alternateName": "logo design service, logo design company, custom logo design, logo design, best logo design, company logos",
-				"url": "https://www.clickboxagency.com/logo-design-service/"
+			"url": "https://www.clickboxagency.com/logo-design-service/"
 		}
 	</script>
 
@@ -660,7 +660,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "With our most popular abstract logo design service, ClickBox Agency provides distinctive brand and business logos at a reasonable price. Our group of certified designers works to satisfy our clients with unique logo patterns.",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

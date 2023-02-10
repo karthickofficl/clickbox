@@ -339,7 +339,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg"> One of the faster and simpler ideas to generate leads and promote your content is to set up an Instagram advertising campaign. Following these, both small start-ups and big businesses can be beneficial. You may use Instagram advertisements to specifically target the group of people that fit your buyer profile the best.</p>
 
 							<h6 class="h4-lg">Optimizing Search Engine</h6>
-							<p class="p-lg"> In addition to being a top technical trend in marketing, <a href="https://clickboxagency.com/seo-company-in-india/" style="color:#0000FF;"><u>search engine optimization (SEO)</u></a> is a successful method of generating leads. By offering material depending on what users are typing into their Google searches, SEO makes your website visible to potential clients.
+							<p class="p-lg"> In addition to being a top technical trend in marketing, <a href="https://clickboxagency.com/seo-company-in-india/" style="color:#0000FF;"><u>Search Engine Optimization (SEO)</u></a> is a successful method of generating leads. By offering material depending on what users are typing into their Google searches, SEO makes your website visible to potential clients.
 								Ranking and optimizing content for search engines, particularly Google, are both SEO methods. This is accomplished utilizing a variety of tools, including keywords, tags, meta tags, landing pages, content, headings, and an improved user experience. You can reach consumers with this marketing strategy who are looking for information about your company online. It is a long term process, that requires consistent work.
 							</p>
 							<h6 class="h4-lg">Email Marketing</h6>

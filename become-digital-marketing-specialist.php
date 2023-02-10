@@ -295,7 +295,7 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- Title -->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">1. &ensp; Understand the basic concepts of digital marketing</h6>
 							</div>
 
@@ -306,7 +306,7 @@ if (isset($_POST['send'])) {
 
 
 							<!-- Title -->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">2. &ensp; Data evaluation</h6>
 							</div>
 
@@ -320,7 +320,7 @@ if (isset($_POST['send'])) {
 
 
 							<!-- Title -->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">3. &ensp; Search Engine Optimization</h6>
 							</div>
 
@@ -357,7 +357,7 @@ if (isset($_POST['send'])) {
 								</ul>
 							</div>
 
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">4. &ensp; Pay-Per-Click Campaigns</h6>
 							</div>
 
@@ -374,7 +374,7 @@ if (isset($_POST['send'])) {
 								is simple to measure and track is a major advantage. For activating PPC utilize Google Analytics along with the Google Ads tool.
 							</p>
 
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">5. &ensp; Company Analysis / Competitor Analysis</h6>
 							</div>
 
@@ -401,7 +401,7 @@ if (isset($_POST['send'])) {
 							</ul>
 
 							<!--TITLE-->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">6. &ensp; Content creation and Designing skills</h6>
 							</div>
 
@@ -439,7 +439,7 @@ if (isset($_POST['send'])) {
 
 							</p>
 							<!--TITLE-->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">7. &ensp; Expertise in social media marketing </h6>
 							</div>
 
@@ -469,7 +469,7 @@ if (isset($_POST['send'])) {
 
 							<!--LIST CONTENT-->
 
-							<div class="single-post-txt">
+							<div class="">
 								<ul class="digit-list">
 									<li>
 										<p class="p-lg">- &ensp; Comment</p>
@@ -485,7 +485,7 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!--TITLE-->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">8. &ensp; Become certified </h6>
 							</div>
 
@@ -494,7 +494,7 @@ if (isset($_POST['send'])) {
 								Search for a reputable online certification program in digital marketing that suits your professional goals.</p>
 
 							<!--TITLE-->
-							<div class="single-post-txt">
+							<div class="">
 								<h6 class="h4-lg">9. &ensp; Learn the basics of coding</h6>
 							</div>
 

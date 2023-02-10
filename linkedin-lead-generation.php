@@ -162,7 +162,7 @@ if (isset($_POST['send'])) {
 						<div class="single-post-txt">
 
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 
 								Social media has a wide range of users. Facebook and Twitter are used by people for sports, memes, and entertainment. To obtain
 								beautiful visuals and inspiration, they use Instagram and Pinterest. <a href="https://www.linkedin.com/help/linkedin/answer/a548441/what-is-linkedin-and-how-can-i-use-it-?lang=en" style="color:#0000FF;"><u>LinkedIn,</u></a> however, is the place to be for business and
@@ -187,7 +187,7 @@ if (isset($_POST['send'])) {
 
 
 							<!-- Text -->
-							<p class="p-lg">Making significant professional and business relationships have been made much easier for people in response to
+							<p class="p-lg txt-justify">Making significant professional and business relationships have been made much easier for people in response to
 								LinkedIn. Also, the possibility of filtering out non-business statistics, which are not given priority by other social networks.
 								Updating features like seniority level, job description, years of experience, and company are adding advantages to connect people
 								across. Your <a href="https://iide.co/blog/top-linkedin-marketing-strategies/" style="color:#0000FF;"><u>LinkedIn marketing strategy</u></a> should contain an optimized profile if you want to expand your connections.
@@ -201,7 +201,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">LinkedIn is a significant tool because it has three key features:</h4>
 
 							<!-- Digit List -->
-							<ul class="digit-list" style="list-style: upper-alpha;">
+							<ul class="digit-list" style="list-style: upper-alpha; padding-left:21px;">
 
 								<li>
 									<p class="p-lg"> Share information</p>
@@ -216,7 +216,7 @@ if (isset($_POST['send'])) {
 							</ul>
 
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 								All activities involved in acquiring and promoting new consumers are included in lead generation. Despite the fact that
 								businesses use a variety of sales and marketing techniques to generate leads, it is imperative to have well-defined procedures
 								in place. <br><br>
@@ -230,13 +230,13 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">HOW TO MANAGE MARKETING ON LINKEDIN </h4>
 
 							<!-- Text -->
-							<p class="p-lg">LinkedIn provides highly personalized ways to find potential leads, engage with them, and convert them into
+							<p class="p-lg txt-justify" >LinkedIn provides highly personalized ways to find potential leads, engage with them, and convert them into
 								clients. The techniques to achieve marketing plans on LinkedIn are described below:</p>
 
 							<h4 class="h4-lg">1. Strengthen your company's LinkedIn page</h4>
 
 							<!-- Text -->
-							<p class="p-lg">It is essential to set up a business presence on LinkedIn in a professional manner. Basically, you can mention
+							<p class="p-lg txt-justify">It is essential to set up a business presence on LinkedIn in a professional manner. Basically, you can mention
 								your education and professional experiences in your profile. However, LinkedIn now gives you the option to improve your profile by
 								including additional interactive features. <br><br>
 								Posting status updates is one of the finest methods to engage with your networks and keep that connection strong. Update
@@ -257,7 +257,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">2. Enhance the performance of the page</h4>
 
 							<!-- Text -->
-							<p class="p-lg">To emphasize your brand's presence, you need a comprehensive profile. Your connections or consumers will learn
+							<p class="p-lg txt-justify">To emphasize your brand's presence, you need a comprehensive profile. Your connections or consumers will learn
 								more about you and what you do thanks to a compelling profile. <a href="https://everyonesocial.com/blog/linkedin-profile-optimization/" style="color:#0000FF;"><u>Optimizing your profile</u></a> or page is essential. A business website or
 								LinkedIn profile that has been optimized for search engines has a better chance of ranking up significantly. As a result, it
 								increases your brand's presence online.<br><br>
@@ -270,7 +270,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">3. Establish a comprehensive business page</h4>
 
 
-							<p class="p-lg">A LinkedIn page could be the best place to share the history of your business. It is crucial to provide clear
+							<p class="p-lg txt-justify">A LinkedIn page could be the best place to share the history of your business. It is crucial to provide clear
 								details about your goods and services, as this may be the first thing visitors want to know when they land on your page. Create a
 								page that will be beneficial to you and your relationships. <br><br>
 								A header image, products and services, status updates, and employment possibilities are just a few examples of such crucial
@@ -278,7 +278,7 @@ if (isset($_POST['send'])) {
 
 							<h4 class="h4-lg">4. Develop relevant content</h4>
 
-							<p class="p-lg">Your marketing can flourish if you have amazing content. When you start your LinkedIn company page, make sure the
+							<p class="p-lg txt-justify">Your marketing can flourish if you have amazing content. When you start your LinkedIn company page, make sure the
 								content you upload there is worthwhile. Once they uncover values on your page, viewers just click the follow button and maintain
 								you in their connections. Your content may help some individuals learn more while helping others find solutions to their
 								difficulties.</p>
@@ -286,7 +286,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">5. Choose your audience</h4>
 
 
-							<p class="p-lg">One of the most important components of any marketing strategy, including LinkedIn marketing, is understanding the
+							<p class="p-lg txt-justify">One of the most important components of any marketing strategy, including LinkedIn marketing, is understanding the
 								audience. LinkedIn makes it simpler for you to gain insight into the audience and identify their characteristics by giving Website
 								Demographics. <br><br>
 								This tool reveals the different visitor types to your page as well as the material that they are most interested in. In order to
@@ -298,7 +298,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">SALES NAVIGATOR</h4>
 
 
-							<p class="p-lg">LinkedIn's Sales Navigator is a collection of subscription-based services. Offerings are made to aid sales
+							<p class="p-lg txt-justify">LinkedIn's Sales Navigator is a collection of subscription-based services. Offerings are made to aid sales
 								professionals in prospect identification, alerting them to prospects' LinkedIn activity, and requesting introductions to prospects
 								via shared connections. Monthly and yearly subscriptions are available for purchase. LinkedIn b2b lead generation can be easily
 								handled by accessing the <a href="https://www.techtarget.com/whatis/definition/LinkedIn-Sales-Navigator#:~:text=LinkedIn%20Sales%20Navigator%20is%20a,to%20prospects%20through%20shared%20connections." style="color:#0000FF;"><u>sales navigator.</u></a></p>
@@ -307,20 +307,20 @@ if (isset($_POST['send'])) {
 
 							<h4 class="h4-lg">6. Check out LinkedIn Ads</h4>
 
-							<p class="p-lg">Different campaign kinds are available to efficiently increase LinkedIn lead generation and brand visibility. For
+							<p class="p-lg txt-justify">Different campaign kinds are available to efficiently increase LinkedIn lead generation and brand visibility. For
 								marketers, it offers a wide variety of chances. Sponsored Content, Sponsored InMail, and Text Ads are the most popular ad formats.
 								The most recent and perhaps most effective one is LinkedIn Video Ads.</p>
 
 							<h4 class="h4-lg">7. Update Regularly</h4>
 
-							<p class="p-lg">Create posts regularly and follow the schedule. Keep your audience engaged with different content and posts.
+							<p class="p-lg txt-justify">Create posts regularly and follow the schedule. Keep your audience engaged with different content and posts.
 								Add perfect keywords along with catchy headlines. Choose the relevant hashtags to post the data. Sponsored content is one of the
 								best ways to provide a regular update of high-quality connections and leads if you want to increase your exposure and audience.</p>
 
 							<h4 class="h4-lg">8. Join LinkedIn Groups</h4>
 
 
-							<p class="p-lg">In LinkedIn spend time interacting in a genuine, beneficial, and beneficial way. In its framework, LinkedIn is a
+							<p class="p-lg txt-justify">In LinkedIn spend time interacting in a genuine, beneficial, and beneficial way. In its framework, LinkedIn is a
 								social platform just like any other. Users can form groups based on interests related to their field, just like on Facebook, and
 								you should join these groups to interact with other professionals. You can share updates and articles to promote debates on
 								pertinent subjects or just promote the services you provide. Your future clients can notice what you say and start to perceive you
@@ -331,7 +331,7 @@ if (isset($_POST['send'])) {
 
 							<h4 class="h4-lg">9. Online recruitment on LinkedIn</h4>
 
-							<p class="p-lg">LinkedIn is primarily a networking site where users can look for improved employment prospects. Additionally,
+							<p class="p-lg txt-justify">LinkedIn is primarily a networking site where users can look for improved employment prospects. Additionally,
 								businesses can showcase their best qualities to draw in the most compelling prospects. People can post and recruit other students, who are looking for jobs.</p>
 
 							<h4 class="h4-lg">
@@ -340,7 +340,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg">
 								<center>– <a href="https://www.linkedin.com/in/jillrowley/" style="color:#0000FF;"><u>Jill Rowley</u></a></center>
 							</p> <br>
-							<p class="p-lg">In conclusion, If you want to up your digital marketing strategies, LinkedIn is a great platform to start with.
+							<p class="p-lg txt-justify">In conclusion, If you want to up your digital marketing strategies, LinkedIn is a great platform to start with.
 								Here are some statistics you should know about the platform:</p>
 
 
@@ -376,7 +376,7 @@ if (isset($_POST['send'])) {
 							</ul>
 
 
-							<p class="p-lg">With such a large and engaged user base, LinkedIn is a great platform for B2B marketing. B2b marketing on
+							<p class="p-lg txt-justify">With such a large and engaged user base, LinkedIn is a great platform for B2B marketing. B2b marketing on
 								Linkedin allows business people to exchange services, products, and information between businesses. If you are not already
 								using LinkedIn for your business, now could be the time to start! <br><br>
 								If you want to associate with the best LinkedIn lead generation services available in the industry, then we highly suggest you

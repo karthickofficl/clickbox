@@ -1067,7 +1067,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/ppc-packages/"
+			"url": "https://www.clickboxagency.com/ppc-packages/",
 			"potentialAction": {
 				"@type": "SearchAction",
 				"target": "https://www.clickboxagency.com/ppc-packages/find?q={search_term_string}",
@@ -1080,7 +1080,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Monthly PPC Packages & Pricing | ClickBox",
-			"alternateName": "best ppc packages, ppc pricing packages, ppc services packages, google adwords packages, google ad packages" / >
+			"alternateName": "best ppc packages, ppc pricing packages, ppc services packages, google adwords packages, google ad packages",
 				"url": "https://www.clickboxagency.com/ppc-packages/"
 		}
 	</script>
@@ -1093,7 +1093,7 @@
 			"url": "https://www.clickboxagency.com/ppc-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox offers Best PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility online and help people recognise it." / >
+			"description": "Clickbox offers Best PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility online and help people recognise it.",
 				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
