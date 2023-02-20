@@ -594,10 +594,27 @@
   <priority>0.8</priority>
   <changefreq>daily</changefreq>
 </url>
-
+<url>
+  <loc>https://clickboxagency.com/blog/seo-interview-questions/</loc>
+   <lastmod>2022-02-07</lastmod>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
 <url>
   <loc>https://clickboxagency.com/blog/online-free-logo-makers/</loc>
-   <lastmod>20223-2-10</lastmod>
+   <lastmod>2023-02-10</lastmod>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://clickboxagency.com/blog/digital-marketing-interview-questions-answers/</loc>
+   <lastmod>2023-02-15</lastmod>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/</loc>
+   <lastmod>2023-02-17</lastmod>
   <priority>0.8</priority>
   <changefreq>daily</changefreq>
 </url>

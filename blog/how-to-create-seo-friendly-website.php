@@ -97,15 +97,15 @@ if (isset($_POST['send'])) {
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="https://www.clickboxagency.com/how-to-create-seo-friendly-website/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="https://www.clickboxagency.com/how-to-create-seo-friendly-website/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/how-to-create-seo-friendly-website/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/" />
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -621,7 +621,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -643,13 +643,13 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "https:https://www.clickboxagency.com/how-to-create-seo-friendly-website/",
+			"url": "https:https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/",
 
 			"potentialAction": {
 
 				"@type": "SearchAction",
 
-				"target": "https://www.clickboxagency.com/how-to-create-seo-friendly-website/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/find?q={search_term_string}",
 
 				"query-input": "required name=search_term_string"
 
@@ -669,7 +669,7 @@ if (isset($_POST['send'])) {
 
 			"alternateName": " how to create a seo friendly website, best seo friendly website, how to make a seo friendly website in html, how to make a website seo friendly, seo friendly website example, why seo friendly website is importance",
 
-			"url": "https://www.clickboxagency.com/how-to-create-seo-friendly-website/"
+			"url": "https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/"
 
 		}
 	</script>
@@ -683,7 +683,7 @@ if (isset($_POST['send'])) {
 
 			"name": "How to Create SEO Friendly Website In 2023 (Updated)",
 
-			"url": "https://www.clickboxagency.com/how-to-create-seo-friendly-website/",
+			"url": "https://www.clickboxagency.com/blog/how-to-create-seo-friendly-website/",
 
 			"email": "info@clickboxagency.com",
 

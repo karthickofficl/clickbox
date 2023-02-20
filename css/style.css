@@ -8835,3 +8835,7 @@ tr {
   /* width: 250px; */
   height: 260px;
 }
+.bordered-table, th, td {
+  border: 1px solid black !important;
+  border-collapse: collapse !important;
+}

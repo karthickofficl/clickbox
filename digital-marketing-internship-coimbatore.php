@@ -68,7 +68,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Advanced Certified Digital Marketing Internship Program Coimbatore</title>
+	<title>Advanced Certified Digital Marketing Internship Coimbatore</title>
 
 	<meta name=description content="Ready to Expert in Digital Marketing? Learn Digital Marketing Course in Coimbatore from Industry Experts with 100% Placement and Internship" />
 
@@ -104,13 +104,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Advanced Certified Digital Marketing Internship Program Coimbatore" />
+	<meta property="og:title" content="Advanced Certified Digital Marketing Internship Coimbatore" />
 
 	<meta property="og:description" content="Ready to Expert in Digital Marketing? Learn Digital Marketing Course in Coimbatore from Industry Experts with 100% Placement and Internship." />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Advanced Certified Digital Marketing Internship Program Coimbatore" />
+	<meta name="twitter:title" content="Advanced Certified Digital Marketing Internship Coimbatore" />
 
 	<meta name="twitter:description" content="Ready to Expert in Digital Marketing? Learn Digital Marketing Course in Coimbatore from Industry Experts with 100% Placement and Internship." />
 
@@ -2028,7 +2028,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Advanced Certified Digital Marketing Internship Program Coimbatore",
+			"name": "Advanced Certified Digital Marketing Internship Coimbatore",
 			"alternateName": "Digital Marketing Internship, Digital Marketing Internship Coimbatore, Digital Marketing Course Coimbatore, Digital Marketing Training Coimbatore",
 				"url": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/"
 		}
@@ -2038,7 +2038,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Advanced Certified Digital Marketing Internship Program Coimbatore",
+			"name": "Advanced Certified Digital Marketing Internship Coimbatore",
 			"url": "https://www.clickboxagency.com/digital-marketing-internship-coimbatore/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

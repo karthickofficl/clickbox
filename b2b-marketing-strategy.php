@@ -73,7 +73,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Best Guide to B2B Marketing Strategies - Follow These 10 Strategies</title>
+	<title>Best B2B Marketing Strategies - Follow These 10 Strategies</title>
 
 	<meta name=description content="Are you a B2B entrepreneur? Then, check this updated guide to implementing the innovative B2B marketing strategies in your business." />
 
@@ -109,13 +109,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
 
-	<meta property="og:title" content="Best Guide to B2B Marketing Strategies - Follow These 10 Strategies" />
+	<meta property="og:title" content="Best B2B Marketing Strategies - Follow These 10 Strategies" />
 
 	<meta property="og:description" content="Are you a B2B entrepreneur? Then, check this updated guide to implementing the innovative B2B marketing strategies in your business." />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Best Guide to B2B Marketing Strategies - Follow These 10 Strategies" />
+	<meta name="twitter:title" content="Best B2B Marketing Strategies - Follow These 10 Strategies" />
 
 	<meta name="twitter:description" content="Are you a B2B entrepreneur? Then, check this updated guide to implementing the innovative B2B marketing strategies in your business." />
 
@@ -381,7 +381,7 @@ if (isset($_POST['send'])) {
 
 							<br>These 6 ways will help you to connect with your target audience easily. Follow all these methods to get quick traffic.
 
-							<br><b>(B) Selling Products to Customers: </b>
+							<h4 class="h4-lg">(B) Selling Products to Customers: </h4>
 
 							<br>Now, we will jump into the second step. When you follow these above-mentioned marketing methods, traffic will increase, and leads will start entering your business.
 
@@ -670,7 +670,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"name": "Best Guide to B2B Marketing Strategies - Follow These 10 Strategies",
+			"name": "Best B2B Marketing Strategies - Follow These 10 Strategies",
 
 			"alternateName": "b2b marketing strategy, b2b content marketing, b2b influencer marketing, b2b marketing plan, b2b lead generation strategies, b2b digital marketing strategies, marketing strategy for b2b business, innovative b2b marketing strategies",
 
@@ -686,7 +686,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "Organization",
 
-			"name": "Best Guide to B2B Marketing Strategies - Follow These 10 Strategies",
+			"name": "Best B2B Marketing Strategies - Follow These 10 Strategies",
 
 			"url": "https://www.clickboxagency.com/b2b-marketing-strategy/",
 
@@ -726,17 +726,12 @@ if (isset($_POST['send'])) {
 
 			"sameAs": [
 
-				" https://twitter.com/",
-
-				" https://www.facebook.com/",
-
-				" https://www.instagram.com/",
-
-				" https://www.linkedin.com/",
-
-				" https://www.youtube.com/",
-
-				" https://in.pinterest.com/"
+				" https://twitter.com/clickboxagency",
+				" https://www.facebook.com/people/Clickbox-Agency/100078058999078/",
+				" https://www.instagram.com/clickbox_agency/",
+				" https://www.linkedin.com/company/clickbox-agency/",
+				" https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw",
+				" https://in.pinterest.com/clickboxagency/"
 
 			]
 

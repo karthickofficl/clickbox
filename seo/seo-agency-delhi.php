@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Result Driven SEO Agency Delhi</title>
+	<title>Result-Oriented Search Engine Optimization Agency in Delhi</title>
 
 	<meta name=description content="As a leading SEO Agency Delhi, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Professional SEO Agency Delhi" />
+	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Delhi" />
 
 	<meta property="og:description" content="As a leading SEO Agency Delhi, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Professional SEO Agency Delhi" />
+	<meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Delhi" />
 
 	<meta name="twitter:description" content="As a leading SEO Agency Delhi, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -1115,7 +1115,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Result Driven SEO Agency Delhi",
+			"name": "Result-Oriented Search Engine Optimization Agency in Delhi",
 			"alternateName": "  seo agency delhi, seo services in delhi ,seo companies in delhi , best seo company in delhi",
 				"url": "https://www.clickboxagency.com/seo/seo-agency-delhi/"
 		}
@@ -1125,7 +1125,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Result Driven SEO Agency Delhi",
+			"name": "Result-Oriented Search Engine Optimization Agency in Delhi",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-delhi/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

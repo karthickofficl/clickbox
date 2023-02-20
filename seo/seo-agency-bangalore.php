@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Result Driven SEO Agency Bangalore</title>
+	<title>Result-Oriented Search Engine Optimization Agency in Bangalore</title>
 
 	<meta name=description content="As a leading SEO Agency Bangalore, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Professional SEO Agency Bangalore" />
+	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Bangalore" />
 
 	<meta property="og:description" content="As a leading SEO Agency Bangalore, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Professional SEO Agency Bangalore" />
+	<meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Bangalore" />
 
 	<meta name="twitter:description" content="As a leading SEO Agency Bangalore, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -1122,7 +1122,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Result Driven SEO Agency Bangalore",
+			"name": "Result-Oriented Search Engine Optimization Agency in Bangalore",
 			"alternateName": "seo agency bangalore, seo services bangalore, search engine optimization bangalore",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-bangalore/"
 		}
@@ -1132,7 +1132,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Result Driven SEO Agency Bangalore",
+			"name": "Result-Oriented Search Engine Optimization Agency in Bangalore",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-bangalore/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

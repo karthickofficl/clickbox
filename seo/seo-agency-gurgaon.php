@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Result Driven SEO Agency Gurgaon</title>
+	<title>Result-Oriented Search Engine Optimization Agency in Gurgaon</title>
 
 	<meta name=description content="As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Professional SEO Agency Gurgaon" />
+	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Gurgaon" />
 
 	<meta property="og:description" content="As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Professional SEO Agency Gurgaon" />
+	<meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Gurgaon" />
 
 	<meta name="twitter:description" content="As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -1115,7 +1115,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Result Driven SEO Agency Gurgaon",
+			"name": "Result-Oriented Search Engine Optimization Agency in Gurgaon",
 			"alternateName": " Seo agency gurgaon , seo companies in gurgaon , best seo company in gurgaon, seo service gurgaon",
 				"url": "https://www.clickboxagency.com/seo/seo-agency-gurgaon/"
 		}
@@ -1125,7 +1125,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Result Driven SEO Agency Gurgaon",
+			"name": "Result-Oriented Search Engine Optimization Agency in Gurgaon",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-gurgaon/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

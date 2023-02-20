@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Result Driven SEO Agency Edmonton</title>
+	<title>Result-Oriented Search Engine Optimization Agency in Edmonton</title>
 
 	<meta name=description content="As a leading SEO Agency Edmonton, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Professional SEO Agency Edmonton" />
+	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Edmonton" />
 
 	<meta property="og:description" content="As a leading SEO Agency Edmonton, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Professional SEO Agency Edmonton" />
+	<meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Edmonton" />
 
 	<meta name="twitter:description" content="As a leading SEO Agency Edmonton, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -1115,7 +1115,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Result Driven SEO Agency Edmonton",
+			"name": "Result-Oriented Search Engine Optimization Agency in Edmonton",
 			"alternateName": "seo agency edmonton, seo services in edmonton ,seo companies in edmonton , best seo company in edmonton",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-edmonton/"
 		}
@@ -1125,7 +1125,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Result Driven SEO Agency Edmonton",
+			"name": "Result-Oriented Search Engine Optimization Agency in Edmonton",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-edmonton/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

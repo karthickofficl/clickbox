@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="author" content="ClickBox Agency" />
 	<title>About ClickBox Advertising &amp; Digital Marketing Agency</title>
-	<meta name="description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta name="description" content="Clickbox is a leading web development and digital marketing company based in Coimbatore. We specialize in SEO, social media, PPC, website design, and mobile app development services." />
 	<meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india">
 	<meta name="language" content="en" />
 	<meta name="revisit-after" content="7 days" />
@@ -23,10 +23,10 @@
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="About ClickBox Advertising &amp; Digital Marketing Agency" />
-	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta property="og:description" content="Clickbox is a leading web development and digital marketing company based in Coimbatore. We specialize in SEO, social media, PPC, website design, and mobile app development services." />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="About ClickBox Advertising &amp; Digital Marketing Agency" />
-	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta name="twitter:description" content="Clickbox is a leading web development and digital marketing company based in Coimbatore. We specialize in SEO, social media, PPC, website design, and mobile app development services." />
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
@@ -288,7 +288,7 @@
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
 
-<!-- DIVIDER LINE -->
+	<!-- DIVIDER LINE -->
 	<hr class="divider">
 
 	<!-- CONTENT-3
@@ -955,8 +955,8 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "About ClickBox Advertising &amp; Digital Marketing Agency",
-			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india" ,
-				"url": "https://www.clickboxagency.com/about/"
+			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
+			"url": "https://www.clickboxagency.com/about/"
 		}
 	</script>
 
@@ -968,8 +968,8 @@
 			"url": "https://www.clickboxagency.com/about/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue." ,
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Clickbox is a leading web development and digital marketing company based in Coimbatore. We specialize in SEO, social media, PPC, website design, and mobile app development services.",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

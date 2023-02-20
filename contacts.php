@@ -1,6 +1,6 @@
 <?php
 
-//  
+
 if (isset($_POST['send'])) {
 
 	// getting post values
@@ -78,7 +78,7 @@ if (isset($_POST['send'])) {
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="author" content="ClickBox Agency" />
 	<title>Contact Us - ClickBox Advertising &amp; Digital Marketing Agency</title>
-	<meta name="description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta name="description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
 	<meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india">
 	<meta name="language" content="en" />
 	<meta name="revisit-after" content="7 days" />
@@ -94,10 +94,10 @@ if (isset($_POST['send'])) {
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
-	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta property="og:description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
-	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta name="twitter:description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
@@ -317,27 +317,27 @@ if (isset($_POST['send'])) {
 					<!-- BOX #2 -->
 					<div class="col">
 						<!-- <a href="https://clickboxagency.com/faqs.html"> -->
-							<div class="cta-box bg-white wow fadeInUp">
+						<div class="cta-box bg-white wow fadeInUp">
 
-								<!-- Icon -->
-								<div class="cta-ico">
-									<div class="ico-60"><span class="flaticon-help"></span></div>
-								</div>
+							<!-- Icon -->
+							<div class="cta-ico">
+								<div class="ico-60"><span class="flaticon-help"></span></div>
+							</div>
+
+							<!-- Text -->
+							<div class="cta-txt">
+
+								<!-- Title -->
+								<h5 class="h5-md"></h5>
 
 								<!-- Text -->
-								<div class="cta-txt">
-
-									<!-- Title -->
-									<h5 class="h5-md"></h5>
-
-									<!-- Text -->
-									<h5 class="p-lg">
-										<b>Mobile:</b> +91 7418 555 205</br>
-									</h5>
-
-								</div>
+								<h5 class="p-lg">
+									<b>Mobile:</b> +91 7418 555 205</br>
+								</h5>
 
 							</div>
+
+						</div>
 						<!-- </a> -->
 					</div> <!-- END BOX #2 -->
 				</div> <!-- End cta-8-wrapper -->
@@ -404,7 +404,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Contact Us - ClickBox Advertising &amp; Digital Marketing Agency",
 			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
-				"url": "https://www.clickboxagency.com/contacts/"
+			"url": "https://www.clickboxagency.com/contacts/"
 		}
 	</script>
 
@@ -416,8 +416,8 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/contacts/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. ",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

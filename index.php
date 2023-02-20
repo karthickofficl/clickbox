@@ -143,7 +143,7 @@ if (isset($_POST['send'])) {
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="author" content="ClickBox Agency" />
-	<title>ClickBox Advertising &amp; Digital Marketing Agency in Coimbatore, India</title>
+	<title>ClickBox Advertising & Digital Marketing Agency in Coimbatore</title>
 	<meta name="description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
 	<meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india">
 	<meta name="language" content="en" />
@@ -159,10 +159,10 @@ if (isset($_POST['send'])) {
 	<meta property="og:url" content="https://www.clickboxagency.com/" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
-	<meta property="og:title" content="ClickBox Advertising &amp; Digital Marketing Agency in Coimbatore, India" />
+	<meta property="og:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
 	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:title" content="ClickBox Advertising &amp; Digital Marketing Agency in Coimbatore, India" />
+	<meta name="twitter:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
 	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -1715,7 +1715,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "ClickBox Advertising &amp; Digital Marketing Agency in Coimbatore, India",
+			"name": "ClickBox Advertising & Digital Marketing Agency in Coimbatore",
 			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
 			"url": "https://www.clickboxagency.com/"
 		}
@@ -1725,7 +1725,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "ClickBox Advertising &amp; Digital Marketing Agency in Coimbatore, India",
+			"name": "ClickBox Advertising & Digital Marketing Agency in Coimbatore",
 			"url": "https://www.clickboxagency.com/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

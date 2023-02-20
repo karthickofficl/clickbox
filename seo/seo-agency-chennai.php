@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Result Driven SEO Agency Chennai</title>
+	<title>Result-Oriented Search Engine Optimization Agency in Chennai</title>
 
 	<meta name=description content="As a leading SEO Agency Chennai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Professional SEO Agency Chennai" />
+	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Chennai" />
 
 	<meta property="og:description" content="As a leading SEO Agency Chennai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Professional SEO Agency Chennai" />
+	<meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Chennai" />
 
 	<meta name="twitter:description" content="As a leading SEO Agency Chennai, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -1075,7 +1075,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Result Driven SEO Agency Chennai",
+			"name": "Result-Oriented Search Engine Optimization Agency in Chennai",
 			"alternateName": "seo agency chennai, seo services chennai, search engine optimization chennai",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-chennai/"
 		}
@@ -1085,7 +1085,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Result Driven SEO Agency Chennai",
+			"name": "Result-Oriented Search Engine Optimization Agency in Chennai",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-chennai/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

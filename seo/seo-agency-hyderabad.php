@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Result Driven SEO Agency Hyderabad</title>
+    <title>Result-Oriented Search Engine Optimization Agency in Hyderabad</title>
 
     <meta name=description content="As a leading SEO Agency Hyderabad, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
     <meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-    <meta property="og:title" content="Professional seo-agency-hyderabad/" />
+    <meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Hyderabad" />
 
     <meta property="og:description" content="As a leading seo-agency-hyderabad/, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
     <meta name="twitter:card" content="summary" />
 
-    <meta name="twitter:title" content="Professional seo-agency-hyderabad/" />
+    <meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Hyderabad" />
 
     <meta name="twitter:description" content="As a leading seo-agency-hyderabad/, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -1115,7 +1115,7 @@ if (isset($_POST['send'])) {
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "name": "Result Driven SEO Agency Hyderabad",
+            "name": "Result-Oriented Search Engine Optimization Agency in Hyderabad",
             "alternateName": "seo agency hyderabad, seo services in hyderabad ,seo companies in hyderabad , best seo company in hyderabad",
                 "url": "https://www.clickboxagency.com/seo/seo-agency-hyderabad/"
         }
@@ -1125,7 +1125,7 @@ if (isset($_POST['send'])) {
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Result Driven SEO Agency Hyderabad",
+            "name": "Result-Oriented Search Engine Optimization Agency in Hyderabad",
             "url": "https://www.clickboxagency.com/seo/seo-agency-hyderabad/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",

@@ -69,7 +69,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Result Driven SEO Agency Kolkata</title>
+	<title>Result-Oriented Search Engine Optimization Agency in Kolkata</title>
 
 	<meta name=description content="As a leading SEO Agency Kolkata, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -105,13 +105,13 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Professional SEO Agency Kolkata" />
+	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Kolkata" />
 
 	<meta property="og:description" content="As a leading SEO Agency Kolkata, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Professional SEO Agency Kolkata" />
+	<meta name="twitter:title" content="Result-Oriented Search Engine Optimization Agency in Kolkata" />
 
 	<meta name="twitter:description" content="As a leading SEO Agency Kolkata, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
@@ -144,10 +144,7 @@ if (isset($_POST['send'])) {
 							<li class="list-item">
 								<p class="p-xl">Rank Your Website On 1st Page Google Search.
 
-									ClickBox Agency is here to help you! Contact today.
-
-
-								</p>
+									ClickBox Agency is here to help you! Contact today.</p>
 							</li>
 
 							<li class="list-item">
@@ -1102,7 +1099,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Result Driven SEO Agency Kolkata",
+			"name": "Result-Oriented Search Engine Optimization Agency in Kolkata",
 			"alternateName": "seo agency kolkata, seo services in kolkata ,seo companies in kolkata , best seo company kolkata",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-kolkata/"
 		}
@@ -1112,7 +1109,7 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Result Driven SEO Agency Kolkata",
+			"name": "Result-Oriented Search Engine Optimization Agency in Kolkata",
 			"url": "https://www.clickboxagency.com/seo/seo-agency-kolkata/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

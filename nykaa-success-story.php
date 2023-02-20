@@ -73,7 +73,7 @@ if (isset($_POST['send'])) {
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>NYKAA- A HUGE SUCCESS </title>
+	<title>Nykaa: A Huge Success in Beauty and Fashion in India</title>
 
 	<meta name=description content="In today's world, buying cosmetics from a store is a bit tough. Why don't we buy cosmetics online that everything has 
 		been made simple and we can get everything from the comfort of our own homes? This is where Nykaa began." />
@@ -110,14 +110,14 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="NYKAA- A HUGE SUCCES" />
+	<meta property="og:title" content="Nykaa: A Huge Success in Beauty and Fashion in India " />
 
 	<meta property="og:description" content="In today's world, buying cosmetics from a store is a bit tough. Why don't we buy cosmetics online that everything has 
 		been made simple and we can get everything from the comfort of our own homes? This is where Nykaa began." />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="NYKAA- A HUGE SUCCESS" />
+	<meta name="twitter:title" content="Nykaa: A Huge Success in Beauty and Fashion in India" />
 
 	<meta name="twitter:description" content="In today's world, buying cosmetics from a store is a bit tough. Why don't we buy cosmetics online that everything has 
 		been made simple and we can get everything from the comfort of our own homes? This is where Nykaa began." />
@@ -569,7 +569,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"name": "NYKAA- A HUGE SUCCESS",
+			"name": "Nykaa: A Huge Success in Beauty and Fashion in India",
 
 			"alternateName": "nykaa, beauty products, cosmetics market, women entrepreneur, nykaa online shopping, ecommerce shopping",
 
@@ -585,7 +585,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "Organization",
 
-			"name": "NYKAA- A HUGE SUCCESS",
+			"name": "Nykaa: A Huge Success in Beauty and Fashion in India",
 
 			"url": "https://www.clickboxagency.com/nykaa-success-story/",
 
