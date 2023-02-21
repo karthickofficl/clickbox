@@ -259,7 +259,7 @@ if (isset($_POST['send'])) {
 							<div class="txt-box mb-20">
 
 								<!-- Title -->
-								<h5 class="h5-lg txtyelloww">Acquire More Customers With Our eCommerce SEO</h5>
+								<h1 class="h5-lg txtyelloww">Acquire More Customers With Our eCommerce SEO</h1>
 
 								<!-- Text -->
 								<p class="p-lg txt-justify">Consumer needs are changing quickly as a result of the internet and technological improvements. Customers today prefer making purchases in the simplest and fastest manner possible while still leading busy lives. In reality, studies indicate that 1.8 billion consumers use eCommerce marketing services to buy things globally.</p>

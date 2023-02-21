@@ -220,7 +220,7 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title -->
-						<h2 class="h2-md txtredd">Our Google Ads Management Services</h2>
+						<h1 class="h2-md txtredd">Our Google Ads Management Services</h1>
 
 						<!-- Text -->
 						<p class="p-xl">Google Ads/AdWords process requires smart techniques to improve your ad conversions. to convert your traffic into customers.</p>

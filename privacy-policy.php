@@ -101,7 +101,7 @@
  						<div class="terms-title text-center">
 
  							<!-- Title -->
- 							<h2 class="h2-md">Privacy Policy</h2>
+ 							<h1 class="h2-md">Privacy Policy</h1>
 
  							<!-- Text -->
  							<p class="p-xl grey-color">Last Modified: May 10, 2022</p>

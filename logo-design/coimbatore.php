@@ -139,7 +139,7 @@ if (isset($_POST['send'])) {
 						<p class="p-xl">We design unforgettable logos for your brand. </p>
 
 						<!-- Button -->
-						<a href="#" class="btn btn-violet-red yellow-hover">Contact us today</a>
+						<a href="https://clickboxagency.com/contacts/" class="btn btn-violet-red yellow-hover">Contact us today</a>
 
 					</div>
 				</div> <!-- END HERO TEXT -->
@@ -1386,7 +1386,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>

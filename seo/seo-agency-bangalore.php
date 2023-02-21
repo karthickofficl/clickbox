@@ -258,7 +258,7 @@ if (isset($_POST['send'])) {
 
 
 						<!-- Title -->
-						<h2 class="h2-xs">Top-Notch SEO Solutions Bangalore</h2>
+						<h1 class="h2-xs">Top-Notch SEO Solutions Bangalore</h1>
 
 						<!-- List -->
 						<ul class="simple-list">
@@ -1050,7 +1050,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Ready to make us your SEO consultant in Bangalore? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Ready to make us your SEO consultant in Bangalore? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>

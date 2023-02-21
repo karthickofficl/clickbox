@@ -92,7 +92,7 @@
 
 				<!-- MOBILE HEADER -->
 				<div class="wsmobileheader clearfix">
-					<span class="smllogo"><img src="../images/logo-01.png" alt="mobile-logo" /></span>
+					<span class="smllogo"><img src="https://clickboxagency.com//images/logo-01.png" alt="mobile-logo" /></span>
 					<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
 				</div>
 
@@ -103,28 +103,28 @@
 
 
 						<!-- HEADER LOGO -->
-						<div class="desktoplogo"><a href="../" class="logo-black"><img src="../images/logo-01.png" alt="header-logo"></a></div>
-						<div class="desktoplogo"><a href="../" class="logo-white"><img src="../images/logo-white.png" alt="header-logo"></a></div>
+						<div class="desktoplogo"><a href="https://clickboxagency.com/" class="logo-black"><img src="https://clickboxagency.com/images/logo-01.png" alt="header-logo"></a></div>
+						<div class="desktoplogo"><a href="https://clickboxagency.com/" class="logo-white"><img src="https://clickboxagency.com/images/logo-white.png" alt="header-logo"></a></div>
 
 
 						<!-- MAIN MENU -->
 						<nav class="wsmenu clearfix">
 							<ul class="wsmenu-list nav-stateblue-hover">
-								<li class="nl-simple" aria-haspopup="true"><a href="../">Home</a></li>
-								<li class="nl-simple" aria-haspopup="true"><a href="../about">About Us</a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/">Home</a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/about/">About Us</a></li>
 								<li aria-haspopup="true"><a href="#">Services<span class="wsarrow"></span></a>
 									<ul class="sub-menu">
-										<li aria-haspopup="true"><a href="../seo-company-in-india">SEO Service</a></li>
-										<li aria-haspopup="true"><a href="../ecommerce-seo-services">Ecommerce Marketing</a></li>
-										<li aria-haspopup="true"><a href="../best-digital-marketing-company-in-india/">Complete Digital Marketing</a></li>
-										<li aria-haspopup="true"><a href="../google-ads-agency">Google Ads / Adwords Management</a></li>
+										<li aria-haspopup="true"><a href="https://clickboxagency.com/seo-company-in-india/">SEO Service</a></li>
+										<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-seo-services/">Ecommerce Marketing</a></li>
+										<li aria-haspopup="true"><a href="https://clickboxagency.com/best-digital-marketing-company-in-india/">Complete Digital Marketing</a></li>
+										<li aria-haspopup="true"><a href="https://clickboxagency.com/google-ads-agency/">Google Ads / Adwords Management</a></li>
 										<li aria-haspopup="true"><a href="#reviews-4">Wordpress Website Design</a></li>
 										<li aria-haspopup="true"><a href="#content-7">Ecommerce Website Design</a></li>
 									</ul>
 								</li>
-								<li class="nl-simple" aria-haspopup="true"><a href="../digital-marketing-packages">Packages</a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/digital-marketing-packages/">Packages</a></li>
 								<li class="nl-simple" aria-haspopup="true"><a href="#projects-2">Our Works</a></li>
-								<li class="nl-simple" aria-haspopup="true"><a href="../blogs">Blog</a></li>
+								<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/blogs/">Blog</a></li>
 								<!-- HEADER BUTTON -->
 								<li class="nl-simple" aria-haspopup="true">
 									<a href="#cta-11" class="btn btn-stateblue tra-grey-hover last-link">Let's Talk</a>
@@ -296,7 +296,7 @@
 								</p>
 
 								<!-- Button -->
-								<a href="../contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+								<a href="https://clickboxagency.com//contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 							</div>
 						</div>

@@ -227,7 +227,7 @@ if (isset($_POST['send'])) {
 
 
 						<!-- Title -->
-						<h2 class="h2-xs">SEO for Ecommerce Website </h2>
+						<h1 class="h2-xs">SEO for Ecommerce Website </h1>
 
 						<!-- List -->
 						<ul class="simple-list">

@@ -97,7 +97,7 @@
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title -->
-						<h2 class="h2-md txtyelloww">We’re Better. Here’s Why…</h2>
+						<h1 class="h2-md txtyelloww">We’re Better. Here’s Why…</h1>
 
 						<!-- Text -->
 						<p class="p-xl">We provide long-term, forward-looking growth consulting and tactical complete online marketing, SEO, PPC, and Web Design services to small & medium business clients that are poised for growth.

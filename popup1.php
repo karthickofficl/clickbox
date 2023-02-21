@@ -152,7 +152,7 @@ $headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
 
 
     <!-- Template Main CSS File -->
-    <link href="../css/style-new.css" rel="stylesheet">
+    <link href="https://clickboxagency.com/css/style-new.css" rel="stylesheet">
     <style>
 
         /*==========================================================

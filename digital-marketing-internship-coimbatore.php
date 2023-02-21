@@ -133,7 +133,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-21-txt text-center">
 						<!-- Title -->
 						<p class="p-xl">Agency Based Live</p>
-						<h2 class="h2-lg">Advanced Certified Digital Marketing Internship Program</h2>
+						<h1 class="h2-lg">Advanced Certified Digital Marketing Internship Program</h1>
 
 						<!-- Text -->
 						<p class="p-xl">Be a Full Stack Digital Marketer & Earn Up to 3.2LPA As a Fresher!</p>
@@ -1964,7 +1964,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Ready to increase your ROI with the perfect Google ads campaign? Let’s talk. <a href="../contacts">Contact Us</a></h5>
+						<h5 class="h5-sm">Ready to increase your ROI with the perfect Google ads campaign? Let’s talk. <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>

@@ -242,7 +242,7 @@ if (isset($_POST['send'])) {
 					<div class="txt-block right-column wow fadeInLeft">
 
 						<!-- Title -->
-						<h2 class="h2-xs txtyelloww">Top-Notch SEO Solutions</h2>
+						<h1 class="h2-xs txtyelloww">Top-Notch SEO Solutions</h1>
 
 						<!-- List -->
 						<ul class="simple-list">

@@ -33,7 +33,7 @@
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="../https://www.clickboxagency.com" />
+	<link rel="canonical" href="https://www.clickboxagency.com" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 

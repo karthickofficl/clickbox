@@ -73,9 +73,9 @@
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
+				<div class="col-md-10 col-lg-10">
 					<div class="section-title title-02 mb-85">
-						<h2 class="h2-xs">Relevant news and more for you. Welcome to our blog</h2>
+						<h1 class="h2-xs">Relevant news and more for you. Welcome to our blog</h1>
 					</div>
 				</div>
 			</div>
@@ -280,9 +280,9 @@
 							</li>
 							<li class="page-item active" aria-current="page"><a class="page-link" href="https://clickboxagency.com/blogs/">1</a></li>
 							<li class="page-item"><a class="page-link" href="https://clickboxagency.com/page2/">2</a></li>
-							<li class="page-item"><a class="page-link" href="../#">3</a></li>
+							<li class="page-item"><a class="page-link" href="#">3</a></li>
 							<li class="page-item">
-								<a class="page-link" href="../#" aria-label="Next">
+								<a class="page-link" href="#" aria-label="Next">
 									<span class="flaticon-next"></span>
 								</a>
 							</li>

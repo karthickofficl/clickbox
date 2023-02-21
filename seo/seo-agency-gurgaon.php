@@ -138,7 +138,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-4-txt white-color">
 
 						<!-- Title -->
-						<h2 class="h2-lg">Result Driven SEO Agency Gurgaon</h2>
+						<h1 class="h2-lg">Result Driven SEO Agency Gurgaon</h1>
 
 						<!-- List -->
 						<ul class="simple-list">

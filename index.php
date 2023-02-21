@@ -265,7 +265,7 @@ if (isset($_POST['send'])) {
 
 
 							<!-- Title -->
-							<h2 class="h3-xs">ClickBox Advertising &amp; Marketing Agency</h2>
+							<h1 class="h3-xs">ClickBox Advertising &amp; Marketing Agency</h1>
 
 							<!-- Text -->
 							<p class="p-lg txt-justify">

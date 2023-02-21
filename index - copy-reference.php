@@ -344,7 +344,7 @@ if (isset($_POST['send'])) {
 
 						<div class="col-md-12 form-btn mt-10">
 							<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send">
-								<a href="../contacts/">Schedule A 1:1 Call With Our Expert</a></button>
+								<a href="https://clickboxagency.com/">Schedule A 1:1 Call With Our Expert</a></button>
 						</div>
 
 
@@ -1726,7 +1726,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Have more questions? <a href="../contacts">Ask your question here</a></h5>
+						<h5 class="h5-sm">Have more questions? <a href="https://clickboxagency.com/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>

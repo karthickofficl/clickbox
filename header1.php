@@ -61,8 +61,8 @@
 
 
 					<!-- HEADER LOGO -->
-					<div class="desktoplogo"><a href="../" class="logo-black"><img src="https://clickboxagency.com/images/logo-01.png" alt="header-logo"></a></div>
-					<div class="desktoplogo"><a href="../" class="logo-white"><img src="https://clickboxagency.com/images/logo-01.png" alt="header-logo"></a></div>
+					<div class="desktoplogo"><a href="https://clickboxagency.com/" class="logo-black"><img src="https://clickboxagency.com/images/logo-01.png" alt="header-logo"></a></div>
+					<div class="desktoplogo"><a href="https://clickboxagency.com/" class="logo-white"><img src="https://clickboxagency.com/images/logo-01.png" alt="header-logo"></a></div>
 
 
 					<!-- MAIN MENU -->

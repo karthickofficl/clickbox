@@ -262,7 +262,7 @@ if (isset($_POST['send'])) {
 
 
 						<!-- Title -->
-						<h2 class="h2-xs">Top-Notch SEO Solutions Delhi</h2>
+						<h1 class="h2-xs">Top-Notch SEO Solutions Delhi</h1>
 
 						<!-- List -->
 						<ul class="simple-list">

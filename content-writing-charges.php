@@ -95,7 +95,7 @@
 							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<h5 class=" ">Why to Choose Content Writing Services from Clickbox?</h5>
+									<h1 class=" ">Why to Choose Content Writing Services from Clickbox?</h1>
 
 
 									<!-- Text -->
@@ -240,7 +240,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
-						<h2 class="h3-xs text-center">Why Choose Clickbox for Content Writing Services?</h2>
+						<h3 class="h3-xs text-center">Why Choose Clickbox for Content Writing Services?</h3>
 
 					</div>
 

@@ -226,7 +226,7 @@ if (isset($_POST['send'])) {
 						<div class="section-title title-01 mb-70">
 
 							<!-- Title -->
-							<h2 class="h2-md">Accelerate Your Knowledge</h2>
+							<h1 class="h2-md">Accelerate Your Knowledge</h1>
 
 							<!-- Text -->
 							<p class="p-xl">With Certified UI UX Designer Course Program</p>

@@ -221,7 +221,7 @@ if (isset($_POST['send'])) {
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
 						<!-- Title -->
-						<h2 class="h2-xs txtredd">360° Digital Marketing Service</h2>
+						<h1 class="h2-xs txtredd">360° Digital Marketing Service</h1>
 
 						<!-- List -->
 						<ul class="simple-list">
