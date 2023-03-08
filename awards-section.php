@@ -2,25 +2,19 @@
 
 ?>
 <div id='addawards'>
-	<div id="brands-2" class=" brands-section division">
+	<div id="brands-2" class=" brands-section division mt-15">
 		<div class="container">
-
-
 			<!-- BRANDS TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10">
 					<div class="brands-title text-center">
-						<h3 class="p-lg">Awards And Recognition</h3>
+					<h2 class="h3-xs "><span class="txtred">Awards</span> And Recognition</h2>
 					</div>
 				</div>
 			</div>
-
-
 			<!-- BRANDS-2 WRAPPER -->
 			<div class="brands-2-wrapper mt-lg-5 mb-lg-5">
 				<div class="row justify-content-md-center  row-cols-2 row-cols-sm-3 row-cols-md-6">
-
-
 					<!-- BRAND LOGO IMAGE -->
 					<div class="col p-sm-2">
 						<div class="brand-logo">
@@ -29,8 +23,6 @@
 							</a>
 						</div>
 					</div>
-
-
 					<!-- BRAND LOGO IMAGE -->
 					<div class="col p-sm-2">
 						<div class="brand-logo ">
@@ -39,8 +31,6 @@
 							</a>
 						</div>
 					</div>
-
-
 					<!-- BRAND LOGO IMAGE -->
 					<div class="col p-sm-2">
 						<div class="brand-logo ">
@@ -49,8 +39,6 @@
 							</a>
 						</div>
 					</div>
-
-
 					<!-- BRAND LOGO IMAGE -->
 					<div class="col p-sm-2">
 						<div class="brand-logo">
@@ -59,8 +47,6 @@
 							</a>
 						</div>
 					</div>
-
-
 					<!-- BRAND LOGO IMAGE -->
 					<div class="col p-sm-2">
 						<div class="brand-logo">
@@ -69,8 +55,6 @@
 							</a>
 						</div>
 					</div>
-
-
 					<!-- BRAND LOGO IMAGE -->
 					<div class="col p-sm-2">
 						<div class="brand-logo">
@@ -79,7 +63,6 @@
 							</a>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</div>

@@ -4,15 +4,12 @@
   		<i class="fa fa-phone" style="color:blue;"></i>
   		<p class="m-0">Call</p>
   	</a>
-
   	<a href="https://api.whatsapp.com/send?phone=917358644710" id="webcall" class="mobile-cta-panel-item pt-1 pb-1" role="button">
   		<i class="fa fa-whatsapp" style="color:#25d366;"></i>
   		<p class="m-0">Whatsapp</p>
   	</a>
 
   </div>
-
-
   <script type="text/javascript">
   	var s = document.createElement("script");
   	s.type = "text/javascript";
@@ -22,8 +19,8 @@
   </script>
   <a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
   	<!-- <i class="fa fa-whatsapp"></i> -->
-	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="" sizes="" srcset="">
-</a>
+  	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="" sizes="" srcset="">
+  </a>
   <!-- btn-success -->
 
 
@@ -43,197 +40,206 @@
   			margin-left: 4%;
   		}
   	}
+
+  	.footer-fbox-ico {
+  		width: 30%;
+  		display: inline-block !important;
+  		float: left;
+  		margin-top: 4px;
+  		text-align: left;
+  	}
+
+  	.footer-fbox-txt {
+  		width: 60%;
+  		display: inline-block !important;
+  	}
+
+  	.footer-fbox-4 {
+  		display: flex;
+  		align-items: center;
+  	}
+
+  	img.footer-flag {
+  		width: auto;
+  		max-width: inherit;
+  		max-height: 80px;
+  	}
+
+  	.footer-fbox-txt-footer {
+  		color: #ACACB5;
+  		font-weight: 100;
+  	}
   </style>
 
   <!-- FOOTER-1
 			============================================= -->
-  <footer id="footer-1" class="footer division mt-lg-4 mt-sm-2 ">
+  <footer id="footer-1" class="footer division mt-lg-2 mt-sm-2 ">
   	<div class="container">
-
   		<!-- HEAD FOOTER -->
-  		<div class="row">
-  			<!-- FOOTER COLUMN -->
+  		<div class="row row-cols-1 row-cols-md-4 row-cols-lg-4">
 
-  			<div class="col-sm-8 col-md-4 col-lg-4">
+  			<!-- FIRST -->
+  			<div class="col">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="https://clickboxagency.com/images/map-canada.png" alt="footer-logo">
-  					<!-- <p class="p-md">ClickBox Internet Marketing Agency</p> -->
-  					<h6 class="h6-xl txtbluee mt-2"><b>Canada</b></h6>
-  					<p class="p-lg" style="color: #ededed;">644,Orchards Blvd SW,<br>Edmonton Alberta,<br>T6X 2L4,<br>+1 (780) 678-7657</p>
+  					<div class="footer-fbox-4  wow fadeInUp">
+  						<div class="footer-fbox-txt-footer">
+  							<!-- Title -->
+  							<h6 class="h6-xl txtbluee">India</h6>
+  							<!-- Text -->
+  							<p class="p-lg ">178/4, KPN complex, Avinashi Road,<br>Coimbatore, Tamil Nadu - 641004,<br> +91 887 0578 887</p>
+  						</div>
+  					</div>
   				</div>
   			</div>
-  			<!-- SECOND SECTION -->
-
-  			<div class="col-sm-8 col-md-4 col-lg-4">
+  			<!-- SECOND -->
+  			<div class="col">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="https://clickboxagency.com/images/map-united-states.png" alt="footer-logo">
-  					<h6 class="h6-xl txtbluee mt-2"><b>USA</b></h6>
-  					<p class="p-lg" style="color: #ededed;">1040D Orchard Street,<br>North Brunswick,<br>NE 08902,<br>+1 587 545 6195</p>
-
+  					<div class="footer-fbox-4 wow fadeInUp">
+  						<div class="footer-fbox-txt-footer">
+  							<!-- Title -->
+  							<h6 class="h6-xl txtbluee">Canada</h6>
+  							<!-- Text -->
+  							<p class="p-lg ">644,Orchards Blvd SW,<br>Edmonton Alberta, T6X 2L4,<br> +1 (780) 678-7657</p>
+  						</div>
+  					</div>
   				</div>
   			</div>
-  			<!-- THIRD SECTION -->
-
-  			<div class="col-sm-8 col-md-4 col-lg-4">
-
+  			<!-- THIRD -->
+  			<div class="col">
   				<!-- ALREADY WRITE CODE -->
   				<div class="footer-links mb-10">
-  					<img class="footer-logo" src="https://clickboxagency.com/images/map-india.png" alt="footer-logo">
-  					<h6 class="h6-xl txtbluee mt-2"><b>India - Coimbatore</b></h6>
-  					<p class="p-lg" style="color: #ededed;"> 178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br>+91 7418 555 205</p>
-  					<!-- Hope College, <br> -->
+  					<div class="footer-fbox-4  wow fadeInUp">
+  						<div class="footer-fbox-txt-footer">
+  							<!-- Title -->
+  							<h6 class="h6-xl txtbluee">USA</h6>
+  							<!-- Text -->
+  							<p class="p-lg">1040D Orchard Street,<br>North Brunswick, NE 08902,<br> +1 587 545 6195</p>
 
+  						</div>
+  					</div>
   				</div>
   			</div>
 
+  			<div class="col">
+  				<!-- <div class="col-sm-8 col-md-4 col-lg-3 mt-md-4 mt-lg-0"> -->
+  					<div class="footer-links socialiconres ">
+						<ul class="footer-socials text-secondary ico-25 text-center clearfix  ">
+  							<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span class="flaticon-instagram " style="color:#ff00ad;"></span></a></li>
+  							<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span class="flaticon-facebook" style="color:#0557fb;"></span></a></li>
+  							<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span class="flaticon-linkedin" style="color: #04a4f8;"></span></a></li>
+  							<li><a href="https://twitter.com/clickboxagency" target="_blank"><span class="flaticon-twitter" style="color:#02b1f4;"></span></a></li>
+  							<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span class="flaticon-youtube" style="color:#FF0000;"></span></a></li>
+  						</ul>
+  					<!-- </div> -->
+  				</div>
+  			</div>
   		</div>
 
   		<hr style="height:2px;border:none;color:#333;background-color:#333;">
   		<!-- FOOTER CONTENT -->
-  		<div class="row mt-40">
+  		<div class="row row-cols-sm-2 row-cols-md-4 row-cols-lg-5 mt-20">
   			<!-- FOOTER LINKS -->
-  			<div class="col-sm-6 col-md-3 col-lg-3">
-  				<div class="footer-links mb-40">
-
-  					<!-- Title -->
-  					<h6 class="h6-xl txtyelloww"><b>About</b></h6>
-
-  					<!-- Footer Links -->
-  					<ul class="foo-links txt-milkwhite clearfix">
-  						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/blogs/" style="color: #ededed;">Blog</a></p>
-  						</li>
-  						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/contacts/" style="color: #ededed;">Contact Us</a></p>
-  						</li>
-  						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Portfolio</a></p>
-  						</li>
-  						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Case Study</a></p>
-  						</li>
-  						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/terms-of-service/" style="color: #ededed;">Terms &amp; Conditions</a></p>
-  						</li>
-  						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/privacy-policy/" style="color: #ededed;">Privacy Policy</a></p>
-  						</li>
-  						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/sitemap.xml" style="color: #ededed;">Sitemap</a></p>
-  						</li>
-  					</ul>
-
-  				</div>
-  			</div>
-
 
   			<!-- FOOTER LINKS -->
-  			<div class="col-sm-6 col-md-3 col-lg-3">
-  				<div class="footer-links mb-40">
-
+  			<div class="col">
+  				<div class="footer-links ">
   					<!-- Title -->
-  					<h6 class="h6-xl txtyelloww"><b>Our Services</b></h6>
+  					<h6 class="h6-xll txtyelloww">Digital Marketing</h6>
 
   					<!-- Footer List -->
   					<ul class="foo-links text-secondary clearfix">
   						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/best-digital-marketing-company-in-india/" style="color: #ededed;">Digital Marketing Services</a></p>
+  							<p class="p-lg"><a href="" style="color: #ededed;">Pay Per Click (PPC)</a></p>
   						</li>
   						<li>
   							<p class="p-lg"><a href="https://clickboxagency.com/seo-company-in-india/" style="color: #ededed;">SEO Services</a></p>
   						</li>
   						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">PPC Services India</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Social Media Marketing</a></p>
   						</li>
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">CRO Services</a></p>
-  						</li> -->
+
   						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Reputation Management</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Social Media Optimization</a></p>
   						</li>
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Content Marketing</a></p>
-  						</li>
+
   						<li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">App Store Optimization Services</a></p>
+  							<p class="p-lg"><a href="" style="color: #ededed;">Ecommerce Marketing</a></p>
   						</li>
   						<li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Mobile App Marketing Services</a></p>
-  						</li> -->
-  						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/website-development-service/" style="color: #ededed;">Website Designing &amp; Development</a></p>
+  							<p class="p-lg"><a href="" style="color: #ededed;">App Promotion</a></p>
   						</li>
   						<li>
-  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design/coimbatore/" style="color: #ededed;">Logo Design</a></p>
+  							<p class="p-lg"><a href="" style="color: #ededed;">ORM</a></p>
   						</li>
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Youtube Video Marketing</a></p>
-  						</li> -->
+
   					</ul>
 
   				</div>
   			</div>
   			<!-- FOOTER LINKS -->
-  			<div class="col-sm-6 col-md-3 col-lg-3">
-  				<div class="footer-links mb-40">
+  			<div class="col">
+  				<div class="footer-links ">
 
   					<!-- Title -->
-  					<h6 class="h6-xl txtyelloww"><b>Package Plans</b></h6>
+  					<h6 class="h6-xll txtyelloww">Development </h6>
 
   					<!-- Footer List -->
   					<ul class="foo-links text-secondary clearfix">
-  						<!-- <li><p class="p-md"><a href="../seo-company-in-india">SEO Packages</a></p></li>
-									<li><p class="p-md"><a href="../ecommerce-seo-services">eCommerce SEO Packages</a></p></li> -->
+
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design-packages/" style="color: #ededed;">Logo Design </a></p>
+  							<p class="p-lg"><a href="www.clickboxagency.com/wordpress-website-development-service/" style="color: #ededed;">WordPress Development</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/brochure-design-packages/" style="color: #ededed;">Brochure Design </a></p>
+  							<p class="p-lg"><a href="" style="color: #ededed;">PHP Web Development</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/website-design-packages/" style="color: #ededed;">Website Design </a></p>
-  						</li>
-  						<!-- <li aria-haspopup="true">
-  							<p class="p-md"><a href="https://clickboxagency.com/orm-packages/" style="color: #ededed;">ORM Packages</a></p>
-  						</li> -->
-  						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/ppc-packages/" style="color: #ededed;">PPC Packages</a></p>
+  							<p class="p-lg"><a href="www.clickboxagency.com/ecommerce-website-development-service/" style="color: #ededed;">E-commerce Development</a></p>
   						</li>
 
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/seo-packages/" style="color: #ededed;">SEO Packages</a></p>
+  							<p class="p-lg"><a href="" style="color: #ededed;">Flutter Development</a></p>
   						</li>
-  						<!-- <li aria-haspopup="true">
-  							<p class="p-md"><a href="https://clickboxagency.com/ecommerce-seo-packages/" style="color: #ededed;">Ecommerce SEO Packages</a></p>
-  						</li> -->
-  						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="https://clickboxagency.com/smo-packages/" style="color: #ededed;">SMO Packages</a></p>
-  						</li>
-  						<!-- <li aria-haspopup="true">
-  							<p class="p-md"><a href="https://clickboxagency.com/instagram-marketing-packages/" style="color: #ededed;">Instagram Packages</a></p>
-  						</li>
-  						<li aria-haspopup="true">
-  							<p class="p-md"><a href="https://clickboxagency.com/youtube-packages/" style="color: #ededed;">YouTube Packages</a></p>
-  						</li>
-  						<li aria-haspopup="true">
-  							<p class="p-md"><a href="https://clickboxagency.com/facebook-marketing-packages/" style="color: #ededed;">Facebook Packages</a></p>
-  						</li> -->
-  						<!--<li aria-haspopup="true"><p class="p-md"><a href="../linkedin-packages">Linkedin Packages</a></p></li>
-									<li aria-haspopup="true"><p class="p-md"><a href="../link-building-packages">Link Building Packages</a></p></li>
-									<li aria-haspopup="true"><p class="p-md"><a href="../content-writing-charges">Content Writing Packages</a></p></li> -->
 
+  						<li aria-haspopup="true">
+  							<p class="p-lg"><a href="" style="color: #ededed;">React Native Development</a></p>
+  						</li>
+  						<li aria-haspopup="true">
+  							<p class="p-lg"><a href="" style="color: #ededed;">iOS App Development</a></p>
+  						</li>
+  						<li aria-haspopup="true">
+  							<p class="p-lg"><a href="" style="color: #ededed;">Android App Development</a></p>
+  						</li>
   					</ul>
-
   				</div>
   			</div>
-
   			<!-- FOOTER LINKS -->
-  			<div class="col-sm-6 col-md-3 col-lg-3">
-  				<div class="footer-links mb-40">
+  			<div class="col">
+  				<div class="footer-links ">
   					<!-- Footer Links -->
-  					<h6 class="h6-xl txtyelloww"><b>Industry</b></h6>
+  					<h6 class="h6-xll txtyelloww">Branding & Videos Creations</h6>
+  					<!-- Footer List -->
+  					<ul class="foo-links text-secondary clearfix">
+  						<li>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Logo Design</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Brand Naming</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">UI UX Design</a></p>
+  							<!-- <p class="p-lg"><a href="#" style="color: #ededed;">Social Media Creatives</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Explainer Videos</a></p> -->
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Educational Videos</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Whiteboard Animation</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Social Media Videos</a></p>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Ecommerce Product Videos</a></p>
+  						</li>
+  					</ul>
+  				</div>
+  			</div>
+  			<!-- FOOTER LINKS -->
+  			<div class="col">
+  				<div class="footer-links ">
+  					<!-- Footer Links -->
+  					<h6 class="h6-xll txtyelloww">Industry</h6>
 
   					<!-- Footer List -->
   					<ul class="foo-links text-secondary clearfix">
@@ -243,28 +249,9 @@
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Construction</a></p>
   						</li>
-  						<!-- <li><p class="p-md"><a href="#">Dealers & Distributors</a></p></li> -->
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Education</a></p>
   						</li>
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Finance</a></p>
-  						</li>
-  						<li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Food & Beverage</a></p> -->
-  						</li>
-  						<!-- <li><p class="p-md"><a href="#">Franchises</a></p></li> -->
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Industrial</a></p>
-  						</li> -->
-  						<!-- <li><p class="p-md"><a href="#">Home Repair</a></p></li> -->
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Insurance</a></p>
-  						</li>
-  						<li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Legal</a></p>
-  						</li> -->
-  						<!-- <li><p class="p-md"><a href="#">Local Services</a></p></li> -->
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Medical & Health</a></p>
   						</li>
@@ -274,73 +261,82 @@
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Real Estate</a></p>
   						</li>
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Retail & Ecommerce</a></p>
-  						</li> -->
+
   						<li>
   							<p class="p-lg"><a href="https://clickboxagency.com/saas-marketing-agency/" style="color: #ededed;">SaaS</a></p>
   						</li>
-  						<!-- <li>
-  							<p class="p-md"><a href="#" style="color: #ededed;">Tourism & Hospitality</a></p>
-  						</li> -->
-
   					</ul>
 
   				</div>
   			</div>
-
+  			<div class="col">
+  				<div class="footer-links ">
+  					<!-- Title -->
+  					<h6 class="h6-xll txtyelloww">Quick Link</h6>
+  					<ul class="foo-links txt-milkwhite clearfix">
+  						<li>
+  							<p class="p-lg"><a href="https://clickboxagency.com/about/" style="color: #ededed;">About</a></p>
+  						</li>
+  						<li>
+  							<p class="p-lg"><a href="https://clickboxagency.com/sitemap.xml" style="color: #ededed;">Sitemap</a></p>
+  						</li>
+  						<li>
+  							<p class="p-lg"><a href="https://clickboxagency.com/contacts/" style="color: #ededed;">Contact Us</a></p>
+  						</li>
+  						<li>
+  							<p class="p-lg"><a href="https://clickboxagency.com/blogs/" style="color: #ededed;">Blog</a></p>
+  						</li>
+  						<li>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Portfolio</a></p>
+  						</li>
+  						<li>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Case Study</a></p>
+  						</li>
+						  <li>
+  							<p class="p-lg"><a href="#" style="color: #ededed;">Careers</a></p>
+  						</li>
+  					</ul>
+  				</div>
+  			</div>
 
   		</div>
   		<!-- HR LINE  -->
   		<hr style="height:2px;border:none;color:#333;background-color:#333;">
   		<!-- CANTACT SECTION ADD -->
   		<div class='row'>
-  			<div class="col-sm-8 col-md-4 col-lg-4 mt-md-4 ">
+  			<div class="col-sm-8 col-md-6 col-lg-8 mt-md-4 mt-lg-0">
+  				<p class="p-lg text-white">Copyright © 2023 ClickBox Advertising & Marketing Agency. All rights reserved.</p>
+  			</div>
+  			<div class="col-sm-8 col-md-6 col-lg-4 mt-md-4 mt-lg-0">
   				<div class="footer-links  ">
-  					<p class="p-md" style="color: #ededed;">Mobile:<a href="tel:07358644710" style="color: #ededed;"> +91 7418 555 205</a></p>
-
+  					<p class="p-lg text-white"><a href="https://clickboxagency.com/privacy-policy/" class="text-white">Privacy Policy</a> &nbsp; <a href="https://clickboxagency.com/terms-of-service/" class="text-white">Terms & Conditions</a></p>
   				</div>
   			</div>
-  			<div class="col-sm-8 col-md-4 col-lg-4 mt-md-4 ">
-  				<div class="footer-links  ">
-
-  					<p class="p-md" style="color: #ededed;">Email:<a href="mailto:info@clickboxagency.com" style="color: #ededed;"> info@clickboxagency.com</a></p>
-
-  				</div>
-  			</div>
-
-  			<div class="col-sm-8 col-md-4 col-lg-4 mt-md-4">
+  			<!-- <div class="col-sm-8 col-md-4 col-lg-3 mt-md-4 mt-lg-0">
   				<div class="footer-links socialiconres ">
-  					<!-- <h6 class="h6-xl mt-5"><b>Social Media</b></h6> -->
+  					
   					<ul class="footer-socials text-secondary ico-25 text-center clearfix  ">
-
   						<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span class="flaticon-instagram " style="color:#ff00ad;"></span></a></li>
-
   						<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span class="flaticon-facebook" style="color:#0557fb;"></span></a></li>
   						<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span class="flaticon-linkedin" style="color: #04a4f8;"></span></a></li>
   						<li><a href="https://twitter.com/clickboxagency" target="_blank"><span class="flaticon-twitter" style="color:#02b1f4;"></span></a></li>
   						<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span class="flaticon-youtube" style="color:#FF0000;"></span></a></li>
   					</ul>
-
   				</div>
-  			</div>
-
-
+  			</div> -->
   		</div>
   		<!-- <hr style="height:2px;border:none;color:#333;background-color:#333;"> -->
   		<!-- BOTTOM FOOTER -->
-  		<div class="bottom-footer">
+  		<!-- <div class="bottom-footer">
   			<div class="row row-cols-1 text-align-center" style="text-align: center;">
-
-
-  				<!-- FOOTER COPYRIGHT -->
-  				<div class="col">
+  			<div class="col">
   					<div class="footer-copyright">
-  						<p style="color: #ededed;font-size:13px;">Copyright © 2023 ClickBox Advertising &amp; Marketing Agency. All rights reserved.</p>
+  						<p style="color: #ededed;font-size:13px;">Copyright © 2023 ClickBox Advertising & Marketing Agency. All rights reserved.</p>
   					</div>
   				</div>
   			</div>
-  		</div> <!-- BOTTOM FOOTER -->
+  		</div>  -->
+  		<!-- BOTTOM FOOTER -->
   	</div>
   </footer> <!-- END FOOTER-1 -->
   <?php /*
@@ -372,3 +368,21 @@
   <!--End of Tawk.to Script-->
 
   <script src="https://www.google.com/recaptcha/api.js?render=6LcO-RMgAAAAAAxBDHPIYKJbsDs6nkMiq2rSk6dN"></script>
+
+  <!-- <script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+<script>
+  const myLandbotPopup = new LandbotPopup({
+    index: 'https://landbot.io/u/example/index.html',
+    open: false,
+    proactive: false,
+    font: 'Montserrat',
+    launcherOptions: {
+        enable: true,
+      type: 'image',
+      color: '#de4561',
+      shape: 'default',
+      scale: 0.55,
+      image: 'https://static.landbot.io/landbot/files/bubble.svg',
+    },
+  });
+</script> -->

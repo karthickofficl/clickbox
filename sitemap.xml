@@ -618,4 +618,10 @@
   <priority>0.8</priority>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://clickboxagency.com/blog/logo-design-principles/</loc>
+   <lastmod>2023-02-28</lastmod>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
 </urlset>

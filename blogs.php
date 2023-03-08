@@ -170,7 +170,7 @@
 								<!-- BLOG POST IMAGE -->
 								<div class="blog-post-img">
 									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-create-seo-friendly-website.jpg" alt="blog-post-image" />
+										<img class="img-fluid" src="https://clickboxagency.com/images/blog/top-digital-marketing-interview-question-and-answers.jpg" alt="blog-post-image" />
 										<div class="item-overlay"></div>
 									</div>
 								</div>

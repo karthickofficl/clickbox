@@ -82,16 +82,12 @@
 					<!-- TOP ROW -->
 					<div class="top-row pb-50">
 						<div class="row d-flex align-items-center">
-
-
 							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
 									<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
 								</div>
 							</div>
-
-
 							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
@@ -164,8 +160,6 @@
 				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
-
-
 						<!-- Title -->
 						<h4 class="h2-xs">Blog Writing Services</h4>
 
@@ -360,7 +354,7 @@
 
 	<!-- SECTION 3# END -->
 
-<!-- PRICING-2
+	<!-- PRICING-2
 			============================================= -->
 	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
 		<div class="container">
@@ -828,7 +822,7 @@
 			"@type": "WebSite",
 			"name": "Affordable Content Writing Charges & Pricing | ClickBox",
 			"alternateName": "content writing charges, content writing cost, content writing packages, content writing price, content writing rate, content writing charges per word",
-				"url": "https://www.clickboxagency.com/content-writing-charges/"
+			"url": "https://www.clickboxagency.com/content-writing-charges/"
 		}
 	</script>
 
@@ -841,7 +835,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "From content audit to planning and from writing to maintenance, Clickbox can produce effective and relevant content for your business. Read more… ",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

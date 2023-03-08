@@ -443,11 +443,6 @@ if (isset($_POST['send'])) {
 
 						</div> <!-- SINGLE POST SHARE LINKS END -->
 
-
-
-
-
-
 					</div>
 				</div>
 			</div> <!-- END SINGLE POST CONTENT -->
@@ -596,7 +591,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "https://www.clickboxagency.com/digital-marketing-checklist/" ,
+			"url": "https://www.clickboxagency.com/digital-marketing-checklist/",
 
 			"potentialAction": {
 

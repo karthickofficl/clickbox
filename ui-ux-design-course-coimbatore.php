@@ -532,7 +532,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux-design-course01.png" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/ui-ux-design-course01.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -553,7 +553,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux5.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/logodesign-img06.jpg" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -575,7 +575,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux3.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/16.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -603,14 +603,11 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux4.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/ui-design-and-prototyping.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md"> UI Design and Prototyping
-
-							</h5>
-
+							<h5 class="h5-md"> UI Design and Prototyping</h5>
 							<!-- Text -->
 							<p class="p-lg">
 								Users are drawn in and delighted by a design thanks to user interface design. You can develop beautiful user interfaces by understanding the basic principles of aesthetics and visual design, including typography, colour, layouts, and visual hierarchy.</p>
@@ -624,14 +621,11 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux7.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/01.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
 							<h5 class="h5-md"> UX Testing and Research</h5>
-
-
-
 							<!-- Text -->
 							<p class="p-lg">When creating prototypes, usability and testing are crucial tools for locating issues and validating design choices. You will learn how to organise and lead usability test sessions in this programme module, as well as how to summarise your findings to decide whether you need to alter your prototype.</p>
 						</div>
@@ -644,7 +638,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux8.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/logodesign-img02.jpg" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -670,7 +664,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux-who-study.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/02.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -690,7 +684,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux9.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="../images/digital-marketing-course-highlights.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -707,7 +701,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/ui-ux10.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="../images/03.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -757,7 +751,7 @@ if (isset($_POST['send'])) {
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/img-17.png" alt="content-image">
+								<img class="img-fluid" src="../images/03.png" alt="content-image">
 							</div>
 						</div>
 
@@ -786,7 +780,7 @@ if (isset($_POST['send'])) {
 									</li>
 
 									<li class="list-item">
-										<p class="p-lg">8X more discussion during offline classes.p>
+										<p class="p-lg">8X more discussion during offline classes.</p>
 									</li>
 									<li class="list-item">
 										<p class="p-lg">UI immersion can be achieved via wireframes and interactive prototypes.</p>
