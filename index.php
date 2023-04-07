@@ -93,8 +93,6 @@ if (isset($_POST['send'])) {
 	// getting post values
 	$email = $_POST['email'];
 	$subject = 'News Letter Subscription';
-
-
 	$to = 'iamjamesstephan@gmail.com';
 	$htmlContent = ' 
     <html> 
@@ -106,22 +104,14 @@ if (isset($_POST['send'])) {
         <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
         <th>Email:</th><td>' . $email . '</td> 
     </tr> 
-
-        </table> 
+	</table> 
     </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
+    </html>'; // Set content-type header for sending HTML email 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-
 	// Additional headers 
-
-
 	$m = mail($to, $subject, $htmlContent, $headers);
-
 	// Set content-type header for sending HTML email
-
 	if (!$m) {
 		echo 'Message could not be sent.';
 	} else {
@@ -206,11 +196,8 @@ if (isset($_POST['send'])) {
 
 <body>
 	<?php include('header.php') ?>
-	<!-- HERO-14
-			============================================= -->
 	<section class="rel">
-
-		<video id="background-video" autoplay loop muted poster="./images/19.png">
+		<video id="background-video" autoplay loop muted poster="./images/png-icons/banner-video-img.jpg">
 			<source src="https://clickboxagency.com/images/video/videoclick.mp4" type="video/mp4">
 		</video>
 		<!-- <div class="container"> -->
@@ -219,13 +206,224 @@ if (isset($_POST['send'])) {
 			<h1>delivers <span class="txtyellow">Outstanding Results</span></h1>
 			<p class="p-xl">Hassle-Free Creative Marketing Company</p>
 			<button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
-				<a href="https://clickboxagency.com/contacts/">Schedule A 1-1 Call With Our Expert</a></button>
+				<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Schedule A 1-1 Call With Our Expert</a></button>
 			<!-- </div> -->
 		</div>
-
 	</section>
 
-	<div id="brands-1" class="pt-60 pb-50 brands-section division">
+	<!-- CONTENT-3=======================================-->
+	<section id="content-3" class="bg-snow pt-30 content-3  content-section division">
+		<div class="container">
+			<!-- TOP ROW -->
+			<div class="top-row pb-30">
+				<div class="row d-flex align-items-center">
+					<!-- IMAGE BLOCK -->
+					<div class="col-md-5 col-lg-6">
+						<div class="img-block left-column wow fadeInRight">
+							<img class="img-fluid" src="https://clickboxagency.com/images/we-are-generating-digital-marketing.svg" alt="we-are-generating-digital-marketing">
+						</div>
+					</div>
+					<!-- TEXT BLOCK -->
+					<div class="col-md-7 col-lg-6">
+						<div class="txt-block right-column wow fadeInLeft">
+							<h2 class="h3-xs ">ClickBox <span class="txtred">Advertising & Marketing Agency</span></h2>
+							<!-- Text -->
+							<p class="p-lg txt-justify">Clickbox Agency is a creative digital marketing firm that works all over the world. A full-service digital marketing company that helps brands connect with the right customers. We are known for using the latest online marketing techniques and cutting-edge tools to give &nbsp; your business a digital edge. With "ClickBox Internet Marketing Agency" by your side, you can beat your competitors and stand out from the crowd.
+							</p>
+							<p class="p-lg txt-justify">The Clickbox agency focuses on SEO, social media, PPC, content marketing, web hosting, responsive website design and ecommerce development. We help businesses get more sales, leads, and money from e-commerce. We care about you, and our only goal is to help you reach your business goals. Contact us today to get started on your project.</p>
+						</div>
+					</div> <!-- END TEXT BLOCK -->
+				</div>
+			</div> <!-- END TOP ROW -->
+		</div> <!-- End container -->
+	</section> <!-- END HERO-14 -->
+
+	<div id="servicecarousel-1" class="pt-20 pb-50 brands-section division">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-8">
+					<div class="brands-title text-center">
+						<!-- Title -->
+						<h2 class="h3-xs ">Overall <span class="txtred">Services</span></h2>
+					</div>
+				</div>
+			</div>
+			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-30">
+				<div class="col serv" style="border-left:none;">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="logo design">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">Logo Design</h6>
+							<p class="p-lg ">We are overjoyed to make available, free of charge, the expert <a href="https://clickboxagency.com/logo-design/coimbatore/" aria-label="logo design coimbatore" title="logo design coimbatore" class="dblue">logo design</a> services that we provide to companies and startups who are interested in developing powerful brand identities. <a href="#" class="btn-sm-services">See more...</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col serv">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="ui ux design">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">UI UX Design </h6>
+							<!-- Text -->
+							<p class="p-lg ">We are a top UI/UX design agency based in New Jersey that specializes in making user experiences that are smooth and easy to use, which increase engagement and conversion rates. <a href="#" class="btn-sm-services">See more...</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col serv">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="website development">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">Website Development</h6>
+							<!-- Text -->
+							<p class="p-lg ">We are a top website development company based in New Jersey that specializes in making high-quality websites that are customized to meet the needs of your business. <a href="#" class="btn-sm-services">See more...</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col serv" style="border-left:none;">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="ecommerce devlopement">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">Ecommerce Development</h6>
+							<!-- Text -->
+							<p class="p-lg ">Looking to develop your own ecommerce website? Our expert team specializes in ecommerce development, providing custom solutions to meet your unique business needs. <a href="#" class="btn-sm-services">See more...</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col serv">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="mobile app development">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">Mobile App Development</h6>
+							<!-- Text -->
+							<p class="p-lg ">We are a premier mobile app development agency that specializes in creating cutting-edge mobile apps that help businesses reach their target audience, increase engagement, and drive growth. <a href="#" class="btn-sm-services">See more...</a></p>
+							</div>
+					</div>
+				</div>
+				<div class="col serv">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="digital marketing">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">Digital Marketing</h6>
+							<!-- Text -->
+							<p class="p-lg ">Our full-service digital marketing agency helps businesses of all sizes succeed online. Our extensive digital marketing services are tailored to your specific business needs and goals. <a href="#" class="btn-sm-services">See more...</a></p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col serv" style="border-left:none;border-bottom: 0px;">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="content marketing">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md">Content Marketing</h6>
+							<!-- Text -->
+							<p class="p-lg ">Are you interested in finding high-quality content that can engage your audience and produce results for you? Look no further! Our team of skilled writers is here to help you achieve your content marketing goals. <a href="#" class="btn-sm-services">See more...</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col serv" style="border-bottom: 0px;">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="seo">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md ">Search Engine Optimization</h6>
+							<!-- Text -->
+							<p class="p-lg ">Our <a href="https://clickboxagency.com/seo-company-in-india/" aria-label="seo" title="seo" class="dblue">SEO</a> experts enhance your website's content, structure, and backlinks to improve its search engine rankings (SERPs). We can raise brand visibility, quality leads, and online income. <a href="#" class="btn-sm-services">See more...</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col serv" style="border-bottom: 0px;">
+					<div class="fbox-4 p-all-20 wow fadeInUp">
+						<!-- Icon -->
+						<div class="fbox-ico-home">
+							<div class="ico-65-home">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="explainer video">
+								</span>
+							</div>
+						</div>
+						<!-- Text -->
+						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+							<!-- Title -->
+							<h6 class="h6-md ">Explainer Video Creation</h6>
+							<!-- Text -->
+							<p class="p-lg ">Our team of expert video creators and animators have a wealth of experience in creating a wide range of video content, including promotional videos, product demos, explainer videos, whiteboard animation videos and more. <a href="#" class="btn-sm-services">See more...</a></p>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div> <!-- End container -->
+	</div> <!-- END BRANDS-1 -->
+<div id="brands-1" class="pt-50 pb-50 brands-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
@@ -235,75 +433,73 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 			</div>
-
 			<!-- Brands Carousel -->
 			<div class="row mt-sm-4">
 				<div class="col text-center">
 					<div class="owl-carousel brands-carousel">
 						<!-- Designing -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/17.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/17.jpg" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/18.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/18.jpg" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/19.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/19.jpg" alt="tools-logo" />
 						</div>
-						<!-- DIGITAL MARKETING -->
-						<!-- BRAND LOGO IMAGE -->
+					
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/01.jpeg" alt="brand-logo" />
-						</div>
-
-						<!-- BRAND LOGO IMAGE -->
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/03.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/01.jpeg" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/04.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/03.jpg" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/05.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/04.jpg" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/06.jpg" alt="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/05.jpg" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/23.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/06.jpg" alt="tools-logo">
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/25.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/23.png" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/27.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/25.png" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/24.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/27.png" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/26.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/24.png" alt="tools-logo" />
+						</div>
+
+						<!-- BRAND LOGO IMAGE -->
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/26.png" alt="tools-logo" />
 						</div>
 						<!--  -->
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/07.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/07.jpg" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
@@ -351,284 +547,40 @@ if (isset($_POST['send'])) {
 							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/33.png" alt="brand-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/34.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/34.png" alt="tools-logo" />
 						</div>
 						<!--  -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/13.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/13.png" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/14.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/14.jpg" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/15.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/15.png" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/16.svg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/16.svg" alt="tools-logo" />
 						</div>
 						<!--  -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/35.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/35.png" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/37.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/37.png" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/31.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/31.png" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/36.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/36.png" alt="tools-logo" />
 						</div>
 					</div>
 				</div>
 			</div> <!-- End Brands Carousel -->
-
 		</div> <!-- End container -->
 	</div> <!-- END BRANDS-1 -->
-
-	<!-- CONTENT-3=======================================wide-60====== -->
-	<section id="content-3" class="bg-snow pt-30 content-3  content-section division">
-		<div class="container">
-
-
-			<!-- TOP ROW -->
-			<div class="top-row pb-30">
-				<div class="row d-flex align-items-center">
-
-
-					<!-- IMAGE BLOCK -->
-					<div class="col-md-5 col-lg-6">
-						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="https://clickboxagency.com/images/we-are-generating-digital-marketing.svg" alt="content-image">
-						</div>
-					</div>
-					<!-- TEXT BLOCK -->
-					<div class="col-md-7 col-lg-6">
-						<div class="txt-block right-column wow fadeInLeft">
-							<!-- Section ID -->
-							<!-- <span class="section-id txt-upcase beforelines">About us</span> -->
-							<!-- Title -->
-							<h2 class="h3-xs ">ClickBox <span class="txtred">Advertising & Marketing Agency</span></h2>
-
-							<!-- Text -->
-							<p class="p-lg txt-justify">Clickbox Agency is a creative digital marketing firm that works all over the world. A full-service digital marketing company that helps brands connect with the right customers. We are known for using the latest online marketing techniques and cutting-edge tools to give &nbsp; your business a digital edge. With "ClickBox Internet Marketing Agency" by your side, you can beat your competitors and stand out from the crowd.
-							</p>
-							<p class="p-lg txt-justify">The Clickbox agency focuses on SEO, social media, PPC, content marketing, web hosting, responsive website design and ecommerce development. We help businesses get more sales, leads, and money from e-commerce. We care about you, and our only goal is to help you reach your business goals. Contact us today to get started on your project.</p>
-
-						</div>
-					</div> <!-- END TEXT BLOCK -->
-				</div>
-			</div> <!-- END TOP ROW -->
-		</div> <!-- End container -->
-	</section> <!-- END HERO-14 -->
-
-	<!-- BOTTOM ROW -->
-
-	<div id="servicecarousel-1" class="pt-20 pb-50 brands-section division">
-		<div class="container">
-
-			<div class="row justify-content-center">
-				<div class="col-lg-8">
-					<div class="brands-title text-center">
-						<!-- Title -->
-						<h2 class="h3-xs ">Overall <span class="txtred">Services</span></h2>
-					</div>
-				</div>
-			</div>
-			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-30">
-				<div class="col serv" style="border-left:none;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Logo Design</h6>
-							<p class="p-lg ">We are overjoyed to make available, free of charge, the expert <a href="https://clickboxagency.com/logo-design/coimbatore/" class="dblue">logo design</a> services that we provide to companies and startups who are interested in developing powerful brand identities. <a href="#" class="btn-sm-services">See more...</a></p>
-							
-						</div>
-					</div>
-				</div>
-				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">UI UX Design </h6>
-							<!-- Text -->
-							<p class="p-lg ">We are a top UI/UX design agency based in New Jersey that specializes in making user experiences that are smooth and easy to use, which increase engagement and conversion rates. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover ">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-
-							<!-- Title -->
-							<h6 class="h6-md">Website Development</h6>
-
-							<!-- Text -->
-							<p class="p-lg ">We are a top website development company based in New Jersey that specializes in making high-quality websites that are customized to meet the needs of your business. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover ">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv" style="border-left:none;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-
-							<!-- Title -->
-							<h6 class="h6-md">Ecommerce Development</h6>
-
-							<!-- Text -->
-							<p class="p-lg ">Looking to develop your own ecommerce website? Our expert team specializes in ecommerce development, providing custom solutions to meet your unique business needs. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover btn-hover-none">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-
-							<!-- Title -->
-							<h6 class="h6-md">Mobile App Development</h6>
-
-							<!-- Text -->
-							<p class="p-lg ">We are a premier mobile app development agency that specializes in creating cutting-edge mobile apps that help businesses reach their target audience, increase engagement, and drive growth. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover btn-hover-none">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-
-							<!-- Title -->
-							<h6 class="h6-md">Digital Marketing</h6>
-
-							<!-- Text -->
-							<p class="p-lg ">Our full-service digital marketing agency helps businesses of all sizes succeed online. Our extensive digital marketing services are tailored to your specific business needs and goals. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover btn-hover-none">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv" style="border-left:none;border-bottom: 0px;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Content Marketing</h6>
-							<!-- Text -->
-							<p class="p-lg ">Are you interested in finding high-quality content that can engage your audience and produce results for you? Look no further! Our team of skilled writers is here to help you achieve your content marketing goals. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover btn-hover-none">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv" style="border-bottom: 0px;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md ">Search Engine Optimization</h6>
-							<!-- Text -->
-							<p class="p-lg ">Our <a href="https://clickboxagency.com/seo-company-in-india/" class="dblue">SEO</a> experts enhance your website's content, structure, and backlinks to improve its search engine rankings (SERPs). We can raise brand visibility, quality leads, and online income. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover btn-hover-none">See more</a> -->
-						</div>
-					</div>
-				</div>
-				<div class="col serv" style="border-bottom: 0px;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="">
-								</span>
-							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md ">Explainer Video Creation</h6>
-							<!-- Text -->
-							<p class="p-lg ">Our team of expert video creators and animators have a wealth of experience in creating a wide range of video content, including promotional videos, product demos, explainer videos, whiteboard animation videos and more. <a href="#" class="btn-sm-services">See more...</a></p>
-							<!-- <a href="#" class="btn btn-sm-services btn-pink yellow-hover btn-hover-none">See more</a> -->
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End container -->
-	</div> <!-- END BRANDS-1 -->
-	<!-- SERVICES -->
-
-	<!-- ===============================eide-60============== -->
+	<!-- ============================================= -->
 	<section id="features-4" class="pt-30 pb-40 bg-snow features-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
@@ -676,8 +628,7 @@ if (isset($_POST['send'])) {
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
-						<!-- <img src="../images/png-icons/mobile-mockup.png" alt="" class="img-fluid"> -->
-						<img src="https://clickboxagency.com/images/png-icons/why-choose-us-home.png" alt="" class="img-fluid">
+						<img src="https://clickboxagency.com/images/png-icons/why-choose-us-home.png" alt="why choose clickboxagency" class="img-fluid">
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
@@ -716,24 +667,21 @@ if (isset($_POST['send'])) {
 		</div>
 	</section>
 
-	<!-- CONTENT-4=======================================wide-60====== -->
-
+	<!-- CONTENT-4============================================= -->
 	<section id="content-3" class="bg-snow pt-20 pb-20 content-3  content-section division">
 		<div class="container">
-
 			<div class="top-row bgblackhover border50">
 				<div class="row d-flex align-items-center justify-content-center">
 					<div class="col-md-6 col-lg-8  coltoaction-res">
 						<h5 class="h5-md text-white mb-0">Boost Your Business Traffic And Conversions With Us</h5>
 					</div>
 					<div class="col-md-6 col-lg-4 text-end coltoaction-res ">
-						<a href="https://clickboxagency.com/contacts/" class="btn btn-sm btn-pink yellow-hover">Schedule A Consultation Today</a>
+						<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us" class="btn btn-sm btn-pink yellow-hover">Schedule A Consultation Today</a>
 						<!-- </div>
 						</div> -->
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</section>
 	<section id="features-4" class="pt-20 bg-snow features-section division">
@@ -755,7 +703,7 @@ if (isset($_POST['send'])) {
 							<!-- Icon -->
 							<div class="ico-65">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="">
+									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="research and analysis">
 								</span>
 							</div>
 						</div>
@@ -773,7 +721,7 @@ if (isset($_POST['send'])) {
 								<!-- Icon -->
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="">
+										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="planning and implementation">
 									</span>
 								</div>
 							</div>
@@ -792,7 +740,7 @@ if (isset($_POST['send'])) {
 								<!-- Icon -->
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/control.svg" alt="">
+										<img src="https://clickboxagency.com/images/png-icons/control.svg" alt="monitoring">
 									</span>
 								</div>
 							</div>
@@ -811,7 +759,7 @@ if (isset($_POST['send'])) {
 								<!-- Icon -->
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="">
+										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -823,26 +771,6 @@ if (isset($_POST['send'])) {
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col squire-cards-col">
-					<div class="squire-cards squire-cards-violet h-100">
-						<div class="squire-icons">
-							<div class="squire-icons">
-								
-								<div class="ico-65">
-									<span>
-										<img src="https://clickboxagency.com/images/png-icons/support.svg" alt="">
-									</span>
-								</div>
-							</div>
-						</div>
-						<div class="squire-content mt-15">
-						
-							<h6 class="h6-md text-white">Ongoing <br>Support</h6>
-							<p class="p-lg text-squire-muted">We provide ongoing support and maintenance to ensure that your campaigns continue to deliver results over time. This may include updating content, managing social media accounts, running A/B tests, and making other improvements as needed.</p>
-						</div>
-					</div>
-				</div> -->
-
 			</div>
 	</section>
 	<!-- BRANDS-1============================================= -->
@@ -861,14 +789,8 @@ if (isset($_POST['send'])) {
 			<div class="row mt-sm-4">
 				<div class="col text-center">
 					<div class="owl-carousel brands-carousel">
-						<!-- BRAND LOGO IMAGE -->
-						<!-- BRAND LOGO IMAGE -->
-						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
 							<img class="img-fluid" src="https://clickboxagency.com/images/brand-3.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-4.png" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
@@ -886,11 +808,11 @@ if (isset($_POST['send'])) {
 						<div class="brand-logo">
 							<img class="img-fluid" src="https://clickboxagency.com/images/brand-12.png" alt="brand-logo" />
 						</div>
-
-
-
 						<!-- <div class="brand-logo">
 							<img class="img-fluid" src="https://clickboxagency.com/images/brand-1.png" alt="brand-logo" />
+						</div>
+						<div class="brand-logo">
+							<img class="img-fluid" src="https://clickboxagency.com/images/brand-4.png" alt="brand-logo" />
 						</div>
 						<div class="brand-logo">
 							<img class="img-fluid" src="https://clickboxagency.com/images/brand-2.png" alt="brand-logo" />
@@ -914,8 +836,7 @@ if (isset($_POST['send'])) {
 				</div>
 			</div> <!-- End Brands Carousel -->
 
-			<!-- SECOND ROW START -->
-			<!-- Brands Carousel -->
+			<!-- SECOND ROW -->
 			<div class="row mt-sm-4">
 				<div class="col text-center">
 					<div class="owl-carousel brands-carousel">
@@ -978,9 +899,6 @@ if (isset($_POST['send'])) {
 			<div class="row justify-content-center">
 				<div class="col-lg-12">
 					<div class="brands-title ">
-						<!-- Section ID -->
-						<!-- <span class="section-id txt-upcase beforelines02">Blogs</span> -->
-						<!-- <h2 class="h3-xs ">Latest<span class="txtred"> News</span></h2> -->
 						<h2 class="h3-xs ">Our <span class="txtred">Marketing Insights</span></h2>
 						<p class="p-lg">We are Best in performing Informative Blogs, Just take a Look to Get Some Ideas for your Business.</p>
 					</div>
@@ -990,41 +908,26 @@ if (isset($_POST['send'])) {
 			<div class="row mt-20">
 				<div class="col gallery-items-list">
 					<div class="grid_two_container " style="transition: all ease 0.5s;">
-						<!-- <div class="hover-div">
-							<figure class='gallery__item gallery__item--1  hover-hover'>
-								<a href="https://clickboxagency.com/saas-marketing-techniques/">
-									<img src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="" class='upcoming_grid borradi-10 hover-home-img' />
-								</a>
-							</figure>
-						</div> -->
 						<div class="hover-div gallery__item gallery__item--1">
 							<figure class='hover-hover'>
-								<a href="https://clickboxagency.com/saas-marketing-techniques/">
-									<img src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="" class='upcoming_grid borradi-10 hover-home-img' />
+								<a href="https://clickboxagency.com/saas-marketing-techniques/" aria-label="saas marketing techniques" title="saas">
+									<img src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="saas marketing techniques" class='upcoming_grid borradi-10 hover-home-img' />
 								</a>
 							</figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--2">
-							<figure class='hover-hover'> <a href="https://clickboxagency.com/blog/online-free-logo-makers/"><img src="https://clickboxagency.com/images/blog/online-logo-makers-tool.jpg" alt="" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'> <a href="https://clickboxagency.com/blog/online-free-logo-makers/" aria-label="online logo makers" title="online logo makers"><img src="https://clickboxagency.com/images/blog/online-logo-makers-tool.jpg" alt="online logo makers" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/"><img src="https://clickboxagency.com/images/png-icons/home-blog02.jpg" alt="" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/" aria-label="seo friendly website" title="seo friendly website"><img src="https://clickboxagency.com/images/png-icons/home-blog02.jpg" alt="seo friendly website" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-process/"><img src="https://clickboxagency.com/images/png-icons/home-blog01.jpg" alt="" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-process/" aria-label="logo design process" title="logo design process"><img src="https://clickboxagency.com/images/png-icons/home-blog01.jpg" alt="logo design process" class='upcoming_grid'/></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-principles/"><img src="https://clickboxagency.com/images/blog/logo-design-principles-you-need-to-know.jpg" alt="" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-principles/" aria-label="logo design principles" title="logo design principles"><img src="https://clickboxagency.com/images/blog/logo-design-principles-you-need-to-know.jpg" alt="logo design principles" class='upcoming_grid' /></a></figure>
 						</div>
 					</div>
-					<!-- <div class="blog-image-grid">
-						<figure><img src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="blog1" class="image-grid-col-2 image-grid-row-2"></figure>
-						<figure><img src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog1"></figure>
-						<figure><img src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog1"></figure>
-						<figure><img src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog1"></figure>
-						<figure><img src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog1"></figure>
-
-					</div> -->
 				</div>
 			</div>
 		</div>
@@ -1039,8 +942,6 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-80">
 						<!-- Title -->
 						<h2 class="h3-xs ">Frequently <span class="txtred">Asked Questions</span></h2>
-						<!-- Section ID -->
-						<!-- <span class="section-id txt-upcase">FAQs on Our Digital Marketing Services</span> -->
 					</div>
 				</div>
 			</div>
@@ -1222,12 +1123,11 @@ if (isset($_POST['send'])) {
 					<!-- SECOND COLUMN END -->
 				</div> <!-- End row -->
 			</div> <!-- END FAQs-2 QUESTIONS -->
-			<!-- MORE QUESTIONS BUTTON -->
-			<!-- MORE QUESTIONS BUTTON -->
+
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -1248,7 +1148,7 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-md text-white">We offer a challenging and rewarding work environment with ample opportunities for growth and advancement.</p>
-								<a href="https://clickboxagency.com/career/" class="btn btn-sm btn-skyblue yellow-hover">Join Our Dynamic Team</a>
+								<a href="https://clickboxagency.com/career/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">Join Our Dynamic Team</a>
 
 							</div>
 						</div>

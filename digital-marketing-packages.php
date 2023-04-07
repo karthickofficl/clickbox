@@ -151,8 +151,8 @@
 
 								<!-- Price -->
 								<sup class="dark-color">₹</sup>
-								<span class="dark-color">16</span>
-								<sup class="validity dark-color"><span>,999</span> / Month</sup>
+								<span class="dark-color">17</span>
+								<sup class="validity dark-color"><span>,599</span> / Month</sup>
 
 							</div>
 
@@ -171,7 +171,7 @@
 									<p class="p-md"><span>10 Images /Month</span> for Social Media Posting/Updating* </p>
 								</li>
 								<li>
-									<p class="p-md"><span>2</span> Blog Post Writing </p>
+									<p class="p-md"><span>1</span> Blog Post Writing </p>
 								</li>
 								<li>
 									<p class="p-md"><span>10</span> Classified Writing </p>

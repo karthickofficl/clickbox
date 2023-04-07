@@ -265,8 +265,6 @@ if (isset($_POST['send'])) {
 							<div class="post-inner-img">
 								<img class="img-fluid" src="../images/blog/nykaa-founder.png" width="400" height="500" alt="nykaa founder" />
 							</div>
-
-
 							<!-- Text -->
 							<p class="p-lg">Nykaa was founded by Falguni Nayar, and it is now one of India's largest lifestyle and fashion platforms.
 								Nayar graduated from IIM Ahmedabad with a master's degree in finance. Soon after graduation, she joined Kotak Mahindra Capital
@@ -397,10 +395,6 @@ if (isset($_POST['send'])) {
 							</div>
 
 						</div> <!-- SINGLE POST SHARE LINKS END -->
-
-
-
-
 					</div>
 				</div>
 			</div> <!-- END SINGLE POST CONTENT -->
@@ -408,13 +402,6 @@ if (isset($_POST['send'])) {
 
 		</div> <!-- End container -->
 	</section> <!-- END SINGLE POST -->
-
-
-
-
-
-
-
 	<!-- POST COMMENTS
 			============================================= -->
 	<section id="post-comments" class=" post-comments division">

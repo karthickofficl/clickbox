@@ -41,16 +41,12 @@
 	<section id="about-2" class="about-section">
 		<div class="bg-inner bg-lightgrey inner-page-hero division">
 			<div class="container">
-
-
 				<!-- ABOUT-2 TITLE -->
 				<div class="row justify-content-center">
 					<div class="col-md-10 col-lg-8">
 						<div class="about-2-title">
-
 							<!-- Title -->
 							<h2 class="h2-md">Kickstart your company’s growth with ClickBox Agency.</h2>
-
 							<!-- Text -->
 							<p class="p-xl txt-justify">If you are a small/medium business ready to start growing and take things to the next stage for your business, we have the right solution for you.
 

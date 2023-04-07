@@ -87,7 +87,7 @@
   							<!-- Title -->
   							<h6 class="h6-xl txtbluee">India</h6>
   							<!-- Text -->
-  							<p class="p-lg ">178/4, KPN complex, Avinashi Road,<br>Coimbatore, Tamil Nadu - 641004,<br> +91 887 0578 887</p>
+  							<p class="p-lg ">178/4, KPN complex, Avinashi Road,<br>Coimbatore, Tamil Nadu - 641004,<br>+91 7418 555 205</p>
   						</div>
   					</div>
   				</div>
@@ -115,7 +115,7 @@
   							<!-- Title -->
   							<h6 class="h6-xl txtbluee">USA</h6>
   							<!-- Text -->
-  							<p class="p-lg">1040D Orchard Street,<br>North Brunswick, NE 08902,<br> +1 587 545 6195</p>
+  							<p class="p-lg">1040D Orchard Street,<br>North Brunswick, NJ 08902,<br> +1 587 545 6195</p>
 
   						</div>
   					</div>
