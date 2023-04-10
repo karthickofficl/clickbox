@@ -63,54 +63,33 @@
 
 <body>
 	<?php include('header.php') ?>
-
-
 	<section id="content-3" class="bg-snow content-3 inner-page-hero content-section division">
 		<div class="container">
-
-
-			<!-- Title -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
-						<h1 class="h2-xs text-center" style="color:#cc0444;">ORM Packages for Increasing Traffic, Sales, and Organic Rankings!</h1>
+						<h1 class="h2-xs text-center"><span class="txtred">ORM Packages</span> for Increasing Traffic, Sales, and Organic Rankings!</h1>
 						<p class="p-md text-center">Are you trying to find budget friendly best ORM packages? If so, join <b>ClickBox's</b> affordable ORM packages. We offer cheap and customized ORM packages that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 					</div>
 				</div>
 				<div>
-
-
-					<!-- TOP ROW -->
 					<div class="top-row pb-50">
 						<div class="row d-flex align-items-center">
-
-
-							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
+									<img class="img-fluid" src="../images/92(omr).png" alt="orm marketing company coimbatore ">
 								</div>
 							</div>
-
-
-							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-
-
-
+									<p class="p-lg txt-justify">The ORM Packages from <b>ClickBox</b> are very reasonably priced and deliver the greatest results. By enhancing and monitoring your company's online presence, online reputation management keeps it accessible online. The goal of ORM service is to analyse how a possible client or business partner will see your brand, your team, or your goods or services after conducting a Google search.</p>
 									<!-- Text -->
-									<p class="p-lg">
-										The ORM Packages from <b>ClickBox</b> are very reasonably priced and deliver the greatest results. By enhancing and monitoring your company's online presence, online reputation management keeps it accessible online. The goal of ORM service is to analyse how a possible client or business partner will see your brand, your team, or your goods or services after conducting a Google search.</p>
-									<!-- Text -->
-									<p class="p-lg">
+									<p class="p-lg txt-justify">
 										This practise is carried out to improve the company's or brand's reputation in high-traffic online places and to obtain favorable online evaluations that will have a beneficial effect on the business among Internet users. To learn more about online reputation management packages plans in India, keep reading.</p>
 
-									<p class="p-lg">
+									<p class="p-lg txt-justify">
 										The main goal of an online reputation management company is to improve the company's reputation by elevating it and emphasising its best achievements. This is accomplished through imitating those who stand up for their clients, staff, and neighbourhood communities.</p>
 
-									<!-- Text -->
-									<!-- <p class="p-lg">We handle every part of SEO, from keyword rankings to website optimization, to quickly improve your organic traffic. -->
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
@@ -118,8 +97,6 @@
 				</div> <!-- End container -->
 	</section>
 
-	<!-- #2 SECTION -->
-	<!-- wide-60 -->
 	<section id="content-3" class="bg-snow content-3  content-section division">
 		<div class="container">
 
@@ -130,29 +107,24 @@
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 
-							<!-- Section ID -->
-							<!-- <span class="section-id txt-upcase">Digital Marketing Packages</span> -->
-
-							<!-- Title -->
 							<h4 class="h2-xs">Why Is Managing Your Online Reputation Essential?</h4>
 
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 								Today, with such intense competition among internet enterprises, no business owner can afford to have even one negative comment made about them.</p>
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 								Today, a company's reputation depends on every single customer review and comment. Additionally, it is crucial in assessing the position and prosperity of the firm</p>
 							<!-- Text -->
-							<p class="p-lg">
+							<p class="p-lg txt-justify">
 								Internet reputation management is necessary to preserve your online business's positive reputation. A company can thrive in the market, attract new consumers, and develop a favourable reputation with the help of an effective and efficient online reputation management services packages.</p>
 
 						</div>
 					</div> <!-- END TEXT BLOCK -->
 
-					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-							<img class="img-fluid" src="../images/blog/seo-concept.webp" alt="content-image">
+							<img class="img-fluid" src="../images/93(omr).png" alt="orm marketing company newjersey">
 						</div>
 					</div>
 
@@ -160,199 +132,117 @@
 			</div> <!-- END TOP ROW -->
 		</div> <!-- End container -->
 	</section>
-	<!-- #2 SECTION END -->
-
-	<!-- #3 SECTION START -->
-
-
-	<section id="about-2" class="about-section">
+	<section class="about-section">
 		<div class="bg-inner bg-lightgrey  division">
-			<!-- inner-page-hero -->
 			<div class="container">
-
-
-				<!-- ABOUT-2 TITLE -->
 				<div class="row justify-content-center">
 					<div class="col-md-10 col-lg-10">
-						<div class="about-2-title">
-
-							<!-- Title -->
+						<div class="about-2-title mt-10 mb-10">
 							<h2 class="h3-x text-center">How Long Will It Take To Rebuild A Broken - down Online Reputation For A Company?</h2>
 
-							<!-- Text -->
-							<p class="p-lg">It takes time to rebuild that positive and helpful image in the eyes of prospective clients because repairing the damaged reputation is not a one-time operation. Additionally, there are rivals who are constantly prepared to tarnish your terrible reputation, which is why your corporate reputation continues to deteriorate with each passing day. As a result, there is no set period of time for repairing a damaged reputation; instead, it all depends on the situation.</p>
+							<p class="p-lg txt-justify">It takes time to rebuild that positive and helpful image in the eyes of prospective clients because repairing the damaged reputation is not a one-time operation. Additionally, there are rivals who are constantly prepared to tarnish your terrible reputation, which is why your corporate reputation continues to deteriorate with each passing day. As a result, there is no set period of time for repairing a damaged reputation; instead, it all depends on the situation.</p>
 
 							<!-- Text -->
-							<p class="p-lg">However, our ORM specialists use a goal-oriented methodology here at <b>ClickBox</b>, the finest ORM business in India, which enables us to give guaranteed outcomes in a very short amount of time.</p>
-
-
-
+							<p class="p-lg txt-justify">However, our ORM specialists use a goal-oriented methodology here at <b>ClickBox</b>, the finest ORM business in India, which enables us to give guaranteed outcomes in a very short amount of time.</p>
 
 						</div>
 					</div>
-				</div> <!-- END ABOUT-2 TITLE -->
-
-
+				</div>
 			</div> <!-- End container -->
 		</div> <!-- End bg-inner -->
 	</section> <!-- END ABOUT-2 -->
-
-
-	<!-- #3 SECTION START END -->
-
-	<!-- #4 SECTION -->
-	<section class="bg-snow content-3  features-section division  ">
+	<section class="bg-snow content-3 features-section division pt-30 pb-30">
 		<div class="container ">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
-						<h2 class="h3-xs text-center" style="color:#cc0444;">Utilize Our Online Reputation Management Experts To Manage Brand Presence </h2>
-						<!-- <p class="p-md text-center">You may optimize your entire website for improved SEO results with the support of our SEO packages. The most crucial aspect we focused on while performing SEO for any website is on-site optimization. A successful on-page SEO marketing strategy can immediately improve a website's ranking in Google search results. Check our on-site SEO technique below.</p> -->
+						<h2 class="h3-xs text-center">Utilize Our <span class="txtred">Online Reputation Management</span> Experts To Manage Brand Presence </h2>
 					</div>
-
-
 				</div>
-
 			</div>
-
-			<!-- ADD CARD CONTANTS -->
-			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center ">
 				<div class="row row-cols-1 row-cols-md-2">
-
-
-					<!-- FEATURE BOX #1 -->
 					<div class="col ">
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="card-img-big" src="../images/94(omr).png" alt="orm marketing company tamilnadu" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-md">Successfully
-							</h5>
+							<h5 class="h5-md">Successfully</h5>
 
 							<!-- Text -->
-							<p class="p-lg">We can serve as your support group as you establish your internet reputation. Additionally, with our aid, you'll be able to navigate the challenging periods of dealing with unfavourable online comments.
-							</p>
+							<p class="p-lg">We can serve as your support group as you establish your internet reputation. Additionally, with our aid, you'll be able to navigate the challenging periods of dealing with unfavourable online comments.</p>
 
 						</div>
 					</div>
-
-
 					<!-- FEATURE BOX #2 -->
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
-
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="card-img-big" src="../images/98(orm).png" alt="digital marketing company coimbatore" />
 							</div>
-
 							<!-- Title -->
 							<h5 class="h5-md">Comprehensive ORM Analysis</h5>
-
-
 							<!-- Text -->
 							<p class="p-lg">Our reputation specialists investigate your web presence using technologies that are well-known in the business. In order to implement corrective online reputation management pricing measures, the study entails gathering various client reactions.</p>
 
 						</div>
 					</div>
-
-
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-8 WRAPPER -->
 
 			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center ">
 				<div class="row row-cols-1 row-cols-md-2">
-
-
 					<!-- FEATURE BOX #3 -->
 					<div class="col">
-						<div class="fbox-8 mb-40  wow fadeInUp">
-
-							<!-- Image -->
+						<div class="fbox-8 mb-40  wow fadeInUp"><!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="card-img-big" src="../images/95(omr).png" alt="digital marketing company tamilnadu" />
 							</div>
 
 							<!-- Title -->
 							<h5 class="h5-md">Support Group</h5>
-
-
 							<!-- Text -->
-							<p class="p-lg">A negative online comment has the ability to harm your brand's reputation. Don't panic; our ORM specialists can quickly assist you with damage control measures.
-
-							</p>
-
+							<p class="p-lg">A negative online comment has the ability to harm your brand's reputation. Don't panic; our ORM specialists can quickly assist you with damage control measures.</p>
 						</div>
 					</div>
-
-
 					<!-- FEATURE BOX #4 -->
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
-							</div>
-
-							<!-- Title -->
-							<h5 class="h5-md">Recurring reports
-							</h5>
-
+								<img class="card-img-big" src="../images/96(omr).png" alt="digital marketing company india" />
+							</div><!-- Title -->
+							<h5 class="h5-md">Recurring reports</h5>
 							<!-- Text -->
 							<p class="p-lg">Through detailed reports, you will receive frequent monthly updates on our ORM Management activities. The reports will also include our suggestions for advancements and improvements.</p>
-
-
-
 						</div>
 					</div>
-
-
-					<!-- </div> -->
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-8 WRAPPER -->
 		</div>
 
 	</section>
-
-
-	<!-- THIRD SECTION -->
-
-
-
-
-	<!-- FOUR SECTION START
-============================================= -->
-	<section id="content-2" class="content-2 bg-snow wide-60 content-section division">
+	<!-- FOUR SECTION START=============== -->
+	<section id="content-2" class="content-2 bg-snow pt-30 pb-30 content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
 
-
-				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="../images/97(omr).png" alt="creative digital marketing company india">
 					</div>
 				</div>
-
-
-				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
-
-
-						<!-- Title -->
 						<h4 class="h2-xs">Why Choose <b>ClickBox</b> for ORM?</h4>
-						<p class="p-lg">Even if there is a lot of competition, it is crucial to ask the top team for assistance at all times. We are the best when it comes to online reputation management services in India. Inquiring as to why?</p>
-						<!-- <h2 class="h2-xs">Why Choose CLICKBOX for ORM?</h2> -->
-
-						<!-- List -->
+						<p class="p-lg txt-justify">Even if there is a lot of competition, it is crucial to ask the top team for assistance at all times. We are the best when it comes to online reputation management services in India. Inquiring as to why?</p>
 						<ul class="simple-list">
 
 							<li class="list-item">
@@ -370,29 +260,21 @@
 								</p>
 							</li>
 							<li class="list-item">
-								<p class="p-lg">We are prepared to monitor your brand in real-time to find out what the current buzz is about.
+								<p class="p-lg txt-justify">We are prepared to monitor your brand in real-time to find out what the current buzz is about.
 
 								</p>
 							</li>
-
-
 						</ul>
-
-
-						<p class="p-lg">These are just a handful of the many ways we assist you in controlling your brand's online reputation. Join <b><a href="https://clickboxagency.com/" style="color:blue; text-decoration: underline;">ClickBox Agency</a></b> now!</p>
+						<p class="p-lg">These are just a handful of the many ways we assist you in controlling your brand's online reputation. Join <a href="https://clickboxagency.com/" aria-label="ClickBox Agency" title="ClickBox Agency" class="txtbluee">ClickBox Agency</a> now!</p>
 					</div>
-				</div> <!-- END TEXT BLOCK -->
-
-
+				</div>
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-2 -->
 
-	<!-- FOUR SECTION START END -->
 
-	<!-- PRICING-2
-============================================= -->
-	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
+	<!-- PRICING-2========================= -->
+	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
 
 
@@ -400,46 +282,26 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
-
-						<!-- Title -->
-						<h2 class="h2-md" style="color:#cc0444;">Our ORM Packages</h2>
-
-						<!-- Text -->
-						<!-- <p class="p-xl">Clickboxs search engine optimization specialists conduct keyword research to determine the most appropriate and pertinent search phrase for your goods and services. It is a significant step in our SEO process that helps us further optimize websites' on-page content and keyword density. We pay particular attention to the client's target market when doing keyword research and analysis. </p> -->
+						<h2 class="h3-xs text-center">Our <span class="txtred">ORM Packages</span></h2>
 
 					</div>
 				</div>
 			</div>
 
-
-			<!-- PRICING TABLES -->
 			<div class="pricing-2-row pc-25">
 				<div class="row row-cols-1 row-cols-md-3">
-
-
-					<!-- BASIC PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-
-							<!-- Plan Price -->
 							<div class="pricing-plan">
-
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs">Basic ORM Package</h5>
-									<!-- <h6 class="h6-sm bg-lightgrey">Save 10%</h6> -->
 								</div>
-
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">20</span>
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
 
 							</div>
-
-							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li><p class="p-md">Monthly</p></li>-->
 								<li>
 									<p class="p-md"><span>Content marketing </span></p>
 								</li>
@@ -462,10 +324,6 @@
 								<li>
 									<p class="p-md">Customer review ratings </p>
 								</li>
-								<!--<li><p class="p-md">Forum posting </p></li>-->
-								<!--<li><p class="p-md">Q&A posting </p></li>-->
-								<!--<li><p class="p-md">Micro blogging</p></li>-->
-
 								<li>
 									<p class="p-md"><span>Link building</span> </p>
 								</li>
@@ -478,10 +336,6 @@
 								<li>
 									<p class="p-md">Local Classifieds - 5 per month</p>
 								</li>
-
-
-								<!-- <li><p class="p-md"><span>Youtube</span>  </p></li> -->
-
 								<li>
 									<p class="p-md"><span>Facebook</span> </p>
 								</li>
@@ -507,9 +361,6 @@
 								<li>
 									<p class="p-md">Posting</p>
 								</li>
-
-
-
 								<li>
 									<p class="p-md"><span>Twitter</span> </p>
 								</li>
@@ -543,9 +394,7 @@
 								</li>
 
 							</ul>
-
-							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="#" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -554,14 +403,11 @@
 					<!-- AGENCY PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-
-							<!-- Plan Price -->
 							<div class="pricing-plan">
 
 								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Advance ORM Package</h5>
-									<!-- <h6 class="h6-sm bg-lightgrey">Save 15%</h6> -->
 								</div>
 
 								<!-- Price -->
@@ -570,11 +416,7 @@
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
 
 							</div>
-
-
-							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li><p class="p-md">Monthly</p></li>-->
 								<li>
 									<p class="p-md"><span>Content marketing </span></p>
 								</li>
@@ -625,12 +467,6 @@
 								<li>
 									<p class="p-md">Local Classifieds- 8 per month </p>
 								</li>
-
-
-								<!--<li><p class="p-md"><span>Youtube</span>  </p></li>-->
-								<!--<li><p class="p-md">Video updating - 2 </p></li>-->
-								<!--<li><p class="p-md">Video optimization -2</p></li>-->
-
 								<li>
 									<p class="p-md"><span>Facebook</span> </p>
 								</li>
@@ -656,9 +492,6 @@
 								<li>
 									<p class="p-md">Posting</p>
 								</li>
-
-
-
 								<li>
 									<p class="p-md"><span>Twitter</span> </p>
 								</li>
@@ -692,25 +525,17 @@
 								</li>
 
 							</ul>
-
-							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="#" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
-					</div> <!-- END AGENCY PLAN  -->
-
-
-					<!-- ADVANCED PLAN -->
+					</div>
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-
-							<!-- Plan Price  -->
 							<div class="pricing-plan highlight">
 
 								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Premium ORM Package</h5>
-									<!-- <h6 class="h6-sm bg-skyblue white-color">Popular</h6> -->
 								</div>
 
 								<!-- Price -->
@@ -718,11 +543,7 @@
 								<span class="dark-color">40</span>
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
 							</div>
-
-							<!-- Plan Features  -->
-							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li><p class="p-md">Monthly</p></li>-->
 								<li>
 									<p class="p-md"><span>Content marketing </span></p>
 								</li>
@@ -810,9 +631,6 @@
 								<li>
 									<p class="p-md">Posting</p>
 								</li>
-
-
-
 								<li>
 									<p class="p-md"><span>Twitter</span> </p>
 								</li>
@@ -846,99 +664,21 @@
 								</li>
 
 							</ul>
-
-							<!-- Pricing Plan Button -->
-							<a href="#" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="#" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
-					</div> <!-- END ADVANCED PLAN -->
-
-
+					</div>
 				</div>
 			</div> <!-- END PRICING TABLES -->
-
-			<!-- PRICING NOTICE TEXT
-<div class="row">
-<div class="col-lg-10 offset-lg-1">
-<div class="pricing-notice text-center mb-40">
-<p class="p-md">The above prices do not include applicable taxes based on your billing address.
-The final price will be displayed on the checkout page, before the payment is completed
-</p>
-</div>
-</div>
-</div>
-
-
-<!-- PAYMENT METHODS
-<div class="payment-methods pc-30">
-<div class="row row-cols-1 row-cols-md-3">
-
-<!-- Payment Methods
-<div class="col col-lg-5">
-<div class="pbox mb-40">
-
-<!-- Title
-<h6 class="h6-md">Accepted Payment Methods</h6>
-
-<!-- Payment Icons
-<ul class="payment-icons ico-50">
-<li><img src="../images/png-icons/visa.png" alt="payment-icon" /></li>
-<li><img src="../images/png-icons/am.png" alt="payment-icon" /></li>
-<li><img src="../images/png-icons/discover.png" alt="payment-icon" /></li>
-<li><img src="../images/png-icons/paypal.png" alt="payment-icon" /></li>
-<li><img src="../images/png-icons/jcb.png" alt="payment-icon" /></li>
-<li><img src="../images/png-icons/shopify.png" alt="payment-icon" /></li>
-</ul>
-
-</div>
-</div>
-
-
-<!-- Payment Guarantee
-<div class="col col-lg-4">
-<div class="pbox mb-40">
-
-<!-- Title
-<h6 class="h6-md">Money Back Guarantee</h6>
-
-<!-- Text
-<p>Explore ClickBox Agency for 14 days. If it’s not a perfect fit, receive a full refund.</p>
-
-</div>
-</div>
-
-
-<!-- Payment Encrypted
-<div class="col col-lg-3">
-<div class="pbox mb-40">
-
-<!-- Title
-<h6 class="h6-md">SSL Encrypted Payment</h6>
-
-<!-- Text
-<p>Your information is protected by 256-bit SSL encryption.</p>
-
-</div>
-</div>
-
-</div>
-</div> <!-- END PAYMENT METHODS -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END PRICING-2 -->
 
-
-
-	<!-- BRANDS-2
-============================================= -->
-	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include('our-clients.php') ?>
 	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
 	<!-- FAQs-2>
 ============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+	<section id="faqs-2" class="pt-30 pb-30 faqs-section division">
 		<div class="container">
 
 			<!-- SECTION TITLE -->
@@ -947,10 +687,7 @@ The final price will be displayed on the checkout page, before the payment is co
 					<div class="section-title title-01 mb-80">
 
 						<!-- Title -->
-						<h2 class="h2-md">Frequently Asked Questions</h2>
-						<!-- Section ID -->
-						<!-- <span class="section-id txt-upcase">FAQs on Our Digital Marketing Services</span> -->
-
+						<h2 class="h3-xs text-center">Frequently <span class="txtred">Asked Questions</span></h2>
 					</div>
 				</div>
 			</div>
@@ -966,11 +703,11 @@ The final price will be displayed on the checkout page, before the payment is co
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											<b> How long does it take for ORM to delete poor feedback?</b>
 										</button>
 									</h2>
-									<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+									<div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg">An excellent online reputation management service will let you know up front that it cannot remove all of the negative reviews at once. It will provide you with tips on how to turn those negative remarks or evaluations into positive ones. The process can take a week. The reviews will need to be improved for an additional two weeks before they are good. Some employers would demand that you handle the viewers patiently. When dealing with the trolls, avoid becoming passive in your voice. Several online reputation management organizations adhere to this philosophy. Be receptive and ask them what was wrong with your material that caused them to react so strongly.</p>
 
@@ -993,26 +730,19 @@ The final price will be displayed on the checkout page, before the payment is co
 										</div>
 									</div>
 								</div>
-
-
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- FIRST COLUMN END -->
-
-					<!-- START SECOND COLUMN -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-							<!-- START QUESTIONS HOLDER -->
-							<!-- QUES 4 -->
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											<b>Is it necessary to get all content approved?</b>
 										</button>
 									</h2>
-									<div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+									<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg">Yes, Google AdSense must approve the material that you intend to publish to the page or brand. One of the best networks for monetizing your website or blog is this one. If your blog has high-quality content, is search engine friendly, has Meta Tags posted, has enough posts or content, the blog domain is at least six months old, you apply using the root domain, you are careful when choosing images for content, you check to make sure your blog is not blocked by Google, and you make sure it doesn't have any content that is prohibited by AdSense, then your content will be approved by Google AdSense with ease.
 											</p>
@@ -1033,57 +763,24 @@ The final price will be displayed on the checkout page, before the payment is co
 										</div>
 									</div>
 								</div>
-
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- SECOND COLUMN END -->
 				</div> <!-- End row -->
-			</div> <!-- END FAQs-2 QUESTIONS -->
-			<!-- MORE QUESTIONS BUTTON -->
-
-			<!-- MORE QUESTIONS BUTTON -->
+			</div>
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
 	<!-- CALL TO ACTION-5
 			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 	<?php include('footer-script.php') ?>
@@ -1106,7 +803,7 @@ The final price will be displayed on the checkout page, before the payment is co
 			"@type": "WebSite",
 			"name": "Affordable Monthly ORM Packages & Pricing | ClickBox",
 			"alternateName": "orm packages, online reputation management packages, online reputation management services packages, reputation management packages, online reputation management pricing ",
-				"url": "https://www.clickboxagency.com/orm-packages/"
+			"url": "https://www.clickboxagency.com/orm-packages/"
 		}
 	</script>
 
@@ -1119,7 +816,7 @@ The final price will be displayed on the checkout page, before the payment is co
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

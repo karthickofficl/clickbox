@@ -1,26 +1,26 @@
 <?php
 
-
 if (isset($_POST['send'])) {
+    // echo "hello"; die;
 
     // getting post values
     $name = $_POST['name'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
     $location = $_POST['location'];
-    $services = $_POST['services'];
-    $file = $_POST['file'];
-    $subject = 'Contact Page Form Details';
+    $job = $_POST['services'];
     $message = $_POST['message'];
-    $to = 'sales@clickboxagency.com';
+    $subject = 'Career Job Application';
+
+    $to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
     $htmlContent = ' 
     <html> 
     <head> 
         <title>Welcome to Clickbox Agencies</title> 
     </head> 
     <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+        <h3>Hi Admin, Please find the below New Member Contact Details!</h3> 
+               <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
             <tr> 
                 <th>Name:</th><td>' . $name . '</td> 
             </tr> 
@@ -30,50 +30,39 @@ if (isset($_POST['send'])) {
             <tr style="background-color: #e0e0e0;"> 
             <th>Phone:</th><td>' . $phone . '</td> 
         </tr> 
-        <tr style="background-color: #e0e0e0;"> 
-        <th>Phone:</th><td>' . $location . '</td> 
-    </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Services:</th><td>' . $services . '</td> 
-	</tr> 
-    <tr style="background-color: #e0e0e0;"> 
-    <th>Phone:</th><td>' . $file . '</td> 
-    </tr> 
+         <tr style="background-color: #e0e0e0;"> 
+            <th>Location:</th><td>' . $location . '</td> 
+        </tr> 
+         <tr style="background-color: #e0e0e0;"> 
+            <th>Job:</th><td>' . $job . '</td> 
+        </tr> 
 		<tr style="background-color: #e0e0e0;"> 
 		<th>Message:</th><td>' . $message . '</td> 
 	</tr> 
-	
-
-
-        </table> 
+	 </table> 
     </body> 
     </html>';
 
     // Set content-type header for sending HTML email 
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-    $headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-    $headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-    $headers .= 'Bcc: techjam1993@gmail.com' . "\r\n";
+
     // Additional headers 
-
-
     $m = mail($to, $subject, $htmlContent, $headers);
-
+    echo $m;
     // Set content-type header for sending HTML email
 
     if (!$m) {
         echo 'Message could not be sent.';
     } else {
         // echo 'Message has been sent';
-        $result = '
-    One of our representative will get in touch you.';
+        // echo 'Our talent acquisition team will get in touch with you shortly.!';
+        //     header("Location: https://www.akkenna.com/returnn");
+        // $result = 'Our talent acquisition team will get in touch with you shortly.!';
     }
 }
-// else{
-//     print_r("ssdfs");die;
-// }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -82,9 +71,9 @@ if (isset($_POST['send'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="ClickBox Agency" />
-    <title>Join Our Team: Job Opportunities and Career Development  Clickbox Creative Marketing Agency</title>
-    <meta name="description" content="Looking to build a successful career? Explore our career page to find job opportunities, career advice, and tips for professional growth " />
-    <meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india">
+    <title>Join Our Team: Clickbox Creative Marketing Agency</title>
+    <meta name="description" content="Looking to build a successful career? Explore our career page to find job opportunities." />
+    <meta name="keywords" content="clickbox digital marketing jobs coimbatore,content writing jobs coimbatore,digital marketing executive jobs coimbatore,frontend developer jobs coimbatore">
     <meta name="language" content="en" />
     <meta name="revisit-after" content="7 days" />
     <meta name="Expires" content="never" />
@@ -98,17 +87,15 @@ if (isset($_POST['send'])) {
     <meta property="og:url" content="https://www.clickboxagency.com/careers/" />
     <meta property="og:site_name" content="https://www.clickboxagency.com/careers/" />
     <meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
-    <meta property="og:title" content="Join Our Team: Job Opportunities and Career Development  Clickbox Creative Marketing Agency" />
-    <meta property="og:description" content="Looking to build a successful career? Explore our career page to find job opportunities, career advice, and tips for professional growth" />
+    <meta property="og:title" content="Join Our Team: Clickbox Creative Marketing Agency" />
+    <meta property="og:description" content="Looking to build a successful career? Explore our career page to find job opportunities." />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Join Our Team: Job Opportunities and Career Development  Clickbox Creative Marketing Agency" />
-    <meta name="twitter:description" content="Looking to build a successful career? Explore our career page to find job opportunities, career advice, and tips for professional growth" />
+    <meta name="twitter:title" content="Join Our Team: Clickbox Creative Marketing Agency" />
+    <meta name="twitter:description" content="Looking to build a successful career? Explore our career page to find job opportunities." />
     <meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
-    <link href="../css/career.css" rel="stylesheet">
+    <!--<link href="../css/career.css" rel="stylesheet">-->
 
     <?php include('header-style.php') ?>
-
-
 
     <style>
         #hero-23 {
@@ -118,19 +105,117 @@ if (isset($_POST['send'])) {
         .card {
             border: 0px !important;
             border-radius: 0px !important;
-            padding: 1.6em 4.8em !important;
+            padding: 1.6em 1em !important;
             display: flex !important;
             align-items: center !important;
             justify-content: center !important;
 
         }
 
+        .card h6 {
+            color: #070000;
+            font-size: 25px;
+        }
+
+        .CardDisplay {
+            /* background-color: #070000; */
+            width: 510px;
+            display: flex;
+            gap: 10px;
+            color: #070000;
+        }
+
+        .cardhead {
+            margin-top: 5px;
+        }
+
+        .cardjob {
+            margin-top: 5px;
+        }
+
+        @media (max-width:555px) {
+            .contain p {
+                width: 0px;
+            }
+
+            .CardDisplay {
+
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                gap: 0px;
+            }
+
+            .note {
+                margin-top: 0em !important;
+            }
+        }
+
+        .contain p {
+            font-size: 25px;
+            /* padding: 0.5rem; */
+            /* font-weight: bold; */
+            letter-spacing: 0.1rem;
+            text-align: center;
+            overflow: hidden;
+            color: #cf0042;
+            width: 180px;
+        }
+
+        .contain p span.typed-text {
+            font-weight: normal;
+            color: #cf0042;
+        }
+
+        .contain p span.cursor {
+            display: inline-block;
+            background-color: #cf0042;
+            margin-left: 0.1rem;
+            width: 3px;
+            animation: blink 1s infinite;
+        }
+
+        .contain p span.cursor.typing {
+            animation: none;
+        }
+
+        @keyframes blink {
+            0% {
+                background-color: #ccc;
+            }
+
+            49% {
+                background-color: #ccc;
+            }
+
+            50% {
+                background-color: transparent;
+            }
+
+            99% {
+                background-color: transparent;
+            }
+
+            100% {
+                background-color: #ccc;
+            }
+        }
+
+
         .note {
             font-size: 18px !important;
             color: black !important;
             margin-top: 4em !important;
-            max-width:400px;
-            min-width:250px;
+            max-width: 600px;
+            min-width: 250px;
+        }
+
+        @media (max-width:555px) {
+            .note {
+                margin-top: 1em !important;
+            }
         }
 
         .scroller {
@@ -141,10 +226,15 @@ if (isset($_POST['send'])) {
             width: 10em;
         }
 
+        .scrollJob {
+            position: absolute;
+            right: -1px;
+        }
+
         .scroller>span {
             position: absolute;
             top: 0;
-            right: 20px;    
+            right: 75px;
             animation: slide 5s infinite;
             font-weight: bold;
             color: black !important;
@@ -156,7 +246,7 @@ if (isset($_POST['send'])) {
             }
 
             25% {
-                top: -1.2em;
+                top: -1.4em;
             }
 
             50% {
@@ -169,12 +259,21 @@ if (isset($_POST['send'])) {
         }
 
         .LookingFor {
-            text-transform: uppercase;
-            background: linear-gradient(to right, #070000 0%, #00a4e1 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-size: 20px;
             text-align: center;
+        }
+
+        .LookingFor strong {
+            text-transform: uppercase;
+            color: #cf1e46;
+        }
+
+        .LookingFor>h1>span {
+            text-align: center;
+            color: black;
+        }
+
+        .LookingFor p {
+            font-size: 18px;
         }
 
         .workStandard {
@@ -346,7 +445,7 @@ if (isset($_POST['send'])) {
 <body>
 
     <?php include('header.php') ?>
-   
+
     <section id="hero-23" class="bg-scroll hero-section division">
         <div class="container">
             <div class="row d-flex align-items-center">
@@ -355,35 +454,33 @@ if (isset($_POST['send'])) {
                     <div class="hero-23-txt white-color wow fadeInRight wordchange">
                         <div class="row">
                             <div class="card col-lg-6">
-                                <h1>Are You Looking for
-                                    <div class="scroller">
-                                        <span>
-                                            Creative<br />
-                                            Collaborative<br />
-                                            Productive<br />
-                                            Challenging
-                                        </span>
+                                <div class="CardDisplay">
+                                    <div class="cardhead">
+                                        <h6>Are you Looking For </h6>
                                     </div>
-
-                                </h1>
-                                <p class="note">If you share our passion for creating brands, we want to collaborate with you!</p>
-
+                                    <div class="contain">
+                                        <p><span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+                                    </div>
+                                    <div class="cardjob">
+                                        <h6>Job?</h6>
+                                    </div>
+                                </div>
+                                <p class="note">We're a dynamic team of experts in the industry, driven by innovation and creativity. Join us to develop cutting-edge strategies, build strong relationships with clients, and make a measurable impact in the digital world. Explore our current openings and take the first step towards an exciting and fulfilling career with us.</p>
                             </div>
                             <div class="card col-lg-6">
                                 <img class="img-fluid" src="https://www.clickboxagency.com/images/logo-design-01.png" alt="logo-design-coimbatore">
                             </div>
                         </div>
-
                     </div>
                 </div> <!-- END HERO TEXT -->
             </div> <!-- End row -->
         </div> <!-- End container -->
     </section> <!-- END HERO-23 -->
-     <section>
+    <section>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 LookingFor">
-                    <h1>All that you need to know about ClickBox !</h1>
+                    <h1><span>All that you need to know</span> <strong>about ClickBox !</strong></h1>
                     <p>Find the answers to the questions we get asked the most about our work policies.</p>
                 </div>
                 <div class="col-lg-12 d-flex flex-wrap workStandard">
@@ -583,9 +680,6 @@ if (isset($_POST['send'])) {
                             </div>
                         </div>
                     </div>
-                    <!-- </div>
-                <div class="col-lg-6"> -->
-                    <!-- <div class="accordion" id="accordionExample"> -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#UIUX" aria-expanded="true" aria-controls="collapseOne">
@@ -736,9 +830,6 @@ if (isset($_POST['send'])) {
             </div>
         </div>
     </section>
-
-    <!-- Current opening Ending -->
-    <!-- Form Start -->
     <section id="contacts-2" class="bg-snow pt-85 contacts-section division">
         <div class="container">
 
@@ -747,7 +838,7 @@ if (isset($_POST['send'])) {
                 <div class="col-md-10 col-lg-8">
                     <div class="section-title title-02 mb-80">
                         <!-- Title -->
-                        <h2 class="p-lg txtredd">Freedom to innovate, take decisions and be in charge of the achievements.Join us!</h2>
+                        <h2 class="p-lg txtredd">Freedom to innovate, take decisions and be in charge of the achievements. Join us!</h2>
                     </div>
                 </div>
             </div>
@@ -761,32 +852,19 @@ if (isset($_POST['send'])) {
                 </div>
                 <div class="col-lg-6 col-xl-6">
                     <div class="form-holder">
-                        <form name="contactform" method="post" class="row contact-form" id="jobForm">
-
-                            <!-- Form Select -->
-                            <!-- Contact Form Input -->
-                            <div class="col-md-6">
-                                <!-- <p class="p-lg">Your Name: </p> -->
-                                <input type="text" name="name" class="form-control name" placeholder="Your Name*">
+                        <form name="contactform" method="post" class="row contact-form" id="jobForm" enctype="multipart/form-data">
+                            <div class="col-md-6"> <input type="text" name="name" class="form-control name" placeholder="Your Name*">
                             </div>
 
-                            <div class="col-md-6">
-                                <!-- <p class="p-lg">Your Email Address: </p> -->
-                                <input type="text" name="email" class="form-control email" placeholder="Email Address*">
+                            <div class="col-md-6"><input type="text" name="email" class="form-control email" placeholder="Email Address*">
                             </div>
-                            <div class="col-md-6">
-                                <!-- <p class="p-lg">Your Mobile Number: </p> -->
-                                <input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+                            <div class="col-md-6"> <input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
                             </div>
-                            <div class="col-md-6">
-                                <!-- <p class="p-lg">Your Name: </p> -->
-                                <input type="text" name="location" class="form-control location" placeholder="Your Location*">
+                            <div class="col-md-6"> <input type="text" name="location" class="form-control location" placeholder="Your Location*">
                             </div>
-                            <div class="col-md-6">
-                                <!-- <p class="p-lg">Services: </p> -->
-                                <!-- <input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*"> -->
+                            <div class="col-md-12">
                                 <select class="form-select" aria-label="services" name="services" id="services">
-                                    <option selected>services</option>
+                                    <option selected>Applying For Job</option>
                                     <option value="Digital Marketing Executive">Digital Marketing Executive</option>
                                     <option value="Content Writer">Content Writer</option>
                                     <option value="Business Development Executive">Business Development Executive</option>
@@ -795,14 +873,7 @@ if (isset($_POST['send'])) {
                                     <option value="Front-end Developer"> Front-end Developer</option>
                                 </select>
                             </div>
-                            <div class="col-md-6">
-                                <!-- <p class="p-lg">Your Mobile Number: </p> -->
-                                <input type="file" name="file" class="form-control file" placeholder="Upload Your Resume">
-                            </div>
-                            <div class="col-md-12">
-                                <!-- <p class="p-lg">Share Your Requirements: </p> -->
-                                <!-- <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea> -->
-                                <textarea class="form-control message" name="message" rows="6" placeholder="About Yourself..."></textarea>
+                            <div class="col-md-12"><textarea class="form-control message" name="message" rows="6" placeholder="About Yourself..."></textarea>
                             </div>
 
                             <!-- Contact Form Button -->
@@ -817,7 +888,7 @@ if (isset($_POST['send'])) {
                             <div class="form-group">
                                 <div class="col-sm-10 col-sm-offset-2">
                                     <?php if (!empty($result)) {
-                                        echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
+                                        echo '<div class="alert alert-success"><b>Your Job Application is successfully received. </b>' . $result . '</div>';
                                     } ?>
                                 </div>
                             </div>
@@ -828,12 +899,50 @@ if (isset($_POST['send'])) {
             </div> <!-- END CONTACT FORM -->
         </div> <!-- End container -->
     </section> <!-- END CONTACTS-2 -->
-
-
-      <?php include('footer.php') ?>
-
+    <?php include('footer.php') ?>
     </div> <!-- END PAGE CONTENT -->
     <?php include('footer-script.php') ?>
+    <script>
+        const typedTextSpan = document.querySelector(".typed-text");
+        const cursorSpan = document.querySelector(".cursor");
+
+        const textArray = ["Creative", "Collaborative", "Productive", "Challenging"];
+        const typingDelay = 200;
+        const erasingDelay = 100;
+        const newTextDelay = 2000; // Delay between current and next text
+        let textArrayIndex = 0;
+        let charIndex = 0;
+
+        function type() {
+            if (charIndex < textArray[textArrayIndex].length) {
+                if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+                typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
+                charIndex++;
+                setTimeout(type, typingDelay);
+            } else {
+                cursorSpan.classList.remove("typing");
+                setTimeout(erase, newTextDelay);
+            }
+        }
+
+        function erase() {
+            if (charIndex > 0) {
+                if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+                typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex - 1);
+                charIndex--;
+                setTimeout(erase, erasingDelay);
+            } else {
+                cursorSpan.classList.remove("typing");
+                textArrayIndex++;
+                if (textArrayIndex >= textArray.length) textArrayIndex = 0;
+                setTimeout(type, typingDelay + 1100);
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", function() { // On DOM Load initiate the effect
+            if (textArray.length) setTimeout(type, newTextDelay + 250);
+        });
+    </script>
 
     <script type="application/ld+json">
         {
@@ -851,8 +960,8 @@ if (isset($_POST['send'])) {
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "name": "Join Our Team: Job Opportunities and Career Development  Clickbox Creative Marketing Agency",
-            "alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
+            "name": "Join Our Team: Clickbox Creative Marketing Agency",
+            "alternateName": "clickbox digital marketing jobs coimbatore,content writing jobs coimbatore,digital marketing executive jobs coimbatore,frontend developer jobs coimbatore",
             "url": "https://www.clickboxagency.com/careers/"
         }
     </script>
@@ -865,11 +974,11 @@ if (isset($_POST['send'])) {
             "url": "https://www.clickboxagency.com/careers/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
-            "description": "Looking to build a successful career? Explore our career page to find job opportunities, career advice, and tips for professional growth.",
+            "description": "Looking to build a successful career? Explore our career page to find job opportunities.",
             "logo": "www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",
-                "telephone": "+91 7358644710",
+                "telephone": "+91 71485 55209",
                 "contactType": "sales",
                 "contactOption": "Customer Service",
                 "areaServed": "India, United States, Australia, Canada, United Kingdom",
@@ -892,7 +1001,6 @@ if (isset($_POST['send'])) {
             ]
         }
     </script>
-    <?php include('popup1.php') ?>
 
 </body>
 

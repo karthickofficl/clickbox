@@ -62,42 +62,31 @@
 <body>
 	<?php include('header.php') ?>
 
-
-	<!-- wide-60 -->
 	<section id="content-3" class="bg-snow content-3 wide-30 inner-page-hero content-section division">
 		<div class="container">
-
-
 			<!-- Title -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
-						<h1 class="h2-xs text-center" style="color:#cc0444;">LinkedIn Packages for Increasing Traffic, Sales, and Organic Rankings!</h1>
-						<p class="p-md text-center">
-							Are you trying to find budget friendly best LinkedIn marketing packages? If so, join <b>ClickBox's</b> affordable LinkedIn packages. We offer cheap and customized LinkedIn advertising packages that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
-						<!-- <p class="p-md text-center">Are you looking for website maintenance for your company? Clickbox offers reasonable website packages. For online enterprises, website support and maintenance are essential processes.</p> -->
+						<h1 class="h2-xs text-center"><span class="txtred">LinkedIn Packages</span> for Increasing Traffic, Sales, and Organic Rankings!</h1>
+						<p class="p-md text-center">Are you trying to find budget friendly best LinkedIn marketing packages? If so, join <b>ClickBox's</b> affordable LinkedIn packages. We offer cheap and customized LinkedIn advertising packages that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 					</div>
 				</div>
 				<div>
 
 					<!-- TOP ROW -->
 					<div class="top-row pb-50">
-						<div class="row d-flex align-items-center">
-
-
-							<!-- IMAGE BLOCK -->
+						<div class="row d-flex align-items-center"><!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
+									<img class="img-fluid" src="../images/61.png" alt="creative digital marketing company coimbatore">
 								</div>
 							</div>
-
-
 							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 									<!-- Text -->
-									<p class="p-lg">For all kinds of organizations, the LinkedIn Marketing Company <b>ClickBox</b> offers affordable LinkedIn Marketing Packages. It's a great place to display your advertisements to relevant viewers and audiences because LinkedIn is one of the most popular social networking sites utilized by company owners and professionals. Don't pass up this fantastic chance to start displaying your adverts to potential customers on LinkedIn. <b>ClickBox</b> offers cheap cost LinkedIn marketing services.</p>
+									<p class="p-lg txt-justify">For all kinds of organizations, the LinkedIn Marketing Company <b>ClickBox</b> offers affordable LinkedIn Marketing Packages. It's a great place to display your advertisements to relevant viewers and audiences because LinkedIn is one of the most popular social networking sites utilized by company owners and professionals. Don't pass up this fantastic chance to start displaying your adverts to potential customers on LinkedIn. <b>ClickBox</b> offers cheap cost LinkedIn marketing services.</p>
 
 									<!-- TEXT BOX -->
 									<div class="txt-box">
@@ -106,30 +95,22 @@
 										<ul class="simple-list">
 
 											<li class="list-item">
-												<p class="p-lg">Specifically focused content to connect with the appropriate LinkedIn audience.
-												</p>
+												<p class="p-lg txt-justify">Specifically focused content to connect with the appropriate LinkedIn audience.</p>
 											</li>
 
 											<li class="list-item">
-												<p class="p-lg">Budget-friendly programs that yet produce excellent results according to their streamlining.
-												</p>
+												<p class="p-lg txt-justify">Budget-friendly programs that yet produce excellent results according to their streamlining.</p>
 											</li>
 
 											<li class="list-item">
-												<p class="p-lg">Using the platform to interact with potential customers in order to build the brand.
-												</p>
+												<p class="p-lg txt-justify">Using the platform to interact with potential customers in order to build the brand.</p>
 											</li>
 
 											<li class="list-item">
-												<p class="p-lg">Regular updates on the results and effectiveness of marketing initiatives.
-												</p>
+												<p class="p-lg txt-justify">Regular updates on the results and effectiveness of marketing initiatives.</p>
 											</li>
-
-
 										</ul>
-
 									</div> <!-- END TEXT BOX -->
-
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
@@ -137,9 +118,6 @@
 				</div> <!-- End container -->
 	</section>
 
-	<!-- SECTION 1 END -->
-
-	<!-- SECTION 2 START -->
 	<!-- wide-30 -->
 	<section id="content-2" class="content-2 bg-snow pb-30 content-section division">
 		<div class="container">
@@ -148,72 +126,47 @@
 				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block left-column wow fadeInLeft">
-
-
 						<!-- Title -->
 						<h4 class="h2-xs">Pricing & Plan For LinkedIn Marketing</h4>
-
 						<!-- TEXT BOX -->
 						<div class="txt-box">
-							<p class="p-lg">Because you're essentially marketing to specialists and professionals, LinkedIn might be difficult to use. They have greater knowledge, are less impulsive, and are more likely to make thoughtful choices. Instead of just making a strong sales pitch, your advertising should highlight your skills. Our professionals have spent time learning about LinkedIn's functionality. They are aware of the many strategies for using this platform for marketing initiatives. To ensure you receive the most recognition, they will manage both sponsored and organic marketing efforts effectively. We offer our clients a variety of options, so you may pick one based on the level of impact you require. Here is a detailed look at our plans:</p>
-							<p class="p-lg">Because you can't afford to get things wrong, LinkedIn ads packages demand a lot of preparation and dedication. Some of the most influential figures in the sector, such as CEOs, executive-level experts, business presidents, etc., are there as you present your brand. A small tactical blunder can have a significant negative effect on your reputation as a whole. Our staff will make sure you succeed on the platform because we have a lot of expertise in tackling this difficulty. Our programs are versatile and adaptable. You can begin with the fundamental plan and explore how LinkedIn functions for you.</p>
-							<p class="p-lg">Looking for the best LinkedIn Marketing packages to develop your website? Then contact <b><a href="https://clickboxagency.com/" style="color:#00A4E1; text-decoration: underline;">ClickBox Agency</a></b>. We provide affordable LinkedIn Marketing pricing.</p>
+							<p class="p-lg txt-justify">Because you're essentially marketing to specialists and professionals, LinkedIn might be difficult to use. They have greater knowledge, are less impulsive, and are more likely to make thoughtful choices. Instead of just making a strong sales pitch, your advertising should highlight your skills. Our professionals have spent time learning about LinkedIn's functionality. They are aware of the many strategies for using this platform for marketing initiatives. To ensure you receive the most recognition, they will manage both sponsored and organic marketing efforts effectively. We offer our clients a variety of options, so you may pick one based on the level of impact you require. Here is a detailed look at our plans:</p>
+							<p class="p-lg txt-justify">Because you can't afford to get things wrong, LinkedIn ads packages demand a lot of preparation and dedication. Some of the most influential figures in the sector, such as CEOs, executive-level experts, business presidents, etc., are there as you present your brand. A small tactical blunder can have a significant negative effect on your reputation as a whole. Our staff will make sure you succeed on the platform because we have a lot of expertise in tackling this difficulty. Our programs are versatile and adaptable. You can begin with the fundamental plan and explore how LinkedIn functions for you.</p>
+							<p class="p-lg txt-justify">Looking for the best LinkedIn Marketing packages to develop your website? Then contact <a href="https://clickboxagency.com/" aria-label="ClickBox Agency" title="ClickBox Agency" class="txtbluee">ClickBox Agency</a>. We provide affordable LinkedIn Marketing pricing.</p>
 
 						</div> <!-- END TEXT BOX -->
-
 					</div>
 				</div> <!-- END TEXT BLOCK -->
 
-				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid-500" src="../images/62.jpg" alt="creative digital marketing company new jersey">
 					</div>
 				</div>
-
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-2 -->
-	<!-- SECTION 2 END  -->
-
-	<!-- PRICING-2 TABLE
-			============================================= -->
-	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
+	<!-- PRICING-2 TABLE============================= -->
+	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
-
-
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-80">
-
-						<!-- Title -->
-						<h2 class="h2-md" style="color:#cc0444;">Our LinkedIn Marketing Packages</h2>
-
-						<!-- Text -->
-						<!-- <p class="p-xl">Clickboxs search engine optimization specialists conduct keyword research to determine the most appropriate and pertinent search phrase for your goods and services. It is a significant step in our SEO process that helps us further optimize websites' on-page content and keyword density. We pay particular attention to the client's target market when doing keyword research and analysis. </p> -->
-
+					<h2 class="h3-xs text-center">Our <span class="txtred">LinkedIn Marketing Packages</span></h2>
 					</div>
 				</div>
 			</div>
 
-
-			<!-- PRICING TABLES -->
 			<div class="pricing-2-row pc-25">
 				<div class="row row-cols-1 row-cols-md-3">
-
-
-					<!-- BASIC PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-
-							<!-- Plan Price -->
 							<div class="pricing-plan">
 
 								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs">Basic LinkedIn Marketing Package</h5>
-									<!-- <h6 class="h6-sm bg-lightgrey">Save 10%</h6> -->
 								</div>
 
 								<!-- Price -->
@@ -222,12 +175,7 @@
 								<sup class="validity dark-color"><span>,599</span> / Monthly</sup>
 
 							</div>
-
-							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li>-->
-								<!--	<p class="p-md">Monthly</p>-->
-								<!--</li>-->
 								<li>
 									<p class="p-md">Set Up Business Profile</p>
 								</li>
@@ -280,9 +228,7 @@
 								</li>
 
 							</ul>
-
-							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -294,11 +240,8 @@
 
 							<!-- Plan Price -->
 							<div class="pricing-plan">
-
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Advance LinkedIn Marketing Package</h5>
-									<!-- <h6 class="h6-sm bg-lightgrey">Save 15%</h6> -->
 								</div>
 
 								<!-- Price -->
@@ -307,12 +250,7 @@
 								<sup class="validity dark-color"><span>,999</span> / Monthly</sup>
 
 							</div>
-
-							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li>-->
-								<!--	<p class="p-md">Monthly</p>-->
-								<!--</li>-->
 								<li>
 									<p class="p-md">Set Up Business Profile</p>
 								</li>
@@ -369,23 +307,18 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advanced plan" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
-
-
 					<!-- ADVANCED PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 
 							<!-- Plan Price  -->
 							<div class="pricing-plan highlight">
-
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Premium LinkedIn Marketing Package</h5>
-									<!-- <h6 class="h6-sm bg-skyblue white-color">Popular</h6> -->
 								</div>
 
 								<!-- Price -->
@@ -393,12 +326,7 @@
 								<span class="dark-color">19</span>
 								<sup class="validity dark-color"><span>,999</span> / Monthly</sup>
 							</div>
-
-							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li>-->
-								<!--	<p class="p-md">Monthly</p>-->
-								<!--</li>-->
 								<li>
 									<p class="p-md">Set Up Business Profile</p>
 								</li>
@@ -457,50 +385,29 @@
 								</li>
 
 							</ul>
-
-							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
-
+							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
-
-
 				</div>
 			</div> <!-- END PRICING TABLES -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END PRICING-2 -->
 
-
-
-
-
-
-	<!-- BRANDS-2
-			============================================= -->
-	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
-	<!-- FAQs-2>
-			============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+
+	<section id="faqs-2" class="pt-30 pb-30 pb-30 faqs-section division">
 		<div class="container">
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
-
 						<!-- Title -->
-						<h2 class="h2-md">Frequently Asked Questions</h2>
-
-
+						<h2 class="h3-xs text-center">Frequently <span class="txtred">Asked Questions</span></h2>
 					</div>
 				</div>
 			</div>
-
 			<!-- FAQs-2 QUESTIONS -->
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
@@ -512,15 +419,13 @@
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											<b> Does LinkedIn Cost a Lot?</b>
 										</button>
 									</h2>
-									<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg">Although advertising on LinkedIn is frequently more expensive than on other social media sites, you gain from the platform's specialized audience. LinkedIn advertising costs differ according to the clients' needs. </p>
-
-
 										</div>
 									</div>
 								</div>
@@ -536,36 +441,26 @@
 										<div class="accordion-body">
 											<!-- TEXT BOX -->
 											<div class="txt-box">
-
 												<p class="p-lg">As the top platform for generating B2B leads, LinkedIn is the most popular professional social network and a marketing treasure trove.</p>
 												<p class="p-lg">Marketing on LinkedIn enables you to generate leads, increase website traffic, and create brand awareness. LinkedIn has over 690 million members globally, 80% of whom are responsible for business decisions.</p>
-
 											</div> <!-- END TEXT BOX -->
-
 										</div>
 									</div>
 								</div>
-
-
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- FIRST COLUMN END -->
 
-					<!-- START SECOND COLUMN -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-							<!-- START QUESTIONS HOLDER -->
-							<!-- QUES 3 -->
-
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											<b>Is LinkedIn the best option for B2B companies?</b>
 										</button>
 									</h2>
-									<div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+									<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg">Yes, you can communicate with some of the top decision-makers on LinkedIn, making it the perfect network for B2B companies.</p>
 
@@ -615,30 +510,20 @@
 													</li>
 
 												</ul>
-
-											</div> <!-- END TEXT BOX -->
-
+											</div>
 										</div>
 									</div>
 								</div>
-
-
-
-
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- SECOND COLUMN END -->
 				</div> <!-- End row -->
 			</div> <!-- END FAQs-2 QUESTIONS -->
 
-			<!-- MORE QUESTIONS BUTTON -->
-
-			<!-- MORE QUESTIONS BUTTON -->
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -646,36 +531,6 @@
 
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
-
 	<?php include('footer.php') ?>
 
 	</div> <!-- END PAGE CONTENT -->
@@ -698,7 +553,7 @@
 			"@type": "WebSite",
 			"name": "Affordable LinkedIn Marketing Packages & Pricing | ClickBox",
 			"alternateName": "Linkedin Marketing Packages, Best Linkedin Marketing Packages, LinkedIn ads packages, LinkedIn advertising packages, LinkedIn advertising costs",
-				"url": "https://www.clickboxagency.com/linkedin-packages/"
+			"url": "https://www.clickboxagency.com/linkedin-packages/"
 		}
 	</script>
 
@@ -711,7 +566,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Clickbox's cost-effective LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our flexible and adaptable marketing strategy, you may attract new customers both locally and internationally.",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

@@ -61,20 +61,14 @@
 
 <body>
 	<?php include('header.php') ?>
-
-
 	<!-- wide-60 -->
 	<section id="content-3" class="bg-snow content-3 inner-page-hero  content-section division">
 		<div class="container">
-
-
 			<!-- Title -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-20">
-						<h1 class="h2-xs text-center" style="color:#cc0444;">Brochure Design Packages to Improve the Quality of Your Brand!</h1>
-
-						<!-- <p class="p-md text-center">Are you looking for website maintenance for your company? Clickbox offers reasonable website packages. For online enterprises, website support and maintenance are essential processes.</p> -->
+						<h1 class="h2-xs text-center"><span class="txtred">Brochure Design Packages</span> to Improve the Quality of Your Brand!</h1>
 					</div>
 				</div>
 				<div>
@@ -82,55 +76,37 @@
 					<!-- TOP ROW -->
 					<div class="top-row pb-50">
 						<div class="row d-flex align-items-center">
-
-
 							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/ads-03.png" alt="content-image">
+									<img src="../images/16.png" alt="Brochure Design Packages" width="100%" height="450px" class="">
 								</div>
 							</div>
-
-
-							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-
-									<!-- <h5 class="h5-lg">Why Is Support And Maintenance For Your Business Website Important?</h5> -->
-
-									<p class="p-lg ">Are you trying to find budget friendly brochure design packages? If so, join <b>ClickBox's</b> affordable brochure design package. We offer cheap and customized brochure design pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
+									<p class="p-lg txt-justify">Are you trying to find budget friendly brochure design packages? If so, join <b>ClickBox's</b> affordable brochure design package. We offer cheap and customized brochure design pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 									<!-- Text -->
-									<p class="p-lg">
-										<b>ClickBox</b> is delivering the biggest selection of brochure design packages that include designing leaflets, bi-fold brochures, tri-fold brochures, and other sorts of brochure design services. Our prices are set so that each and every customer can afford them. Please let us know your needs if you can't seem to locate a plan that fits your budget; we'd be happy to hear from you. <b><a href="https://clickboxagency.com/" style="color: #00A4E1; text-decoration: underline;">ClickBox Agency</a></b> offers the best brochure design cost to promote your business.
+									<p class="p-lg txt-justify">
+										<b>ClickBox</b> is delivering the biggest selection of brochure design packages that include designing leaflets, bi-fold brochures, tri-fold brochures, and other sorts of brochure design services. Our prices are set so that each and every customer can afford them. Please let us know your needs if you can't seem to locate a plan that fits your budget; we'd be happy to hear from you. <a href="https://clickboxagency.com/" class="txtbluee" aria-label="ClickBox Agency" title="ClickBox Agency">ClickBox Agency</a> offers the best brochure design cost to promote your business.
 									</p>
-
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
 					</div> <!-- END TOP ROW -->
 				</div> <!-- End container -->
 	</section>
-
-	<!-- SECTION 1 END -->
-
 	<!-- SECTION 2 START -->
-	<section id="content-6" class="content-6  content-section division">
+	<section id="content-6" class="content-6  pb-30  content-section division">
 		<div class="container">
 
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
-						<h2 class="h3-xs text-center" style="color:#cc0444;">Why Is Brochure Design a Great Marketing Tool?</h2>
-
-
+						<h2 class="h3-xs text-center">Why Is <span class="txtred">Brochure Design a Great Marketing Tool?</span></h2>
 					</div>
 				</div>
 				<div>
-
 					<div class="row d-flex align-items-center">
-
-
-						<!-- TEXT BLOCK -->
 						<div class="col-md-6 col-lg-6">
 							<div class="txt-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
 
@@ -142,103 +118,83 @@
 									<h5 class="h5-md">Easily Affordable</h5>
 
 									<!-- Text -->
-									<p class="p-lg">The price of printing is not excessive for brochure designs. When you visit a printer and inquire about the color and paper selections, there are many possibilities accessible. Therefore, it is the best strategy to make the most of your marketing expenditure.<br>
+									<p class="p-lg txt-justify">The price of printing is not excessive for brochure designs. When you visit a printer and inquire about the color and paper selections, there are many possibilities accessible. Therefore, it is the best strategy to make the most of your marketing expenditure.<br>
 										The brochures we produce have a few unique characteristics. Our brochure design specialists produce eye-catching Brochure logo designs eye-catching Brochure logo designs by using the right colors, fonts, concepts, and vision. We create brochures for products that are linked, like:</p>
+									<div class="d-flex justify-content-between">
+										<ul class="simple-list">
 
+											<li class="list-item">
+												<p class="p-lg">Mailers
+												</p>
+											</li>
 
-									<!-- Text -->
+											<li class="list-item">
+												<p class="p-lg">Tri-fold pamphlets
+												</p>
+											</li>
 
+											<li class="list-item">
+												<p class="p-lg">Sales literature
+												</p>
+											</li>
 
-									<!-- List -->
-									<ul class="simple-list">
+											<li class="list-item">
+												<p class="p-lg">Business pamphlets
+												</p>
+											</li>
 
-										<li class="list-item">
-											<p class="p-lg">Mailers
-											</p>
-										</li>
+											<li class="list-item">
+												<p class="p-lg">Business Profile
+												</p>
+											</li>
 
-										<li class="list-item">
-											<p class="p-lg">Tri-fold pamphlets
-											</p>
-										</li>
-
-										<li class="list-item">
-											<p class="p-lg">Sales literature
-											</p>
-										</li>
-
-										<li class="list-item">
-											<p class="p-lg">Business pamphlets
-											</p>
-										</li>
-
-										<li class="list-item">
-											<p class="p-lg">Business Profile
-											</p>
-										</li>
-										<li class="list-item">
-											<p class="p-lg">E-Brochures
-											</p>
-										</li>
-										<li class="list-item">
-											<p class="p-lg">Catalogs
-											</p>
-										</li>
-										<li class="list-item">
-											<p class="p-lg">Marketing pamphlets
-											</p>
-										</li>
-										<li class="list-item">
-											<p class="p-lg">Corporate Brochures
-											</p>
-										</li>
-										<li class="list-item">
-											<p class="p-lg">Flyers
-											</p>
-										</li>
-									</ul>
-
-									<!-- Text -->
-
-
+										</ul>
+										<!-- second -->
+										<ul class="simple-list">
+											<li class="list-item">
+												<p class="p-lg">E-Brochures
+												</p>
+											</li>
+											<li class="list-item">
+												<p class="p-lg">Catalogs
+												</p>
+											</li>
+											<li class="list-item">
+												<p class="p-lg">Marketing pamphlets
+												</p>
+											</li>
+											<li class="list-item">
+												<p class="p-lg">Corporate Brochures
+												</p>
+											</li>
+											<li class="list-item">
+												<p class="p-lg">Flyers
+												</p>
+											</li>
+										</ul>
+									</div>
 								</div>
-
 							</div>
 						</div>
-
-						<div class="col-md-6 order-first order-md-2">
-							<div class="content-7-img wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/dashboard-05.png" alt="content-image">
+						<div class="col-md-5 col-lg-6">
+							<div class="img-block right-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+								<img class="img-fluid" src="../images/17.png" alt="creative agency">
 							</div>
 						</div>
-
-
 					</div> <!-- End row -->
-					<p class="p-lg">As a creative agency, we produce work that is timely. We assist all types of businesses in practically every way and manner to effectively communicate their messages through professionally created brochures. Our creative design team evaluates your product marketing goals as part of our corporate brochure design activity, does the necessary research, handles photography-related work, and ultimately produces corporate brochures. Here is the list of our brochure design charges.</p>
-
-
-
+					<p class="p-lg txt-justify">As a creative agency, we produce work that is timely. We assist all types of businesses in practically every way and manner to effectively communicate their messages through professionally created brochures. Our creative design team evaluates your product marketing goals as part of our corporate brochure design activity, does the necessary research, handles photography-related work, and ultimately produces corporate brochures. Here is the list of our brochure design charges.</p>
 				</div> <!-- End container -->
 	</section>
 	<!-- SECTION 2 END  -->
 
-	<!-- PRICING-2 TABLE
-			============================================= -->
-	<section id="pricing-2" class="bg-snow pt-60 pb-60 pricing-section division">
+	<!-- PRICING-2 TABLE============================================ -->
+	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
-
-
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
-
-						<!-- Title -->
-						<h2 class="h2-md" style="color:#cc0444;">Our Brochure Design Pricing</h2>
-
-						<!-- Text -->
-						<!-- <p class="p-xl">Clickboxs search engine optimization specialists conduct keyword research to determine the most appropriate and pertinent search phrase for your goods and services. It is a significant step in our SEO process that helps us further optimize websites' on-page content and keyword density. We pay particular attention to the client's target market when doing keyword research and analysis. </p> -->
-
+						<h2 class="h3-xs text-center">Our <span class="txtred">Brochure Design Pricing</span></h2>
 					</div>
 				</div>
 			</div>
@@ -247,8 +203,6 @@
 			<!-- PRICING TABLES -->
 			<div class="pricing-2-row pc-25">
 				<div class="row row-cols-1 row-cols-md-3">
-
-
 					<!-- BASIC PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
@@ -259,9 +213,7 @@
 								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs">Basic Brochure Design Package </h5>
-									<!-- <h6 class="h6-sm bg-lightgrey">Save 10%</h6> -->
 								</div>
-
 								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">3</span>
@@ -271,9 +223,6 @@
 
 							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li>-->
-								<!--	<p class="p-md">Monthly</p>-->
-								<!--</li>-->
 								<li>
 									<p class="p-md">2 Designs </p>
 								</li>
@@ -299,9 +248,7 @@
 								</li>
 
 							</ul>
-
-							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -310,28 +257,17 @@
 					<!-- AGENCY PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-
-							<!-- Plan Price -->
 							<div class="pricing-plan">
-
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Advance Brochure Design Package</h5>
-									<!-- <h6 class="h6-sm bg-lightgrey">Save 15%</h6> -->
 								</div>
-
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">5</span>
 								<sup class="validity dark-color"><span>,000</span> / Per Page</sup>
-
 							</div>
 
 							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li>-->
-								<!--	<p class="p-md">Monthly</p>-->
-								<!--</li>-->
 								<li>
 									<p class="p-md">3 Designs </p>
 								</li>
@@ -345,9 +281,6 @@
 								<li>
 									<p class="p-md">Unlimited FREE Revisions Till Project Duration</p>
 								</li>
-
-
-
 								<li>
 									<p class="p-md"><span>CLIENT SUPPORT</span></p>
 								</li>
@@ -366,23 +299,17 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
-
-
-					<!-- ADVANCED PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-
-							<!-- Plan Price  -->
 							<div class="pricing-plan highlight">
 
 								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Premium Brochure Design Package</h5>
-									<!-- <h6 class="h6-sm bg-skyblue white-color">Popular</h6> -->
 								</div>
 
 								<!-- Price -->
@@ -393,9 +320,6 @@
 
 							<!-- Plan Features  -->
 							<ul class="features">
-								<!--<li>-->
-								<!--	<p class="p-md">Monthly</p>-->
-								<!--</li>-->
 								<li>
 									<p class="p-md">4 Designs </p>
 								</li>
@@ -408,13 +332,9 @@
 								<li>
 									<p class="p-md">Blog Promotion</p>
 								</li>
-
 								<li>
 									<p class="p-md">Unlimited FREE Revisions Till Project Duration</p>
 								</li>
-
-
-
 								<li>
 									<p class="p-md"><span>CLIENT SUPPORT</span></p>
 								</li>
@@ -433,40 +353,27 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
-
-
 				</div>
 			</div> <!-- END PRICING TABLES -->
-
-
 		</div> <!-- End container -->
 	</section> <!-- END PRICING-2 -->
 
-
-	<!-- BRANDS-2
-			============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
-	<!-- FAQs-2>
-			============================================= -->
-	<section id="faqs-2" class="wide-60 faqs-section division">
+	<section id="faqs-2" class="pt-30 pb-30 faqs-section division">
 		<div class="container">
 
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
-
 						<!-- Title -->
-						<h2 class="h2-md">Frequently Asked Questions</h2>
-
-
+						<h2 class="h3-xs text-center">Frequently <span class="txtred">Asked Questions</span></h2>
 					</div>
 				</div>
 			</div>
@@ -474,19 +381,17 @@
 			<!-- FAQs-2 QUESTIONS -->
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
-
-					<!-- START QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pr-15">
 							<!-- QUES 1 -->
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											<b>Why should I choose ClickBox to complete my design work instead of going with another company?</b>
 										</button>
 									</h2>
-									<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg">ClickBox provides clients with perfect design expertise, flexibility, boundless creativity, and a 100% satisfaction guarantee. At ClickBox, you can find a one-stop solution for all of your design needs. You won't regret coming here even for one step.</p>
 
@@ -512,27 +417,19 @@
 										</div>
 									</div>
 								</div>
-
-
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- FIRST COLUMN END -->
-
-					<!-- START SECOND COLUMN -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-							<!-- START QUESTIONS HOLDER -->
-							<!-- QUES 3 -->
-
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											<b>How long does it take to complete a design?</b>
 										</button>
 									</h2>
-									<div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+									<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg">All types of designs' project durations are carefully indicated in our packages. Depending on the type of project or the needs of the design, a typical project may take a bit longer than 24 hours.
 											</p>
@@ -564,11 +461,7 @@
 													<p class="p-lg">For digital circulation- JPG or PNG.
 													</p>
 												</li>
-
-
 											</ul>
-
-
 										</div>
 									</div>
 								</div>
@@ -578,50 +471,15 @@
 					<!-- SECOND COLUMN END -->
 				</div> <!-- End row -->
 			</div> <!-- END FAQs-2 QUESTIONS -->
-
-			<!-- MORE QUESTIONS BUTTON -->
-
-			<!-- MORE QUESTIONS BUTTON -->
 			<div class="row">
 				<div class="col  ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
-
-
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
@@ -645,7 +503,7 @@
 			"@type": "WebSite",
 			"name": "Affordable Brochure Design Package & Pricing | ClickBox",
 			"alternateName": "best brochure design pricing, brochure design pricing, brochure design package, brochure design charges, brochure design cost",
-				"url": "https://www.clickboxagency.com/brochure-design-packages/"
+			"url": "https://www.clickboxagency.com/brochure-design-packages/"
 		}
 	</script>
 
@@ -658,7 +516,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Clickbox agency provides affordable brochure design pricing and brochure design packages. We offer the best prices for custom designed brochures and flyers. Read more…",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",
@@ -687,7 +545,6 @@
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
 	<?php include('popup1.php') ?>
-
 </body>
 
 </html>

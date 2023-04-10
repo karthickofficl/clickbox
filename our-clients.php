@@ -9,12 +9,12 @@
 <body>
 		<!-- BRANDS-1
 			============================================= -->
-		<div id="brands-1" class="pt-40 pb-50 brands-section division">
+		<div id="brands-1" class="pt-30 pb-30 brands-section division">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
 						<div class="brands-title text-center">
-							<h2 class="h2-md">Our Esteemed Clients</h2>
+						<h2 class="h3-xs text-center">Our <span class="txtred">Esteemed Clients</span></h2>
 						</div>
 					</div>
 				</div>
@@ -85,8 +85,6 @@
 				<div class="row mt-sm-4">
 					<div class="col text-center">
 						<div class="owl-carousel brands-carousel">
-
-
 							<!-- BRAND LOGO IMAGE -->
 							<div class="brand-logo">
 								<img class="img-fluid" src="https://clickboxagency.com/images/brand-11.png" alt="brand-logo" />

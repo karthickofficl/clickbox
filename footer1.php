@@ -4,7 +4,7 @@
   		<i class="fa fa-phone" style="color:blue;"></i>
   		<p class="m-0">Call</p>
   	</a>
-  	<a href="https://api.whatsapp.com/send?phone=917358644710" id="webcall" class="mobile-cta-panel-item pt-1 pb-1" role="button">
+  	<a href="https://api.whatsapp.com/send?phone=918870578887" id="webcall" class="mobile-cta-panel-item pt-1 pb-1" role="button">
   		<i class="fa fa-whatsapp" style="color:#25d366;"></i>
   		<p class="m-0">Whatsapp</p>
   	</a>
@@ -17,7 +17,7 @@
   	s.src = "https://widgets.in5.nopaperforms.com/emwgts.js";
   	document.body.appendChild(s);
   </script>
-  <a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
+  <a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
   	<!-- <i class="fa fa-whatsapp"></i> -->
   	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="" sizes="" srcset="">
   </a>
@@ -87,7 +87,7 @@
   							<!-- Title -->
   							<h6 class="h6-xl txtbluee">India</h6>
   							<!-- Text -->
-  							<p class="p-lg ">178/4, KPN complex, Avinashi Road,<br>Coimbatore, Tamil Nadu - 641004,<br>+91 7418 555 205</p>
+  							<p class="p-lg ">178/4, KPN complex, Avinashi Road,<br>Coimbatore, Tamil Nadu - 641004,<br>+91 88705 78887</p>
   						</div>
   					</div>
   				</div>
@@ -369,20 +369,4 @@
 
   <script src="https://www.google.com/recaptcha/api.js?render=6LcO-RMgAAAAAAxBDHPIYKJbsDs6nkMiq2rSk6dN"></script>
 
-  <!-- <script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
-<script>
-  const myLandbotPopup = new LandbotPopup({
-    index: 'https://landbot.io/u/example/index.html',
-    open: false,
-    proactive: false,
-    font: 'Montserrat',
-    launcherOptions: {
-        enable: true,
-      type: 'image',
-      color: '#de4561',
-      shape: 'default',
-      scale: 0.55,
-      image: 'https://static.landbot.io/landbot/files/bubble.svg',
-    },
-  });
-</script> -->
+ 
