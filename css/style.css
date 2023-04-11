@@ -9294,3 +9294,7 @@ body .img-fluid-800{
   height: 800px;
   object-fit: cover;
 }
+/* NEW PACKAGES */
+.bg-13{
+  background-color: #f3f3f3;
+}

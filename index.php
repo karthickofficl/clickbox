@@ -340,7 +340,7 @@ if (isset($_POST['send'])) {
 							<h6 class="h6-md">Mobile App Development</h6>
 							<!-- Text -->
 							<p class="p-lg ">We are a premier mobile app development agency that specializes in creating cutting-edge mobile apps that help businesses reach their target audience, increase engagement, and drive growth. <a href="#" class="btn-sm-services">See more...</a></p>
-							</div>
+						</div>
 					</div>
 				</div>
 				<div class="col serv">
@@ -359,7 +359,7 @@ if (isset($_POST['send'])) {
 							<h6 class="h6-md">Digital Marketing</h6>
 							<!-- Text -->
 							<p class="p-lg ">Our full-service digital marketing agency helps businesses of all sizes succeed online. Our extensive digital marketing services are tailored to your specific business needs and goals. <a href="#" class="btn-sm-services">See more...</a></p>
-							
+
 						</div>
 					</div>
 				</div>
@@ -417,13 +417,13 @@ if (isset($_POST['send'])) {
 							<h6 class="h6-md ">Explainer Video Creation</h6>
 							<!-- Text -->
 							<p class="p-lg ">Our team of expert video creators and animators have a wealth of experience in creating a wide range of video content, including promotional videos, product demos, explainer videos, whiteboard animation videos and more. <a href="#" class="btn-sm-services">See more...</a></p>
-							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End container -->
 	</div> <!-- END BRANDS-1 -->
-<div id="brands-1" class="pt-50 pb-50 brands-section division">
+	<div id="brands-1" class="pt-50 pb-50 brands-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
@@ -447,7 +447,7 @@ if (isset($_POST['send'])) {
 						<div class="brand-logo">
 							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/19.jpg" alt="tools-logo" />
 						</div>
-					
+
 						<div class="brand-logo">
 							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/01.jpeg" alt="tools-logo" />
 						</div>
@@ -922,7 +922,7 @@ if (isset($_POST['send'])) {
 							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/" aria-label="seo friendly website" title="seo friendly website"><img src="https://clickboxagency.com/images/png-icons/home-blog02.jpg" alt="seo friendly website" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-process/" aria-label="logo design process" title="logo design process"><img src="https://clickboxagency.com/images/png-icons/home-blog01.jpg" alt="logo design process" class='upcoming_grid'/></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-process/" aria-label="logo design process" title="logo design process"><img src="https://clickboxagency.com/images/png-icons/home-blog01.jpg" alt="logo design process" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
 							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-principles/" aria-label="logo design principles" title="logo design principles"><img src="https://clickboxagency.com/images/blog/logo-design-principles-you-need-to-know.jpg" alt="logo design principles" class='upcoming_grid' /></a></figure>
@@ -1163,7 +1163,7 @@ if (isset($_POST['send'])) {
 	<?php include('awards-section.php') ?>
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
-     <script type="application/ld+json">
+	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
