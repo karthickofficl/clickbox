@@ -89,9 +89,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -105,7 +105,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/seo-interview-questions/"/>
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Advanced 20 SEO Interview Questions and Answers 2023 Updated" />
 
@@ -117,7 +117,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="In a future SEO interview process, what kinds of questions can you expect to be asked of you? Practise your answers to these common SEO interview questions to help you obtain your dream career." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
@@ -357,7 +357,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">● Schema: It tells what <a href="https://www.techopedia.com/definition/4528/protocol" style="color:#0000FF;"><u>protocol</u></a> should be used to get to the Internet resource (HTTP and HTTPS are two of the most common protocols).</p>
 						</li>
 						<li>
-							<p class="p-lg txt-justify">● Host Name or Domain Name: This shows which host has the resource. www.clickboxagency.com is one example.</p>
+							<p class="p-lg txt-justify">● Host Name or Domain Name: This shows which host has the resource. https://www.clickboxagency.com is one example.</p>
 						</li>
 					</ul>
 					<p class="p-lg txt-justify"> <b>Clickbox Agency</b>, a digital marketing company specializes in uplifting your business through their marketing expertise. If you need assistance to upgrade your business, kindly click on this website: https://www.clickboxagency.com/</p>
@@ -596,13 +596,13 @@ if (isset($_POST['send'])) {
 
 			"description": "In a future SEO interview process, what kinds of questions can you expect to be asked of you? Practise your answers to these common SEO interview questions to help you obtain your dream career.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

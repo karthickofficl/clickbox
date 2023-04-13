@@ -90,9 +90,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -106,7 +106,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Top 10 Skills Required To Be A Successful Logo Designer" />
 
@@ -118,7 +118,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="We will discuss the top 10 abilities that are necessary for a successful career in logo designer skills. This article will discuss the top 10 abilities necessary for a logo designer skills to succeed." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
@@ -368,7 +368,7 @@ if (isset($_POST['send'])) {
 
 			"description": "We will discuss the top 10 abilities that are necessary for a successful career in logo designer skills. This article will discuss the top 10 abilities necessary for a logo designer skills to succeed.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 

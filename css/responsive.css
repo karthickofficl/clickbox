@@ -12864,7 +12864,8 @@
   }
 
   .pricing-2-table {
-    padding: 30px 40px 35px;
+    /* padding: 30px 40px 35px; */
+    padding: 20px 15px 25px;
     margin-left: 3%;
     margin-right: 3%;
   }
@@ -16450,9 +16451,3 @@
 
 
 }
-
-/* 
-.img-fluid-800, .img-fluid-500, .card-img-samll, .card-img-big{
-  max-width: 100% !important;
-  height: auto !important;
-} */

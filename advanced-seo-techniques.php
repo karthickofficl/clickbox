@@ -91,13 +91,13 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="https://clickboxagency.com/advanced-seo-techniques/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/advanced-seo-techniques/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://clickboxagency.com/advanced-seo-techniques/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Advanced SEO Techniques to Rank #1 in Google" />
 
@@ -119,7 +119,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="A guide to optimizing your website by applying the right advanced SEO techniques. Generate your website to the top of SERPs by adding quality content and accurate strategies." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
@@ -739,13 +739,13 @@ if (isset($_POST['send'])) {
 
 			"description": "A guide to optimizing your website by applying the right advanced SEO techniques. Generate your website to the top of SERPs by adding quality content and accurate strategies.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

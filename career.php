@@ -80,19 +80,19 @@ if (isset($_POST['send'])) {
     <meta name="Distribution" content="Global" />
     <meta name="Rating" content="general" />
     <meta name="search engines" content="ALL" />
-    <meta name="copyright" content="www.clickboxagency.com" />
+    <meta name="copyright" content="https://www.clickboxagency.com" />
     <meta name="email" content="info@clickboxagency.com" />
     <link rel="canonical" href="https://www.clickboxagency.com/careers/" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.clickboxagency.com/careers/" />
     <meta property="og:site_name" content="https://www.clickboxagency.com/careers/" />
-    <meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+    <meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
     <meta property="og:title" content="Join Our Team: Clickbox Creative Marketing Agency" />
     <meta property="og:description" content="Looking to build a successful career? Explore our career page to find job opportunities." />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Join Our Team: Clickbox Creative Marketing Agency" />
     <meta name="twitter:description" content="Looking to build a successful career? Explore our career page to find job opportunities." />
-    <meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+    <meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
     <!--<link href="../css/career.css" rel="stylesheet">-->
 
     <?php include('header-style.php') ?>
@@ -975,7 +975,7 @@ if (isset($_POST['send'])) {
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
             "description": "Looking to build a successful career? Explore our career page to find job opportunities.",
-            "logo": "www.clickboxagency.com/images/logo-01.png",
+            "logo": "https://www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+91 71485 55209",

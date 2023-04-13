@@ -27,23 +27,23 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/ecommerce-seo-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/ecommerce-seo-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/ecommerce-seo-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/ecommerce-seo-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/ecommerce-seo-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/ecommerce-seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Ecommerce SEO Package & Pricing | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Our Affordable Ecommerce SEO package & services help you to increase your website ranking in search engine results at an affordable price." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -76,27 +76,22 @@
 					<!-- TOP ROW -->
 					<div class="top-row pb-20">
 						<div class="row d-flex align-items-center">
-							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid-500" src="../images/18.png" alt="creative digital marketing company">
+									<img class="img-fluid" src="../images/18.png" alt="creative digital marketing company">
 								</div>
 							</div>
-							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<!-- Text -->
 									<p class="p-lg txt-justify">Everyone acknowledges the fact that the best Ecommerce SEO gives businesses the chance to increase their visibility and rank well for particular keywords on search engines. Therefore, investing in cost-effective affordable Ecommerce SEO packages and pricing from our reputable digital marketing agency will significantly boost your company's sales and profit. Visit our website to view the variety of SEO packages, which range from basic to platinum. To check the duration of the plan, the price, and other options for these various packages, go to our landing page.</p>
-									<!-- Text -->
 									<p class="p-lg txt-justify">Before purchasing any plan, you can review every detail, but keep in mind that our <b>ClickBox</b> Agency in Ecommerce SEO packages is specifically created to match your company's demands and promote your company online.</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
 					</div> <!-- END TOP ROW -->
-				</div> <!-- End container -->
+				</div>
 	</section>
-	<!-- #2 SECTION -->
-	<!-- wide-60 -->
+
 	<section id="content-3" class="bg-snow content-3 content-section division">
 		<div class="container">
 			<!-- TOP ROW -->
@@ -105,19 +100,15 @@
 					<!-- TEXT BLOCK -->
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-							<!-- Title -->
 							<h4 class="h2-xs">Check Out Click Box Powerful ECommerce SEO Packages To Know More</h4>
-							<!-- Text -->
 							<p class="p-lg txt-justify">Do you own a retail site? Why not choose one of our best eCommerce SEO Packages to help the company grow or achieve your business objectives? We offer everything you need to improve your search engine ranking, from an initial evaluation and analysis to developing action plans and structured SEO reports.</p>
-							<!-- Text -->
 							<p class="p-lg txt-justify">Our research enables us to identify pertinent, distinctive keywords that may be used to optimize your website. Our goal when using conversion optimization tactics is to turn your internet visitor into a customer or at the very affordable get them to express interest by sending an inquiry. To correct broken links and examine error pages, among other things, our staff applies Technical SEO methods.</p>
-							<!-- Text -->
+							
 						</div>
-					</div> <!-- END TEXT BLOCK -->
-					<!-- IMAGE BLOCK -->
+					</div>
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-							<img class="img-fluid-500" src="../images/94(omr).png" alt="creative digital marketing company new jersey">
+							<img class="img-fluid" src="../images/94(omr).png" alt="creative digital marketing company new jersey">
 						</div>
 					</div>
 					<div class="m-lg-2">
@@ -128,9 +119,8 @@
 			</div> <!-- END TOP ROW -->
 		</div> <!-- End container -->
 	</section>
-	<!-- #2 SECTION END -->
-	<!-- FEATURES-8 ECOMMERCE DIGITAL MARKETING SERVICE============================ -->
-	<section id="features-8" class=" features-section division">
+
+	<section id="features-8" class="pt-30 features-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
@@ -152,7 +142,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/20.png" alt="digital marketing company coimbatore " />
+								<img class="img-fluid" src="../images/20.png" alt="digital marketing company coimbatore " />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">It's All About Speed</h5>
@@ -165,7 +155,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/21.png" alt="ecommerce seo marketing company coimbatore " />
+								<img class="img-fluid" src="../images/21.png" alt="ecommerce seo marketing company coimbatore " />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Be Specific with Product Descriptions
@@ -179,7 +169,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/22.png" alt="creative digital marketing company" />
+								<img class="img-fluid" src="../images/22.png" alt="creative digital marketing company" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Ask Customers to Leave a Review
@@ -191,15 +181,13 @@
 					</div>
 				</div> <!-- End row -->
 			</div> <!-- END FEATURES-8 WRAPPER -->
-			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center">
 				<div class="row row-cols-1 row-cols-md-3">
-					<!-- FEATURE BOX #1 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/23.png" alt="saas company in coimbatore" />
+								<img class="img-fluid" src="../images/23.png" alt="saas company in coimbatore" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Keep it Simple</h5>
@@ -208,12 +196,11 @@
 								While strengthening the website, keep in mind your target audience. Keep things simple to ensure a high-quality user experience. This entails placing all buttons and links in places that are simple for them to see. A customer leaving your website because they couldn't find the home button is the last thing you want to happen.</p>
 						</div>
 					</div>
-					<!-- FEATURE BOX #2 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/24.png" alt="ecommerse seo company in india" />
+								<img class="img-fluid" src="../images/24.png" alt="ecommerse seo company in india" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Focus on Link Building</h5>
@@ -224,51 +211,37 @@
 							</p>
 						</div>
 					</div>
-					<!-- FEATURE BOX #3 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/25.png" alt="creative digital marketing company" />
+								<img class="img-fluid" src="../images/25.png" alt="creative digital marketing company" />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Put Premium on Security</h5>
-							<!-- Text -->
-							<p class="p-lg">When making a purchase, your customers will type in their credit card and bank account information. By keeping your website free from hackers, you can protect them. For your customers to feel secure and confident, your website must have an SSL certificate and HTTPS encryption.
-							</p>
+							<p class="p-lg">When making a purchase, your customers will type in their credit card and bank account information. By keeping your website free from hackers, you can protect them. For your customers to feel secure and confident, your website must have an SSL certificate and HTTPS encryption.</p>
 						</div>
-					</div><!-- FEATURE BOX #3 END-->
+					</div>
 				</div> <!-- End row -->
-			</div> <!-- END FEATURES-8 WRAPPER -->
+			</div>
 			<div class="fbox-8-wrapper text-center">
 				<div class="row row-cols-1 row-cols-md-3">
-					<!-- FEATURE BOX #1 -->
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/26.png" alt="eccommerce digital marketing company coimbatore " />
+								<img class="img-fluid" src="../images/26.png" alt="eccommerce digital marketing company coimbatore " />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Images are Key</h5>
-							<!-- Text -->
 							<p class="p-lg">To give customers a clear idea of what the product looks like, take pictures of it from various angles.
 								On your website, you can also display compelling statistics, product comparisons, or competitor comparisons using images or infographics. Infographic creation has become simple thanks to online tools like Canva. Infographics and images present new ways of doing things, and new ways are always preferable.
 							</p>
 						</div>
-					</div><!-- FEATURE BOX #1 END-->
-					<!-- FEATURE BOX #2 -->
+					</div>
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/27.png" alt="creative digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/27.png" alt="creative digital marketing company new jersey" />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Be Consistent when Updating the Pages</h5>
-							<!-- Text -->
-							<p class="p-lg">
-								Updated pages attract more organic traffic. For your Ecommerce website to gain organic traffic, speed and consistency are essential. Customers are aware when you go above and beyond for them. By buying from you and recommending your website to their network, they will express their gratitude.
+							<p class="p-lg">Updated pages attract more organic traffic. For your Ecommerce website to gain organic traffic, speed and consistency are essential. Customers are aware when you go above and beyond for them. By buying from you and recommending your website to their network, they will express their gratitude.
 								Therefore, if you use the aforementioned tactics right away and ethically, they will benefit you.
 							</p>
 						</div>
@@ -278,7 +251,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-samll" src="../images/28.png" alt="Role of Community" />
+								<img class="img-fluid" src="../images/28.png" alt="Role of Community" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">The Role of Community Forums</h5>
@@ -287,12 +260,10 @@
 								Create community forums and allow your customers to interact. Provide them the freedom to share their experiences and feedback on the products and services that you offer. Remember, it only takes one happy customer to make a business successful.</p>
 						</div>
 					</div>
-					<!-- FEATURE BOX #3 -->
-				</div> <!-- End row -->
-			</div> <!-- END FEATURES-8 WRAPPER -->
+				</div>
+			</div>
 		</div> <!-- End container -->
-	</section> <!-- END FEATURES-8 -->
-	<!-- ECOMMERCE DIGITAL MARKETING SERVICE END -->
+	</section>
 
 	<section id="content-2" class="content-2 bg-snow pt-30  content-section division">
 		<div class="container">
@@ -303,7 +274,6 @@
 						<img class="img-fluid" src="../images/29.png" alt="Trust Our Ecommerce SEO Skills">
 					</div>
 				</div>
-				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
 						<!-- Title -->
@@ -315,11 +285,10 @@
 						<p class="p-lg txt-justify"><b>Experienced SEO Experts Team:</b> Our <b>ClickBox</b> SEO specialists have experience working with a variety of affordable and best Ecommerce brands and are knowledgeable about the tried-and-true methods for optimizing your B2C/B2B website or mobile site for search engines.</p>
 						<p class="p-lg txt-justify"> It's time to deal with an SEO company that is results-driven and can boost your search traffic and sales. Contact <a href="https://clickboxagency.com/" aria-label="clickbox agency" title="clickbox agency" class="txtbluee">ClickBox's Agency</a>!!!</p>
 					</div>
-				</div> <!-- END TEXT BLOCK -->
+				</div>
 			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CONTENT-2 -->
-	<!-- FOUR SECTION START END -->
+		</div>
+	</section>
 
 	<section id="pricing-2" class="bg-snow pt-30 pricing-section division">
 		<div class="container">
@@ -332,24 +301,19 @@
 					</div>
 				</div>
 			</div>
-			<!-- PRICING TABLES -->
+
 			<div class="pricing-2-row pc-25">
 				<div class="row row-cols-1 row-cols-md-3">
-					<!-- BASIC PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-							<!-- Plan Price -->
 							<div class="pricing-plan">
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs">Basic Ecommerce SEO Packages</h5>
 								</div>
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">12</span>
 								<sup class="validity dark-color"><span>,599</span> / Monthly</sup>
 							</div>
-							<!-- Plan Features -->
 							<ul class="features">
 								<li>
 									<p class="p-md">In-depth Site Analysis</p>
@@ -394,25 +358,19 @@
 									<p class="p-md"><span>Professional Ecommerce SEO Consulting</span></p>
 								</li>
 							</ul>
-							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan in coimbatore" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan in coimbatore" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 						</div>
-					</div> <!-- END BASIC PLAN -->
-					<!-- AGENCY PLAN -->
+					</div>
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-							<!-- Plan Price -->
 							<div class="pricing-plan">
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Advance Ecommerce SEO Package</h5>
 								</div>
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">19</span>
 								<sup class="validity dark-color"><span>,599</span> / Monthly</sup>
 							</div>
-							<!-- Plan Features -->
 							<ul class="features">
 								<li>
 									<p class="p-md">In-depth Site Analysis</p>
@@ -463,11 +421,9 @@
 									<p class="p-md"><span>Professional Ecommerce SEO Consulting</span></p>
 								</li>
 							</ul>
-							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advanced" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advanced" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 						</div>
-					</div> <!-- END AGENCY PLAN -->
-					<!-- ADVANCED PLAN -->
+					</div>
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<!-- Plan Price -->
@@ -551,18 +507,16 @@
 								</li>
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium packages" title="premium packages" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium packages" title="premium packages" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 						</div>
-					</div> <!-- END ADVANCED PLAN -->
+					</div>
 				</div>
-			</div> <!-- END PRICING TABLES -->
-		</div> <!-- End container -->
-	</section> <!-- END PRICING-2 -->
+			</div>
+		</div>
+	</section>
 
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
-	<!-- FAQs-2============================= -->
 	<section id="faqs-2" class="pt-30 pb-30 faqs-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
@@ -641,11 +595,10 @@
 									</div>
 								</div>
 							</div>
-						</div> <!-- END QUESTIONS HOLDER -->
+						</div>
 					</div>
-					<!-- SECOND COLUMN END -->
-				</div> <!-- End row -->
-			</div> <!-- END FAQs-2 QUESTIONS -->
+				</div>
+			</div>
 
 			<div class="row">
 				<div class="col ">
@@ -654,8 +607,8 @@
 					</div>
 				</div>
 			</div>
-		</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
+		</div>
+	</section>
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 	<?php include('footer-script.php') ?>
@@ -691,10 +644,10 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Our Affordable Ecommerce SEO package & services help you to increase your website ranking in search engine results at an affordable price.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

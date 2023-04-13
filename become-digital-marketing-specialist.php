@@ -91,9 +91,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/become-digital-marketing-specialist/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How Do I Become an Effective Digital Marketing Specialist?" />
 
@@ -118,10 +118,10 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content=" An effective digital marketing specialist should be able to see things from different aspects, explain ideas in a way that the audience will comprehend, and have a good sense of what the audience would find interesting and valuable." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<link rel="icon" href="www.clickboxagency.com/images/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="www.clickboxagency.com/images/favicon.png" type="image/x-icon">
+	<link rel="icon" href="https://www.clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://www.clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 </head>
@@ -714,7 +714,7 @@ if (isset($_POST['send'])) {
 
 			"alternateName": "digital marketing specialist, digital marketing is a good career, digital marketing requirements, concept of digital marketing, how digital marketing works, digital marketing strategy, digital marketing agency.",
 
-			"url": "whttps://www.clickboxagency.com/become-digital-marketing-specialist/"
+			"url": "https://www.clickboxagency.com/become-digital-marketing-specialist/"
 
 		}
 	</script>
@@ -736,13 +736,13 @@ if (isset($_POST['send'])) {
 
 			"description": " An effective digital marketing specialist should be able to see things from different aspects, explain ideas in a way that the audience will comprehend, and have a good sense of what the audience would find interesting and valuable.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

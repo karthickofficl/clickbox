@@ -11,7 +11,7 @@
 
 	<title>Affordable Instagram Marketing Packages & Pricing | ClickBox</title>
 
-	<meta name=description content="Clickbox is the best social media marketing services agency. Visit us right away if you're seeking affordable social media packages, including Instagram Marketing Packages. Read more… " />
+	<meta name=description content="Clickbox is the best instagram marketing agency. Visit us right away if you're seeking affordable  Instagram Marketing Packages. Read more…" />
 
 	<meta name=keywords content="instagram marketing packages, instagram content creation packages, instagram packages, instagram monthly packages, instagram promotion packages, instagram management packages" />
 
@@ -27,35 +27,33 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/instagram-marketing-packages/" />
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="canonical" href="https://www.clickboxagency.com/instagram-marketing-packages/" />
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/instagram-marketing-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/instagram-marketing-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/instagram-marketing-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/instagram-marketing-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Instagram Marketing Packages & Pricing | ClickBox" />
 
-	<meta property="og:description" content="Clickbox is the best social media marketing services agency. Visit us right away if you're seeking affordable social media packages, including Instagram Marketing Packages. Read more…" />
+	<meta property="og:description" content="Clickbox is the best instagram marketing agency. Visit us right away if you're seeking affordable  Instagram Marketing Packages. Read more…" />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Instagram Marketing Packages & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="Clickbox is the best social media marketing services agency. Visit us right away if you're seeking affordable social media packages, including Instagram Marketing Packages. Read more…" />
+	<meta name="twitter:description" content="Clickbox is the best instagram marketing agency. Visit us right away if you're seeking affordable  Instagram Marketing Packages. Read more…" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -121,7 +119,7 @@
 					<div class="col">
 						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp p-3">
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/83(insta-2).png" alt="instagram marketing company india" />
+								<img class="img-fluid" src="../images/83(insta-2).png" alt="instagram marketing company india" />
 							</div>
 							<h5 class="h5-md">Cost Per Engagement (CPE)</h5>
 							<!-- Text -->
@@ -131,7 +129,7 @@
 					<div class="col  ">
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3">
 							<!-- Image -->
-							<div class="fbox-img "><img class="card-img-samll" src="../images/84(insta-3).png" alt="instagram marketing company newjersey" />
+							<div class="fbox-img "><img class="img-fluid" src="../images/84(insta-3).png" alt="instagram marketing company newjersey" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Cost Per Click (CPC)</h5>
@@ -143,7 +141,7 @@
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/85(insta-4).png" alt="instagram marketing company madurai" />
+								<img class="img-fluid" src="../images/85(insta-4).png" alt="instagram marketing company madurai" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Cost Per Thousand Impressions (CPM)</h5>
@@ -203,7 +201,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/87(insta-6).png" alt="digital marketing company coimbatore " />
+								<img class="img-fluid" src="../images/87(insta-6).png" alt="digital marketing company coimbatore " />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Instagram Photo Ads</h5>
@@ -217,7 +215,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/88(insta-7).png" alt="instagram marketing company coimbatore" />
+								<img class="img-fluid" src="../images/88(insta-7).png" alt="instagram marketing company coimbatore" />
 							</div>
 							<h5 class="h5-md">Instagram Story Ads</h5>
 							<p class="p-lg">These ads are the most recent varieties of Instagram ads that support marketers in promoting their goods & services to the intended market. Instagram story advertisements have recently been one of the best options for businesses.</p>
@@ -236,7 +234,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/89(insta-8).png" alt="creative digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/89(insta-8).png" alt="creative digital marketing company new jersey" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Instagram Carousel Ads</h5>
@@ -251,7 +249,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/90(insta-9).png" alt="digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/90(insta-9).png" alt="digital marketing company new jersey" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Instagram Video ads</h5>
@@ -341,7 +339,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -425,7 +423,7 @@
 							</ul>
 
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advanced " title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advanced " title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -515,7 +513,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="instagram premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium plan" title="instagram premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -677,11 +675,11 @@
 			"url": "https://www.clickboxagency.com/instagram-marketing-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox is the best social media marketing services agency. Visit us right away if you're seeking affordable social media packages, including Instagram Marketing Packages. Read more… ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Clickbox is the best instagram marketing agency. Visit us right away if you're seeking affordable  Instagram Marketing Packages. Read more… ",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

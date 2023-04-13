@@ -92,9 +92,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -108,7 +108,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/nykaa-success-story/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Nykaa: A Huge Success in Beauty and Fashion in India " />
 
@@ -122,7 +122,7 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:description" content="In today's world, buying cosmetics from a store is a bit tough. Why don't we buy cosmetics online that everything has 
 		been made simple and we can get everything from the comfort of our own homes? This is where Nykaa began." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
@@ -582,13 +582,13 @@ if (isset($_POST['send'])) {
 
 			"description": "In today's world, buying cosmetics from a store is a bit tough. Why don't we buy cosmetics online that everything has been made simple and we can get everything from the comfort of our own homes? This is where Nykaa began.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

@@ -87,23 +87,23 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/saas-marketing-agency/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/saas-marketing-agency/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/saas-marketing-agency/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/saas-marketing-agency/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/saas-marketing-agency/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/saas-marketing-agency/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Result Driven SAAS Digital Marketing SEO Agency - ClickBox" />
 
@@ -115,7 +115,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="ClickBox digital marketing agency helps SaaS companies. This may include SAAS SEO, PPC, social media, email marketing, and content marketing and more." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 
@@ -778,10 +778,10 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "www.clickboxagency.com/saas-marketing-agency/",
+			"url": "https://www.clickboxagency.com/saas-marketing-agency/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "www.clickboxagency.com/saas-marketing-agency/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/saas-marketing-agency/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -792,7 +792,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Result Driven SAAS Digital Marketing SEO Agency - ClickBox",
 			"alternateName": "saas marketing agency, saas seo agency, saas digital marketing agency, b2b saas marketing agency, saas content marketing agency, digital marketing for saas companies, saas seo company, saas seo consultant, saas seo services, saas ppc agency ",
-			"url": "www.clickboxagency.com/saas-marketing-agency/"
+			"url": "https://www.clickboxagency.com/saas-marketing-agency/"
 		}
 	</script>
 
@@ -801,14 +801,14 @@ if (isset($_POST['send'])) {
 			"@context": "https://schema.org",
 			"@type": "Organization",
 			"name": "Result Driven SAAS Digital Marketing SEO Agency - ClickBox",
-			"url": "www.clickboxagency.com/saas-marketing-agency/",
+			"url": "https://www.clickboxagency.com/saas-marketing-agency/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "ClickBox digital marketing agency helps SaaS companies. This may include SAAS SEO, PPC, social media, email marketing, and content marketing and more.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

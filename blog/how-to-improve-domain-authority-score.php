@@ -89,9 +89,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -105,7 +105,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/how-to-improve-domain-authority-score/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Improve Domain Authority Score " />
 
@@ -117,7 +117,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Do you find it difficult to rank on Google's #1 page? To start outranking the competition, you need to take steps to increase your Domain Authority." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
@@ -338,7 +338,7 @@ if (isset($_POST['send'])) {
 							<h4 class="h4-lg">Conclusion:</h4>
 							<p class="p-lg txt-justify">Domain authority is a measurement of a website's trustworthiness and size. It is calculated by many factors, including referral links, social media signals, inbound links, and more. The higher your domain authority, the more likely it is that people will find your website and take an interest in it.</p>
 
-							<p class="p-lg txt-justify">At Clickbox, we offer affordable ways to improve your domain authority without breaking the bank. Our tools are easy to use and provide reliable results quickly so that you can see visible improvements on your <a href="http://www.clickboxagency.com" style="color:#0000FF;">website</a>.
+							<p class="p-lg txt-justify">At Clickbox, we offer affordable ways to improve your domain authority without breaking the bank. Our tools are easy to use and provide reliable results quickly so that you can see visible improvements on your <a href="https://www.clickboxagency.com/" style="color:#0000FF;">website</a>.
 							</p>
 						</div> <!-- END BLOG POST TEXT -->
 
@@ -561,13 +561,13 @@ if (isset($_POST['send'])) {
 
 			"description": "Do you find it difficult to rank on Google's #1 page? To start outranking the competition, you need to take steps to increase your Domain Authority.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

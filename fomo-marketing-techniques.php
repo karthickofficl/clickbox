@@ -91,23 +91,23 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/fomo-marketing-techniques/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/fomo-marketing-techniques/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/fomo-marketing-techniques/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/fomo-marketing-techniques/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/fomo-marketing-techniques/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/fomo-marketing-techniques/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Get More Results Implementing This 7 Best FOMO Marketing Strategies" />
 
@@ -118,10 +118,10 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="FOMO marketing is a set of strategies pulling the customer's emotional strings. Societal pressure pushes the customer to get influenced by FOMO and purchase the product. Read below the 10 successful FOMO marketing strategies." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<link rel="icon" href="www.clickboxagency.com/images/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="www.clickboxagency.com/images/favicon.png" type="image/x-icon">
+	<link rel="icon" href="https://www.clickboxagency.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://www.clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
 
@@ -513,7 +513,7 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "www.clickboxagency.com/fomo-marketing-techniques/",
+			"url": "https://www.clickboxagency.com/fomo-marketing-techniques/",
 
 			"potentialAction": {
 
@@ -539,7 +539,7 @@ if (isset($_POST['send'])) {
 
 			"alternateName": "fomo marketing techniques, fomo marketing examples, fomo marketing strategy, fomo marketing campaigns, fomo marketing guides",
 
-			"url": "www.clickboxagency.com/fomo-marketing-techniques/"
+			"url": "https://www.clickboxagency.com/fomo-marketing-techniques/"
 
 		}
 	</script>
@@ -553,7 +553,7 @@ if (isset($_POST['send'])) {
 
 			"name": "Get More Results Implementing This 7 Best FOMO Marketing Strategies",
 
-			"url": "www.clickboxagency.com/fomo-marketing-techniques/",
+			"url": "https://www.clickboxagency.com/fomo-marketing-techniques/",
 
 			"email": "info@clickboxagency.com",
 
@@ -561,13 +561,13 @@ if (isset($_POST['send'])) {
 
 			"description": "FOMO marketing is a set of strategies pulling the customer's emotional strings. Societal pressure pushes the customer to get influenced by FOMO and purchase the product. Read below the 10 successful FOMO marketing strategies.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

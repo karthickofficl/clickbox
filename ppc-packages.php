@@ -11,7 +11,7 @@
 
 	<title>Affordable Monthly PPC Packages & Pricing | ClickBox</title>
 
-	<meta name=description content="Clickbox offers Best PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility online and help people recognise it." />
+	<meta name=description content="Clickbox offers PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility." />
 
 	<meta name=keywords content="best ppc packages, ppc pricing packages, ppc services packages, google adwords packages, google ad packages" />
 
@@ -27,33 +27,33 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/ppc-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/ppc-packages/" />
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/ppc-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/ppc-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/ppc-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/ppc-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Monthly PPC Packages & Pricing | ClickBox" />
 
-	<meta property="og:description" content="Clickbox offers Best PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility online and help people recognise it." />
+	<meta property="og:description" content="Clickbox offers PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Monthly PPC Packages & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="Clickbox offers Best PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility online and help people recognise it." />
+	<meta name="twitter:description" content="Clickbox offers PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -82,9 +82,8 @@
 							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-
-									<p class="p-lg txt-justify">Are you trying to find budget friendly best PPC packages? If so, join <b>ClickBox's</b> affordable PPC packages. We offer cheap and customized PPC packages that support the needs of each client's business rather than fixed-price monthly PPC packages.</p>
-									<p class="p-lg txt-justify">Irrespective of your company's size, whether you run a little business or a major corporation, <b>ClickBox</b> has the ideal PPC pricing package for you. Our team of experienced PPC professionals will collaborate with you to design a campaign that is specific to your requirements and objectives. In order to guarantee that you are getting the most out of your PPC investment, we will also offer ongoing administration and optimization of your campaign.</p>
+<p class="p-lg txt-justify">Are you trying to find budget friendly best PPC packages? If so, join ClickBox's affordable PPC packages. We offer cheap and customized PPC packages that support the needs of each client's business rather than fixed-price monthly PPC packages.</p>
+									<p class="p-lg txt-justify">Irrespective of your company's size, whether you run a little business or a major corporation, ClickBox has the ideal PPC pricing package for you. Our team of experienced PPC professionals will collaborate with you to design a campaign that is specific to your requirements and objectives. In order to guarantee that you are getting the most out of your PPC investment, we will also offer ongoing administration and optimization of your campaign.</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
@@ -120,9 +119,7 @@
 								</li>
 
 								<li class="list-item">
-									<p class="p-lg">Linkedin
-
-									</p>
+									<p class="p-lg">linkedin</p>
 								</li>
 							</ul>
 						</div>
@@ -131,7 +128,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-							<img class="img-fluid-500" src="../images/62.jpg" alt="creative digital marketing company india">
+							<img class="img-fluid" src="../images/62.png" alt="creative digital marketing company india">
 						</div>
 					</div>
 
@@ -156,7 +153,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/102.png" alt="creative digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/102.png" alt="creative digital marketing company new jersey" />
 							</div>
 							<h5 class="h5-md">Financial Planning</h5>
 							<p class="p-lg">A Google Ads account can be launched with absolutely no minimum cost for any types of business. You have complete control over your budget when you begin advertising on Google since you may adjust your ad spending in accordance with your PPC budget.</p>
@@ -166,7 +163,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/103.png" alt="digital marketing company coimbatore " />
+								<img class="img-fluid" src="../images/103.png" alt="digital marketing company coimbatore " />
 							</div>
 							<h5 class="h5-md">Durability</h5>
 							<p class="p-lg">Depending on how successfully your Google Ads Marketing campaign performs, you can scale up or down. Ads can be scaled, cost inflows can be controlled, and the output of your top performing ad campaigns can be maximized.</p>
@@ -182,7 +179,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/104.png" alt="ppc agency in coimbatore" />
+								<img class="img-fluid" src="../images/104.png" alt="ppc agency in coimbatore" />
 							</div>
 							<h5 class="h5-md">Purpose</h5>
 
@@ -193,7 +190,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/105.png" alt="ppc agency in india" />
+								<img class="img-fluid" src="../images/105.png" alt="ppc agency in india" />
 							</div>
 							<h5 class="h5-md">Analytics</h5>
 							<p class="p-lg">With the help of analytical tools, you may thoroughly analyse the effectiveness of your Google advertising campaign. Along with many other things, you may find out how many people clicked on your Google advertising and other information.</p>
@@ -421,7 +418,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -510,7 +507,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advanced" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advanced" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -607,7 +604,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="premium plan" title="premium plan" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="premium plan" title="premium plan" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -810,11 +807,11 @@
 			"url": "https://www.clickboxagency.com/ppc-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox offers Best PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility online and help people recognise it.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Clickbox offers PPC packages, which can significantly boost the effectiveness of your company. Our PPC strategies can increase your brand's visibility.",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

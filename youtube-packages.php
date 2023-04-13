@@ -27,23 +27,23 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/youtube-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/youtube-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/youtube-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/youtube-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/youtube-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/youtube-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="YouTube Marketing Packages | ClickBox" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Every YouTube marketing Package Optimization for Videos Campaign Setup Onboarding Call, Custom title, descriptions, and tags for YouTube" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -127,7 +127,7 @@
 					<div class="col ">
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/142.png" alt="YouTube Video Description Optimization" />
+								<img class="img-fluid" src="../images/142.png" alt="YouTube Video Description Optimization" />
 							</div>
 							<h5 class="h5-md">YouTube Video Description Optimization</h5>
 							<p class="p-lg">The video description is just as crucial as the video's title and can be used for a variety of things, such as adding relevant hashtags and dividing the video into sections with time jumps. Use text-based descriptions of your video content in addition to other strategies. To provide strong signals to the crawlers about the keywords the video should be ranked for and the things we have explained in the content that will be useful for a certain audience type, we use our YouTube SEO Services to create well-described yet SEO-friendly descriptions.</p>
@@ -138,7 +138,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/143.png" alt="YouTube Video Meta Keywords/Tags Optimization" />
+								<img class="img-fluid" src="../images/143.png" alt="YouTube Video Meta Keywords/Tags Optimization" />
 							</div>
 							<h5 class="h5-md">YouTube Video Meta Keywords/Tags Optimization</h5>
 							<p class="p-lg">This section is very important for any YT video because with this section, YouTube adds the tag of “Meta Keywords” followed by a set of HTML codes mentioned here. This section aids in enhancing both YouTube internal search and Google search rankings. This part can be used strategically by our knowledgeable team of YouTube Channel and Video SEO Optimization to effectively increase video impressions and views.</p>
@@ -153,7 +153,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/144.png" alt="Location Selection for YouTube Videos" />
+								<img class="img-fluid" src="../images/144.png" alt="Location Selection for YouTube Videos" />
 							</div>
 							<h5 class="h5-md">Location Selection for YouTube Videos</h5>
 							<p class="p-lg"> Adding your location makes your videos searchable by location, which may help you get more high-quality views. Focusing on getting 100 high-quality views is preferable to getting 10,000 low-quality views because this will help you generate more leads and grow your business.</p>
@@ -164,7 +164,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/145.png" alt="YouTube Video Internal Linking" />
+								<img class="img-fluid" src="../images/145.png" alt="YouTube Video Internal Linking" />
 							</div>
 							<h5 class="h5-md">YouTube Video Internal Linking</h5>
 							<p class="p-lg"> Internal linking is essential for the growth of your channel because search engines start by crawling and indexing a website's homepage before following any links to find and index additional pages from the same domain. Internal links greatly help them in this process by letting crawlers know which pages are essential to the success of the site.</p>
@@ -177,7 +177,7 @@
 					<div class="col ">
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/146.png" alt="Making an SEO-Optimized Description" />
+								<img class="img-fluid" src="../images/146.png" alt="Making an SEO-Optimized Description" />
 							</div>
 							<h5 class="h5-md">Making an SEO-Optimized Description for a YouTube Video Playlist</h5>
 							<p class="p-lg">As was already mentioned, descriptions are very important for putting playlists at the top of YT searches. Our knowledgeable content creators have some experience creating content for your you tube.</p>
@@ -187,7 +187,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/147.png" alt="YouTube Videos Playlist" />
+								<img class="img-fluid" src="../images/147.png" alt="YouTube Videos Playlist" />
 							</div>
 							<h5 class="h5-md">YouTube Videos Playlist SEO Title Creation and Optimization</h5>
 							<p class="p-lg">Each playlist has a unique Title and Description, only containing information pertinent to that playlist's genre. To ensure that users can watch all related content without having to search for it on your channel, our YT experts manage your playlists and assist you with the selection of videos that should fall into their related playlists.</p>
@@ -201,7 +201,7 @@
 					<div class="col ">
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/148.png" alt="Making YouTube Playlists for Videos" />
+								<img class="img-fluid" src="../images/148.png" alt="Making YouTube Playlists for Videos" />
 							</div>
 							<h5 class="h5-md">Making YouTube Playlists for Videos</h5>
 							<p class="p-lg">Playlists Rank on YouTube! Yes, that is accurate. A properly optimized playlist may even reach the top of YouTube Video Search. Ranking a playlist, however, is not for everyone because it takes a lot of work to get it to appear for the desired keywords. Our YouTube SEO experts are ingrained with this knowledge.</p>
@@ -211,7 +211,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/149.png" alt="YouTube Video Engagement Creations" />
+								<img class="img-fluid" src="../images/149.png" alt="YouTube Video Engagement Creations" />
 							</div>
 							<h5 class="h5-md">YouTube Video Engagement Creations (Comments and Likes)</h5>
 							<p class="p-lg">As part of our YouTube SEO services, we also post a few comments and boost the number of video likes. However, since we never use bots for this, they are all real. The only goal is to imply to crawlers subtly that this video contains reliable information.</p>
@@ -226,7 +226,7 @@
 					<div class="col ">
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/150.png" alt="YouTube Video Title Optimization" />
+								<img class="img-fluid" src="../images/150.png" alt="YouTube Video Title Optimization" />
 							</div>
 							<h5 class="h5-md text-center">YouTube Video Title Optimization</h5>
 							<p class="p-lg text-center">The video title is always what draws your attention when you search for a video on YouTube. One of the first things that draws our attention is the title. Because the title frequently determines whether or not someone will click to watch your movie, it needs to be appealing in addition to being clear and concise. With our YouTube video optimization process, we conduct thorough keyword research first before finalizing the titles for each individual video in order to increase CRT (Click-Through-Rate) and SEO optimized for higher search rankings on YouTube.</p>
@@ -236,7 +236,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/151.png" alt="Making YouTube Video Thumbnails" />
+								<img class="img-fluid" src="../images/151.png" alt="Making YouTube Video Thumbnails" />
 							</div>
 							<h5 class="h5-md text-center">Making YouTube Video Thumbnails</h5>
 							<p class="p-lg text-center">YouTube Video is a very powerful medium. However, the play button must be clicked for your YouTube video to be successful. How do you convince someone to watch your video when there are billions of others? An eye-catching thumbnail image can help. Whether you're posting to YouTube, social media, or your own website, these straightforward guidelines will help you make the ideal thumbnail for a YouTube video.
@@ -443,7 +443,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -513,7 +513,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -594,7 +594,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -752,10 +752,10 @@
 				"email": "info@clickboxagency.com",
 				"foundingDate": "2022",
 				"description": "Every YouTube marketing Package Optimization for Videos Campaign Setup Onboarding Call, Custom title, descriptions, and tags for YouTube",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+				"logo": "https://www.clickboxagency.com/images/logo-01.png",
 				"contactPoint": {
 					"@type": "ContactPoint",
-					"telephone": "+91 7358644710",
+					"telephone": "+91 8870578887",
 					"contactType": "sales",
 					"contactOption": "Customer Service",
 					"areaServed": "India, United States, Australia, Canada, United Kingdom",

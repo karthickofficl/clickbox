@@ -27,23 +27,23 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/" />
 
-	<meta property="og:site_name" content="https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Result Driven PPC Campaign Advertising Company New Jersey | Clickbox" />
 
@@ -55,14 +55,8 @@
 
 	<meta name="twitter:description" content="Looking for a reliable PPC campaign Advertising company in New Jersey? looking to increase brand awareness, leads, or boost sales, Contact us today..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-	<style>
-		.bg-13 {
-			background-color: #f3f3f3;
-		}
-	</style>
-
 </head>
 
 <body>
@@ -81,15 +75,8 @@
 		</div>
 	</section>
 	<!-- =================SECTION 2===================-->
-	<section id="content-3" class="bg-snow pt-30 content-3  content-section division">
+	<section id="content-3" class="bg-white pt-30 content-3  content-section division">
 		<div class="container">
-			<div class="row ">
-				<div class="col-lg-12 col-xl-12">
-					<div class="section-title  mb-30">
-						<h2 class="h3-xs">PPC Advertising: <span class="txtred">Make Smart Brand Choices</span></h2>
-					</div>
-				</div>
-			</div>
 			<div class="top-row pb-30">
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
@@ -99,6 +86,7 @@
 					</div>
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInLeft">
+							<h2 class="h3-xs">PPC Advertising: <span class="txtred">Make Smart Brand Choices</span></h2>
 							<p class="p-lg txt-justify">Today, the digital landscape is expanding at breakneck pace, and websites are multiplying at breakneck speed. Almost everyone is on the internet, from small businesses and franchises to eCommerce enterprises and entrepreneurs, figuring out advertising routes and optimizing all available conversion pathways. Greater marketing possibilities, on the other hand, bring with them bigger obstacles.</p>
 							<p class="p-lg txt-justify">Even though there are advertising methods and digital marketing platforms, some companies don't get the attention of their target audience. Because of this, people in the market are fighting an uphill battle and making little progress with their online marketing.</p>
 						</div>
@@ -108,7 +96,7 @@
 		</div>
 	</section>
 	<!-- SECTION 3 -->
-	<section class="bg-snow content-3 mb-20 features-section division  ">
+	<section class="bg-white content-3 mb-20 features-section division  ">
 		<div class="container ">
 			<div class="row">
 				<div class="col-lg-10 col-xl-10">
@@ -161,11 +149,11 @@
 	<!-- SECTION 4 -->
 	<section class="bg-13 content-3 pt-30 features-section division mb-40">
 		<div class="container">
-			<div class="row">
+			<div class="row justify-content-center">
 				<div class="col-lg-12 col-xl-12">
 					<div class="txt-block">
-						<h2 class="h3-xs">Click Your Way to <span class="txtred">Success with Clickbox's PPC Services NJ</span></h2>
-						<p class="p-lg text-left">Clickbox Creative Marketing Agency's PPC services can help businesses achieve success through effective and efficient online advertising.</p>
+						<h2 class="h3-xs text-center">Click Your Way to <span class="txtred">Success with Clickbox's PPC Services NJ</span></h2>
+						<p class="p-lg text-center">Clickbox Creative Marketing Agency's PPC services can help businesses achieve success through effective and efficient online advertising.</p>
 					</div>
 				</div>
 			</div>
@@ -176,14 +164,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-lg-12 col-xl-12">
-					<div class="txt-block">
-						<h2 class="h3-xs ">PPC Agency That <span class="txtred">Delivers Positive Results</span></h2>
-						<p class="p-md ">To help you save both time and money, we optimize your paid accounts</p>
-					</div>
-				</div>
-			</div>
+
 			<div class="row d-flex align-items-center">
 				<div class="col-md-5 col-lg-6">
 					<div class="img-block left-column wow fadeInRight">
@@ -192,6 +173,8 @@
 				</div>
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
+						<h2 class="h3-xs">PPC Agency That <span class="txtred">Delivers Positive Results</span></h2>
+						<p class="p-md txtred">To help you save both time and money, we optimize your paid accounts</p>
 						<p class="p-lg txt-justify">Since the year 2020, our ppc management company nj has been offering comprehensive pay per click solutions to boost our clients' market success. In order to help you expand your campaign and reach your marketing objectives, our ppc campaign management company nj makes use of data and analytics.</p>
 						<p class="p-lg txt-justify">Learn how our ppc campaign management services has changed the landscape of digital marketing for the largest names in your field.</p>
 					</div>
@@ -200,7 +183,7 @@
 			<div class="fbox-8-wrapper text-center pt-30">
 				<div class="row row-cols-1 row-cols-md-3">
 					<div class="col  ">
-						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp p-3">
+						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp p-3 bg-white">
 							<div class="fbox-img ">
 								<img class="img-fluid" src="../images/75.jpg" alt="creative mobile seo india" />
 							</div>
@@ -209,7 +192,7 @@
 						</div>
 					</div>
 					<div class="col  ">
-						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3">
+						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3 bg-white">
 							<div class="fbox-img ">
 								<img class="img-fluid" src="../images/75.jpg" alt="mobile seo company" />
 							</div>
@@ -218,7 +201,7 @@
 						</div>
 					</div>
 					<div class="col  ">
-						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3">
+						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3 bg-white">
 							<div class="fbox-img ">
 								<img class="img-fluid" src="../images/75.jpg" alt="mobile seo company" />
 							</div>
@@ -239,20 +222,17 @@
 		</div>
 	</section>
 	<!-- SECTION 5 -->
-	<section id="content-3" class="bg-snow pt-30 content-3  content-section division">
+	<section id="content-3" class="bg-white pt-30 content-3  content-section division">
 		<div class="container">
-			<div class="row ">
-				<div class="col-lg-12 col-xl-12">
-					<div class="section-title  mb-30">
-						<h2 class="h3-xs"> Pay Per Click <span class="txtred">Advertising Agency in New Jersey</span></h2>
-					</div>
-				</div>
-			</div>
 			<div class="row d-flex align-items-center">
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block left-column  wow fadeInLeft">
+						<h2 class="h3-xs"> Pay Per Click <span class="txtred">Advertising Agency in New Jersey</span></h2>
 						<p class="p-lg txt-justify">ClickBox Creative Marketing is a comprehensive Pay Per Click (PPC) advertising solution that helps businesses of all sizes maximize their online advertising budget and achieve their business goals. With ClickBox, you can be sure that your pay-per-click (PPC) campaigns are in the hands of experts who know how online advertising works and are committed to getting results.</p>
 						<p class="p-lg txt-justify">Our team of PPC marketing specialists will work closely with you to understand your business, identify your target audience, and create customized campaigns that are tailored to your specific needs. We use the most up-to-date tools and technologies to keep an eye on and improve your campaigns, making sure you get the most out of your advertising budget.</p>
+						<div class="more-btn mt-20">
+							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Launch Your PPC Campaign Today</a>
+						</div>
 					</div>
 				</div>
 				<div class="col-md-5 col-lg-6">
@@ -261,21 +241,12 @@
 					</div>
 				</div>
 			</div>
-			<div class="more-btn mt-20">
-				<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Launch Your PPC Campaign Today</a>
-			</div>
+
 		</div>
 	</section>
 	<!-- SECTION 6 -->
 	<section id="content-3" class="bg-snow pt-30 content-3  content-section division">
 		<div class="container">
-			<div class="row ">
-				<div class="col-lg-12 col-xl-12">
-					<div class="section-title  mb-30">
-						<h2 class="h3-xs">What is <span class="txtred">Pay Per Click Advertising?</span></h2>
-					</div>
-				</div>
-			</div>
 			<div class="row d-flex align-items-center">
 				<div class="col-md-5 col-lg-6">
 					<div class="img-block left-column wow fadeInRight">
@@ -284,6 +255,7 @@
 				</div>
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block  right-column wow fadeInLeft">
+						<h2 class="h3-xs">What is <span class="txtred">Pay Per Click Advertising?</span></h2>
 						<p class="p-lg txt-justify">PPC marketing, also known as "paid search marketing," is an effective strategy for boosting visibility in front of a targeted audience quickly and efficiently. Pay-per-click (PPC) advertising models only charge businesses when users interact with their ads.</p>
 						<p class="p-lg txt-justify">Whenever the term "pay per click" is spoken, <a href="https://ads.google.com/home/" aria-label="Google ads" title="Google ads" class="txtbluee"><u>Google Ads</u></a> is generally the first thing that comes to mind. PPC, however, is not limited to either the Google SERPs or the Google Display Network. The pay-per-click business model is also used by social networking sites, including <a href="https://www.youtube.com/" aria-label="YouTube" title="YouTube" class="txtbluee"><u>YouTube</u></a>, <a href="https://www.facebook.com/" aria-label="Facebook" title="Facebook" class="txtbluee"><u>Facebook</u></a>, <a href="https://in.pinterest.com/" aria-label="Pinterest" title="Pinterest" class="txtbluee"><u>Pinterest</u></a>, and <a href="https://in.linkedin.com/company/linkedin" aria-label="LinkedIn" title="LinkedIn" class="txtbluee"><u>LinkedIn</u></a>.</p>
 					</div>
@@ -292,13 +264,13 @@
 		</div>
 	</section>
 	<!-- SECTION 7 START -->
-	<section id="features-4" class="pt-20 bg-snow features-section division">
+	<section id="features-4" class="pt-20 bg-white features-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-xl-12">
 					<div class="section-title  mb-70">
-						<h2 class="h3-xs ">Benefits of <span class="txtred">PPC</span></h2>
-						<p class="p-lg">There are many benefits to using pay-per-click (PPC) advertising as part of your overall digital marketing strategy. Some of the major advantages are as follows:</p>
+						<h2 class="h3-xs text-center">Benefits of <span class="txtred">PPC</span></h2>
+						<p class="p-lg text-center">There are many benefits to using pay-per-click (PPC) advertising as part of your overall digital marketing strategy. Some of the major advantages are as follows:</p>
 					</div>
 				</div>
 			</div>
@@ -378,8 +350,8 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-sm-12">
 					<div class="brands-title ">
-						<h2 class="h3-xs ">PPC Marketing <span class="txtred">Our Services</span></h2>
-						<p class="p-md">Unlock Your Business's Full Potential with PPC</p>
+						<h2 class="h3-xs text-center">PPC Marketing <span class="txtred">Our Services</span></h2>
+						<p class="p-md text-center">Unlock Your Business's Full Potential with PPC</p>
 					</div>
 				</div>
 			</div>
@@ -395,7 +367,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Keyword Research & Analysis</h6>
-							<p class="p-lg ">Our PPC advertising agency uses several techniques to analyze your clients' search activity and forecast their search phrases. We classify your keywords by industry, search volume, and competitiveness. Our paid search professionals will refine your keyword selection to capture your target audience's interest and search intent. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Our PPC advertising agency uses several techniques to analyze your clients' search activity and forecast their search phrases. We classify your keywords by industry, search volume, and competitiveness. Our paid search professionals will refine your keyword selection to capture your target audience's interest and search intent.</p>
 						</div>
 					</div>
 				</div>
@@ -410,7 +382,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Landing Page Conversion Optimization</h6>
-							<p class="p-lg ">With the support of our pay per click marketing agency, you may significantly improve your lead generation efforts. Your landing pages will have catchy headlines, relevant keywords, interesting content, and prominent calls to action (CTAs) thanks to our efforts. Our PPC firm uses proven SEO and PPC strategies in tandem to increase conversions. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">With the support of our pay per click marketing agency, you may significantly improve your lead generation efforts. Your landing pages will have catchy headlines, relevant keywords, interesting content, and prominent calls to action (CTAs) thanks to our efforts. Our PPC firm uses proven SEO and PPC strategies in tandem to increase conversions. </p>
 						</div>
 					</div>
 				</div>
@@ -425,7 +397,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">PPC Management</h6>
-							<p class="p-lg ">Collaborate with our pay per click agency to send qualified visitors to your landing pages quickly and easily. Our PPC management agency covers keyword research and analysis, channel planning, PPC campaign launch, monitoring, and <a href="https://en.wikipedia.org/wiki/A/B_testing" aria-label="A/B testing" title="A/B testing" class="txtbluee"><u>A/B testing</u></a>. Our pay per click advertising company offers budget-friendly conversion-driven programmes. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Collaborate with our pay per click agency to send qualified visitors to your landing pages quickly and easily. Our PPC management agency covers keyword research and analysis, channel planning, PPC campaign launch, monitoring, and <a href="https://en.wikipedia.org/wiki/A/B_testing" aria-label="A/B testing" title="A/B testing" class="txtbluee"><u>A/B testing</u></a>. Our pay per click advertising company offers budget-friendly conversion-driven programmes. </p>
 						</div>
 					</div>
 				</div>
@@ -440,7 +412,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Paid Search Advertising</h6>
-							<p class="p-lg ">Use our PPC agency to boost your brand's search rankings. Thrive's <a href="https://ads.google.com/intl/en_in/home/resources/what-is-paid-search/" aria-label="paid search" title="paid search" class="txtbluee"><u>paid search</u></a> experts improve ad targeting, find high-value keywords, create PPC bidding strategies, and measure ROI. Our PPC marketing agency improves Quality Score, CTR, and impression share using these methods. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Use our PPC agency to boost your brand's search rankings. Thrive's <a href="https://ads.google.com/intl/en_in/home/resources/what-is-paid-search/" aria-label="paid search" title="paid search" class="txtbluee"><u>paid search</u></a> experts improve ad targeting, find high-value keywords, create PPC bidding strategies, and measure ROI. Our PPC marketing agency improves Quality Score, CTR, and impression share using these methods. </p>
 						</div>
 					</div>
 				</div>
@@ -455,7 +427,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Ads A/B Split Testing</h6>
-							<p class="p-lg ">Our pay per click management agency compares campaigns to assess ad performance. We test alternative layouts, images, headlines, and CTAs to find the best pay-per-click advertising. Our PPC agency optimizes your future sponsored search campaigns and improves your PPC effectiveness using split-test data. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Our pay per click management agency compares campaigns to assess ad performance. We test alternative layouts, images, headlines, and CTAs to find the best pay-per-click advertising. Our PPC agency optimizes your future sponsored search campaigns and improves your PPC effectiveness using split-test data. </p>
 						</div>
 					</div>
 				</div>
@@ -470,7 +442,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Conversion Rate Optimization (CRO)</h6>
-							<p class="p-lg ">Capture and transfer target consumers to the bottom of the sales funnel. To improve Quality Score and <a href="https://support.google.com/google-ads/answer/2684489?hl=en#" aria-label="conversion rate" title="conversion rate" class="txtbluee"><u>conversion rate</u></a>, our PPC firm generates engaging PPC advertisements, evaluates landing page designs, and creates user-friendly lead collection forms. Contact our sponsored search agency to boost profits without increasing ad expenditure. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Capture and transfer target consumers to the bottom of the sales funnel. To improve Quality Score and <a href="https://support.google.com/google-ads/answer/2684489?hl=en#" aria-label="conversion rate" title="conversion rate" class="txtbluee"><u>conversion rate</u></a>, our PPC firm generates engaging PPC advertisements, evaluates landing page designs, and creates user-friendly lead collection forms. Contact our sponsored search agency to boost profits without increasing ad expenditure. </p>
 						</div>
 					</div>
 				</div>
@@ -485,7 +457,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Bing & Google Ads Management</h6>
-							<p class="p-lg ">To increase traffic and income, engage with your target consumers on search engines. To reach your target audience, Thrive's PPC professionals conduct thorough PPC audits. To increase interaction, we optimize PPC advertisements for each platform, enhance SEM targeting, and use site link extensions. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">To increase traffic and income, engage with your target consumers on search engines. To reach your target audience, Thrive's PPC professionals conduct thorough PPC audits. To increase interaction, we optimize PPC advertisements for each platform, enhance SEM targeting, and use site link extensions. </p>
 						</div>
 					</div>
 				</div>
@@ -500,7 +472,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Social Media Advertising</h6>
-							<p class="p-lg "><span class="txtyelloww">54% of internet consumers investigate products on social media</span>. Pay-per-click advertising may boost brand awareness, lower marketing expenses, and keep prospects in mind. Our pay per click professionals identify your target audience, study their social media activity, and use photos, videos, and texts to increase consumer reach and brand engagement. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg "><span class="txtyelloww">54% of internet consumers investigate products on social media</span>. Pay-per-click advertising may boost brand awareness, lower marketing expenses, and keep prospects in mind. Our pay per click professionals identify your target audience, study their social media activity, and use photos, videos, and texts to increase consumer reach and brand engagement.</p>
 						</div>
 					</div>
 				</div>
@@ -515,7 +487,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Nextdoor Advertising</h6>
-							<p class="p-lg ">Our PPC firm uses <a href="https://business.nextdoor.com/en-us/small-business/product/ads" aria-label="Nextdoor advertising" title="Nextdoor advertising" class="txtbluee"><u>Nextdoor advertising</u></a> to link your brand with local consumers and boost sales funnel conversions. We claim and maintain your Nextdoor business page, write customer-targeted adverts, and construct a Nextdoor landing page. Our pay per click professionals use analytics and measurement to monitor metrics and improve campaign success. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Our PPC firm uses <a href="https://business.nextdoor.com/en-us/small-business/product/ads" aria-label="Nextdoor advertising" title="Nextdoor advertising" class="txtbluee"><u>Nextdoor advertising</u></a> to link your brand with local consumers and boost sales funnel conversions. We claim and maintain your Nextdoor business page, write customer-targeted adverts, and construct a Nextdoor landing page. Our pay per click professionals use analytics and measurement to monitor metrics and improve campaign success. </p>
 
 						</div>
 					</div>
@@ -531,7 +503,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Remarketing Campaigns</h6>
-							<p class="p-lg ">Target visitor segments for more cost-effective remarketing. Our PPC management service finds your best campaigns, develops <a href="https://ads.google.com/intl/en_uk/home/resources/retargeting-ads/#" aria-label="remarketing advertising" title="remarketing advertising" class="txtbluee"><u>remarketing advertising</u></a> for high-value consumers, and targets site visits with buy intent. To cut marketing costs, we establish the ideal frequency limit for your remarketing programmes. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Target visitor segments for more cost-effective remarketing. Our PPC management service finds your best campaigns, develops <a href="https://ads.google.com/intl/en_uk/home/resources/retargeting-ads/#" aria-label="remarketing advertising" title="remarketing advertising" class="txtbluee"><u>remarketing advertising</u></a> for high-value consumers, and targets site visits with buy intent. To cut marketing costs, we establish the ideal frequency limit for your remarketing programmes.</p>
 						</div>
 					</div>
 				</div>
@@ -546,7 +518,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md ">Amazon PPC</h6>
-							<p class="p-lg ">Amazon product and video advertising attract online buyers and boost your Amazon earning margin. Our Amazon AI advertising management solution helps you find interested customers, enhance sales, and maximize ROI. Our <a href="https://www.sellerapp.com/blog/amazon-ppc-basics/#:" aria-label="Amazon PPC advertising" title="Amazon PPC advertising" class="txtbluee"><u>Amazon PPC advertising</u></a> firm optimizes keyword match types, negative keywords, product category structure, and ad expenditure depending on product performance. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Amazon product and video advertising attract online buyers and boost your Amazon earning margin. Our Amazon AI advertising management solution helps you find interested customers, enhance sales, and maximize ROI. Our <a href="https://www.sellerapp.com/blog/amazon-ppc-basics/#:" aria-label="Amazon PPC advertising" title="Amazon PPC advertising" class="txtbluee"><u>Amazon PPC advertising</u></a> firm optimizes keyword match types, negative keywords, product category structure, and ad expenditure depending on product performance.</p>
 						</div>
 					</div>
 				</div>
@@ -561,21 +533,69 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md ">YouTube Ads</h6>
-							<p class="p-lg ">Use a more focused strategy for marketing videos on <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjFtrmMgJD-AhVGJSsKHYA1CQUYABAAGgJzZg&sig=AOD64_2v6y0tYoQAWjS1guwp3FmgepuLKQ&q&adurl&ved=2ahUKEwiI0rKMgJD-AhVoUGwGHYNyAlsQ0Qx6BAgJEAE" aria-label="YouTube" title="YouTube" class="txtbluee"><u>YouTube</u></a> to reach your target audience and create advertising that people will remember. Our PPC management firm will investigate YouTube's specialized targeting capabilities, create video remarketing campaigns, and provide an unexpected twist to your in-stream commercials. We make commercials for YouTube that convey your brand's personality and appeal to your ideal customers. <a href="#" class="btn-sm-services">See more...</a></p>
+							<p class="p-lg ">Use a more focused strategy for marketing videos on <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjFtrmMgJD-AhVGJSsKHYA1CQUYABAAGgJzZg&sig=AOD64_2v6y0tYoQAWjS1guwp3FmgepuLKQ&q&adurl&ved=2ahUKEwiI0rKMgJD-AhVoUGwGHYNyAlsQ0Qx6BAgJEAE" aria-label="YouTube" title="YouTube" class="txtbluee"><u>YouTube</u></a> to reach your target audience and create advertising that people will remember. Our PPC management firm will investigate YouTube's specialized targeting capabilities, create video remarketing campaigns, and provide an unexpected twist to your in-stream commercials. We make commercials for YouTube that convey your brand's personality and appeal to your ideal customers. </p>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
+	<!-- Section 10 -->
+	<section id="features-4" class="pt-20 pb-40 bg-white features-section division">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-xl-12">
+					<div class="section-title  mb-20">
+						<h2 class="h3-xs text-center">SEO v<span class="txtred">s PPC</span></h2>
+					</div>
+				</div>
+			</div>
+			<!-- FEATURES-4 WRAPPER -->
+			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-2">
+				<div class="col squire-cards-col">
+					<div class="squire-cards bg-violet h-100">
+						<div class="squire-icons">
+							<div class="ico-65">
+								<span>
+									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="research and analysis">
+								</span>
+							</div>
+						</div>
+						<div class="squire-content mt-15">
+							<h6 class="h6-md text-white">SEARCH ENGINE OPTIMIZATION</h6>
+							<p class="p-lg text-squire-muted txt-justify">Organic traffic may be increased, brand recognition increased, online reputation increased, and consumer confidence gained via <a href="https://developers.google.com/search/docs/fundamentals/seo-starter-guide#:" aria-label="SEO" title="SEO" class="txtbluee"><u>SEO</u></a>. Yet, many SEO providers will tell you that it takes at least four to six months to see benefits from an SEO strategy. A year after being published, just 5.7% of web pages appear in the top 10 organic search results for a single phrase, according to a research by Ahrefs. It took these high-performing webpages anything from two months to six months to reach the top ten.</p>
+							<p class="p-lg text-squire-muted txt-justify"><a href="https://clickboxagency.com/seo-company-in-india/" aria-label="SEO" title="SEO" class="txtbluee"><u>Search engine optimization</u></a> is a slow process. As a result, businesses that depend largely on organic search often fall short of their targets and deadlines. Pay-per-click marketing is the way to go if you want total control, flexibility, and immediate results from your internet advertising.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col squire-cards-col">
+					<div class="squire-cards bg-violet h-100">
+						<div class="squire-icons">
+							<div class="squire-icons">
+								<div class="ico-65">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="planning and implementation">
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="squire-content mt-15">
+							<h6 class="h6-md text-white">PAY-PER-CLICK</h6>
+							<p class="p-lg text-squire-muted txt-justify">Pay-per-click (PPC) advertising is one of the most successful and cost-efficient forms of internet marketing. Pay-per-click (PPC) advertising gives companies more control over their advertising budgets and helps them showcase their products and services to the appropriate audience at the right time. The customized exposure you receive through pay-per-click advertising shortens the purchase process for consumers and increases your conversion rate.</p>
+							<p class="p-lg text-squire-muted txt-justify">Combining search engine optimization with pay-per-click advertising is the optimal way to acquire relevant results. Combined SEO and PPC efforts maximize exposure, attract targeted visitors, and provide sustainable results. Pay-per-click internet marketing, on the other hand, might be the greatest alternative if you just have a limited time frame to promote your brand's offers and create an impression on your niche market.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</section>
 	<!-- Section 9 -->
 	<section id="features-4" class="pt-30 bg-13 features-section division">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-lg-12 col-xl-12">
+				<div class="col-lg-8 col-xl-8">
 					<div class="section-title mb-70">
-						<h2 class="h3-xs ">What Are the <span class="txtred">Different Types of PPC Ads?</span></h2>
-						<p class="p-xl">There are many different kinds of pay-per-click advertisements accessible, and the one you choose should depend on your aims.</p>
+						<h2 class="h3-xs text-center">What Are the <span class="txtred">Different Types of PPC Ads?</span></h2>
+						<p class="p-xl text-center">There are many different kinds of pay-per-click advertisements accessible, and the one you choose should depend on your aims.</p>
 					</div>
 				</div>
 			</div>
@@ -664,13 +684,14 @@
 			</div>
 		</div>
 	</section>
-	<!-- Section 10 -->
-	<section id="features-4" class="pt-30 pb-40 bg-snow features-section division">
+
+	<!-- SECTION 11 -->
+	<section id="features-4" class="pt-30 pb-40 bg-white features-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-70">
-						<h2 class="h3-xs ">Why Choose <span class="txtred">Clickbox PPC Advertising Service?</span></h2>
+						<h2 class="h3-xs text-center">Why Choose <span class="txtred">Clickbox PPC Advertising Service?</span></h2>
 					</div>
 				</div>
 			</div>
@@ -680,56 +701,49 @@
 						<div class="fbox-txt-infograpic text-right-info">
 							<h6 class="h6-md">Experience and Expertise</h6>
 							<details>
-								<summary>Highlight your company's experience and expertise in PPC advertising service. <br><span class="readmore">Read more...</span></summary>
-								<p class="p-lg ">Showcase your team's qualifications, certifications, and past successes to show that you know how to make effective PPC campaigns and have the skills to do so.</p>
-							</details>
+								<summary>Highlight your company's experience and expertise in PPC advertising service. Showcase your team's qualifications, certifications, and past successes to show that you know how to make effective PPC campaigns and have the skills to do so.</summary>
+								</details>
 						</div>
 						<div class="fbox-txt-infograpic text-right-info">
 							<h6 class="h6-md">Customized Solutions</h5>
 								<details>
-									<summary>Emphasize your ability to create customized PPC solutions that are tailored to each client's unique needs and goals. <br><span class="readmore">Read more...</span></summary>
-									<p class="p-lg ">This shows that you take the time to understand your clients' businesses and create campaigns that are designed to deliver results.</p>
+									<summary>Emphasize your ability to create customized PPC solutions that are tailored to each client's unique needs and goals.This shows that you take the time to understand your clients' businesses and create campaigns that are designed to deliver results.</summary>
+									
 								</details>
 						</div>
-						
+
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
 						<img src="https://clickboxagency.com/images/png-icons/why-choose-us-home.png" alt="why choose clickboxagency" class="img-fluid">
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
 						<div class="fbox-txt-infograpic">
-							<h6 class="h6-md">Personalized service</h6>
+							<h6 class="h6-md">Transparency and Communication</h6>
 							<details>
-								<summary>ClickBox takes the time to understand your business objectives, target audience, and industry trends, <br><span class="readmore">Read more...</span></summary>
-								<p class="p-lg ">which allows them to create effective marketing campaigns that deliver results. By working closely with you, ClickBox can tailor your marketing strategy to your unique needs and goals.</p>
+								<summary>Focus on your commitment to transparency and communication with clients. Show that you provide regular updates and reports on campaign performance and that you're always available to answer questions and provide support.</summary>
+
 							</details>
 						</div>
 						<div class="fbox-txt-infograpic">
-							<h6 class="h6-md">Experienced team</h6>
+							<h6 class="h6-md">Results-Driven Approach</h6>
 							<details>
-								<summary>ClickBox has a team of experienced professionals who have worked with a variety of clients across <br><span class="readmore">Read more...</span></summary>
-								<p class="p-lg "> different industries. This means that they have the knowledge and expertise to create effective digital marketing strategies that work for your business.</p>
+								<summary>Emphasize your results-driven approach to PPC advertising. Use data and analytics to optimize campaigns for better performance and showcase your ability to deliver measurable results for clients.</summary>
+				
 							</details>
 						</div>
-						<div class="fbox-txt-infograpic">
-							<h6 class="h6-md">Quality</h6>
-							<details>
-								<summary>ClickBox Company is committed to delivering high-quality branding services that meet or exceed their <br><span class="readmore">Read more...</span></summary>
-								<p class="p-lg ">clients' expectations. They use the latest design techniques and tools to promote products with impact and a pleasing appearance.</p>
-							</details>
-						</div>
+
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- Section 11 -->
+	<!-- Section 12 -->
 	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-80">
-						<h2 class="h3-xs text-center">Our <span class="txtred">Mobile SEO Pricing</span></h2>
+						<h2 class="h3-xs text-center">Our <span class="txtred">PPC Pricing</span></h2>
 					</div>
 				</div>
 			</div>
@@ -740,7 +754,7 @@
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<div class="pricing-plan">
 								<div class="pricing-plan-title">
-									<h5 class="h5-xs">Basic Mobile SEO Package </h5>
+									<h5 class="h5-xs">Basic PPC Package </h5>
 								</div>
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">20</span>
@@ -807,27 +821,22 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
-					</div> <!-- END BASIC PLAN -->
-
-
-					<!-- AGENCY PLAN -->
+					</div>
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<div class="pricing-plan">
 
 								<div class="pricing-plan-title">
-									<h5 class="h5-xs">Advance Mobile SEO Package</h5>
+									<h5 class="h5-xs">Advance PPC Package</h5>
 								</div><!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">30</span>
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
 
 							</div>
-
-							<!-- Plan Features  -->
 							<ul class="features">
 								<li>
 									<p class="p-md">15 Keywords Plan</p>
@@ -894,16 +903,16 @@
 									<p class="p-md"><span>Professional digital marketing specialist</span></p>
 								</li>
 
-							</ul><a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							</ul><a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
-					</div> <!-- END AGENCY PLAN  -->
+					</div>
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<div class="pricing-plan highlight">
 
 								<div class="pricing-plan-title">
-									<h5 class="h5-xs"> Premium Mobile SEO Package</h5>
+									<h5 class="h5-xs"> Premium PPC Package</h5>
 								</div>
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">40</span>
@@ -988,24 +997,22 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div> <!-- End container -->
-	</section> <!-- END PRICING-2 -->
+		</div>
+	</section>
 
 	<?php include('our-clients.php') ?>
 
 	<!-- FAQs-2>===================================== -->
 	<section id="faqs-2" class="pt-20 faqs-section division">
 		<div class="container">
-			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
-						<!-- Title -->
 						<h2 class="h3-xs text-center">Frequently <span class="txtred">Asked Questions</span></h2>
 					</div>
 				</div>
@@ -1022,13 +1029,12 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											<b>What is Mobile SEO?</b>
+											<b>What are PPC management services?</b>
 										</button>
 									</h2>
 									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Mobile SEO, or search engine optimization for mobile devices, The process of content optimization aims to raise the visibility of your web pages in search engine results pages (SERPs). This procedure assists in increasing organic traffic, or visitors who arrive at your website via search engine results.</p>
-
+											<p class="p-lg">management services for pay-per-click (PPC) advertising, in which users pay a predetermined amount each time they click on a link on a search engine or social networking site.</p>
 										</div>
 									</div>
 								</div>
@@ -1036,15 +1042,68 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwo">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											<b>Do the SEO packages only include content optimization or do they also include content creation?</b>
+											<b>What are the best pay-per-click services for me?</b>
 										</button>
 									</h2>
 									<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<!-- TEXT BOX -->
 											<div class="txt-box">
-												<p class="p-lg">It's based on the SEO Package you select! For Off-page optimization, we'll write some articles and employ link-building techniques. We will simply optimize the current content for On-page SEO.</p>
-
+												<p class="p-lg">When it comes to selecting PPC campaign management services, there is no one best option. It absolutely relies on your financial situation, your business, and the niche you are in.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- QUES 3 -->
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingThree">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+											<b>What are the different types of PPC Ads?</b>
+										</button>
+									</h2>
+									<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<!-- TEXT BOX -->
+											<div class="txt-box">
+												<p class="p-lg">PPC advertising services nj may be broken down into the following categories:</p>
+												<ul class="simple-list">
+													<li class="list-item">
+														<p class="p-lg">Remarketing Campaigns</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Campaign Management Setup</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Native Advertising</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">PPC Audit Services</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Search Ads</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Display Ads</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Google Shopping Ads</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Local Services Ads</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Youtube Ads</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Facebook Ad Services</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Conversion Rate Optimization (CRO)</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Social Media Advertising</p>
+													</li>
+												</ul>
 											</div>
 										</div>
 									</div>
@@ -1055,64 +1114,49 @@
 					<div class="col">
 						<div class="questions-holder pr-15">
 							<div class="accordion" id="accordionExample">
+								<!-- QUES 4-->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-											<b>What makes mobile SEO so important?</b>
+											<b>Which PPC management provider is best for my business?</b>
 										</button>
 									</h2>
 									<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Mobile optimization, which takes into account factors such as site design, site structure, page speed, and more to create a superior mobile user experience, makes sure that mobile visitors enjoy an experience that is optimized for their mobile device.
-											</p>
+											<p class="p-lg">Be sure the PPC management firm you choose is well-respected in the industry, has a solid track record, and is a good match for your organization before signing on the dotted line.</p>
 										</div>
 									</div>
 								</div>
-								<!-- QUES 4-->
+								<!-- QUES 5-->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFive">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-											<b>What services are included in Mobile SEO?</b>
+											<b>The price tag of PPC services?</b>
 										</button>
 									</h2>
 									<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg">Our Mobile SEO Services Include:-</p>
-
-											<ul class="simple-list ">
-												<li class="list-item">
-													Accessibility and usability consulting
-												</li>
-												<li class="list-item">
-													Link Building
-												</li>
-												<li class="list-item">
-													Keywords research and optimization
-												</li>
-												<li class="list-item">
-													Local SEO
-												</li>
-												<li class="list-item">
-													Mobile-friendly Web Design
-												</li>
-												<li class="list-item">
-													Content optimization
-												</li>
-												<li class="list-item">
-													Multilingual mobile site optimization
-												</li>
-												<li class="list-item">
-													Mobile website design
-												</li>
-											</ul>
+											<p class="p-lg">When it comes to pay-per-click (PPC) services, the response is "it depends." Yet, pay-per-click (PPC) services may be found in a wide price range. Have a look at our <a href="https://clickboxagency.com/ppc-packages/" aria-label="PPC Price" title="PPC Price" class="txtbluee"><u>PPC price</u></a> options or contact us for a tailored estimate. </p>
 										</div>
 									</div>
 								</div>
-							</div> <!-- END QUESTIONS HOLDER -->
+								<!-- QUES 6-->
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingSix">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+											<b>What's the best option? PPC or SEO?</b>
+										</button>
+									</h2>
+									<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<p class="p-lg">The correct response to this question is conditional on your specific circumstances, goals, and industry. There are advantages and disadvantages to both PPC and SEO strategies. The two methods of promotion are equally valid. Determine if pay-per-click advertising or search engine optimization would be more beneficial to your organization.</p>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
-						<!-- SECOND COLUMN END -->
-					</div> <!-- End row -->
-				</div> <!-- END FAQs-2 QUESTIONS -->
+					</div>
+				</div>
 				<div class="row">
 					<div class="col  ">
 						<div class="more-questions">
@@ -1120,10 +1164,43 @@
 						</div>
 					</div>
 				</div>
-			</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
-	<!-- CALL TO ACTION-5
-			============================================= -->
+			</div>
+	</section>
+	<!--  -->
+	<section id="content-3" class="bg-white pt-30 content-3  content-section division">
+		<div class="container">
+			<div class="row d-flex align-items-center justify-content-center">
+				<div class="col-md-12 col-lg-8">
+					<div class="txt-block left-column  wow fadeInLeft">
+						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert PPC services nj?</h2>
+						<div class="more-btn mt-20">
+							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-pink-hover">Launch Your PPC Campaign Today</a>
+						</div>
+						<p class="p-lg txt-justify">Whether you're looking to increase your website traffic, generate leads, or drive sales, ClickBox has the expertise and experience to help you achieve your goals. <a href="https://clickboxagency.com/contacts/" aria-label="Contact us" title="Contact us" class="txtbluee"><u>Contact us today</u></a> to learn more about how we can help you take your online advertising to the next level.</p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--  -->
+	<section id="content-3" class="bg-snow pt-20 pb-40 content-3  content-section division">
+		<div class="container-fluid bortopbot">
+			<div class="top-row ">
+				<div class="row d-flex align-items-center justify-content-center">
+					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
+						<div class="txt-block left-column wow fadeInLeft ">
+							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
+								<h4 class="h4-md text-white">READY TO GROW YOUR BUSINESS</span></h4>
+								<p class="p-md text-white">For effective PPC marketing services nj, please get in touch with us.</p>
+								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -1133,10 +1210,10 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/",
+			"url": "https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -1147,7 +1224,7 @@
 			"@type": "WebSite",
 			"name": "Result Driven PPC Campaign Advertising Company New Jersey | Clickbox",
 			"alternateName": "pay per click services, ppc marketing, ppc advertising, ppc services, pay per click company, pay per click ads, ppc marketing company",
-			"url": "https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/"
+			"url": "https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/"
 		}
 	</script>
 
@@ -1160,10 +1237,10 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Looking for a reliable PPC campaign Advertising company in New Jersey? looking to increase brand awareness, leads, or boost sales, Contact us today...",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

@@ -86,23 +86,23 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/logo-design/chennai/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/logo-design/chennai/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/logo-design/chennai/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/logo-design/chennai/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/logo-design/chennai/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/logo-design/chennai/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/logo-01.png" />
 
 	<meta property="og:title" content="The Best Logo Design Service | ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="With our most popular abstract logo design service, ClickBox Agency provides distinctive brand and business logos at a reasonable price. Our group of certified designers works to satisfy our clients with unique logo patterns." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/logo-01.png" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/logo-01.png" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
@@ -660,10 +660,10 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "With our most popular abstract logo design service, ClickBox Agency provides distinctive brand and business logos at a reasonable price. Our group of certified designers works to satisfy our clients with unique logo patterns." / >
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+				"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

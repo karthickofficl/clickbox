@@ -11,7 +11,7 @@
 
 	<title> Best Local SEO Pricing and Packages | ClickBox</title>
 
-	<meta name=description content="Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region." />
+	<meta name=description content="Local SEO makes your company appear more prominently in Google's local search results. Look no further! Reach Us:+91 88705 78887" />
 
 	<meta name=keywords content="local seo package pricing,local business seo packages,affordable local seo packages,best local seo packages,local seo service packages" />
 
@@ -27,35 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/local-seo-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/local-seo-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/local-seo-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/local-seo-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/local-seo-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/local-seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best Local SEO Pricing and Packages | ClickBox" />
 
-	<meta property="og:description" content="Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region." />
+	<meta property="og:description" content="Local SEO makes your company appear more prominently in Google's local search results. Look no further! Reach Us:+91 88705 78887" />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Best Local SEO Pricing and Packages | ClickBox" />
 
-	<meta name="twitter:description" content="Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region." />
+	<meta name="twitter:description" content="Local SEO makes your company appear more prominently in Google's local search results. Look no further! Reach Us:+91 88705 78887" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -91,10 +91,10 @@
 									<p class="p-lg"><b>2. Optimising local websites.</b></p>
 									<p class="p-lg"><b>3. Local content & Link building.</b>
 								</div>
-							</div> <!-- END TEXT BLOCK -->
+							</div>
 						</div>
-					</div> <!-- END TOP ROW -->
-				</div> <!-- End container -->
+					</div> 
+				</div> 
 	</section>
 	<!-- SECTION 2 START -->
 	<section id="content-6" class="content-6 pt-30 pb-20 content-section division">
@@ -203,7 +203,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/32.png" alt="seo agency in india" />
+								<img class="img-fluid" src="../images/32.png" alt="seo agency in india" />
 							</div><!-- Title -->
 							<h5 class="h5-md">Optimize Your Homepage</h5><!-- Text -->
 							<p class="p-lg"> Who you are, where you are located, and what you do should all be very clearly stated on your homepage. Make it simple for Google to comprehend these aspects of your company. You should be sure to make this information apparent in your page title, header, and meta description tags. Under Settings > General in the left navigation, if you're using WordPress to create your website, you may quickly change the page title tag. The Yoast SEO plugin also makes it simple to load your page's meta information, which leads me to my next point.</p>
@@ -213,7 +213,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/33.png" alt="seo agency in newjersey" />
+								<img class="img-fluid" src="../images/33.png" alt="seo agency in newjersey" />
 							</div><!-- Title -->
 							<h5 class="h5-md">Claim Your Google My Business Page</h5><!-- Text -->
 							<p class="p-lg">However, claiming your business listing and filling out the content for it is essential to your local SEO
@@ -232,7 +232,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/34.png" alt="seo agency in coimbatore" />
+								<img class="img-fluid" src="../images/36.png" alt="seo agency in coimbatore" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Create A Page For Every Product Service And Location</h5>
@@ -245,7 +245,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/35.png" alt="seo agency in tamilnadu" />
+								<img class="img-fluid" src="../images/34.png" alt="seo agency in tamilnadu" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Optimize Your Meta Data</h5>
@@ -304,7 +304,7 @@
 				</div> <!-- END TEXT BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/36.png" alt="creative digital marketing">
+						<img class="img-fluid" src="../images/35.png" alt="creative digital marketing">
 					</div>
 				</div>
 
@@ -312,7 +312,7 @@
 			<div class="row d-flex align-items-center">
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/37.png" alt="seo agency in coimbatore">
+						<img class="img-fluid" src="../images/38.png" alt="seo agency in coimbatore">
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6">
@@ -329,12 +329,11 @@
 			</div>
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-3 -->
-	<section id="content-5" class="content-5 ws-wrapper content-section division">
+	<section id="content-5" class="content-5 mt-30 ws-wrapper content-section division">
 		<div class="container">
 			<div class="content-5-wrapper bg-whitesmoke">
 				<div class="row d-flex align-items-center">
-
-					<div class="col-md-7 col-lg-6">
+						<div class="col-md-7 col-lg-6">
 						<div class="txt-block left-column wow fadeInRight">
 							<h2 class="h2-xs">Your Essentials to Ranking <span class="txtred">Local Businesses Online.</span></h2>
 							<h3 class="h2-xs">What Role Do Links Have In Local SEO?</h3>
@@ -345,7 +344,7 @@
 					</div> <!-- END TEXT BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/38.png" alt="seo agency in madurai">
+							<img class="img-fluid" src="../images/37.png" alt="seo agency in madurai">
 						</div>
 					</div>
 				</div>
@@ -425,13 +424,11 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
 
-
-					<!-- AGENCY PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<div class="pricing-plan">
@@ -444,7 +441,6 @@
 
 							</div>
 
-							<!-- Plan Features  -->
 							<ul class="features">
 								<li>
 									<p class="p-md"><span> 20 Keywords </span></p>
@@ -499,7 +495,7 @@
 									<p class="p-md"><span>Professional Local SEO Consulting</span></p>
 								</li>
 
-							</ul><a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							</ul><a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -580,7 +576,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -590,14 +586,10 @@
 	</section> <!-- END PRICING-2 -->
 
 	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
-
-	<!-- FAQs-2>======================================= -->
 	<section id="faqs-2" class="pt-20 faqs-section division">
 		<div class="container">
 
-			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
@@ -605,7 +597,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- FAQs-2 QUESTIONS -->
+		
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
 					<div class="col">
@@ -676,11 +668,10 @@
 									</div>
 								</div>
 							</div>
-						</div> <!-- END QUESTIONS HOLDER -->
+						</div>
 					</div>
-					<!-- SECOND COLUMN END -->
-				</div> <!-- End row -->
-			</div> <!-- END FAQs-2 QUESTIONS -->
+				</div> 
+			</div> 
 
 			<div class="row">
 				<div class="col  ">
@@ -689,10 +680,8 @@
 					</div>
 				</div>
 			</div>
-		</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
-
-	<!-- CALL TO ACTION-5============================ -->
+		</div> 
+	</section> 
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -728,11 +717,11 @@
 			"url": "https://www.clickboxagency.com/local-seo-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Local SEO is an approach to search engine optimization (SEO) that makes your company appear more prominently in Google's local search results. Local SEO is beneficial for any company that has a physical location or serves a specific region. ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Local SEO makes your company appear more prominently in Google's local search results. Look no further! Reach Us:+91 88705 78887",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

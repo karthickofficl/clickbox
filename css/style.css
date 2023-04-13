@@ -9128,7 +9128,7 @@ body .mb-0 {
 
 /* INFOGRAPHICS  */
 .squire-cards {
-  background-color: #17A3DD;
+   /* background-color: #17A3DD; */
   width: 100%;
   height: auto;
   border-radius: 10px;
@@ -9158,7 +9158,9 @@ body .mb-0 {
 .squire-cards-black {
   background-color: #363535;
 }
-
+.squire-cards-blueblack{
+  background-color: #212529;
+}
 .squire-cards-violet {
   background-color: #320092;
 }
@@ -9297,4 +9299,11 @@ body .img-fluid-800{
 /* NEW PACKAGES */
 .bg-13{
   background-color: #f3f3f3;
+}
+.bg-13 {
+  background-color: #f3f3f3;
+}
+
+.squire-cards-blueblack {
+  background-color: #212529;
 }

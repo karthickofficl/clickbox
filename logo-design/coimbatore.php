@@ -86,23 +86,23 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/logo-design/coimbatore/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/logo-design/coimbatore/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/logo-design/coimbatore/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/logo-design/coimbatore/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/logo-design/coimbatore/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/logo-design/coimbatore/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="ClickBox: Creative Logo Design Company Coimbatore" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="ClickBox is a best logo designing company in Coimbatore, provides brand identity services through logos, brochures, websites, flyers, corporate identity designs, and more. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
 
@@ -1430,10 +1430,10 @@ if (isset($_POST['send'])) {
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "www.clickboxagency.com/logo-design/coimbatore/",
+			"url": "https://www.clickboxagency.com/logo-design/coimbatore/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "www.clickboxagency.com/logo-design/coimbatore/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/logo-design/coimbatore/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -1457,10 +1457,10 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "ClickBox is a best logo designing company in Coimbatore, provides brand identity services through logos, brochures, websites, flyers, corporate identity designs, and more. ",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+				"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

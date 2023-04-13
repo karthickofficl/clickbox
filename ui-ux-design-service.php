@@ -86,23 +86,23 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/ui-ux-design-service/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/ui-ux-design-service/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/ui-ux-design-service/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/ui-ux-design-service/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/ui-ux-design-service/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/ui-ux-design-service/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Best UI UX Design Service| ClickBox" />
 
@@ -114,7 +114,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Design Studio Provides A Complete Range Of UI Development And User Experience Design. Lean UX/UI Designing, ClickBox Agency is the best option if you're looking for engaging design services." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -798,10 +798,10 @@ if (isset($_POST['send'])) {
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
             "description": "Design Studio Provides A Complete Range Of UI Development And User Experience Design. Lean UX/UI Designing, ClickBox Agency is the best option if you're looking for engaging design services. ",
-            "logo": "www.clickboxagency.com/images/logo-01.png",
+            "logo": "https://www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",
-                "telephone": "+91 7358644710",
+                "telephone": "+91 8870578887",
                 "contactType": "sales",
                 "contactOption": "Customer Service",
                 "areaServed": "India, United States, Australia, Canada, United Kingdom",

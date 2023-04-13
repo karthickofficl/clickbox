@@ -11,7 +11,7 @@
 
 	<title>Affordable Facebook Advertising Packages & Pricing | ClickBox</title>
 
-	<meta name=description content="Clickbox provides a complete, customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more... " />
+	<meta name=description content="Clickbox provides a customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more…" />
 
 	<meta name=keywords content="facebook advertising packages, facebook marketing services packages, facebook ad management packages, facebook marketing packages, facebook ads packages" />
 
@@ -27,35 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/facebook-marketing-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/facebook-marketing-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/facebook-marketing-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/facebook-marketing-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/facebook-marketing-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/facebook-marketing-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Facebook Advertising Packages & Pricing | ClickBox" />
 
-	<meta property="og:description" content="Clickbox is the best social media marketing services agency. Visit us right away if you're seeking affordable social media packages, including Instagram Marketing Packages. Read more…" />
+	<meta property="og:description" content="Clickbox provides a customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more…" />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Facebook Advertising Packages & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="Clickbox provides a complete, customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more..." />
+	<meta name="twitter:description" content="Clickbox provides a customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more…" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -136,7 +136,7 @@
 						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/48.png" alt="creative digital marketing company india" />
+								<img class="img-fluid" src="../images/48.png" alt="creative digital marketing company india" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Accuracy Targeting</h5><!-- Text -->
@@ -148,7 +148,7 @@
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/49.png" alt="creative digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/49.png" alt="creative digital marketing company new jersey" />
 							</div>
 							<h5 class="h5-md">Enhanced Content</h5>
 							<!-- Text -->
@@ -162,7 +162,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/50.png" alt="digital marketing company coimbatore " />
+								<img class="img-fluid" src="../images/50.png" alt="digital marketing company coimbatore " />
 							</div>
 							<h5 class="h5-md">Timing It Properly</h5>
 							<p class="p-lg">In social media, timing is important. We ensure that all postings are published at times when your target audiences are most active.</p>
@@ -325,7 +325,7 @@
 							</ul>
 
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="facebook margeting basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="facebook margeting basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -405,7 +405,7 @@
 
 							</ul>
 
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="advanced plan" title="facebook ads advances plan" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="advanced plan" title="facebook ads advances plan" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -496,7 +496,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="premium plans" title="premium plans facebook marketing" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="premium plans" title="premium plans facebook marketing" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -646,11 +646,11 @@
 			"url": "https://www.clickboxagency.com/facebook-marketing-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox provides a complete, customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more... ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Clickbox provides a customized Facebook promotion package at an affordable price. We provide a variety of Facebook marketing services. Read more… ",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

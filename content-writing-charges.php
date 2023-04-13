@@ -11,7 +11,7 @@
 
 	<title>Affordable Content Writing Charges & Pricing | ClickBox</title>
 
-	<meta name=description content="From content audit to planning and from writing to maintenance, Clickbox can produce effective and relevant content for your business. Read more…" />
+	<meta name=description content="Are you trying to find budget-friendly content-writing packages? If so, join ClickBox's affordable content writing packages. Contact us:+91 8870578887 " />
 
 	<meta name=keywords content="content writing charges, content writing cost, content writing packages, content writing price, content writing rate, content writing charges per word" />
 
@@ -27,35 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/content-writing-charges/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/content-writing-charges/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/content-writing-charges/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/content-writing-charges/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/content-writing-charges/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/content-writing-charges/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Content Writing Charges & Pricing | ClickBox" />
 
-	<meta property="og:description" content="From content audit to planning and from writing to maintenance, Clickbox can produce effective and relevant content for your business. Read more…" />
+	<meta property="og:description" content="Are you trying to find budget-friendly content-writing packages? If so, join ClickBox's affordable content writing packages. Contact us:+91 8870578887 " />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Content Writing Charges & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="From content audit to planning and from writing to maintenance, Clickbox can produce effective and relevant content for your business. Read more…" />
+	<meta name="twitter:description" content="Are you trying to find budget-friendly content-writing packages? If so, join ClickBox's affordable content writing packages. Contact us:+91 8870578887 " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -181,34 +181,25 @@
 			</div>
 
 			<!-- ADD CARD CONTANTS -->
-			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center ">
 				<div class="row row-cols-1 row-cols-md-2">
-					<!-- FEATURE BOX #1 -->
 					<div class="col ">
 						<div class="fbox-8  mb-40 wow fadeInUp ">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/43.png" alt="effective content writing packages" />
+								<img class="img-fluid" src="../images/43.png" alt="effective content writing packages" />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Effective content</h5>
-							<!-- Text -->
-							<p class="p-lg">We are here to supply you with our pertinent, productive, original, and unique content written by the top content writers to help your company rise to the top and make use of our productive writing experience. Our information must meet your requirements and be well-organized, comfortable to read, free of technical language, and simple to comprehend in one sitting. To support the success of your brand, we make sure to offer unique and imaginative content.
-							</p>
+							<p class="p-lg">We are here to supply you with our pertinent, productive, original, and unique content written by the top content writers to help your company rise to the top and make use of our productive writing experience. Our information must meet your requirements and be well-organized, comfortable to read, free of technical language, and simple to comprehend in one sitting. To support the success of your brand, we make sure to offer unique and imaginative content.</p>
 
 						</div>
 					</div>
 					<!-- FEATURE BOX #2 -->
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/44.png" alt="Unlimited content writing packages" />
+								<img class="img-fluid" src="../images/44.png" alt="Unlimited content writing packages" />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Unlimited Revisions</h5>
-							<!-- Text -->
 							<p class="p-lg">With the goal of making your brand the most popular in Google searches, we at <b>ClickBox</b> promise to offer you 100% original, creative, and successful content writing services. To achieve this goal, our content writers produce dynamic, original, and creative content along with meticulous proofreading and unlimited revisions in order to serve you to the best of our abilities and help you achieve your goals.</p>
 						</div>
 					</div>
@@ -218,36 +209,26 @@
 			<!-- FEATURES-8 WRAPPER -->
 			<div class="fbox-8-wrapper text-center ">
 				<div class="row row-cols-1 row-cols-md-2">
-					<!-- FEATURE BOX #3 -->
 					<div class="col">
 						<div class="fbox-8 mb-40  wow fadeInUp">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/45.png" alt="Skilled content writing packages in coimbatore" />
+								<img class="img-fluid" src="../images/45.png" alt="Skilled content writing packages in coimbatore" />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Skilled Writers</h5>
-							<!-- Text -->
 							<p class="p-lg"> At <b>ClickBox</b>, we work with the top content writers to better meet your needs. Our greatest content writers are able to design the best and most original writing for your articles/PR, blogs, and website content because we are about to understand your wants with regard to your entity. In order to help you increase traffic to your website, our content writers are sensitive enough to write SEO content. In essence, our top article writing services will steer your company in the right direction.</p>
 						</div>
 					</div>
-
-
-					<!-- FEATURE BOX #4 -->
-					<div class="col ">
+<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp ">
-							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/46.png" alt="content writing packages in newjersey" />
+								<img class="img-fluid" src="../images/46.png" alt="content writing packages in newjersey" />
 							</div>
-							<!-- Title -->
 							<h5 class="h5-md">Rapid Response Time</h5>
-							<!-- Text -->
 							<p class="p-lg">In order to give you the highest satisfaction with successful services and a quick response rate, you will enjoy the best content writing services on our platform, along with SEO content writing services provided by the top content writers. Our writers are talented enough to offer you the best article writing services with a focused and prompt response style to help you get better results. At <b>ClickBox</b>, content writing charges per word vary according to the project assigned.</p>
 						</div>
 					</div>
-				</div> <!-- End row -->
-			</div> <!-- END FEATURES-8 WRAPPER -->
+				</div> 
+			</div> 
 		</div>
 	</section>
 
@@ -640,11 +621,11 @@
 			"url": "https://www.clickboxagency.com/content-writing-charges/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "From content audit to planning and from writing to maintenance, Clickbox can produce effective and relevant content for your business. Read more… ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Are you trying to find budget-friendly content-writing packages? If so, join ClickBox's affordable content writing packages. Contact us:+91 8870578887 ",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

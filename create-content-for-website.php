@@ -91,23 +91,23 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/create-content-for-website/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/create-content-for-website/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/create-content-for-website/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/create-content-for-website/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/create-content-for-website/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/create-content-for-website/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Create Content for Websites?" />
 
@@ -118,7 +118,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Content writing for websites is necessary as it provides the responses to your audience's inquiries and aids in the development of relationships, trust, improved conversions, and lead generation." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
@@ -400,7 +400,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h4-lg">Final Words:</h5>
 
 								<!--TEXT-->
-								<p class="p-lg">The best content makes the website look better. Hereby, data audit is very important to write the best content for a website. Are you confused about choosing the best content writer for your esteemed website? Then, visit <a href="https://clickboxagency.com/" style="color:#0000FF;"><u>CLICKBOX AGENCY</u></a> to assist you with predominant service. Join us <a href="http://www.clickboxagency.com" style="color:#0000FF;"><u>www.clickboxagency.com</u></a></p>
+								<p class="p-lg">The best content makes the website look better. Hereby, data audit is very important to write the best content for a website. Are you confused about choosing the best content writer for your esteemed website? Then, visit <a href="https://clickboxagency.com/" style="color:#0000FF;"><u>CLICKBOX AGENCY</u></a> to assist you with predominant service. Join us <a href="http://https://www.clickboxagency.com" style="color:#0000FF;"><u>https://www.clickboxagency.com</u></a></p>
 
 
 
@@ -579,13 +579,13 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "www.clickboxagency.com/create-content-for-website/",
+			"url": "https://www.clickboxagency.com/create-content-for-website/",
 
 			"potentialAction": {
 
 				"@type": "SearchAction",
 
-				"target": "www.clickboxagency.com/create-content-for-website//find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/create-content-for-website//find?q={search_term_string}",
 
 				"query-input": "required name=search_term_string"
 
@@ -605,7 +605,7 @@ if (isset($_POST['send'])) {
 
 			"alternateName": "create content for website, content writing for website, developing website content, web content writing, best websites for content writing",
 
-			"url": "www.clickboxagency.com/create-content-for-website/"
+			"url": "https://www.clickboxagency.com/create-content-for-website/"
 
 		}
 	</script>
@@ -619,7 +619,7 @@ if (isset($_POST['send'])) {
 
 			"name": "How to Create Content for Websites?",
 
-			"url": "www.clickboxagency.com/create-content-for-website/",
+			"url": "https://www.clickboxagency.com/create-content-for-website/",
 
 			"email": "info@clickboxagency.com",
 
@@ -627,13 +627,13 @@ if (isset($_POST['send'])) {
 
 			"description": "Content writing for websites is necessary as it provides the responses to your audience's inquiries and aids in the development of relationships, trust, improved conversions, and lead generation.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

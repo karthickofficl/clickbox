@@ -94,9 +94,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -110,7 +110,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content=" https://www.clickboxagency.com/boost-your-instagram/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="A Beginner's Guide to 7 Organic Instagram Follower Strategies" />
 
@@ -125,7 +125,7 @@ if (isset($_POST['send'])) {
 		strategies and advantages that business owners should be aware of before they market their brand." />
 
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!--FAVICON-->
 
@@ -572,13 +572,13 @@ if (isset($_POST['send'])) {
 				market their brand to a large audience.To boost your follower base organically,
 				there are few strategies and advantages that business owners should be aware of before they market their brand.",
 
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+				"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 				"contactPoint": {
 
 					"@type": "ContactPoint",
 
-					"telephone": "+91 7358644710",
+					"telephone": "+91 8870578887",
 
 					"contactType": "sales",
 

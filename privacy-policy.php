@@ -16,19 +16,19 @@
  	<meta name="Distribution" content="Global" />
  	<meta name="Rating" content="general" />
  	<meta name="search engines" content="ALL" />
- 	<meta name="copyright" content="www.clickboxagency.com" />
+ 	<meta name="copyright" content="https://www.clickboxagency.com" />
  	<meta name="email" content="info@clickboxagency.com" />
  	<link rel="canonical" href="https://www.clickboxagency.com/privacy-policy.php" />
  	<meta property="og:type" content="website" />
  	<meta property="og:url" content="https://www.clickboxagency.com/privacy-policy.php" />
  	<meta property="og:site_name" content="https://www.clickboxagency.com" />
- 	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+ 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
  	<meta property="og:title" content="Privacy Policy - ClickBox Advertising &amp; Digital Marketing Agency" />
  	<meta property="og:description" content="ClickBox is the best web development & digital marketing company in Coimbatore. We have a broad range of digital marketing services to meet your business needs. " />
  	<meta name="twitter:card" content="summary" />
  	<meta name="twitter:title" content="Privacy Policy - ClickBox Advertising &amp; Digital Marketing Agency" />
  	<meta name="twitter:description" content="ClickBox is the best web development & digital marketing company in Coimbatore. We have a broad range of digital marketing services to meet your business needs." />
- 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+ 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
  	<!-- FAVICON AND TOUCH ICONS -->
  	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
@@ -117,8 +117,8 @@
  						<div class="terms-box mt-60">
 
  							<h5 class="h5-xl">Scope of this Notice</h5>
- 							<p class="p-lg">We are www.clickboxagency.com, an Indian based digital marketing service company based in Coimbatore, India.</p>
- 							<p class="p-lg">Hereafter www.clickboxagency.com will be referred to as ClickBox Agency.</p>
+ 							<p class="p-lg">We are https://www.clickboxagency.com, an Indian based digital marketing service company based in Coimbatore, India.</p>
+ 							<p class="p-lg">Hereafter https://www.clickboxagency.com will be referred to as ClickBox Agency.</p>
  							<p class="p-lg">The privacy and security of ClickBox Agency customers and users ("You" or "Your") are of primary importance for us.
  								This privacy policy is intended to help you better understand how we collect, use and store your personal information
  								that we collect about you when you use our websites, our mobile applications, our other products and services that
@@ -280,10 +280,10 @@
  				"email": "info@clickboxagency.com",
  				"foundingDate": "2022",
  				"description": "ClickBox is the best web development & digital marketing company in Coimbatore. We have a broad range of digital marketing services to meet your business needs.",
- 				"logo": "www.clickboxagency.com/images/logo-01.png",
+ 				"logo": "https://www.clickboxagency.com/images/logo-01.png",
  				"contactPoint": {
  					"@type": "ContactPoint",
- 					"telephone": "+91 7358644710",
+ 					"telephone": "+91 8870578887",
  					"contactType": "sales",
  					"contactOption": "Customer Service",
  					"areaServed": "India, United States, Australia, Canada, United Kingdom",

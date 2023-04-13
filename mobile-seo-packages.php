@@ -11,7 +11,7 @@
 
 	<title>Mobile SEO Best Packages and Pricing| CLICKBOX</title>
 
-	<meta name=description content="Our best mobile SEO services help to ease accessibility; usability consulting; keywords by using effective strategies to optimize your website for the mobile device." />
+	<meta name=description content="Our mobile SEO services improve accessibility and usability by optimizing your website for mobile devices." />
 
 	<meta name=keywords content="mobile seo packages, best mobile seo,mobile seo best practices,mobile seo services,mobile search engine optimization" />
 
@@ -27,62 +27,36 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/mobile-seo-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/mobile-seo-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/mobile-seo-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/mobile-seo-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/mobile-seo-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/mobile-seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Mobile SEO Best Packages and Pricing| CLICKBOX" />
 
-	<meta property="og:description" content="Our best mobile SEO services help to ease accessibility; usability consulting; keywords by using effective strategies to optimize your website for the mobile device." />
+	<meta property="og:description" content="Our mobile SEO services improve accessibility and usability by optimizing your website for mobile devices." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Mobile SEO Best Packages and Pricing| CLICKBOX" />
 
-	<meta name="twitter:description" content="Our best mobile SEO services help to ease accessibility; usability consulting; keywords by using effective strategies to optimize your website for the mobile device." />
+	<meta name="twitter:description" content="Our mobile SEO services improve accessibility and usability by optimizing your website for mobile devices." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-	<style>
-		.shadow {
-			box-shadow: 15 17px -9px rgb(95 96 96 / 10%) !important;
-			border-radius: 10px !important;
-
-		}
-
-		.accordion-button:not(.collapsed) {
-
-			box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
-			background-color: whitesmoke !important;
-			color: black !important;
-
-		}
-
-
-		.accordion-button:focus {
-			box-shadow: none;
-			border-color: rgba(0, 0, 0, .125);
-		}
-
-		.accordion-body {
-			background-color: whitesmoke !important;
-		}
-	</style>
-
 </head>
 
 <body>
@@ -95,7 +69,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70 ">
 						<h1 class="h2-xs text-center"><span class="txtred">Mobile SEO Packages</span> for Increasing Traffic, Sales, and Organic Rankings!</h1>
-						<p class="p-md text-center">Are you trying to find budget friendly best Mobile SEO packages? If so, join <b>ClickBox's</b> affordable SEO packages. We offer affordable and customized SEO packages that support the needs of each client's business rather than fixed-price monthly Mobile SEO packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly best Mobile SEO packages? If so, join ClickBox's affordable SEO packages. We offer affordable and customized SEO packages that support the needs of each client's business rather than fixed-price monthly Mobile SEO packages.</p>
 
 					</div>
 				</div>
@@ -104,17 +78,15 @@
 						<div class="row d-flex align-items-center">
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid-800" src="../images/63.png" alt="mobile seo agency in coimbatore">
+									<img class="img-fluid" src="../images/63.png" alt="mobile seo agency in coimbatore">
 								</div>
 							</div>
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<p class="p-lg txt-justify">In addition to improving your search engine rankings, <b>ClickBox's</b> SEO packages also help your conversion, domain authority, and brand recognition. Leading Indian SEO firm <b>ClickBox</b> Agency offers SEO Packages that are well worth the money. You can rank higher in Google search results with the aid of our SEO packages. We handle every aspect of SEO, from keyword rankings to website optimization, to quickly increase your organic traffic.<br>The user experience and technology of mobile devices have an impact on mobile SEO. By optimizing your mobile website, you'll be able to increase clicks, increase conversions, and provide your website visitors with a fantastic user experience in addition to improving your mobile search results.<br> <b>ClickBox</b> developed this comprehensive guide to mobile SEO based on my experience with various mobile SEO projects. It should assist those who are new to mobile SEO and may be missing some important points. To help you better understand how to properly optimize your website for the best user experiences across all mobile devices.</p>
+									<p class="p-lg txt-justify">In addition to improving your search engine rankings, ClickBox's SEO packages also help your conversion, domain authority, and brand recognition. Leading Indian SEO firm ClickBox Agency offers SEO Packages that are well worth the money. You can rank higher in Google search results with the aid of our SEO packages. We handle every aspect of SEO, from keyword rankings to website optimization, to quickly increase your organic traffic.<br>The user experience and technology of mobile devices have an impact on mobile SEO. By optimizing your mobile website, you'll be able to increase clicks, increase conversions, and provide your website visitors with a fantastic user experience in addition to improving your mobile search results.<br> ClickBox developed this comprehensive guide to mobile SEO based on my experience with various mobile SEO projects. It should assist those who are new to mobile SEO and may be missing some important points. To help you better understand how to properly optimize your website for the best user experiences across all mobile devices.</p>
 									<p class="p-lg txt-justify">First and foremost, according to Google mobile SEO websites typically run on one out of three different configurations:</p>
 									<!-- TEXT BOX LIST CONTENT -->
 									<div class="txt-box">
-
-										<!-- List -->
 										<ul class="simple-list">
 
 											<li class="list-item">
@@ -209,7 +181,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="card-img-big" src="../images/65.png" alt="mobile seo agency in tamilnadu">
+						<img class="img-fluid" src="../images/65.png" alt="mobile seo agency in tamilnadu">
 					</div>
 				</div>
 
@@ -240,7 +212,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="card-img-big" src="../images/66.png" alt="digital marketing company coimbatore ">
+						<img class="img-fluid" src="../images/66.png" alt="digital marketing company coimbatore ">
 					</div>
 				</div>
 			</div> <!-- End row -->
@@ -458,7 +430,7 @@
 					<div class="section-title title-01 mb-70">
 						<h2 class="h3-xs text-center"> Best Practices For Creating An Effective <span class="txtred">Mobile SEO Strategy</span></h2>
 						<p class="p-lg">Now that you are aware of the significance of mobile SEO, it is time to start customizing your strategy for best and affordable mobile users. Here are some best practices to help you with your mobile SEO campaign.</p>
-</div>
+					</div>
 				</div>
 			</div>
 
@@ -557,7 +529,7 @@
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md text-center">Boost Meta Descriptions and Title Tags</h5>
-								<!-- Text -->
+							<!-- Text -->
 							<p class="p-lg text-center">The title tags and meta descriptions you use are crucial to mobile SEO. If a user clicks on your listing in the search results, it is based on these two factors. Since mobile users need information quickly, they frequently use the title tag and meta description to decide whether or not to click on your listing.</p>
 							<p class="p-lg "><b>Title tags-</b>Your audience will see title tags first in the search results. These tags inform readers of the topics your page addresses. These title tags function as a sneak peek at your page. Your title tag needs to be optimized if you want to increase relevant mobile traffic to your website. Your keywords should be used in a title. </p>
 							<p class="p-lg"><b>Meta description-</b>After your title tag, your audience will see a brief blurb called a meta description. It adds more details about your listing to what your audience already knows. Your meta description gives readers a sneak peek at your page. It aids them in determining whether your page is pertinent to their search.</p>
@@ -588,7 +560,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-80">
-					<h2 class="h3-xs text-center">Our <span class="txtred">Mobile SEO Pricing</span></h2>
+						<h2 class="h3-xs text-center">Our <span class="txtred">Mobile SEO Pricing</span></h2>
 					</div>
 				</div>
 			</div>
@@ -666,7 +638,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -753,7 +725,7 @@
 									<p class="p-md"><span>Professional digital marketing specialist</span></p>
 								</li>
 
-							</ul><a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							</ul><a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -847,7 +819,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 						</div>
 					</div>
 				</div>
@@ -975,7 +947,7 @@
 				<div class="row">
 					<div class="col  ">
 						<div class="more-questions">
-							<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/"  aria-label="contact us" title="contact us">Ask your question here</a></h5>
+							<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 						</div>
 					</div>
 				</div>
@@ -1018,11 +990,11 @@
 			"url": "https://www.clickboxagency.com/mobile-seo-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Our best mobile SEO services help to ease accessibility; usability consulting; keywords by using effective strategies to optimize your website for the mobile device.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Our mobile SEO services improve accessibility and usability by optimizing your website for mobile devices.",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

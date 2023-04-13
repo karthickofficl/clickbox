@@ -23,8 +23,7 @@
   </a>
   <!-- btn-success -->
 
-
-  <!-- <a href="tel:7358644710" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
+  <!-- <a href="tel:8870578887" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
   	<i class="fa fa-phone" aria-hidden="true"></i>
   </a> -->
   <!-- START -->
@@ -189,13 +188,13 @@
   					<ul class="foo-links text-secondary clearfix">
 
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="www.clickboxagency.com/wordpress-website-development-service/" style="color: #ededed;">WordPress Development</a></p>
+  							<p class="p-lg"><a href="https://www.clickboxagency.com/wordpress-website-development-service/" style="color: #ededed;">WordPress Development</a></p>
   						</li>
   						<li aria-haspopup="true">
   							<p class="p-lg"><a href="" style="color: #ededed;">PHP Web Development</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="www.clickboxagency.com/ecommerce-website-development-service/" style="color: #ededed;">E-commerce Development</a></p>
+  							<p class="p-lg"><a href="https://www.clickboxagency.com/ecommerce-website-development-service/" style="color: #ededed;">E-commerce Development</a></p>
   						</li>
 
   						<li aria-haspopup="true">

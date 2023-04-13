@@ -27,23 +27,21 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="wwww.clickboxagency.com/appstore-packages/" />
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="canonical" href="https://www.clickboxagency.com/appstore-packages/" />
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/appstore-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/appstore-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/appstore-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/appstore-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="App Store Optimization Packages | ClickBox" />
 
@@ -55,7 +53,7 @@
 
 	<meta name="twitter:description" content="App Store Optimization packages include initial technical analysis, On-Page SEO suggestions, in-depth competitive, keywords research & finalization ." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -76,11 +74,8 @@
 					</div>
 				</div>
 				<div>
-					<!-- TOP ROW -->
-					<!--  pb-50 -->
 					<div class="top-row">
 						<div class="row d-flex align-items-center">
-							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
 									<img class="img-fluid" src="../images/07.png" alt="content-image">
@@ -90,11 +85,9 @@
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 									<!-- Text -->
-									<p class="p-lg ">
-										With the help of our app store optimization programme, you can make sure that your applications are more visible, which will lead to more downloads. Start bringing in big money right away!</p>
-									<!-- <p class="p-lg "></p> -->
+									<p class="p-lg ">With the help of our app store optimization programme, you can make sure that your applications are more visible, which will lead to more downloads. Start bringing in big money right away!</p>
+
 									<p class="p-lg ">One of the most vital aspects of app marketing is app store optimization. It is simple to get lost if you don't stand out in the store. <b>ClickBox</b> offer professional ASO packages and provide:</p>
-									<!-- TEXT BOX -->
 									<div class="txt-box mb-30">
 										<ul class="simple-list">
 
@@ -131,7 +124,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
-						<h2 class="h3-xs text-center">Packages And Prices For <span class="txtred">ASO</span></h2>
+						<h2 class="h3-xs text-center">Packages And Prices For <span class="txtred">App Store Optimization</span></h2>
 						<p class="p-lg text-center">ASO calls for aptitude, endurance, and in-depth familiarity with how users interact with the App Store. Regular website marketing campaigns aren't particularly effective in this area. Because this particular service is offered by industry experts, it is crucial to select it. Different store platforms like the Apple App Store and Google Play Store are familiar to our ASO specialists. They are well-versed in all stores and are aware of the best course of action. We design subtle campaigns that draw users to the platform and guarantee that they convert. A sound strategy will guarantee that potential customers won't need to look elsewhere for additional information. We make sure the platform has all the data they require to be successful.</p>
 					</div>
 				</div>
@@ -333,8 +326,6 @@
 								</li>
 
 							</ul>
-
-
 						</div> <!-- END TEXT BOX -->
 						<p class="p-lg txt-justify">Every month, we provide in-depth app store optimization marketing reports and offer customer service via phone, chat, and email. Choose the best ASO packages in India with the assistance of our marketing team by contacting <b>ClickBox</b> for the affordable packages and pricing.</p>
 					</div>
@@ -348,11 +339,6 @@
 				</div>
 
 			</div> <!-- End row -->
-
-			<!-- #1 ROW END -->
-
-
-			<!-- ##2 RoW START -->
 			<div class="row d-flex align-items-center">
 
 				<!-- IMAGE BLOCK -->
@@ -362,15 +348,9 @@
 					</div>
 				</div>
 
-				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
-
-
-						<!-- Title -->
 						<h4 class="h2-xs">Advantages of ASO Services Packages</h4>
-
-						<!-- TEXT BOX -->
 						<div class="txt-box">
 
 							<p class="p-lg txt-justify">In India, <b>ClickBox</b> provides packages for reasonably priced app store optimization. High search rankings and the greatest number of downloads for your app are guaranteed by our strong work ethic and experience. Our cost-effective packages have no additional fees and will quickly pay for themselves. Our ASO Packages include:</p>
@@ -400,10 +380,7 @@
 			</div>
 		</div> <!-- End container -->
 	</section> <!-- END CONTENT-3 -->
-	<!-- SECTION 5 END -->
 
-	<!-- PRICING-2
-			============================================= -->
 	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
@@ -470,7 +447,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="select plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="select plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -536,13 +513,11 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="select plan" title="advances plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="select plan" title="advances plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
 
-
-					<!-- ADVANCED PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 
@@ -610,7 +585,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" aria-label="select plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="select plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -674,13 +649,9 @@
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- FIRST COLUMN END -->
 
-					<!-- START SECOND COLUMN -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-							<!-- START QUESTIONS HOLDER -->
-							<!-- QUES 4 -->
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
@@ -709,12 +680,10 @@
 									</div>
 								</div>
 							</div>
-						</div> <!-- END QUESTIONS HOLDER -->
+						</div>
 					</div>
-					<!-- SECOND COLUMN END -->
 				</div> <!-- End row -->
-			</div> <!-- END FAQs-2 QUESTIONS -->
-			<!-- MORE QUESTIONS BUTTON -->
+			</div>
 
 			<div class="row">
 				<div class="col  ">
@@ -723,16 +692,10 @@
 					</div>
 				</div>
 			</div>
-
-
-		</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
-
-	<!-- CALL TO ACTION-5
-			============================================= -->
-
+		</div>
+	</section>
 	<?php include('footer.php') ?>
-	</div> <!-- END PAGE CONTENT -->
+	</div>
 
 
 	<?php include('footer-script.php') ?>
@@ -768,10 +731,10 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "App Store Optimization packages include initial technical analysis, On-Page SEO suggestions, in-depth competitive, keywords research & finalization . ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

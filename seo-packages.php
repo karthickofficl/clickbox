@@ -11,7 +11,7 @@
 
 	<title>Affordable Monthly SEO Packages & Pricing | ClickBox</title>
 
-	<meta name=description content="The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits." />
+	<meta name=description content="Looking for top-notch SEO packages to boost your website's ranking & visibility? Learn more about our affordable SEO packages and start seeing results" />
 
 	<meta name=keywords content="affordable seo packages, best seo packages, affordable seo packages for small business, seo package prices, organic seo packages, basic seo packages, seo monthly packages" />
 
@@ -27,39 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/seo-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/seo-packages/" />
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/seo-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/seo-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/seo-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/seo-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Monthly SEO Packages & Pricing | ClickBox" />
 
-	<meta property="og:description" content="The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits." />
+	<meta property="og:description" content="Looking for top-notch SEO packages to boost your website's ranking & visibility? Learn more about our affordable SEO packages and start seeing results" />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Monthly SEO Packages & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits." />
+	<meta name="twitter:description" content="Looking for top-notch SEO packages to boost your website's ranking & visibility? Learn more about our affordable SEO packages and start seeing results" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-
-
 </head>
-
-
 
 <body>
 	<?php include('header.php') ?>
@@ -127,7 +123,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/117.png" alt="creative digital marketing company coimbatore" />
+								<img class="img-fluid" src="../images/117.png" alt="creative digital marketing company coimbatore" />
 							</div>
 							<h5 class="h5-md">Website Audit and Error Correction</h5>
 							<!-- Text -->
@@ -141,7 +137,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/118.png" alt="creative digital marketing comapny india" />
+								<img class="img-fluid" src="../images/118.png" alt="creative digital marketing comapny india" />
 							</div>
 							<h5 class="h5-md">Keyword Research</h5>
 							<p class="p-lg"><b>ClickBox's</b> search engine optimization specialists conduct keyword research to determine the most appropriate and pertinent search phrase for your goods and services. It is a significant step in our SEO process that helps us further optimize websites' on-page content and keyword density. We pay particular attention to the client's target market when doing keyword research and analysis. </p>
@@ -155,7 +151,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/119.png" alt="digital marketing company in coimbatore" />
+								<img class="img-fluid" src="../images/119.png" alt="digital marketing company in coimbatore" />
 							</div>
 							<h5 class="h5-md">Content Analysis</h5>
 							<p class="p-lg">To identify the parts that can be improved during our content optimization, our team of SEO professionals conducts a thorough content audit. For improved SEO results, we study each and every page and develop a plan for content production and content optimization. This also aids in the editing of content and the production of high-quality content. To make the material more relevant to the target audience, we look at page names, prominence, variety, keyword density, heading tags, proximity, and many other characteristics.</p>
@@ -165,7 +161,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/120.png" alt="creative digital marketing company newjersey" />
+								<img class="img-fluid" src="../images/120.png" alt="creative digital marketing company newjersey" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Conversion Tracking Layout
@@ -183,7 +179,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/121.png" alt="digital marketing company coimbatore" />
+								<img class="img-fluid" src="../images/121.png" alt="digital marketing company coimbatore" />
 							</div>
 							<h5 class="h5-md">Competitor Analysis</h5>
 							<p class="p-lg">In order to give our client's website a competitive advantage, SEO specialists also do a detailed investigation of its competitors. In order to develop a more effective SEO plan, we examine the domain authority and back linking tactics of their website.</p>
@@ -194,7 +190,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/122.png" alt="digital marketing company india" />
+								<img class="img-fluid" src="../images/122.png" alt="digital marketing company india" />
 							</div>
 							<h5 class="h5-md">Backlink Analysis</h5>
 							<p class="p-lg">During the on-page search engine optimization approach, we perform a check on the link profile to find spam backlinks that may eventually affect the website and delete those backlinks.</p>
@@ -208,7 +204,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/123.png" alt="digital marketing company newjersey" />
+								<img class="img-fluid" src="../images/123.png" alt="digital marketing company newjersey" />
 							</div>
 							<h5 class="h5-md">Tool configuration</h5>
 							<p class="p-lg">In order to optimize, track conversions, and increase website traffic, <b>ClickBox</b> always makes use of the advantages of robust automated tools like Google Analytics, Google Search Console, and Google Tag Manager. If they are not already there on the site, we additionally set up a sitemap and robots file to aid in even better outcomes.</p>
@@ -217,7 +213,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/124.png" alt="seo company" />
+								<img class="img-fluid" src="../images/124.png" alt="seo company" />
 							</div>
 							<h5 class="h5-md">Blog Inspect</h5>
 							<p class="p-lg">Our Team thoroughly examines the Blog to identify places that can be optimized to strengthen the site design. To improve website usability and yield quicker results, we look for internal linking and optimized anchor text. For quicker social media marketing usage, we set up social sharing.</p>
@@ -243,7 +239,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/125.png" alt="seo company in india" />
+								<img class="img-fluid" src="../images/125.png" alt="seo company in india" />
 							</div>
 							<h5 class="h5-md">Blogger Outreach</h5>
 							<!-- Text -->
@@ -253,7 +249,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/126.png" alt="seo company in coimbatore" />
+								<img class="img-fluid" src="../images/126.png" alt="seo company in coimbatore" />
 							</div>
 							<h5 class="h5-md">Content Optimization</h5>
 							<p class="p-lg">Our experts primarily concentrate on producing high-quality content and marketing it to create backlinks from websites that include press releases, blogs, and articles.</p>
@@ -266,7 +262,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/127.png" alt="seo company in newjersey" />
+								<img class="img-fluid" src="../images/127.png" alt="seo company in newjersey" />
 							</div>
 							<h5 class="h5-md">Local References</h5>
 							<p class="p-lg">Local citations support local search engine optimization (SEO) for maps. Local citations can boost the chance of lead creation because local buyers occasionally look for nearby service suppliers. Increasing your web presence is beneficial.</p>
@@ -276,7 +272,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/135.png" alt="creative seo company" />
+								<img class="img-fluid" src="../images/165.png" alt="creative seo company" />
 							</div>
 							<h5 class="h5-md">Creating and Sharing Infographics</h5>
 							<p class="p-lg">In order to obtain quality backlinks from authoritative websites, we produce and distribute high-quality infographics online. We share this because customers are more excited to see infographics. We produce infographics using already-existing content from our website.</p>
@@ -289,7 +285,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/128.png" alt="creative seo company coimbatore" />
+								<img class="img-fluid" src="../images/128.png" alt="creative seo company coimbatore" />
 							</div>
 							<h5 class="h5-md">Video Editing</h5>
 							<p class="p-lg">In order to distribute visual content on the internet and simply obtain organic backlinks, we produce explainer movies and whiteboard animations of the highest quality.</p>
@@ -298,7 +294,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/129.png" alt="creative seo company newjersey" />
+								<img class="img-fluid" src="../images/129.png" alt="creative seo company newjersey" />
 							</div>
 							<h5 class="h5-md">Creations of Social Media Profiles</h5>
 							<p class="p-lg">Social media accounts quickly improve customers' online reputations. These social media networks can be quite beneficial for managing the online reputation of corporate clients if the client has some negative reviews or comments in search engine results.</p>
@@ -311,7 +307,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/130.png" alt="creative seo company india" />
+								<img class="img-fluid" src="../images/130.png" alt="creative seo company india" />
 							</div>
 							<h5 class="h5-md">Submissions In Press Releases</h5>
 							<p class="p-lg">Press releases assist customers in filling out events like awards and promotions, etc. Our team carefully examines the specifics of the event or programme and then creates a well-curated information piece that promotes it.</p>
@@ -320,7 +316,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/131.png" alt="creative seo posting" />
+								<img class="img-fluid" src="../images/131.png" alt="creative seo posting" />
 							</div>
 							<h5 class="h5-md">Blog Postings</h5>
 							<p class="p-lg">Blogs support SEO optimization efforts and produce beneficial outcomes. These blogs can also be used for social media marketing to reach out to potential customers. In order to support our efforts at online marketing, we optimize the content of our blogs for keywords.</p>
@@ -355,7 +351,7 @@
 		</div> <!-- End container -->
 	</section>
 
-	<section class="bg-white content-3 features-section division mb-40">
+	<section class="bg-white pt-30 content-3 features-section division mb-40">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
@@ -401,7 +397,7 @@
 		</div>
 	</section>
 
-	<section id="content-6" class="content-6 pt-30 content-section division">
+	<section id="content-6" class="content-6 pt-30  content-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
@@ -427,9 +423,9 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 order-first order-md-2">
-							<div class="content-7-img wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/136.png" alt="Keyword Selection">
+						<div class="col-md-6 col-lg-6">
+							<div class="img-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInRight;">
+								<img class="img-fluid" src="../images/136.png" alt="Invest In SEO Packages">
 							</div>
 						</div>
 					</div> <!-- End row -->
@@ -555,7 +551,7 @@
 									<p class="p-md"><span>Professional SEO Consulting</span></p>
 								</li>
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 						</div>
 					</div> <!-- END BASIC PLAN -->
 					<div class="col">
@@ -672,7 +668,7 @@
 									<p class="p-md"><span>Professional SEO Consulting</span></p>
 								</li>
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advance " title="advance" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advance " title="advance" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 						</div>
 					</div>
 					<div class="col">
@@ -799,14 +795,14 @@
 									<p class="p-md"><span>Professional SEO Consulting</span></p>
 								</li>
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium" title="premium" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium" title="premium" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
 				</div>
 			</div>
 	</section> <!-- END PRICING-2 -->
 
-	<section class="bg-white content-3 features-section division mb-40">
+	<section class="bg-white content-3 pt-30 features-section division mb-40">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
@@ -820,7 +816,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 shadow h-100 wow fadeInUp p-3">
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/35.png" alt="Keyword Rank Tracking" />
+								<img class="img-fluid" src="../images/137.png" alt="Keyword Rank Tracking" />
 							</div>
 							<h5 class="h5-md">Keyword Rank Tracking</h5>
 							<p class="p-lg">We track the positions of keywords a website ranks for in search engine result pages using keyword rank tracking (SERPs)</p>
@@ -829,7 +825,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 shadow h-100 wow fadeInUp p-3">
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/105.png" alt="Website Monitoring" />
+								<img class="img-fluid" src="../images/138.png" alt="Website Monitoring" />
 							</div>
 							<h5 class="h5-md">Website Monitoring</h5>
 							<p class="p-lg">In order to evaluate the efficiency of our SEO marketing campaign, we also give our clients regular Google Analytics and Google Search Console reports. </p>
@@ -838,7 +834,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40 shadow h-100 wow fadeInUp p-3">
 							<div class="fbox-img ">
-								<img class="card-img-samll" src="../images/124.png" alt="Regular Reporting" />
+								<img class="img-fluid" src="../images/139.png" alt="Regular Reporting" />
 							</div>
 							<h5 class="h5-md">Regular Reporting</h5>
 							<p class="p-lg">We frequently report the updates for every client's website, which includes in SEO packages.</p>
@@ -982,11 +978,11 @@
 			"url": "https://www.clickboxagency.com/seo-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "The purpose of SEO packages, which may be either customized or pre-built, is to improve your ranking in organic search results so that your business can attract more customers and earn more profits.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Looking for top-notch SEO packages to boost your website's ranking & visibility? Learn more about our affordable SEO packages and start seeing results",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

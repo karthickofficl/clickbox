@@ -11,7 +11,7 @@
 
 	<title>Affordable LinkedIn Marketing Packages & Pricing | ClickBox</title>
 
-	<meta name=description content="Clickbox's cost-effective LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our flexible and adaptable marketing strategy, you may attract new customers both locally and internationally. " />
+	<meta name=description content="Clickbox's LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our experienced team. " />
 
 	<meta name=keywords content="Linkedin Marketing Packages, Best Linkedin Marketing Packages, LinkedIn ads packages, LinkedIn advertising packages, LinkedIn advertising costs" />
 
@@ -27,35 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/linkedin-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/linkedin-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/linkedin-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/linkedin-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/linkedin-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/linkedin-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable LinkedIn Marketing Packages & Pricing | ClickBox" />
 
-	<meta property="og:description" content="Clickbox's cost-effective LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our flexible and adaptable marketing strategy, you may attract new customers both locally and internationally." />
+	<meta property="og:description" content="Clickbox's LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our experienced team." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable LinkedIn Marketing Packages & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="Clickbox's cost-effective LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our flexible and adaptable marketing strategy, you may attract new customers both locally and internationally. " />
+	<meta name="twitter:description" content="Clickbox's LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our experienced team." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -140,13 +140,13 @@
 
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid-500" src="../images/62.jpg" alt="creative digital marketing company new jersey">
+						<img class="img-fluid" src="../images/62.png" alt="creative digital marketing company new jersey">
 					</div>
 				</div>
 			</div> <!-- End row -->
 		</div> <!-- End container -->
-	</section> <!-- END CONTENT-2 -->
-	<!-- PRICING-2 TABLE============================= -->
+	</section> 
+
 	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
@@ -228,7 +228,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -307,7 +307,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advanced plan" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advanced plan" title="advanced plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -385,7 +385,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
 				</div>
@@ -565,11 +565,11 @@
 			"url": "https://www.clickboxagency.com/linkedin-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox's cost-effective LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our flexible and adaptable marketing strategy, you may attract new customers both locally and internationally.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Clickbox's LinkedIn marketing packages will assist you in reaching your target market and generating revenue. With the help of our experienced team.",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

@@ -22,9 +22,7 @@
   	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="" sizes="" srcset="">
   </a>
   <!-- btn-success -->
-
-
-  <!-- <a href="tel:7358644710" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
+  <!-- <a href="tel:8870578887" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
   	<i class="fa fa-phone" aria-hidden="true"></i>
   </a> -->
   <!-- START -->
@@ -124,14 +122,14 @@
 
   			<div class="col d-flex align-items-center">
   				<!-- <div class="col-sm-8 col-md-4 col-lg-3 mt-md-4 mt-lg-0"> -->
-  					<div class="footer-links socialiconres ">
-						<ul class="footer-socials text-secondary ico-25 text-center clearfix  ">
-  							<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span class="flaticon-instagram " style="color:#ff00ad;"></span></a></li>
-  							<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span class="flaticon-facebook" style="color:#0557fb;"></span></a></li>
-  							<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span class="flaticon-linkedin" style="color: #04a4f8;"></span></a></li>
-  							<li><a href="https://twitter.com/clickboxagency" target="_blank"><span class="flaticon-twitter" style="color:#02b1f4;"></span></a></li>
-  							<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span class="flaticon-youtube" style="color:#FF0000;"></span></a></li>
-  						</ul>
+  				<div class="footer-links socialiconres ">
+  					<ul class="footer-socials text-secondary ico-25 text-center clearfix  ">
+  						<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span class="flaticon-instagram " style="color:#ff00ad;"></span></a></li>
+  						<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span class="flaticon-facebook" style="color:#0557fb;"></span></a></li>
+  						<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span class="flaticon-linkedin" style="color: #04a4f8;"></span></a></li>
+  						<li><a href="https://twitter.com/clickboxagency" target="_blank"><span class="flaticon-twitter" style="color:#02b1f4;"></span></a></li>
+  						<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span class="flaticon-youtube" style="color:#FF0000;"></span></a></li>
+  					</ul>
   					<!-- </div> -->
   				</div>
   			</div>
@@ -189,13 +187,13 @@
   					<ul class="foo-links text-secondary clearfix">
 
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="www.clickboxagency.com/wordpress-website-development-service/" style="color: #ededed;">WordPress Development</a></p>
+  							<p class="p-lg"><a href="https://www.clickboxagency.com/wordpress-website-development-service/" style="color: #ededed;">WordPress Development</a></p>
   						</li>
   						<li aria-haspopup="true">
   							<p class="p-lg"><a href="" style="color: #ededed;">PHP Web Development</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="www.clickboxagency.com/ecommerce-website-development-service/" style="color: #ededed;">E-commerce Development</a></p>
+  							<p class="p-lg"><a href="https://www.clickboxagency.com/ecommerce-website-development-service/" style="color: #ededed;">E-commerce Development</a></p>
   						</li>
 
   						<li aria-haspopup="true">
@@ -292,7 +290,7 @@
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Case Study</a></p>
   						</li>
-						  <li>
+  						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Careers</a></p>
   						</li>
   					</ul>

@@ -11,7 +11,7 @@
 
 	<title>Affordable Monthly ORM Packages & Pricing | ClickBox</title>
 
-	<meta name=description content="Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility" />
+	<meta name=description content="Our Clickbox online reputation management pricing plans are designed to improve the reputation of your Company. Learn more about our ORM Packages." />
 
 	<meta name=keywords content="orm packages, online reputation management packages, online reputation management services packages, reputation management packages, online reputation management pricing" />
 
@@ -27,37 +27,33 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/orm-packages/" />
-
-	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-
+	<link rel="canonical" href="https://www.clickboxagency.com/orm-packages/" />
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/orm-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/orm-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/orm-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/orm-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Monthly ORM Packages & Pricing | ClickBox" />
 
-	<meta property="og:description" content="Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility" />
+	<meta property="og:description" content="Our Clickbox online reputation management pricing plans are designed to improve the reputation of your Company. Learn more about our ORM Packages." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Monthly ORM Packages & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility" />
+	<meta name="twitter:description" content="Our Clickbox online reputation management pricing plans are designed to improve the reputation of your Company. Learn more about our ORM Packages." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-
 
 </head>
 
@@ -167,7 +163,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/94(omr).png" alt="orm marketing company tamilnadu" />
+								<img class="card-img-big" src="../images/164.png" alt="orm marketing company tamilnadu" />
 							</div>
 
 							<!-- Title -->
@@ -394,7 +390,7 @@
 								</li>
 
 							</ul>
-							<a href="#" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -525,7 +521,7 @@
 								</li>
 
 							</ul>
-							<a href="#" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -594,8 +590,6 @@
 								<li>
 									<p class="p-md">Local Classifieds- 10 per month </p>
 								</li>
-
-
 								<li>
 									<p class="p-md"><span>Youtube</span> </p>
 								</li>
@@ -664,7 +658,7 @@
 								</li>
 
 							</ul>
-							<a href="#" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -815,11 +809,11 @@
 			"url": "https://www.clickboxagency.com/orm-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Our online reputation management packages are cost-effective, result-driven solutions. By enhancing and maintaining your company's online reputation, the strategies in these packages protect your company's online accessibility",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Our Clickbox online reputation management pricing plans are designed to improve the reputation of your Company. Learn more about our ORM Packages.",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

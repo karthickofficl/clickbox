@@ -11,7 +11,7 @@
 
 	<title>Affordable Brochure Design Package & Pricing | ClickBox</title>
 
-	<meta name=description content="Clickbox agency provides affordable brochure design pricing and brochure design packages. We offer the best prices for custom designed brochures and flyers. Read more…" />
+	<meta name=description content="ClickBox agency provides affordable brochure design pricing & packages. We offer the best prices for custom-designed brochures and flyers. Read more…" />
 
 	<meta name=keywords content="best brochure design pricing, brochure design pricing, brochure design package, brochure design charges, brochure design cost" />
 
@@ -27,35 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/brochure-design-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/brochure-design-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/brochure-design-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/brochure-design-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/brochure-design-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/brochure-design-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Brochure Design Package & Pricing | ClickBox" />
 
-	<meta property="og:description" content="Clickbox agency provides affordable brochure design pricing and brochure design packages. We offer the best prices for custom designed brochures and flyers. Read more..." />
+	<meta property="og:description" content="ClickBox agency provides affordable brochure design pricing & packages. We offer the best prices for custom-designed brochures and flyers. Read more…" />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Brochure Design Package & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="Clickbox agency provides affordable brochure design pricing and brochure design packages. We offer the best prices for custom designed brochures and flyers. Read more..." />
+	<meta name="twitter:description" content="ClickBox agency provides affordable brochure design pricing & packages. We offer the best prices for custom-designed brochures and flyers. Read more…" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -84,10 +84,10 @@
 							</div>
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<p class="p-lg txt-justify">Are you trying to find budget friendly brochure design packages? If so, join <b>ClickBox's</b> affordable brochure design package. We offer cheap and customized brochure design pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
+									<p class="p-lg txt-justify">Are you trying to find budget friendly brochure design packages? If so, join ClickBox's affordable brochure design package. We offer cheap and customized brochure design pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 									<!-- Text -->
 									<p class="p-lg txt-justify">
-										<b>ClickBox</b> is delivering the biggest selection of brochure design packages that include designing leaflets, bi-fold brochures, tri-fold brochures, and other sorts of brochure design services. Our prices are set so that each and every customer can afford them. Please let us know your needs if you can't seem to locate a plan that fits your budget; we'd be happy to hear from you. <a href="https://clickboxagency.com/" class="txtbluee" aria-label="ClickBox Agency" title="ClickBox Agency">ClickBox Agency</a> offers the best brochure design cost to promote your business.
+										ClickBox is delivering the biggest selection of brochure design packages that include designing leaflets, bi-fold brochures, tri-fold brochures, and other sorts of brochure design services. Our prices are set so that each and every customer can afford them. Please let us know your needs if you can't seem to locate a plan that fits your budget; we'd be happy to hear from you. <a href="https://clickboxagency.com/" class="txtbluee" aria-label="ClickBox Agency" title="ClickBox Agency">ClickBox Agency</a> offers the best brochure design cost to promote your business.
 									</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->
@@ -248,7 +248,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -299,7 +299,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -353,7 +353,7 @@
 
 							</ul>
 							<!-- Pricing Plan Button -->
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -515,11 +515,11 @@
 			"url": "https://www.clickboxagency.com/brochure-design-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox agency provides affordable brochure design pricing and brochure design packages. We offer the best prices for custom designed brochures and flyers. Read more…",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "ClickBox agency provides affordable brochure design pricing & packages. We offer the best prices for custom-designed brochures and flyers. Read more…",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

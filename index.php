@@ -142,19 +142,19 @@ if (isset($_POST['send'])) {
 	<meta name="Distribution" content="Global" />
 	<meta name="Rating" content="general" />
 	<meta name="search engines" content="ALL" />
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 	<meta name="email" content="info@clickboxagency.com" />
 	<link rel="canonical" href="https://www.clickboxagency.com/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.clickboxagency.com/" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
 	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
 	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!-- FAVICON AND TOUCH ICONS -->
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
@@ -1033,8 +1033,6 @@ if (isset($_POST['send'])) {
 							</div>
 						</div> <!-- END QUESTIONS HOLDER -->
 					</div>
-					<!-- FIRST COLUMN END -->
-					<!-- START SECOND COLUMN -->
 					<div class="col">
 						<div class="questions-holder pr-15">
 							<!-- START QUESTIONS HOLDER -->
@@ -1078,7 +1076,6 @@ if (isset($_POST['send'])) {
 										</div>
 									</div>
 								</div>
-								<!-- QUES 10 -->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingNine">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
@@ -1091,7 +1088,6 @@ if (isset($_POST['send'])) {
 										</div>
 									</div>
 								</div>
-								<!-- QUES 11 -->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTen">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
@@ -1104,7 +1100,6 @@ if (isset($_POST['send'])) {
 										</div>
 									</div>
 								</div>
-								<!-- QUES 12 -->
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTwelve">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
@@ -1118,11 +1113,10 @@ if (isset($_POST['send'])) {
 									</div>
 								</div>
 							</div>
-						</div> <!-- END QUESTIONS HOLDER -->
+						</div>
 					</div>
-					<!-- SECOND COLUMN END -->
-				</div> <!-- End row -->
-			</div> <!-- END FAQs-2 QUESTIONS -->
+				</div>
+			</div>
 
 			<div class="row">
 				<div class="col ">
@@ -1131,35 +1125,28 @@ if (isset($_POST['send'])) {
 					</div>
 				</div>
 			</div>
-		</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
+		</div>
+	</section>
 	<section id="content-3" class="bg-snow pt-20 pb-40 content-3  content-section division">
 		<div class="container-fluid bortopbot">
-			<!-- TOP ROW -->
 			<div class="top-row ">
 				<div class="row d-flex align-items-center justify-content-center">
-					<!-- IMAGE BLOCK -->
 					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
 						<div class="txt-block left-column wow fadeInLeft ">
-
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<!-- Title -->
 								<h4 class="h4-md"><span style="color: #fff;">Are you Ready to Take the Next Step in your Career?</span></h4>
-
-								<!-- Text -->
 								<p class="p-md text-white">We offer a challenging and rewarding work environment with ample opportunities for growth and advancement.</p>
 								<a href="https://clickboxagency.com/career/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">Join Our Dynamic Team</a>
 
 							</div>
 						</div>
 					</div>
-					<!-- TEXT BLOCK -->
 				</div>
-			</div> <!-- END TOP ROW -->
-			<!-- </div> -->
-		</div> <!-- End container -->
-	</section> <!-- END HERO-14 -->
-	<!-- Award Section -->
+			</div>
+
+		</div>
+	</section>
+
 	<?php include('awards-section.php') ?>
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -1194,10 +1181,10 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",
@@ -1225,27 +1212,26 @@ if (isset($_POST['send'])) {
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
 			"mainEntity": [{
-					"@type": "Question",
-					"name": "How can I get started with your services?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "<p>You can contact us through our website or by phone to discuss your business needs and goals. We will provide you with a customized plan and pricing for our services.<a href=https://example.com/returns> Click here </a> to initiate a return.</p>"
-					}
-				}, {
-					"@type": "Question",
-					"name": "How can you judge the efficacy of an online advertising push?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "There are many ways to measure the success of a digital marketing campaign, such as website traffic, conversion rates, engagement rates, and return on investment (ROI). <br>We use advanced analytics tools to track and analyze these metrics, and if we need to, we change our strategies to get the best results. <a href=https://example.com/returns> Click here </a> to initiate a return.</p>"
-					}
-				}, {
-					"@type": "Question",
-					"name": " How do you approach website and mobile app development projects?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "<p>We take a client-focused approach to website and mobile app development projects. We begin by discussing the client's goals and needs, then work collaboratively with the client to design and develop a website or mobile app that meets their unique needs.</p><p><a href=https://example.com/orders/>Click here</a> to complete the form with your order-related question(s).</p>"
-					}
-				},
+				"@type": "Question",
+				"name": "How can I get started with your services?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "<p>You can contact us through our website or by phone to discuss your business needs and goals. We will provide you with a customized plan and pricing for our services.<a href=https://example.com/returns> Click here </a> to initiate a return.</p>"
+				}
+			}, {
+				"@type": "Question",
+				"name": "How can you judge the efficacy of an online advertising push?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "There are many ways to measure the success of a digital marketing campaign, such as website traffic, conversion rates, engagement rates, and return on investment (ROI). <br>We use advanced analytics tools to track and analyze these metrics, and if we need to, we change our strategies to get the best results. <a href=https://example.com/returns> Click here </a> to initiate a return.</p>"
+				}
+			}, {
+				"@type": "Question",
+				"name": " How do you approach website and mobile app development projects?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "<p>We take a client-focused approach to website and mobile app development projects. We begin by discussing the client's goals and needs, then work collaboratively with the client to design and develop a website or mobile app that meets their unique needs.</p><p><a href=https://example.com/orders/>Click here</a> to complete the form with your order-related question(s).</p>"
+				}
 			}]
 		}
 	</script>

@@ -89,9 +89,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -105,7 +105,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://clickboxagency.com/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Use Google maps and Useful features for Business | Clickbox" />
 
@@ -117,7 +117,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="This article discusses Google Map features, including listing managing, real-time traffic,  indoor mapping. Google Maps helps businesses grow online." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
@@ -442,7 +442,7 @@ if (isset($_POST['send'])) {
 
 			"description": "This article discusses Google Map features, including listing managing, real-time traffic,  indoor mapping. Google Maps helps businesses grow online.",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 

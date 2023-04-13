@@ -91,9 +91,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -107,7 +107,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/linkedin-lead-generation/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Trending LinkedIn Lead Generation Techniques in 2022" />
 
@@ -120,7 +120,7 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:description" content=" According to LinkedIn statistics of 2021, the number of sessions on the LinkedIn rise by 45% and 450 billion feed updates were viewed. Read more..." />
 
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!--FAVICON-->
 
@@ -601,13 +601,13 @@ if (isset($_POST['send'])) {
 
 			"description": " According to LinkedIn statistics of 2021, the number of sessions on the LinkedIn rise by 45% and 450 billion feed updates were viewed. Read more...",
 
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 
 				"contactType": "sales",
 

@@ -27,23 +27,21 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/logo-design-packages/" />
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="canonical" href="https://www.clickboxagency.com/logo-design-packages/" />
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/logo-design-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/logo-design-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/logo-design-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/logo-design-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Logo Designing Package & Pricing | ClickBox" />
 
@@ -55,7 +53,7 @@
 
 	<meta name="twitter:description" content="A unique logo design company, Clickbox offers affordable logo design packages. Engage with the top logo designers to make your company premier. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -70,7 +68,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center">Amazing <span class="txtred">Logo Design Packages</span> For The Premium Branding!</h1>
-						<p class="p-md text-center">Are you looking for logo design pricing for your business? For all businesses, logo designing is an essential process. <b>ClickBox</b> offers reasonable Logo design packages.</p>
+						<p class="p-md text-center">Are you looking for logo design pricing for your business? For all businesses, logo designing is an essential process. ClickBox offers reasonable Logo design packages.</p>
 					</div>
 				</div>
 				<div>
@@ -89,7 +87,7 @@
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 
 									<p class="p-lg txt-justify">
-										<b>ClickBox's</b> logo design charges provide premium branding for your company. Every type of business, whether large, medium-sized, or small, can benefit from the logo design packages we offer at <b>ClickBox</b>. We provide our clients with budget-friendly, custom logo design solutions that are reasonable and meet all of their needs. Check out our logo design costs across the world and select the one that will offer your company a distinctive brand.
+										ClickBox's logo design charges provide premium branding for your company. Every type of business, whether large, medium-sized, or small, can benefit from the logo design packages we offer at ClickBox. We provide our clients with budget-friendly, custom logo design solutions that are reasonable and meet all of their needs. Check out our logo design costs across the world and select the one that will offer your company a distinctive brand.
 									</p>
 									<!-- Text -->
 									<p class="p-lg txt-justify">
@@ -98,7 +96,7 @@
 									<!-- Text -->
 									<p class="p-lg"><b>The Best Logo Design Packages For Your Brand</b> </p>
 									<p class="p-lg txt-justify">
-										A logo is a visual sign, sign or icon that assists in establishing a company's unique brand identity. Here, there is no upper restriction on how much you can spend on a company logo. It totally depends on the individual, business, or organization you engaged to do your logo-design project.</p>
+										A logo is a visual sign, sign or icon that assists in establishingclickWhy Prefer Clickbox for Logo Design Packages? a company's unique brand identity. Here, there is no upper restriction on how much you can spend on a company logo. It totally depends on the individual, business, or organization you engaged to do your logo-design project.</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
@@ -114,7 +112,7 @@
 						<!-- TITLE -->
 						<h2 class="h3-xs text-center">Factors That Influence <span class="txtred">Logo Design Rates</span></h2>
 						<!-- TEXT -->
-						<p class="p-lg text-center">Our basic but professional logo design approach at <b>ClickBox</b> will help you realize your idea. From the beginning, till the customer receives the product, we work hard to deliver effective logos while keeping them informed and updated about every step of the process.</p>
+						<p class="p-lg text-center">Our basic but professional <b>logo design approach</b> at ClickBox will help you realize your idea. From the beginning, till the customer receives the product, we work hard to deliver effective logos while keeping them informed and updated about every step of the process.</p>
 						<!--TEXT  -->
 						<p class="p-lg text-center">We have outlined every step of the complete logo design process in our logo design bundle to be transparent and to prevent any future misunderstandings. The following are some of the important components of our logo design packages are:</p>
 					</div>
@@ -197,7 +195,7 @@
 				</div>
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
-						<h4 class="h2-xs">Why Prefer Clickbox for Logo Design Packages?</h4>
+						<h4 class="h2-xs">Why Prefer ClickBox for Logo Design Packages?</h4>
 
 						<!-- TEXT BOX -->
 						<div class="txt-box">
@@ -301,7 +299,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="basic plan" title="basic plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -365,7 +363,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="advance plan" title="advance plan" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -440,7 +438,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" aria-label="premium plan" title="premium plan" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -570,9 +568,7 @@
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Affordable Logo Designing Package & Pricing | ClickBox",
-			"alternateName": "instagram organic growth, organically increase instagram followers, growing organic instagram followers,
-			instagram organic growth service,
-			instagram organic growth strategy ",
+			"alternateName": "logo design pricing, logo design packages, logo design cost, logo design charges, logo making charges, logo design rates",
 			"url": "https://www.clickboxagency.com/logo-design-packages/"
 		}
 	</script>
@@ -586,10 +582,10 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "A unique logo design company, Clickbox offers affordable logo design packages. Engage with the top logo designers to make your company premier.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

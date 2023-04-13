@@ -85,19 +85,19 @@ if (isset($_POST['send'])) {
 	<meta name="Distribution" content="Global" />
 	<meta name="Rating" content="general" />
 	<meta name="search engines" content="ALL" />
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 	<meta name="email" content="info@clickboxagency.com" />
 	<link rel="canonical" href="https://www.clickboxagency.com/contacts.php" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.clickboxagency.com/contacts.php" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta property="og:description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta name="twitter:description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 </head>
@@ -341,10 +341,10 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

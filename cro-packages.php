@@ -9,7 +9,7 @@
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Affordable Conversion Rate Optimization (CRO) Package & Pricing | ClickBox</title>
+	<title>Affordable Conversion Rate Optimization Package & Pricing | ClickBox </title>
 
 	<meta name=description content="Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates. " />
 
@@ -27,35 +27,33 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com/" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/cro-packages/" />
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="canonical" href="https://www.clickboxagency.com/cro-packages/" />
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/cro-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/cro-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/cro-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/cro-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Affordable Conversion Rate Optimization packages(CRO) Package & Pricing | ClickBox" />
+	<meta property="og:title" content="Affordable Conversion Rate Optimization Package & Pricing | ClickBox " />
 
 	<meta property="og:description" content="Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates." />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Affordable Conversion Rate Optimization packages(CRO) Package & Pricing | ClickBox" />
+	<meta name="twitter:title" content="Affordable Conversion Rate Optimization Package & Pricing | ClickBox " />
 
 	<meta name="twitter:description" content="Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates. " />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 
 
@@ -63,9 +61,6 @@
 
 <body>
 	<?php include('header.php') ?>
-
-
-	<!-- wide-60 -->
 	<section id="content-3" class="bg-snow content-3  inner-page-hero content-section division">
 		<div class="container">
 			<!-- Title -->
@@ -73,12 +68,10 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-50">
 						<h1 class="h2-xs text-center"><span class="txtred">CRO Packages</span> For Increasing Traffic, Sales, And Organic Rankings!</h1>
-						<p class="p-md text-center">Are you trying to find budget friendly best conversion rate optimization packages? If so, join <b>ClickBox's</b> affordable Conversion Rate Optimization packages. We offer cheap and customized conversion rate optimization pricing that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly best conversion rate optimization packages? If so, join ClickBox's affordable Conversion Rate Optimization packages. We offer cheap and customized conversion rate optimization pricing that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 					</div>
 				</div>
 				<div>
-
-					<!-- TOP ROW -->
 					<div class="top-row">
 						<div class="row d-flex align-items-center">
 							<!-- IMAGE BLOCK -->
@@ -87,35 +80,34 @@
 									<img class="img-fluid" src="../images/13.png" alt="cro packages in coimbatore">
 								</div>
 							</div>
-							<!-- TEXT BLOCK -->
+
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<!-- Text -->
-									<p class="p-lg txt-justify">Regular analysis and detailed approaches are used by <b>ClickBox's</b> skilled CRO consultants to optimize the most excellent options for customer satisfaction. We provide the needs of the client with top priority by constructing our CRO rates and packages with the client's perspective in mind. CRO best practices boost client confidence to boost client sales. Overall potential improvements are anticipated under the CRO process, not only specific functionality and features of the website.</p>
-									<!-- Text -->
+
+									<p class="p-lg txt-justify">Regular analysis and detailed approaches are used by ClickBox's skilled CRO consultants to optimize the most excellent options for customer satisfaction. We provide the needs of the client with top priority by constructing our CRO rates and packages with the client's perspective in mind. CRO best practices boost client confidence to boost client sales. Overall potential improvements are anticipated under the CRO process, not only specific functionality and features of the website.</p>
+
 									<p class="p-lg txt-justify">Your revenues won't increase by simply increasing the visitors to your site. To increase your conversions, we provide conversion rate optimization service. We take the essential actions to make sure that the greatest number of site users visit your site and take the appropriate action. You receive qualified leads and conversions from our astute movements, which assist you in achieving the objectives of your business.</p>
-									<!-- Text -->
+
 									<p class="p-lg txt-justify">With CRO, you can expand your company at low customer acquisition costs and with more potential for income generation. Our strategists can develop an effective ecommerce conversion rate optimization package strategy for your company, regardless of whether your objective is to increase lead generation or increase the percentage of customers that complete their purchases.</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->
 						</div>
-					</div> <!-- END TOP ROW -->
-				</div> <!-- End container -->
+					</div>
+				</div>
 	</section>
 	<!-- wide-30 -->
 	<section id="content-2" class="content-2 bg-snow pb-30 content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
 
-				<!-- TEXT BLOCK -->
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block left-column wow fadeInLeft">
-						<!-- Title -->
+
 						<h4 class="h2-xs">Here Are Some Examples Of Our CRO Services:</h4>
-						<!-- TEXT BOX -->
+
 						<div class="txt-box">
 							<p class="p-lg"> As the best conversion rate optimization agency, we provide the below-given services,</p>
-							<!-- List -->
+
 							<ul class="simple-list">
 
 								<li class="list-item">
@@ -144,23 +136,17 @@
 								</li>
 							</ul>
 							<p class="p-lg">Looking for the best CRO packages to improve your website? Then contact <a href="https://clickboxagency.com/" aria-label="ClickBox Agency" title="ClickBox Agency" class="txtbluee">ClickBox Agency</a>. We provide affordable Conversion Rate Optimization packages.</p>
-						</div> <!-- END TEXT BOX -->
-
+						</div>
 					</div>
-				</div> <!-- END TEXT BLOCK -->
-
-				<!-- IMAGE BLOCK -->
+				</div>
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid-500" src="../images/14.png" alt="video-preview">
+						<img class="img-fluid" src="../images/14.png" alt="video-preview">
 					</div>
 				</div>
 			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CONTENT-2 -->
-	<!-- SECTION 2 END  -->
-
-	<!-- PRICING-2 TABLE======================================== -->
+		</div>
+	</section>
 	<section id="pricing-2" class="bg-snow pt-30 pb-30 pricing-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
@@ -175,17 +161,13 @@
 			<!-- PRICING TABLES -->
 			<div class="pricing-2-row pc-25">
 				<div class="row row-cols-1 row-cols-md-3">
-					<!-- BASIC PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<!-- Plan Price -->
 							<div class="pricing-plan">
-
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs">Basic CRO Package </h5>
 								</div>
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">20</span>
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
@@ -273,28 +255,24 @@
 
 							</ul>
 
-							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
-					</div> <!-- END BASIC PLAN -->
+					</div>
 
 
 					<!-- AGENCY PLAN -->
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
-							<!-- Plan Price -->
 							<div class="pricing-plan">
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs">Advance CRO Package</h5>
 								</div>
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">30</span>
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
 
 							</div>
-
-							<!-- Plan Features  -->
 							<ul class="features">
 								<li>
 									<p class="p-md">In-depth analysis</p>
@@ -388,7 +366,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -397,13 +375,10 @@
 					<div class="col">
 						<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
 							<div class="pricing-plan highlight">
-
-								<!-- Plan Title -->
 								<div class="pricing-plan-title">
 									<h5 class="h5-xs"> Premium CRO Package</h5>
 								</div>
 
-								<!-- Price -->
 								<sup class="dark-color">₹</sup>
 								<span class="dark-color">40</span>
 								<sup class="validity dark-color"><span>,000</span> / Monthly</sup>
@@ -514,7 +489,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div>
@@ -523,16 +498,12 @@
 		</div> <!-- End container -->
 	</section> <!-- END PRICING-2 -->
 
-	<!-- BRANDS-2===================================== -->
-	<!-- ADD OUR CLIENTS IN PHP FILE -->
-	<?php include('our-clients.php') ?>
-	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
-	<!-- FAQs-2>================================== -->
+	<?php include('our-clients.php') ?>
+
 	<section id="faqs-2" class="pt-30 pb-30 faqs-section division">
 		<div class="container">
 
-			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-80">
@@ -542,14 +513,10 @@
 				</div>
 			</div>
 
-			<!-- FAQs-2 QUESTIONS -->
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
-
-					<!-- START QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-							<!-- QUES 1 -->
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
@@ -574,10 +541,7 @@
 									</h2>
 									<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<!-- TEXT BOX -->
 											<div class="txt-box">
-
-												<!-- List -->
 												<ul class="simple-list">
 													<li class="list-item">
 														<p class="p-lg">Put a Call-to-Action (CTA) Button in a competing color.
@@ -608,17 +572,13 @@
 														</p>
 													</li>
 												</ul>
-
-											</div> <!-- END TEXT BOX -->
+											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-						</div> <!-- END QUESTIONS HOLDER -->
+						</div>
 					</div>
-					<!-- FIRST COLUMN END -->
-
-					<!-- START SECOND COLUMN -->
 					<div class="col">
 						<div class="questions-holder pr-15">
 							<div class="accordion" id="accordionExample">
@@ -650,10 +610,9 @@
 									</div>
 								</div>
 							</div>
-						</div> <!-- END QUESTIONS HOLDER -->
+						</div>
 					</div>
-					<!-- SECOND COLUMN END -->
-				</div> <!-- End row -->
+				</div>
 
 				<div class="row">
 					<div class="col  ">
@@ -662,12 +621,11 @@
 						</div>
 					</div>
 				</div>
-			</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
+			</div>
+	</section>
 
 	<?php include('footer.php') ?>
-
-	</div> <!-- END PAGE CONTENT -->
+	</div>
 
 
 	<?php include('footer-script.php') ?>
@@ -688,7 +646,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Affordable Conversion Rate Optimization packages(CRO) Package & Pricing | ClickBox",
+			"name": "Affordable Conversion Rate Optimization Package & Pricing | ClickBox ",
 			"alternateName": "conversion rate optimization packages,conversion rate optimization pricing, conversion rate optimization service, ecommerce conversion rate optimization package, conversion rate optimization agency",
 			"url": "https://www.clickboxagency.com/cro-packages/"
 		}
@@ -698,15 +656,15 @@
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Affordable Conversion Rate Optimization packages(CRO) Package & Pricing | ClickBox",
+			"name": "Affordable Conversion Rate Optimization Package & Pricing | ClickBox ",
 			"url": "https://www.clickboxagency.com/cro-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Analyze our Premium Conversion Rate Optimization (CRO) Packages to boost website traffic, visitor numbers, and conversion rates. ",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

@@ -27,9 +27,9 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -43,7 +43,7 @@
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/pricing/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Digital Marketing Packages – Custom Price Plans for Your Brand" />
 
@@ -55,7 +55,7 @@
 
 	<meta name="twitter:description" content="Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing..." />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
 
@@ -1269,10 +1269,10 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Want to know complete digital marketing pricing packages? Check the total digital marketing cost including SEO, PPC Ads, SMM, Email, Content marketing...",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+				"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",

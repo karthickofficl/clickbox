@@ -89,9 +89,9 @@ if (isset($_POST['send'])) {
 
     <meta name="search engines" content="ALL" />
 
-    <meta name="Author" content="www.clickboxagency.com" />
+    <meta name="Author" content="https://www.clickboxagency.com" />
 
-    <meta name="copyright" content="www.clickboxagency.com" />
+    <meta name="copyright" content="https://www.clickboxagency.com" />
 
     <meta name="email" content="info@clickboxagency.com" />
 
@@ -105,7 +105,7 @@ if (isset($_POST['send'])) {
 
     <meta property="og:site_name" content="https://clickboxagency.com/" />
 
-    <meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+    <meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
     <meta property="og:title" content="How To Use Colors In Logo Design | Clickbox" />
 
@@ -117,7 +117,7 @@ if (isset($_POST['send'])) {
 
     <meta name="twitter:description" content="How to choose the right color for your logo, Choosing the right logo colors can highlight your business' strengths and attract More customers." />
 
-    <meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+    <meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
     <!--FAVICON-->
     <link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
@@ -424,7 +424,7 @@ if (isset($_POST['send'])) {
 
             "description": "How to choose the right color for your logo, Choosing the right logo colors can highlight your business' strengths and attract More customers.",
 
-            "logo": "www.clickboxagency.com/images/logo-01.png",
+            "logo": "https://www.clickboxagency.com/images/logo-01.png",
 
             "contactPoint": {
 

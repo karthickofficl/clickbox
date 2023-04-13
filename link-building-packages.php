@@ -11,7 +11,7 @@
 
 	<title>Affordable Link Building Package & Pricing | ClickBox</title>
 
-	<meta name=description content="The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings." />
+	<meta name=description content="Looking to boost your website's search engine rankings? Check out our Clickbox link-building packages! look no further! Contact us - 88705 78887" />
 
 	<meta name=keywords content="link building packages, best link building service, link building pricing, link building service, link building sites, organic link building" />
 
@@ -27,35 +27,35 @@
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="www.clickboxagency.com" />
+	<meta name="Author" content="https://www.clickboxagency.com" />
 
-	<meta name="copyright" content="www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="www.clickboxagency.com/link-building-packages/" />
+	<link rel="canonical" href="https://www.clickboxagency.com/link-building-packages/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:type" content="website" />
 
-	<meta property="og:url" content="www.clickboxagency.com/link-building-packages/" />
+	<meta property="og:url" content="https://www.clickboxagency.com/link-building-packages/" />
 
-	<meta property="og:site_name" content="www.clickboxagency.com/link-building-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/link-building-packages/" />
 
-	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Affordable Link Building Package & Pricing | ClickBox" />
 
-	<meta property="og:description" content="The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings." />
+	<meta property="og:description" content="Looking to boost your website's search engine rankings? Check out our Clickbox link-building packages! look no further! Contact us - 88705 78887" />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="Affordable Link Building Package & Pricing | ClickBox" />
 
-	<meta name="twitter:description" content="The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings." />
+	<meta name="twitter:description" content="Looking to boost your website's search engine rankings? Check out our Clickbox link-building packages! look no further! Contact us - 88705 78887" />
 
-	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
 </head>
 
@@ -69,7 +69,7 @@
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center"><span class="txtred">Link Building Packages</span> For Increasing Traffic, Sales, And Organic Rankings!</h1>
 						<p class="p-md text-center">With link building, you may increase your Google ranks and boost your monthly revenues.
-							Our link-building services assist you in outranking your competitors. To raise your SEO ranks, <b>ClickBox</b> provides the best link building service and experienced link building service.</p>
+							Our link-building services assist you in outranking your competitors. To raise your SEO ranks, ClickBox provides the best link building service and experienced link building service.</p>
 					</div>
 				</div>
 				<div>
@@ -120,7 +120,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/55.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/55.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Link Building Strategy</h5>
@@ -133,7 +133,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/56.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/56.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Link Profile Maintenance</h5>
@@ -152,7 +152,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/57.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/57.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Link Profile Evaluation</h5>
@@ -162,13 +162,11 @@
 						</div>
 					</div>
 
-
-					<!-- FEATURE BOX #4 -->
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/58.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/58.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Competitor analysis</h5>
@@ -187,7 +185,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/59.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/59.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Outreach </h5>
@@ -200,7 +198,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/60.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/60.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Content</h5>
@@ -287,7 +285,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END BASIC PLAN -->
@@ -355,7 +353,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="btn btn-sm btn-tra-grey tra-skyblue-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END AGENCY PLAN  -->
@@ -438,7 +436,7 @@
 								</li>
 
 							</ul>
-							<a href="https://api.whatsapp.com/send?phone=917358644710" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
 
 						</div>
 					</div> <!-- END ADVANCED PLAN -->
@@ -590,11 +588,11 @@
 			"url": "https://www.clickboxagency.com/link-building-packages/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "The main objective of the SEO link building packages is to enhance the number of relevant links directed at your website. There are many effective link-building strategies that can help you improve your rankings.",
-			"logo": "www.clickboxagency.com/images/logo-01.png",
+			"description": "Looking to boost your website's search engine rankings? Check out our Clickbox link-building packages! look no further! Contact us - 88705 78887",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 7358644710",
+				"telephone": "+91 8870578887",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",
