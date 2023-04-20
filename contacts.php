@@ -252,7 +252,7 @@ if (isset($_POST['send'])) {
 								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-india.jpg" width="200" height="200" alt="Branch office" />
 							</div>
 							<!-- Text -->
-							<p class="p-md text-center">178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br> +91 7418 555 205</p>
+							<p class="p-md text-center">178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br> +91 887 057 8887</p>
 						</div>
 					</div> <!-- END BOX #1 -->
 				</div> <!-- End cta-8-wrapper -->
@@ -295,7 +295,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md"></h5>
 								<!-- Text -->
 								<h5 class="p-lg">
-									<b>Mobile:</b> +91 7418 555 205</br>
+									<b>Mobile:</b> +91 88705 78887</br>
 								</h5>
 							</div>
 						</div>

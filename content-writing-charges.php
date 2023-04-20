@@ -70,7 +70,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center"><span class="txtred">Content Writing Packages</span> for Increasing Traffic, Sales, and Organic Rankings!</h1>
-						<p class="p-md text-center">Are you trying to find budget friendly content writing packages? If so, join <b>ClickBox's</b> affordable content writing packages. We offer cheap and customized content writing pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly content writing packages? If so, join ClickBox's affordable content writing packages. We offer cheap and customized content writing pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 						<p class="p-md text-center">Good writing should make the reader feel engaged. Even while content writing may not be profitable or visually appealing, it is engaging and reader-binding, so it is just as important to a website's design and appearance.</p>
 					</div>
 				</div>
@@ -87,8 +87,8 @@
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 									<h3 class="h3-xs">Why to Choose <span class="txtred">Content Writing Services</span> from Clickbox?</h3>
 									<!-- Text -->
-									<p class="p-lg txt-justify">A prominent group of the most skilled content writers, <b>ClickBox</b> helps you find captivating and appealing material to entice visitors and turn them into paying customers. Talented authors provide our expert content writing services while keeping your wants and expectations in mind.</p>
-									<p class="p-lg txt-justify">In order to serve you to the best of our ability, we offer the best article writing services in India. Our strategically placed keywords, 100% original, creative content that has been meticulously proofread by our language specialists to give you a better crisp in language, along with perfect grammar, are what set us apart from other companies. <br>In addition to this, <b>ClickBox</b> has contracted with you to provide SEO content writing services that are very relevant and expert, helping to drive a lot more traffic to your website. We offer affordable content writing costs for all kinds of websites.</p>
+									<p class="p-lg txt-justify">A prominent group of the most skilled content writers, ClickBox helps you find captivating and appealing material to entice visitors and turn them into paying customers. Talented authors provide our expert content writing services while keeping your wants and expectations in mind.</p>
+									<p class="p-lg txt-justify">In order to serve you to the best of our ability, we offer the best article writing services in India. Our strategically placed keywords, 100% original, creative content that has been meticulously proofread by our language specialists to give you a better crisp in language, along with perfect grammar, are what set us apart from other companies. <br>In addition to this, ClickBox has contracted with you to provide SEO content writing services that are very relevant and expert, helping to drive a lot more traffic to your website. We offer affordable content writing costs for all kinds of websites.</p>
 									<p class="p-lg txt-justify">We are always ready to help you with content writing services so that you may draw in more audiences and produce real leads, thus expanding your business in the right direction.</p>
 								</div>
 							</div> <!-- END TEXT BLOCK -->

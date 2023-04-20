@@ -68,10 +68,10 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center">
-							<span class="txtred">SMO Packages</span>for Increasing Traffic, Sales, and Organic Rankings!
+							<span class="txtred">SMO Packages</span> for Increasing Traffic, Sales, and Organic Rankings!
 						</h1>
 
-						<p class="p-md text-center">Are you trying to find budget friendly best SMO packages? If so, join <b>ClickBox's</b> affordable social media optimization packages. We offer cheap and customized SMO packages that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly best SMO packages? If so, join ClickBox's affordable social media optimization packages. We offer cheap and customized SMO packages that support the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 						<p class="p-md text-center">The best tool for creating an online community and customer brand loyalty is social media. A stronger online reputation and social trust for your brand can be achieved by using social media management services because billions of people now use social media platforms. Our SMO solutions include everything you require to effectively manage and cultivate your brand's online reputation and social credibility.</p>
 
 					</div>
@@ -81,12 +81,12 @@
 						<div class="row d-flex align-items-center">
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid img-fluid-500" src="../images/smo1.png" alt="content-image">
+									<img class="img-fluid" src="../images/smo1.png" alt="content-image">
 								</div>
 							</div>
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<p class="p-lg txt-justify">At <b>ClickBox</b>, we believe in providing our clients with affordable yet high-quality social media management solutions. We provide three distinct SMO services packages on a monthly basis to help our clients build more social trust in their brands.</p>
+									<p class="p-lg txt-justify">At ClickBox, we believe in providing our clients with affordable yet high-quality social media management solutions. We provide three distinct SMO services packages on a monthly basis to help our clients build more social trust in their brands.</p>
 									<p class="p-lg txt-justify">You need social media optimization (SMO) to establish your online brand as one that is well-connected. It is much more than just casual conversation; it is far more. With the help of our SMO packages, we assist you in enhancing your online presence on popular social media platforms. We have created programmes that only include the necessary social media networks up to all the top platforms, based on your requirements. All of our SMO plans cover Facebook, Twitter, Google+, Linkedin, and Pinterest.</p>
 									<p class="p-lg txt-justify">With our SMO techniques, you can introduce new campaigns or goods on social media, share significant changes to your products or services, and engage with your target market. Your internet reputation improves as you receive more likes, shares, tweets, and pins. Your search engine results improve as a result of comprehensive social media optimization. Not only that, but you can also obtain insightful feedback from your target market that could otherwise go overlooked. You can use Facebook polls to gauge the popularity of your offerings or simply to pique interest among your online followers. Being active on social media is another indication of a trustworthy company that responds to online reviews and client questions.</p>
 								</div>
@@ -116,7 +116,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid card-img-big" src="../images/smo2.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/smo2.png" alt="feature-icon" />
 							</div>
 							<h5 class="h5-md">Benefits of SMO Packages</h5>
 							<p class="p-lg">Using social media management tools for your small or large enterprises has massive benefits. To meet your demands, choose one of the SMO packages price from the list below after reviewing the features.</p>
@@ -125,7 +125,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid card-img-big" src="../images/smo3.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/smo3.png" alt="feature-icon" />
 							</div>
 							<h5 class="h5-md">Professional Leading</h5>
 							<p class="p-lg">You may manage your social media channels properly with the help of SMO packages from any reputable SMO provider. When you begin working with a qualified SMO business, you receive expert work. </p>
@@ -139,7 +139,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid card-img-big" src="../images/smo4.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/smo4.png" alt="feature-icon" />
 							</div>
 							<h5 class="h5-md">Create trust on social media</h5>
 							<p class="p-lg">SMO packages assist you in managing and interacting with your customers, and when people see that you are active on social media, they feel comfortable making purchases from you. SMO packages improve social trust in this way.</p>
@@ -149,7 +149,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid card-img-big" src="../images/smo5.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/smo5.png" alt="feature-icon" />
 							</div>
 							<h5 class="h5-md">Brand Recognition </h5>
 
@@ -165,7 +165,7 @@
 					<div class="col">
 						<div class="fbox-8  mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid card-img-big" src="../images/smo6.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/smo6.png" alt="feature-icon" />
 							</div>
 							<h5 class="h5-md">More supporters</h5>
 							<p class="p-lg">By publishing expert content and implementing the ideal social media management plan for your business, professional SMO packages may assist you in fast growing the number of followers on your social media profiles.</p>
@@ -175,7 +175,7 @@
 					<div class="col">
 						<div class="fbox-8  mb-40 wow fadeInUp">
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid card-img-big" src="../images/smo7.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/smo7.png" alt="feature-icon" />
 							</div>
 							<h5 class="h5-md">Cost-Effective</h5>
 							<p class="p-lg">SMO packages assist you in managing your social channels according to your budget if you are a small business and cannot afford to hire a crew inside to handle your social profiles effectively.</p>
@@ -202,7 +202,7 @@
 					<div class="row d-flex align-items-center">
 						<div class="col-md-5 col-lg-6">
 							<div class="rel img-block left-column wow fadeInRight">
-								<img class="img-fluid img-fluid-500" src="../images/smo8.png" alt="video-preview">
+								<img class="img-fluid" src="../images/smo8.png" alt="video-preview">
 							</div>
 						</div>
 						<div class="col-md-7 col-lg-6">

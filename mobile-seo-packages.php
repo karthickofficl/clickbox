@@ -41,7 +41,7 @@
 
 	<meta property="og:url" content="https://www.clickboxagency.com/mobile-seo-packages/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/mobile-seo-packages/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/66" />
 
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -78,7 +78,7 @@
 						<div class="row d-flex align-items-center">
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/63.png" alt="mobile seo agency in coimbatore">
+									<img class="img-fluid" src="../images/63(mso).png" alt="mobile seo agency in coimbatore">
 								</div>
 							</div>
 							<div class="col-md-7 col-lg-6">
@@ -170,7 +170,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/64.png" alt="mobile seo agency in india">
+						<img class="img-fluid" src="../images/64(mso).png" alt="mobile seo agency in india">
 					</div>
 				</div>
 
@@ -181,7 +181,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/65.png" alt="mobile seo agency in tamilnadu">
+						<img class="img-fluid" src="../images/65(mso).png" alt="mobile seo agency in tamilnadu">
 					</div>
 				</div>
 
@@ -212,7 +212,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/66.png" alt="digital marketing company coimbatore ">
+						<img class="img-fluid" src="../images/66(mso).png" alt="digital marketing company coimbatore ">
 					</div>
 				</div>
 			</div> <!-- End row -->
@@ -240,7 +240,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/67.png" alt="creative digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/67(mso).png" alt="creative digital marketing company new jersey" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Optimize Inaccessible Content</h5>
@@ -255,7 +255,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/68.png" alt="creative digital marketing company india" />
+								<img class="img-fluid" src="../images/68(mso).png" alt="creative digital marketing company india" />
 							</div><!-- Title -->
 							<h5 class="h5-md">Utilize "rel-canonical"</h5>
 
@@ -274,7 +274,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/69.png" alt="creative digital marketing company" />
+								<img class="img-fluid" src="../images/69(mso).png" alt="creative digital marketing company" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Fix Destroyed Cross Links and Redirects</h5>
@@ -287,7 +287,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/70.png" alt="creative mobile seo company" />
+								<img class="img-fluid" src="../images/70(mso).png" alt="creative mobile seo company" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Make Use Of "rel=alternate media" </h5>
@@ -305,7 +305,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp"><!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/71.png" alt="creative mobile seo company coimbatore" />
+								<img class="img-fluid" src="../images/71(mso).png" alt="creative mobile seo company coimbatore" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Avoid 404 Errors That are Only Visible On Mobile Devices</h5>
@@ -318,7 +318,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/72.png" alt="creative mobile seo company tamilnadu" />
+								<img class="img-fluid" src="../images/72(mso).png" alt="creative mobile seo company tamilnadu" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md text-center">Don’t ban Javascript, CSS, and Image Files Shouldn't Be Blocked.</h5>
@@ -354,7 +354,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="img-fluid" src="../images/73.png" alt="creative mobile seo india" />
+								<img class="img-fluid" src="../images/73(mso).png" alt="creative mobile seo india" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Delivering a URL</h5>
@@ -370,7 +370,7 @@
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3">
 							<div class="fbox-img ">
 								<!-- bg-whitesmoke-gradient -->
-								<img class="img-fluid" src="../images/74.png" alt="mobile seo company" />
+								<img class="img-fluid" src="../images/74(mso).png" alt="mobile seo company" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Page Delivery </h5>
@@ -385,7 +385,7 @@
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="img-fluid" src="../images/75.jpg" alt="mobile seo company" />
+								<img class="img-fluid" src="../images/75(mso).png" alt="mobile seo company" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Mobile Focused Pricing</h5>
@@ -413,7 +413,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/76.png" alt="mobile friendly seo company">
+							<img class="img-fluid" src="../images/76(mso).png" alt="mobile friendly seo company">
 						</div>
 					</div>
 				</div>
@@ -443,7 +443,7 @@
 						<div class="fbox-8  mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/91.png" alt="Bringing The User Experience" />
+								<img class="img-fluid" src="../images/77(mso).png" alt="Bringing The User Experience" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Bringing The User Experience First</h5>
@@ -459,7 +459,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/77.png" alt="Unique Mobile URL" />
+								<img class="img-fluid" src="../images/78(mso).png" alt="Unique Mobile URL" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Make a Unique Mobile URL</h5>
@@ -479,7 +479,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/78.png" alt="mobile seo packages packages in coimbatore" />
+								<img class="img-fluid" src="../images/79(mso).png" alt="mobile seo packages packages in coimbatore" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Thumb-Friendly Style</h5>
@@ -491,7 +491,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/79.png" alt="digital marketing company coimbatore" />
+								<img class="img-fluid" src="../images/80(mso).png" alt="digital marketing company coimbatore" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Accessible Calls to Action (CTAs)</h5>
@@ -511,7 +511,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/80.png" alt="digital marketing company india" />
+								<img class="img-fluid" src="../images/81(mso).png" alt="digital marketing company india" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Mobile Content Creation</h5>
@@ -525,7 +525,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/81.png" alt="digital marketing company new jersey" />
+								<img class="img-fluid" src="../images/82(mso).png" alt="digital marketing company new jersey" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md text-center">Boost Meta Descriptions and Title Tags</h5>

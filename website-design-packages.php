@@ -69,7 +69,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center"><span class="txtred">Website Design Packages </span> for Increasing Traffic, Sales, and Organic Rankings!</h1>
-						<p class="p-md text-center">Are you trying to find budget friendly best website development packages? If so, join <b>ClickBox's</b> affordable website design packages. We offer cheap and customized website development pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly best website development packages? If so, join ClickBox's affordable website design packages. We offer cheap and customized website development pricing that supports the needs of each client's business rather than fixed-price monthly reputation management packages.</p>
 					</div>
 				</div>
 				<div>
@@ -84,8 +84,8 @@
 
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<p class="p-lg txt-justify">Create a website to jumpstart your business. For all businesses, <b>ClickBox</b> provides affordable website building packages with excellent features that will set your website apart from the competition in your field. We recognise the value of having a website for any type of business. Thus we provide affordable website building packages to meet the needs of all companies, whether they are established or just starting out.</p>
-									<p class="p-lg txt-justify"><b>ClickBox</b> uses technology to create the best website design packages while keeping our customer's needs in mind. Customers can choose the packages that are appropriate for them based on their needs and circumstances. We make sure to offer you the best services possible since we think a strong website is one that operates faultlessly and meets the demands of every user. We offer a full selection of website development packages in India to meet your demands.
+									<p class="p-lg txt-justify">Create a website to jumpstart your business. For all businesses, ClickBox provides affordable website building packages with excellent features that will set your website apart from the competition in your field. We recognise the value of having a website for any type of business. Thus we provide affordable website building packages to meet the needs of all companies, whether they are established or just starting out.</p>
+									<p class="p-lg txt-justify">ClickBox uses technology to create the best website design packages while keeping our customer's needs in mind. Customers can choose the packages that are appropriate for them based on their needs and circumstances. We make sure to offer you the best services possible since we think a strong website is one that operates faultlessly and meets the demands of every user. We offer a full selection of website development packages in India to meet your demands.
 										We are a leading organization that offers a variety of website design and web development packages that appropriately match your company's needs.
 									</p>
 								</div>

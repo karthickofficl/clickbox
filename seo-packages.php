@@ -65,7 +65,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center"><span class="txtred">SEO Packages</span> for Increasing Traffic, Sales, and Organic Rankings!</h1>
-						<p class="p-md text-center">Are you trying to find budget friendly best SEO packages? If so, join <b>ClickBox's</b> affordable SEO packages. We offer cheap and customized SEO packages that support the needs of each client's business rather than fixed-price monthly SEO packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly best SEO packages? If so, join ClickBox's affordable SEO packages. We offer cheap and customized SEO packages that support the needs of each client's business rather than fixed-price monthly SEO packages.</p>
 					</div>
 				</div>
 				<div>
@@ -82,7 +82,7 @@
 								<div class="txt-block right-column wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
 									<p class="p-lg txt-justify">
 										Our internal employees enable effective communication and ensure that your company receives the outcomes you deserve. We customize our SEO packages and programs for every customer because we are aware of your particular needs. We offer a variety of SEO services, such as tag optimization, landing page construction, content production, and website code optimization. In place of speculating, we employ techniques that have been proved to work.
-										<br> In addition to optimizing your search engine results, <b>ClickBox</b> SEO services can help you with conversion, domain authority, and brand recognition. As a leading SEO company <b>ClickBox</b> Agency offers affordable SEO Packages that are well worth the money. You can rank higher in Google search results with the aid of our SEO solutions.<br>
+										<br> In addition to optimizing your search engine results, ClickBox SEO services can help you with conversion, domain authority, and brand recognition. As a leading SEO company ClickBox Agency offers affordable SEO Packages that are well worth the money. You can rank higher in Google search results with the aid of our SEO solutions.<br>
 										We handle every part of SEO, from keyword rankings to website optimization, to quickly improve your organic traffic.
 									</p>
 									<!-- Text -->
@@ -533,7 +533,7 @@
 									<p class="p-md">Google Analytics Report</p>
 								</li>
 								<li>
-									<p class="p-md">Acquired Links Report2</p>
+									<p class="p-md">Acquired Links Report 2</p>
 								</li>
 								<li>
 									<p class="p-md"><span>CLIENT SUPPORT</span></p>
@@ -650,7 +650,7 @@
 									<p class="p-md">Google Analytics Report</p>
 								</li>
 								<li>
-									<p class="p-md">Acquired Links Report2</p>
+									<p class="p-md">Acquired Links Report 2</p>
 								</li>
 								<li>
 									<p class="p-md"><span>CLIENT SUPPORT</span></p>
@@ -777,7 +777,7 @@
 									<p class="p-md">Google Analytics Report</p>
 								</li>
 								<li>
-									<p class="p-md">Acquired Links Report2</p>
+									<p class="p-md">Acquired Links Report 2</p>
 								</li>
 								<li>
 									<p class="p-md"><span>CLIENT SUPPORT</span></p>

@@ -67,8 +67,8 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center"> <span class="txtred">Website Maintenance</span> to Improve the Quality of Your Brand!</h1>
-						<p class="p-md text-center">Are you looking for website maintenance for your company? <b>ClickBox</b> offers reasonable website packages. For online enterprises, website support and maintenance are essential processes.
-							Although there are many companies providing website maintenance and can quickly fix any problems with your website. However, <b>ClickBox</b> can be a dependable partner with a depth of capabilities to fix your issues without exceeding your budget. We believe that the best solution to the issues with your website is one of our scalable, inexpensive website maintenance services.</p>
+						<p class="p-md text-center">Are you looking for website maintenance for your company? ClickBox offers reasonable website packages. For online enterprises, website support and maintenance are essential processes.
+							Although there are many companies providing website maintenance and can quickly fix any problems with your website. However, ClickBox can be a dependable partner with a depth of capabilities to fix your issues without exceeding your budget. We believe that the best solution to the issues with your website is one of our scalable, inexpensive website maintenance services.</p>
 
 					</div>
 				</div>
@@ -78,7 +78,7 @@
 						<div class="row d-flex align-items-center">
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid img-fluid-500" src="../images/160.png" alt="content-image">
+									<img class="img-fluid img-fluid-500" src="../images/161.png" alt="content-image">
 								</div>
 							</div>
 							<div class="col-md-7 col-lg-6">
@@ -162,7 +162,7 @@
 				</div> <!-- END TEXT BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/161.png" alt="video-preview">
+						<img class="img-fluid" src="../images/160.png" alt="video-preview">
 					</div>
 				</div>
 			</div>

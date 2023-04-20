@@ -78,7 +78,7 @@
 							<!-- IMAGE BLOCK -->
 							<div class="col-md-5 col-lg-6">
 								<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-									<img class="img-fluid" src="../images/01.png" alt="logo design agency in coimbatore">
+									<img class="img-fluid" src="../images/01(logo).png" alt="logo design agency in coimbatore">
 								</div>
 							</div>
 
@@ -126,7 +126,7 @@
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/02.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/02(logo).png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Unique Design</h5>
@@ -140,7 +140,7 @@
 					<div class="col ">
 						<div class="fbox-8 mb-40  wow fadeInUp"><!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/03.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/03(logo).png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Logo Updates</h5><!-- Text -->
@@ -157,7 +157,7 @@
 					<div class="col">
 						<div class="fbox-8 mb-40  wow fadeInUp"><!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/04.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/04(logo).png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -170,7 +170,7 @@
 						<div class="fbox-8 mb-40  wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="card-img-big" src="../images/05.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/05(logo).png" alt="feature-icon" />
 							</div><!-- Title -->
 							<h5 class="h5-md">Evaluation Of Competitor Logos</h5><!-- Text -->
 							<p class="p-lg">Before starting a logo design project, we at <b>ClickBox</b> conduct detailed research and analysis. We look at the logos of its competitors based on the logo design strategy our client has selected, and then we build something that is the greatest in the sector.</p>
@@ -474,7 +474,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											<b>What categories of services does ClickBox offer??</b>
+											<b>What categories of services does ClickBox offer?</b>
 										</button>
 									</h2>
 									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">

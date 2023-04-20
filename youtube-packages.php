@@ -323,7 +323,6 @@
 							<ul class="simple-list">
 								<li class="list-item">
 									<p class="p-lg">Problem-solving and channel evaluation.</p>
-
 								</li>
 
 								<li class="list-item">
@@ -332,11 +331,9 @@
 
 								<li class="list-item">
 									<p class="p-lg">Channel Management.</p>
-
 								</li>
 								<li class="list-item">
 									<p class="p-lg">Submitting monthly reports.</p>
-
 								</li>
 							</ul>
 						</div>
