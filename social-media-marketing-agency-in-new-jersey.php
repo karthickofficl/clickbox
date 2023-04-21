@@ -91,7 +91,7 @@
 				</div>
 				<div class="col-md-5 col-lg-5 col-xl-5">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="https://clickboxagency.com/images/we-are-generating-digital-marketing.svg" alt="we-are-generating-digital-marketing">
+							<img class="img-fluid" src="../images/182.png" alt="we-are-generating-digital-marketing">
 						</div>
 					</div>
 			</div>
@@ -137,7 +137,7 @@
 			<div class="row  justify-content-center">
 				<div class="col-lg-8 col-xl-8">
 					<div class="post-inner-img">
-						<img src="../images/155.png" alt="google analtics" class="img-fluid">
+						<img src="../images/183.png" alt="google analtics" class="img-fluid">
 					</div>
 				</div>
 			</div>

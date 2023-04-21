@@ -57,377 +57,7 @@
 
 	<meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-	<style>
-		/* SERVICES */
-		.industries-images .row {
-			margin-left: -5px;
-			margin-right: -5px
-		}
 
-		.industries-images .row .col {
-			padding: 5px
-		}
-
-		.industries-images a {
-			transition: .3s ease-in-out;
-			display: block;
-			position: relative;
-			height: 220px;
-			overflow: hidden
-		}
-
-		.industries-images figure {
-			position: absolute;
-			left: 0;
-			width: 100%;
-			top: 0;
-			height: 100%
-		}
-
-		.industries-images figure img {
-			transition: .3s ease-in-out;
-			object-fit: cover;
-			object-position: center;
-			width: 100%;
-			height: 100%
-		}
-
-		.industries-images figcaption {
-			transition: .3s ease-in-out;
-			position: absolute;
-			left: 0;
-			bottom: 0;
-			height: 60px;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-			text-align: center;
-			width: 100%;
-			font-size: 20px;
-			color: #fff;
-			z-index: 1;
-			font-family: Cambria-Bold
-		}
-
-		.why-hire-img-blk,
-		.why-hire-img-blk figure {
-			position: relative
-		}
-
-		.industries-images a::after {
-			transition: .3s ease-in-out;
-			content: "";
-			position: absolute;
-			left: 0;
-			bottom: 0;
-			width: 100%;
-			background: linear-gradient(0deg, #000 0, rgba(255, 255, 255, 0) 100%);
-			height: 130px;
-			opacity: .7
-		}
-
-		.heading-with-btn {
-			display: flex;
-			justify-content: space-between
-		}
-
-		.industries-images a:hover img {
-			transform: scale(1.1)
-		}
-
-		.industries-images a:hover::after {
-			height: 100%;
-			background: linear-gradient(0deg, #0e2dff 0, rgba(0, 0, 0, 0) 100%)
-		}
-
-		.industries-images a:hover {
-			border-radius: 10px
-		}
-
-		.why-hire-content .main-heading-box {
-			text-align: inherit;
-			margin-bottom: 20px
-		}
-
-		.why-hire-steps ul li.why-hire-item {
-			background-color: #eee;
-			display: inline-block;
-			width: 31.33%;
-			box-shadow: 0 5px 15px #dcdfe1;
-			border-radius: 30px;
-			padding: 30px;
-			margin-bottom: 30px
-		}
-
-		.why-hire-steps ul {
-			display: flex;
-			flex-wrap: wrap
-		}
-
-		.why-hire-steps ul li:nth-child(2),
-		.why-hire-steps ul li:nth-child(3) {
-			margin-left: 20px
-		}
-
-		.why-hire-steps ul li:first-child {
-			background: #ff6a4d
-		}
-
-		.why-hire-steps ul li.why-hire-item img {
-			width: 50px;
-			margin: 0 auto 20px;
-			display: block
-		}
-
-		.why-hire-steps ul li.why-hire-item h4 {
-			font-size: 15px;
-			color: #fff;
-			font-family: OpenSans-Bold;
-			text-align: center
-		}
-
-		.why-hire-steps ul li:nth-child(2) {
-			background: #36c8e3
-		}
-
-		.why-hire-steps ul li:nth-child(3) {
-			background: #ffcd42
-		}
-
-		.why-hire-steps ul li:nth-child(4) {
-			background: #a9cf54
-		}
-
-		.why-hire-steps ul li:nth-child(5) {
-			background: #946fb0;
-			margin-left: 20px
-		}
-
-		.why-hire-steps ul li:nth-child(4),
-		.why-hire-steps ul li:nth-child(5) {
-			width: 48.5%
-		}
-
-		.why-hire-img-blk {
-			height: 100%;
-			display: flex;
-			align-items: center
-		}
-
-		.why-hire-img-blk:before {
-			content: '';
-			position: absolute;
-			height: 100%;
-			background: #f0fafe;
-			width: 75%;
-			right: 0;
-		}
-
-		.tech-stacks-content .salient-nft-service figcaption h4,
-		.tech-stacks-content .salient-nft-service figure {
-			margin-bottom: 0
-		}
-
-		.tech-stacks-content .salient-nft-service {
-			align-items: center
-		}
-
-		.row.why-choose-nft-nft-row .col-md-4 {
-			margin-bottom: 35px
-		}
-
-		@media(max-width: 1199px) {
-			.industry-main-banner-content>img {
-				width: 100%;
-				height: 320px
-			}
-
-			.industry-main-banner-content .row {
-				min-height: auto;
-				margin: -180px 0 0
-			}
-
-			.industry-main-banner-content {
-				padding: 400px 0 0
-			}
-
-			.industry-main-banner-content .row .col-md-7.ml-atuo {
-				max-width: 100%;
-				flex: 0 0 100%
-			}
-
-			.industry-main-banner-sec .container {
-				padding: 0
-			}
-
-			.industry-banner-text-in h2,
-			h1 {
-				font-size: 36px
-			}
-
-			.industry-banner-text-in p {
-				font-size: 18px;
-				font-family: OpenSans-SemiBold;
-				color: #636678
-			}
-
-			.industry-banner-head-info {
-				text-align: center;
-				max-width: 100%;
-				flex: 0 0 100%;
-				padding: 40px 20px;
-				border-radius: 20px;
-				box-shadow: 0 -6px 20px rgb(0 0 0/20%)
-			}
-
-			.why-hire-steps ul li:nth-child(2),
-			.why-hire-steps ul li:nth-child(3) {
-				margin-left: 17px
-			}
-
-			.why-hire-steps ul li:nth-child(5) {
-				background: #946fb0;
-				margin-left: 17px
-			}
-		}
-
-		@media(max-width: 991px) {
-
-			.industry-banner-text-in h2,
-			h1 {
-				font-size: 32px
-			}
-
-			.industry-banner-text-in p {
-				font-size: 16px
-			}
-
-			.why-hire-section .row {
-				flex-direction: column-reverse
-			}
-
-			.why-hire-section .row .col-md-5,
-			.why-hire-section .row .col-md-7 {
-				max-width: 100%;
-				flex: 0 0 100%
-			}
-
-			.why-hire-img-blk:before {
-				width: 100%;
-				height: 250px;
-				top: 0
-			}
-
-			.why-hire-img-blk figure {
-				margin: 50px auto 0
-			}
-
-			.why-hire-content .main-heading-box {
-				text-align: center
-			}
-
-			.why-hire-section .row .col-md-5 {
-				margin-bottom: 30px
-			}
-		}
-
-		@media(max-width: 767px) {
-			.industries-images .row .col {
-				max-width: 33.33%;
-				flex: 0 0 33.33%
-			}
-
-			.industries-images .row .col-md-4.col:nth-child(10),
-			.industries-images .row .col:nth-child(11),
-			.industries-images .row .col:nth-child(4),
-			.industries-images .row .col:nth-child(5) {
-				max-width: 50%;
-				flex: 0 0 50%
-			}
-
-			.industries-images .row .col:nth-child(6) {
-				max-width: 100%;
-				flex: 0 0 100%
-			}
-		}
-
-		@media only screen and (min-width: 0px) and (max-width:567px) {
-
-			.industries-images .row .col,
-			.industries-images .row .col-md-2.col,
-			.industries-images .row .col-md-4.col,
-			.industries-images .row .col:nth-child(6) {
-				max-width: 50%;
-				flex: 0 0 50%
-			}
-
-			.industries-images a {
-				height: 150px
-			}
-
-			.industries-images figcaption {
-				height: 40px;
-				font-size: 14px
-			}
-
-			.industries-images .row .col:nth-child(5),
-			.why-hire-section .row .col-md-5,
-			.why-hire-section .row .col-md-7 {
-				max-width: 100%;
-				flex: 0 0 100%
-			}
-
-			.why-hire-section .row {
-				flex-direction: column-reverse
-			}
-
-			.why-hire-img-blk:before {
-				width: 100%;
-				height: 250px;
-				top: 0
-			}
-
-			.why-hire-img-blk figure {
-				margin: 50px auto 0
-			}
-
-			.why-hire-content .main-heading-box {
-				text-align: center
-			}
-
-			.why-hire-section .row .col-md-5 {
-				margin-bottom: 30px
-			}
-
-			.why-hire-steps ul li.why-hire-item {
-				max-width: 100%;
-				flex: 0 0 100%;
-				margin: 0
-			}
-
-			.why-hire-steps ul li.why-hire-item+li {
-				margin-top: 20px
-			}
-		}
-
-		@media(max-width: 480px) {
-
-			.industry-banner-text-in h2,
-			h1 {
-				font-size: 26px;
-				line-height: normal
-			}
-
-			.industry-banner-text-in p {
-				font-size: 14px;
-				font-family: OpenSans-Regular
-			}
-		}
-
-		.service-carousel button {
-			display: none !important;
-		}
-	</style>
 </head>
 
 <body>
@@ -455,7 +85,7 @@
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="https://clickboxagency.com/images/we-are-generating-digital-marketing.svg" alt="we-are-generating-digital-marketing">
+							<img class="img-fluid" src="../images/184.png" alt="we-are-generating-digital-marketing">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
@@ -486,7 +116,7 @@
 						<div class="squire-icons">
 							<div class="ico-65">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="research and analysis">
+									<img src="../images/186.png" alt="research and analysis">
 								</span>
 							</div>
 						</div>
@@ -506,7 +136,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="planning and implementation">
+										<img src="../images/187.png" alt="planning and implementation">
 									</span>
 								</div>
 							</div>
@@ -527,7 +157,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/control.svg" alt="monitoring">
+										<img src="../images/188.png" alt="monitoring">
 									</span>
 								</div>
 							</div>
@@ -548,7 +178,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="reporting and analysis">
+										<img src="../images/189.png" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -569,7 +199,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="reporting and analysis">
+										<img src="../images/190.png" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -590,7 +220,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="reporting and analysis">
+										<img src="../images/191.png" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -733,7 +363,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries1.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/192.jpg">
 							</figure>
 							<figcaption> Education & e-learning </figcaption>
 						</a>
@@ -741,7 +371,7 @@
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries2.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/193.jpg">
 							</figure>
 							<figcaption> Food & Restaurant </figcaption>
 						</a>
@@ -749,7 +379,7 @@
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries3.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/194.jpg">
 							</figure>
 							<figcaption> Travel & Tourism </figcaption>
 						</a>
@@ -757,7 +387,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries4.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/195.jpg">
 							</figure>
 							<figcaption> Healthcare & Medical </figcaption>
 						</a>
@@ -765,7 +395,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries5.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/196.jpg">
 							</figure>
 							<figcaption> Entertainment & media </figcaption>
 						</a>
@@ -773,7 +403,7 @@
 					<div class="col-md-6 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries6.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/197.jpg">
 							</figure>
 							<figcaption> Ecommerce </figcaption>
 						</a>
@@ -781,7 +411,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries7.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/198.jpg">
 							</figure>
 							<figcaption> Non-profit & social organizations </figcaption>
 						</a>
@@ -789,7 +419,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries8.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/199.jpg">
 							</figure>
 							<figcaption> Automotive industry </figcaption>
 						</a>
@@ -797,7 +427,7 @@
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries9.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/200.jpg">
 							</figure>
 							<figcaption> Finance & banking </figcaption>
 						</a>
@@ -805,7 +435,7 @@
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries10.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/201.jpg">
 							</figure>
 							<figcaption> Real Estate </figcaption>
 						</a>
@@ -813,7 +443,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="https://devtechnosys.com/images/2021-new/industries11.jpg">
+								<img class="lazyload" alt="Dev Technosys" src="../images/202.jpg">
 							</figure>
 							<figcaption> On-demand </figcaption>
 						</a>
@@ -1041,7 +671,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
-						<img src="https://clickboxagency.com/images/png-icons/why-choose-us-home.png" alt="why choose clickboxagency" class="img-fluid">
+						<img src="../images/185.png" alt="why choose clickboxagency" class="img-fluid">
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
