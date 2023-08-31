@@ -1,64 +1,3 @@
-<?php
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$subject = 'Blog Details Feedback Form';
-	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-	 </table> 
-    </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-
-	// Additional headers 
-
-
-	$m = mail($to, $subject, $htmlContent, $headers);
-
-	// Set content-type header for sending HTML email
-
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,9 +28,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -105,7 +44,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/" />
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Inbound Vs Outbound Lead Generation Strategies - 2023 Updated" />
 
@@ -117,17 +56,17 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Learn more about strategies, similarities and differences between inbound and outbound leads by comparing them." />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- SINGLE POST
 			============================================= -->
@@ -273,7 +212,7 @@ if (isset($_POST['send'])) {
 						<p class="p-lg txt-justify"><b>SEM: </b> Search Engine Marketing <a href="https://clickboxagency.com/google-ads-agency/" style="color:#0000FF;"><u>(Pay-per-click advertising)</u></a>, is a type of paid advertising where businesses target potential customers by purchasing keywords and phrases related to their products or services. The advertisements are then displayed in the sponsored results section of search engine results pages, such as Google, when people search for those keywords. By bidding on relevant keywords, businesses can reach a highly targeted audience of people actively searching for products or services similar to what they offer.</p>
 						<p class="p-lg txt-justify"><b> YouTube Ads: </b>YouTube Ads are a form of online advertising where businesses can sponsor videos or display picture ads with a link on the video sharing platform. These ads show up before, during, or after the main content and interrupt the viewer's experience. This makes them a popular choice for outbound marketing strategies. Businesses can reach a large audience of people who are interested in their products and services through<a href="https://clickboxagency.com/google-ads-agency/" style="color:#0000FF;"><u> Youtube ads</u></a>.</p>
 						<p class="p-lg txt-justify"><b>Influencing Marketing: </b>So, you skip the ad and start watching the video of your favorite YouTuber. This is an example of influencer marketing. But after only one minute, the YouTuber says that brand X is paying for this video. He thanks them for their help and then talks about their services and products. This is called "influencing marketing." For example, brands pay people who make content for different kinds of media to promote their websites.</p>
-						<p class="p-lg txt-justify"><b>Social Media Ads: </b>Social media advertising is probably the most popular way to market to people outside of a company. This <a href="https://clickboxagency.com/best-digital-marketing-company-in-india/" style="color:#0000FF;"><u> Social media marketing</u></a> method works well because billions of people scroll through their feeds for trillions of hours every day. You just pay these sites to show ads for your products and services to people who might be interested in them.</p>
+						<p class="p-lg txt-justify"><b>Social Media Ads: </b>Social media advertising is probably the most popular way to market to people outside of a company. This <a href="https://www.clickboxagency.com/best-digital-marketing-company-in-india/" style="color:#0000FF;"><u> Social media marketing</u></a> method works well because billions of people scroll through their feeds for trillions of hours every day. You just pay these sites to show ads for your products and services to people who might be interested in them.</p>
 						<p class="p-lg txt-justify"><b>Cold calling, emailing, and texting: </b>Under US law, anyone can send you promotional phone messages, emails, or even call you to tell you about their product or service. But if you want to send something to someone's mailbox, you either need a license from the state or the person's permission. So, cold marketing is when you reach out to people who don't know you exist and have probably never seen your brand before. Most people won't do business with you, but you can always try to reach out to someone else.</p>
 
 
@@ -524,10 +463,10 @@ if (isset($_POST['send'])) {
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 
 
 	<script type="application/ld+json">
@@ -585,13 +524,13 @@ if (isset($_POST['send'])) {
 
 			"description": "Learn more about strategies, similarities and differences between inbound and outbound leads by comparing them.",
 
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 8870578887",
+				"telephone": "+91 7358644710",
 
 				"contactType": "sales",
 
@@ -627,7 +566,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://www.clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

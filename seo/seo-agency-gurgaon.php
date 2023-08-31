@@ -1,23 +1,22 @@
 <?php
 
-//  
 if (isset($_POST['send'])) {
 
 	// getting post values
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	$subject = 'SEO Service Form';
-
-	$to = 'sales@clickboxagency.com';
+	
+	$subject = 'Enquiry From UI/UX Course';
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
     <html> 
     <head> 
         <title>Welcome to Clickbox Agencies</title> 
     </head> 
     <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+        <h3>Thanks you for joining with us!</h3> 
+               <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
             <tr> 
                 <th>Name:</th><td>' . $name . '</td> 
             </tr> 
@@ -27,35 +26,28 @@ if (isset($_POST['send'])) {
             <tr style="background-color: #e0e0e0;"> 
             <th>Phone:</th><td>' . $phone . '</td> 
         </tr> 
-
-        </table> 
+         
+	 </table> 
     </body> 
     </html>';
 
 	// Set content-type header for sending HTML email 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-	$headers .= 'Bcc: techjam1993@gmail.com' . "\r\n";
+
 	// Additional headers 
-
-
 	$m = mail($to, $subject, $htmlContent, $headers);
-
+	echo $m;
 	// Set content-type header for sending HTML email
 
 	if (!$m) {
 		echo 'Message could not be sent.';
 	} else {
-		// echo 'Message has been sent';
 		$result = '
-    One of our representative will get in touch you.';
+		One of our representative will get in touch you.';
+		
 	}
 }
-// else{
-//     print_r("ssdfs");die;
-// }
 ?>
 
 <!DOCTYPE html>
@@ -87,9 +79,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -103,7 +95,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/seo/seo-agency-gurgaon/" />
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Result-Oriented Search Engine Optimization Agency in Gurgaon" />
 
@@ -115,9 +107,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
@@ -125,7 +117,7 @@ if (isset($_POST['send'])) {
 
 <body>
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 	<!-- HERO-4
 			============================================= -->
 	<section id="hero-4" class="bg-scroll hero-section division">
@@ -251,7 +243,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="https://clickboxagency.com/images/top-notch-seo.png" alt="video-preview">
+						<img class="img-fluid" src="https://clickboxagency.com/images/183.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -635,7 +627,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="https://clickboxagency.com/images/how-will-start-business.png" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images/182.png" alt="content-image">
 						</div>
 					</div>
 
@@ -893,7 +885,7 @@ if (isset($_POST['send'])) {
 	<!-- BRANDS-2
 	============================================= -->
 	<!-- ADD OUR CLIENTS IN PHP FILE -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/our-clients.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/our-clients.php') ?>
 	<!-- ADD OUR CLIENTS IN PHP FILE END -->
 
 
@@ -1095,10 +1087,10 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
@@ -1130,10 +1122,10 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "https://www.clickboxagency.com/images/logo-01.png",
+				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 8870578887",
+				"telephone": "+91 7358644710",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",
@@ -1157,8 +1149,8 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/popup1.php') ?>
+	<script src="https://clickboxagency.com/js/custom.js"></script>
+
 
 </body>
 

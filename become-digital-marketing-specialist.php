@@ -9,7 +9,7 @@ if (isset($_POST['send'])) {
 	$phone = $_POST['phone'];
 	$subject = 'Blog Details Feedback Form';
 	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
+	$to = 'sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com';
 	$htmlContent = ' 
     <html> 
     <head> 
@@ -164,7 +164,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg">
 
 								Are you curious about how online businesses and shopping operate?
-								<a href="https://clickboxagency.com/right-digital-marketing-agency/" style="color:#0000FF;"><u> Digital marketing</u></a>
+								<a href="https://www.clickboxagency.com/right-digital-marketing-agency/" style="color:#0000FF;"><u> Digital marketing</u></a>
 								is the key to the success of
 								these digital platforms. As a service-based industry, digital marketing helps to advertise products and brands online.
 								These days, there is a greater requirement for digital marketers.
@@ -370,7 +370,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!--TEXT-->
-							<p class="p-lg">The fact that PPC advertising through <a href="https://clickboxagency.com/google-ads-agency/" style="color:#0000FF;"><u> Google Ads</u></a>
+							<p class="p-lg">The fact that PPC advertising through <a href="https://www.clickboxagency.com/google-ads-agency/" style="color:#0000FF;"><u> Google Ads</u></a>
 								is simple to measure and track is a major advantage. For activating PPC utilize Google Analytics along with the Google Ads tool.
 							</p>
 
@@ -666,7 +666,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -779,7 +779,6 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	<?php include('popup1.php') ?>
 
 </body>
 

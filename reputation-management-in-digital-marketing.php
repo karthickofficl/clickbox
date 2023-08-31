@@ -96,7 +96,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="email" content="info@clickboxagency.com" />
 
-	<link rel="canonical" href="https://www.clickboxagency.com/digital-marketing-checklist" />
+	<link rel="canonical" href="https://www.clickboxagency.com/digital-marketing-checklist/" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 

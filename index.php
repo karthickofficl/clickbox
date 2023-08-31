@@ -1,130 +1,3 @@
-<?php
-/* 
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
-
-require ($_SERVER['DOCUMENT_ROOT'].'/PHPMailer/src/Exception.php');
-require ($_SERVER['DOCUMENT_ROOT'].'/PHPMailer/src/PHPMailer.php');
-require ($_SERVER['DOCUMENT_ROOT'].'/PHPMailer/src/SMTP.php');
-
-// Instantiation and passing `true` enables exceptions
-$mail = new PHPMailer(true);
-
-try {
-
-    $name = "kannan";
-	$email = "kannan@gmail.com";
-	$phone = "8903158381";
-	$subject = 'Popup Form Details';
-	$message ="Demo"; 
-    
-    //Server settings
-    $mail->SMTPDebug = 0;                      // Enable verbose debug output
-    $mail->isSMTP();                                            // Send using SMTP
-    $mail->Host       = 'clickboxagency.com';                    // Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-    $mail->Username   = 'noreply@clickboxagency.com';                     // SMTP username
-    $mail->Password   = '@A9(n@kXW!$+';                               // SMTP password
-    $mail->SMTPSecure = 'SSL';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
-    $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
-
-    //Recipients
-    $mail->setFrom('noreply@clickboxagency.com', 'Click Box Agency');
-    // $mail->addAddress('sales@clickboxagency.com', 'Click Box Agency');
-    $mail->addAddress('kannan2187@gmail.com', 'Kannan Perumal');  // Add a recipient
-    
-   // $mail->addAddress('ellen@example.com');               // Name is optional
-    // $mail->addReplyTo($email, $name);
-    $mail->addCC('iamjamesstephan@gmail.com');
-    $mail->addBCC('kannan2187@gmail.com');
-
-    // Attachments
-    // $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-    // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
-    
-    $body =' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-
-
-        </table> 
-    </body> 
-    </html>';
-    
-    // Content
-    $mail->isHTML(true); // Set email format to HTML
-    $mail->Subject = 'New Enquiry from Clickboxagency';
-    $mail->Body    = 'Hi admin, from <b>' . $name . '!</b> <br /> <p>' . $body . '</p>';
-    //$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
-
-    $m = $mail->send();
-    print_r($m);
-    if (!$m) {
-	echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-} catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-} */
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$email = $_POST['email'];
-	$subject = 'News Letter Subscription';
-	$to = 'iamjamesstephan@gmail.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to ClickBox Marketing Agency</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-        <th>Email:</th><td>' . $email . '</td> 
-    </tr> 
-	</table> 
-    </body> 
-    </html>'; // Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	// Additional headers 
-	$m = mail($to, $subject, $htmlContent, $headers);
-	// Set content-type header for sending HTML email
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -134,7 +7,7 @@ if (isset($_POST['send'])) {
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="author" content="ClickBox Agency" />
 	<title>ClickBox Advertising & Digital Marketing Agency in Coimbatore</title>
-	<meta name="description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta name="description" content="ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more." />
 	<meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india">
 	<meta name="language" content="en" />
 	<meta name="revisit-after" content="7 days" />
@@ -142,18 +15,18 @@ if (isset($_POST['send'])) {
 	<meta name="Distribution" content="Global" />
 	<meta name="Rating" content="general" />
 	<meta name="search engines" content="ALL" />
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 	<meta name="email" content="info@clickboxagency.com" />
 	<link rel="canonical" href="https://www.clickboxagency.com/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.clickboxagency.com/" />
-	<meta property="og:site_name" content="https://www.clickboxagency.com" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/" />
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
-	<meta property="og:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta property="og:description" content="ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more. " />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
-	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. " />
+	<meta name="twitter:description" content="ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more." />
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!-- FAVICON AND TOUCH ICONS -->
@@ -190,24 +63,30 @@ if (isset($_POST['send'])) {
 	<!-- RESPONSIVE CSS -->
 	<link href="https://clickboxagency.com/css/responsive.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://clickboxagency.com/css/header-style2.css">
-	<link rel="stylesheet" type="text/css" href="https://clickboxagency.com/css/cookieconsent.min.css" />
+	<!-- <link rel="stylesheet" type="text/css" href="https://clickboxagency.com/css/cookieconsent.min.css" /> -->
 
 </head>
 
 <body>
 	<?php include('header.php') ?>
-	<section class="rel">
+	<!-- <section class="rel">
 		<video id="background-video" autoplay loop muted poster="./images/png-icons/banner-video-img.jpg">
 			<source src="https://clickboxagency.com/images/video/videoclick.mp4" type="video/mp4">
 		</video>
-		<!-- <div class="container"> -->
 		<div class="videoinsidetext">
 			<h1 class=""><span class="txtred">Seriously</span> one stop solution that</h1>
 			<h1>delivers <span class="txtyellow">Outstanding Results</span></h1>
 			<p class="p-xl">Hassle-Free Creative Marketing Company</p>
 			<button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
 				<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Schedule A 1-1 Call With Our Expert</a></button>
-			<!-- </div> -->
+		</div>
+	</section> -->
+	<section class="">
+		<div class="banner-content mt-150 mb-80">
+			<h1 class="">Elevate Rankings. <span class="">Amplify Traffic.</span> <br><span class="">Enhance Brand Visibility.</span> <br><span class="txtyellow">Expand Your Business ROI.</span></h1>
+			<p class="p-xl">Top Rated Indo-American Creative Marketing Agency</p>
+			<button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
+				<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Schedule A 1-1 Call With Our Expert</a></button>
 		</div>
 	</section>
 
@@ -619,12 +498,12 @@ if (isset($_POST['send'])) {
 						<!-- Text -->
 						<div class="fbox-txt-infograpic text-right-info">
 							<!-- Title -->
-							<h6 class="h6-md">Transparent reporting</h5>
-								<!-- Text -->
-								<details>
-									<summary>ClickBox offers transparent reporting, so you can see the results of your campaigns in real-time. <br><span class="readmore">Read more...</span></summary>
-									<p class="p-lg ">This level of transparency is important for ensuring that you can make informed decisions about your marketing strategy and budget.</p>
-								</details>
+							<h6 class="h6-md">Transparent reporting</h6>
+							<!-- Text -->
+							<details>
+								<summary>ClickBox offers transparent reporting, so you can see the results of your campaigns in real-time. <br><span class="readmore">Read more...</span></summary>
+								<p class="p-lg ">This level of transparency is important for ensuring that you can make informed decisions about your marketing strategy and budget.</p>
+							</details>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
@@ -955,7 +834,7 @@ if (isset($_POST['send'])) {
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
 											<b>The services provided by your digital marketing agency.?</b>
 										</button>
 									</h2>
@@ -1040,7 +919,7 @@ if (isset($_POST['send'])) {
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											<b>How long does it take to develop a website?</b>
 										</button>
 									</h2>
@@ -1180,7 +1059,7 @@ if (isset($_POST['send'])) {
 			"url": "https://www.clickboxagency.com/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "Clickbox Agency is a global digital marketing agency based in Coimbatore, India. Clickbox agency specializing in SEO, social media, PPC, content writing, responsive website design, and web hosting services. We help companies increase sales, leads, and e-commerce revenue. ",
+			"description": "ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more.",
 			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

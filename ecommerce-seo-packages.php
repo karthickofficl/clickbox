@@ -155,7 +155,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/21.png" alt="ecommerce seo marketing company coimbatore " />
+								<img class="img-fluid" src="../images/Ecommerce SEO Packages-02.png" alt="ecommerce seo marketing company coimbatore " />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Be Specific with Product Descriptions
@@ -251,7 +251,7 @@
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/28.png" alt="Role of Community" />
+								<img class="img-fluid" src="../images/Ecommerce community-03.png" alt="Role of Community" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">The Role of Community Forums</h5>
@@ -603,7 +603,7 @@
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://www.clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>

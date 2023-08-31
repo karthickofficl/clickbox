@@ -1,64 +1,3 @@
-<?php
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$subject = 'Blog Details Feedback Form';
-	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-	 </table> 
-    </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-
-	// Additional headers 
-
-
-	$m = mail($to, $subject, $htmlContent, $headers);
-
-	// Set content-type header for sending HTML email
-
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,9 +28,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -103,9 +42,9 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:url" content="https://www.clickboxagency.com/blog/how-to-improve-domain-authority-score/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/how-to-improve-domain-authority-score/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/" />
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Improve Domain Authority Score " />
 
@@ -117,26 +56,27 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Do you find it difficult to rank on Google's #1 page? To start outranking the competition, you need to take steps to increase your Domain Authority." />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- SINGLE POST
 			============================================= -->
-	<section id="single-post" class="wide-30 inner-page-hero single-post-section division">
+	<section id="single-post" class="wide-30 single-post-section division">
 		<div class="container">
 
 
 			<!-- SINGLE POST CONTENT -->
 			<div class="row">
+			<h1 class="h2-md text-center"><u>How to Improve Domain Authority Score</u></h1>
 				<div class="col-lg-10 offset-lg-1">
 					<div class="single-post-wrapper">
 
@@ -147,7 +87,6 @@ if (isset($_POST['send'])) {
 						<!-- SINGLE POST TITLE -->
 						<div class="single-post-title">
 							<!-- TITLE -->
-							<h1 class="h2-md">How to Improve Domain Authority Score</h1>
 
 						</div>
 						<!-- END SINGLE POST TITLE -->
@@ -159,6 +98,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">What is domain authority of your website determines how strong it is in contrast to other websites (DA). It may be viewed as a ranking system for websites and is one of the many factors that affect how highly your website will rank on search engines. Using a scoring system created by Moz, a site's strength and relevance are evaluated, and the higher the score, the greater the site's chances of performing well on search engine result pages. You can quickly assess the SEO health of your website using your DA score. A website frequently has a very low domain authority when it is initially started. To get better, you must put in constant labor.</p>
 							<h4 class="h4-lg">How Can You Improve Your Score</h4>
 							<p class="p-lg txt-justify">Increasing your site's Domain Authority score necessitates a lot of work. It takes a lot of time and effort, and the results may not be seen for a few months. Because the scoring scale is logarithmic, it becomes increasingly harder to raise your score as you proceed. It can get a maximum score of 100 on the scale used to evaluate it. While there is no universally accepted cutoff for a strong DA score, those with scores in the 70s to the high 80s are generally thought to be doing rather well. If the score is below 50, something is likely incorrect and should be investigated. You can get your DA score and a slew of other helpful statistics on keyword ranking, backlinks, and competition with Moz's free domain SEO analysis tool.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● 30 to 40 is below average</p>
@@ -176,8 +116,10 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">● Above 80 is excellent</p>
 								</li>
 							</ul>
+							</div>
 							<br>
-							<p class="p-lg txt-justify">If you want to increase your domain authority, here are five strategies used by leading <a href="https://clickboxagency.com/contacts/" style="color:#0000FF;">digital marketing agencies</a>.</p>
+							<p class="p-lg txt-justify"><strong>If you want to increase your domain authority, here are five strategies used by leading </strong><a href="https://clickboxagency.com/contacts/" style="color:#0000FF;">digital marketing agencies</a>.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● External Link Development of the Highest Quality</p>
@@ -195,6 +137,7 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">● Making a Website That Loads Quickly While Still Being Easy To Use</p>
 								</li>
 							</ul>
+							</div>
 							<h4 class="h4-lg txt-justify">1. External Link Development of the Highest Quality</h4>
 							<p class="p-lg txt-justify">The quality and quantity of your site's backlinks is a major factor in how well it performs in terms of DA. <a href="https://ahrefs.com/blog/search-traffic-study/" style="color:#0000FF;">Ahrefs</a> found that 66.31 percent of the analyzed websites lacked even a single backlink, indicating that they receive extremely little organic search traffic. Link building and increasing your site's visibility on the web may be accomplished through content promotion.</p>
 							<p class="p-lg txt-justify">If you want to boost both your steps how to increase domain authority and your traffic, one strategy is to publish guest articles on popular blogs and websites. Further, you might examine the linking strategies of your rivals to learn what works best. Acquiring inbound connections from related websites is a good strategy. Start with local SEO, since it may serve as a solid groundwork upon which to create external links. Local company mentions (or citations) are highly valued by <a href="https://www.google.com/intl/en_in/search/howsearchworks/how-search-works/ranking-results/" style="color:#0000FF;">search engine algorithms</a>. Local search engine optimization (SEO) backlinks may be bolstered by listing your company in online business directories like Foursquare and Yelp.</p>
@@ -219,6 +162,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">Consider PC and mobile loading times. Mobile device compatibility affects DA scores. Mobile-responsive design and content are essential. Your website must work properly on all mobile devices and load rapidly since the number of mobile users increases daily.</p>
 							<p class="p-lg txt-justify">Create a sitemap with your crucial pages. This will help search engine crawlers explore your site and not miss anything. Secure your website. SSL is first. High-quality security plugins and external firewall services can also safeguard your website.</p>
 							<h4 class="h4-lg txt-justify">How is Domain Authority Calculated</h4>
+							<div class="single-post-txt">
 							<ol class="digit-list">
 								<li>
 									<p class="p-lg">MozRank</p>
@@ -236,18 +180,19 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">Site Structure and User Friendliness</p>
 								</li>
 							</ol>
-							<h4 class="h4-lg txt-justify">MozRank</h4>
+							</div>
+							<h4 class="h4-lg txt-justify">1. MozRank</h4>
 							<p class="p-lg txt-justify">Using this method, we may calculate how many other websites are linked to a specific page. The quality of the sites that are linked to yours is also reviewed.</p>
-							<h4 class="h4-lg txt-justify">Link Profile</h4>
+							<h4 class="h4-lg txt-justify">2. Link Profile</h4>
 							<!-- Text -->
 							<p class="p-lg txt-justify">Your website's internal and external links. Your content will score well if it connects to high-authority sites and is linked back by other respectable sites.</p>
 							<!-- Text -->
-							<h4 class="h4-lg">Root Domain</h4>
+							<h4 class="h4-lg">3. Root Domain</h4>
 							<p class="p-lg txt-justify">Moz checks your link profile for unique backlinks. You have 100 links from one website. Moz considers this one root domain. Thus, backlinks from other sites are crucial.</p>
 							<!-- Text -->
-							<h4 class="h4-lg">Moz Trust</h4>
+							<h4 class="h4-lg">4. Moz Trust</h4>
 							<p class="p-lg txt-justify">Moz checks the quality of websites that link to your page. For instance, you will receive a high score if you receive a link from a university website, a government website, or a significant organization's website.</p>
-							<h4 class="h4-lg">Site Structure and User Friendliness</h4>
+							<h4 class="h4-lg">5. Site Structure and User Friendliness</h4>
 							
 							<p class="p-lg txt-justify">For a high DA, you must ensure that search engines, such as Google, can easily index your website's pages. And you must also give your visitors an excellent user experience.</p>
 							<div class="post-inner-img">
@@ -255,6 +200,7 @@ if (isset($_POST['send'])) {
 							</div>
 							<h4 class="h4-lg">8 Top Methods to Improve Domain Authority in 3 Weeks</h4>
 							<p class="p-lg txt-justify">We've reached the point where we assume Google evaluates every aspect of a website, from the quality of its content to the quantity of its visitors to the swiftness with which pages load. In contrast to PageRank, <a href="https://websiteseochecker.com/domain-authority-checker/" style="color:#0000FF;">Domain Authority</a> is calculated by MOZ rather than Google. This is an unofficial Google ranking signal that can have a significant impact. By the end of this blog post, you should have a firm handle on at least one of Google's 200-odd Ranking Factors, having read about how to increase Domain Authority and how it affects Google Rankings.</p>
+							<div class="single-post-txt">
 							<ol class="digit-list">
 								<li>
 									<p class="p-lg">A Good Domain Name is Essential</p>
@@ -281,28 +227,30 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">Guest Posting</p>
 								</li>
 							</ol>
-							<h4 class="h4-lg">A Good Domain Name is Essential</h4>
+							</div>
+							<h4 class="h4-lg">1. A Good Domain Name is Essential</h4>
 							<p class="p-lg txt-justify">A website is given a unique identity known as its domain name so that it can be located on the various search engines. These domain names are readable by humans and can be comprehended with relative simplicity.</p>
 
-							<h4 class="h4-lg">Link in Content</h4>
+							<h4 class="h4-lg">2. Link in Content</h4>
 
 							<p class="p-lg txt-justify">You should have a lot of useful information and links on your website. These backlinks might serve as social verification that your website is legitimate. The best way to improve your Google ranking is to produce high-quality content and link to it. You should, however, investigate your links' history and remove any spammy ones that may be undermining your site's credibility. Likewise, you need to get rid of any and all links to other potentially malicious or spammy sites.</p>
 
-							<h4 class="h4-lg">Internal Links</h4>
+							<h4 class="h4-lg">3. Internal Links</h4>
 
 							<p class="p-lg txt-justify">Both external and internal relationships are crucial. While many marketers understand the need of developing external connections to attract visitors, many also forget about the importance of working on internal links. You may assist search engines crawl your site and keep people interested by linking to relevant pages within it.</p>
-							<h4 class="h4-lg">Mobile Friendly Website</h4>
+							<h4 class="h4-lg">4. Mobile Friendly Website</h4>
 							<p class="p-lg txt-justify">Having a <a href="https://search.google.com/test/mobile-friendly" style="color:#0000FF;">mobile-friendly</a> site is crucial for increasing your site's credibility since the majority of consumers now access the internet from their phones. Your website's credibility may suffer if it is not optimized for mobile devices. Besides losing prospective clients, your website's SERP position may suffer as a result.</p>
-							<h4 class="h4-lg">Loading Speed of Website</h4>
+							<h4 class="h4-lg">5. Loading Speed of Website</h4>
 							<p class="p-lg txt-justify">If the <a href="https://pagespeed.web.dev/" style="color:#0000FF;">loading speed of your website</a> is slower than it should be, this might cause an increase in the percentage of visitors who leave without engaging further. The loading speed of your website is something that you should be more worried about, particularly if you run an online store, because website users tend to avoid using websites that load slowly.</p>
-							<h4 class="h4-lg txt-justify">Social Media Influence</h4>
+							<h4 class="h4-lg txt-justify">6. Social Media Influence</h4>
 							<p class="p-lg txt-justify">Publish your content on social media since youthful individuals are increasingly drawn to online communities like <a href="https://en.wikipedia.org/wiki/Facebook" style="color:#0000FF;">Facebook</a> and <a href="https://en.wikipedia.org/wiki/Twitter" style="color:#0000FF;">Twitter</a>. You might also invite your visitors to comment on the content of your blog and share the link to your website with their friends. Doing so will ultimately increase the authority of your brand, and it will also provide you with feedback on how people feel about the blog.</p>
-							<h4 class="h4-lg txt-justify">Use Good Quality Blog Posts</h4>
+							<h4 class="h4-lg txt-justify">7. Use Good Quality Blog Posts</h4>
 							<p class="p-lg txt-justify">If you are currently writing a blog and publishing new content once per week, you really want to consider increasing the frequency with which you do it. Because let's say that if your reader is reading your blog article, then it means he is certainly interested in seeing more of it, but if you are just uploading it once in a while, then it might be disappointing to everyone.</p>
-							<h4 class="h4-lg txt-justify">Guest Posting</h4>
+							<h4 class="h4-lg txt-justify">8. Guest Posting</h4>
 							<p class="p-lg txt-justify">Your website's domain authority may be significantly improved by increasing the amount of traffic that comes via referrals. It is imperative that you have guest articles since doing so allows you to attract new viewers to your site. When you post content to a website that has a high domain authority, it helps increase the reputation of your own website as well.</p>
 							<h4 class="h4-lg txt-justify">Make use of these tools to determine the score of the domain's authority.</h4>
-							<ol class="digit-list">
+								<div class="single-post-txt">
+								<ol class="digit-list">
 								<li>
 									<p class="p-lg"><a href="https://moz.com/" style="color:#0000FF;"> moz</a></p>
 								</li>
@@ -322,7 +270,7 @@ if (isset($_POST['send'])) {
 									<p class="p-lg"><a href="https://loganix.com/domain-authority-checker-tool/" style="color:#0000FF;"> Loganix</a></p>
 								</li>
 								<li>
-									<p class="p-lg"><a href="https://seranking.com/domain-trust-checker.html?ga=1658897&sou1=ninjareports&utm_source=ninjareports_com&utm_medium=refferal&utm_content=blog-free-domain-authority-checkers&utm_term=heading" style="color:#0000FF;"> SE Ranking</a></p>
+									<p class="p-lg"><a href="https://seranking.com/domain-trust-checker.html?" style="color:#0000FF;"> SE Ranking</a></p>
 								</li>
 								<li>
 									<p class="p-lg"><a href="https://sitechecker.pro/" style="color:#0000FF;"> SiteChecker Pro</a></p>
@@ -335,10 +283,11 @@ if (isset($_POST['send'])) {
 								</li>
 
 							</ol>
-							<h4 class="h4-lg">Conclusion:</h4>
+								</div>
+							<h4 class="h4-lg">Conclusion</h4>
 							<p class="p-lg txt-justify">Domain authority is a measurement of a website's trustworthiness and size. It is calculated by many factors, including referral links, social media signals, inbound links, and more. The higher your domain authority, the more likely it is that people will find your website and take an interest in it.</p>
 
-							<p class="p-lg txt-justify">At Clickbox, we offer affordable ways to improve your domain authority without breaking the bank. Our tools are easy to use and provide reliable results quickly so that you can see visible improvements on your <a href="https://www.clickboxagency.com/" style="color:#0000FF;">website</a>.
+							<p class="p-lg txt-justify">At Clickbox, we offer affordable ways to improve your domain authority without breaking the bank. Our tools are easy to use and provide reliable results quickly so that you can see visible improvements on your <a href="http://www.clickboxagency.com" style="color:#0000FF;">website</a>.
 							</p>
 						</div> <!-- END BLOG POST TEXT -->
 
@@ -362,9 +311,9 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
+								<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://www.linkedin.com/company/clickbox-agency/" class="share-ico"><span class="flaticon-linkedin"></span></a></li>
 								</ul>
 							</div>
 						</div> <!-- SINGLE POST SHARE LINKS END -->
@@ -375,130 +324,14 @@ if (isset($_POST['send'])) {
 	</section> <!-- END SINGLE POST -->
 
 	<!-- POST COMMENTS============================================= -->
-	<section id="post-comments" class=" post-comments division">
-		<div class="container">
-			<div class="row">
-
-
-				<!-- COMMENTS WRAPPER -->
-				<div class="col-lg-10 offset-lg-1">
-					<div class="comments-wrapper">
-
-
-						<!-- COMMENT FORM -->
-						<div id="leave-comment">
-
-							<!-- Title -->
-							<h5 class="h5-lg">Leave a Comment</h5>
-
-							<!-- Text -->
-							<p class="p-md">Your email address will not be published. Required fields are marked *</p>
-
-							<form name="commentForm" method="post" class="row comment-form">
-
-								<div class="col-md-12">
-									<p>Name*</p>
-									<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required>
-								</div>
-
-								<div class="col-md-6">
-									<p>Email*</p>
-									<input type="email" name="email" class="form-control email" placeholder="Enter Your Email*" required>
-								</div>
-
-								<div class="col-md-6">
-									<p>Phone*</p>
-									<input type="tel" name="phone" class="form-control phone" placeholder="Enter Your Phone No*" required>
-								</div>
-
-								<div class="col-md-12 input-message">
-									<p>Subject *</p>
-									<textarea class="form-control message" name="message" rows="6" placeholder="Enter Your Comment Here* ..." required></textarea>
-								</div>
-
-								<!-- Contact Form Button -->
-								<div class="col-lg-12 form-btn">
-									<button type="submit" class="btn btn-skyblue tra-skyblue-hover submit" name="send">Submit</button>
-								</div>
-
-								<!-- Contact Form Message -->
-								<div class="col-md-12 comment-form-msg text-center">
-									<div class="sending-msg"><span class="loading"></span></div>
-								</div>
-								<div class="form-group">
-									<div class="col-sm-10 col-sm-offset-2">
-										<?php if (!empty($result)) {
-											echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-										} ?>
-									</div>
-								</div>
-
-							</form>
-
-						</div> <!-- END COMMENT FORM -->
-
-					</div>
-				</div> <!-- END COMMENTS WRAPPER -->
-
-
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END POST COMMENTS -->
-
+	
 	<!-- BLOG-1
 			============================================= -->
-	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
-		<div class="container">
 
-
-			<!-- SECTION TITLE -->
-			<div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01 mt-20">
-						<h2 class="h2-md">Keep Reading...</h2>
-					</div>
-				</div>
-			</div>
-
-			<!-- INCLUDE BLOGS -->
-
-			<?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') ?>
-
-		</div> <!-- End container -->
-	</section> <!-- END BLOG-1 -->
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 
 
 	<script type="application/ld+json">
@@ -508,13 +341,13 @@ if (isset($_POST['send'])) {
 
 			"@type": "WebSite",
 
-			"url": "https://www.clickboxagency.com/blog/impore-domain-authority-score/",
+			"url": "https://www.clickboxagency.com/blog/how-to-improve-domain-authority-score/",
 
 			"potentialAction": {
 
 				"@type": "SearchAction",
 
-				"target": "https://www.clickboxagency.com/blog/impore-domain-authority-score/find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/blog/how-to-improve-domain-authority-score/find?q={search_term_string}",
 
 				"query-input": "required name=search_term_string"
 
@@ -561,13 +394,13 @@ if (isset($_POST['send'])) {
 
 			"description": "Do you find it difficult to rank on Google's #1 page? To start outranking the competition, you need to take steps to increase your Domain Authority.",
 
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 8870578887",
+				"telephone": "+91 74185 55209",
 
 				"contactType": "sales",
 
@@ -603,7 +436,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://www.clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

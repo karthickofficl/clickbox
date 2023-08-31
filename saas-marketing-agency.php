@@ -9,7 +9,7 @@ if (isset($_POST['send'])) {
 	$phone = $_POST['phone'];
 	$subject = 'SEO Service Form';
 
-	$to = 'sales@clickboxagency.com';
+	$to = 'sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com';
 	$htmlContent = ' 
     <html> 
     <head> 
@@ -37,7 +37,7 @@ if (isset($_POST['send'])) {
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
 	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-	$headers .= 'Bcc: techjam1993@gmail.com' . "\r\n";
+	$headers .= 'Bcc: info@clickboxagency.com' . "\r\n";
 	// Additional headers 
 
 
@@ -164,8 +164,8 @@ if (isset($_POST['send'])) {
 
 				<!-- HERO IMAGE -->
 				<div class="col-lg-6">
-					<div class="hero-7-img text-center wow fadeInRight">
-						<img class="img-fluid" src="../images/saas01.png" alt="hero-image">
+					<div class="hero-7-img text-center wow fadeInRight mt-inverse-60">
+						<img class="img-fluid" src="../images/205.png" alt="hero-image">
 					</div>
 				</div>
 
@@ -206,7 +206,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/saas02.png" alt="content-image">
+							<img class="img-fluid" src="../images/206.png" alt="content-image">
 						</div>
 					</div>
 
@@ -246,7 +246,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/saas03.png" alt="content-image">
+							<img class="img-fluid" src="../images/207.png" alt="content-image">
 						</div>
 					</div>
 				</div>
@@ -261,7 +261,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/saas04.png" alt="content-image">
+							<img class="img-fluid" src="../images/208.png" alt="content-image">
 						</div>
 					</div>
 					<!-- TEXT BLOCK -->
@@ -295,7 +295,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/saas05.png" alt="content-image">
+							<img class="img-fluid" src="../images/209.png" alt="content-image">
 						</div>
 					</div>
 
@@ -409,7 +409,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp " style="background-color: #00efff30;">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="homeimgsize" src="../images/saas06.png" alt="Focus on Inbound Marketing" />
+								<img class="homeimgsize" src="../images/204.jpg" alt="Focus on Inbound Marketing" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Focus on Inbound Marketing</h5>
@@ -423,7 +423,7 @@ if (isset($_POST['send'])) {
 							<!-- Image -->
 							<div class="fbox-img ">
 								<!-- bg-whitesmoke-gradient -->
-								<img class="homeimgsize" src="../images/ecommerce-seo-13.png" alt="Use SEO" />
+								<img class="homeimgsize" src="../images/204.jpg" alt="Use SEO" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Use SEO</h5>
@@ -436,7 +436,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp" style="background-color: #00efff30;">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="homeimgsize" src="../images/ecommerce-seo-10.png" alt="Use Paid Advertising" />
+								<img class="homeimgsize" src="../images/204.jpg" alt="Use Paid Advertising" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Use Paid Advertising</h5>
@@ -452,7 +452,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp" style="background-color: #00efff30;">
 							<!-- Image -->
 							<div class="fbox-img ">
-								<img class="homeimgsize" src="../images/saas07.png" alt="Use Social Media" />
+								<img class="homeimgsize" src="../images/204.jpg" alt="Use Social Media" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Use Social Media</h5>
@@ -466,7 +466,7 @@ if (isset($_POST['send'])) {
 							<!-- Image -->
 							<div class="fbox-img ">
 								<!-- bg-whitesmoke-gradient -->
-								<img class="homeimgsize" src="../images/saas08.png" alt="Focus on the Customer Experience" />
+								<img class="homeimgsize" src="../images/204.jpg" alt="Focus on the Customer Experience" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Focus on the Customer Experience</h5>
@@ -480,7 +480,7 @@ if (isset($_POST['send'])) {
 							<!-- Image -->
 							<div class="fbox-img ">
 								<!-- bg-whitesmoke-gradient -->
-								<img class="homeimgsize" src="../images/ecommerce-seo-11.png" alt="Make use of Content Marketing" />
+								<img class="homeimgsize" src="../images/204.jpg" alt="Make use of Content Marketing" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Make use of Content Marketing</h5>
@@ -741,33 +741,33 @@ if (isset($_POST['send'])) {
 	</section> <!-- END CONTACTS-2 -->
 	<!-- CALL TO ACTION-5
 			============================================= -->
-	<section id="cta-5" class="cta-section division">
-		<div class="container">
-			<div class="rel bg-04 cta-5-wrapper">
-				<div class="row justify-content-center">
+	<!--<section id="cta-5" class="cta-section division">-->
+	<!--	<div class="container">-->
+	<!--		<div class="rel bg-04 cta-5-wrapper">-->
+	<!--			<div class="row justify-content-center">-->
 
 
 					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
+	<!--				<div class="col-lg-8">-->
+	<!--					<div class="cta-5-txt white-color text-center">-->
 
 							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
+	<!--						<h2 class="h2-xs">Build Your Business Online Without Borders</h2>-->
 
 							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
+	<!--						<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.-->
 
-							</p>
+	<!--						</p>-->
 
 							<!-- Button -->
-							<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+	<!--						<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>-->
 
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
+	<!--					</div>-->
+	<!--				</div>-->
+	<!--			</div>-->
+	<!--		</div> <!-- End row -->-->
+	<!--	</div> <!-- End container -->-->
+	<!--</section> <!-- END CALL TO ACTION-5 -->
 
 	<?php include('footer1.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -833,7 +833,6 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	<?php include('popup1.php') ?>
 
 </body>
 

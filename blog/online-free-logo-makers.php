@@ -1,66 +1,3 @@
-<?php
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$subject = 'Blog Details Feedback Form';
-	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-
-
-        </table> 
-    </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-
-	// Additional headers 
-
-
-	$m = mail($to, $subject, $htmlContent, $headers);
-
-	// Set content-type header for sending HTML email
-
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -91,9 +28,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -107,7 +44,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://clickboxagency.com/blog/online-free-logo-makers/" />
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Top 20 Free Online Logo Maker Tools (2023 Updated)" />
 
@@ -119,18 +56,18 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Looking for the best free logo maker? Here are the top 20 online logo maker tools to help you create a stunning and professional logo in minutes." />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- SINGLE POST
 			============================================= -->
@@ -870,7 +807,7 @@ if (isset($_POST['send'])) {
 			</div>
 			<!-- INCLUDE BLOGS -->
 
-			<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/newblog.php') ?>
+			<?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') ?>
 
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
@@ -905,10 +842,10 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 
 
 	<script type="application/ld+json">
@@ -966,13 +903,13 @@ if (isset($_POST['send'])) {
 
 			"description": "Looking for the best free logo maker? Here are the top 20 online logo maker tools to help you create a stunning and professional logo in minutes.",
 
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 8870578887",
+				"telephone": "+91 7358644710",
 
 				"contactType": "sales",
 
@@ -1006,7 +943,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://www.clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

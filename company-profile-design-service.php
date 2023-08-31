@@ -179,7 +179,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/img-13.png" alt="content-image">
+							<img class="img-fluid" src="../images/Company Profile Design/1-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -246,7 +246,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="../images/Company Profile Design/2-02.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -261,7 +261,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="../images/Company Profile Design/3-02.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -306,7 +306,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Company Profile Design/4-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Business Profile Design</h5>
@@ -322,7 +322,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Company Profile Design/5-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Annual Statistics</h5>
@@ -335,7 +335,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Company Profile Design/6-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Product Portfolio</h5>
@@ -353,7 +353,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Company Profile Design/7-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Product Guidelines</h5>
@@ -368,7 +368,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Company Profile Design/8-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Advertising Flyers</h5>
@@ -382,7 +382,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Company Profile Design/9-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Magazines and Books</h5>
@@ -517,42 +517,14 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col ">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://www.clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 	<?php include('footer.php') ?>
 
 	</div> <!-- END PAGE CONTENT -->

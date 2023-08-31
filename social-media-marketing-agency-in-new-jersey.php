@@ -64,10 +64,10 @@
 
 	<section id="hero-4" class="bg-scroll hero-section division">
 		<div class="container">
-			<div class="row d-flex align-items-center">
+			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
-					<div class="hero-4-txt white-color">
-						<h2 class="h2-lg">Elevate Your Online Business to the Next Level with Our Expert Social Media Marketing</h2>
+					<div class="hero-4-txt white-color text-center">
+						<h1 class="h1-fsize white-color">Elevate Your Online Business to the Next Level with Our <span class="txtyelloww">Expert Social Media Marketing</span></h1>
 						<p class="p-xl">Connect with your audience and stand out in the digital world with our social media marketing services.</p>
 					</div>
 				</div>
@@ -78,8 +78,14 @@
 	<section class="bg-white content-3 mb-20 features-section division  ">
 		<div class="container ">
 			<div class="row mt-20 justify-content-center">
+				<div class="col-md-5 col-lg-5 col-xl-5">
+					<div class="img-block left-column wow fadeInRight">
+						<img class="img-fluid" src="../images/182.png" alt="we-are-generating-digital-marketing">
+					</div>
+				</div>
 				<div class="col-lg-7 col-xl-7">
-					<div class="txt-block left-column wow fadeInRight">
+					<div class="txt-block right-column wow fadeInLeft">
+						<h2 class="h3-xs">Top-Rated Social Media Agency in NJ <span class="txtred">That Delivers Results</span></h2>
 						<p class="p-lg txt-justify">In today's internet-based society, social media platforms like Facebook and Twitter serve as a primary gateway to the world's news and information. That's not all, though. Digital marketing and search engine optimization both benefit greatly from active social media profiles.</p>
 						<p class="p-lg txt-justify">Knowing how to sell on social media is becoming more important to reach your target demographics and raise awareness of your business as social media usage continues its exponential growth. Nevertheless, many marketers enter the domain of digital and social media marketing without having a complete grasp of what social media marketing is and the requirements that come with it. Don't make the same mistake. To assist you to get started with your campaign, the social media marketing professionals that we employ will walk you through the many components of business-to-consumer (B2C) and business-to-business (B2B) social media marketing. Keep reading to find out what ClickBox's social media marketing professionals have to say about what social media marketing is and how you can advertise your business using social media.</p>
 						<p class="p-lg txt-justify">ClickBox Creative Marketing Agency is a professional <a href="https://en.wikipedia.org/wiki/Social_media_marketing" aria-label="Social Media agency" title="Social Media" class="txtbluee"><u>Social Media</u></a> Agency in NJ. We are one of the leading Social Media Marketing Agencies in NJ with over a decade of experience. We have customers in India and all over the world.</p>
@@ -89,11 +95,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-5 col-lg-5 col-xl-5">
-						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/182.png" alt="we-are-generating-digital-marketing">
-						</div>
-					</div>
 			</div>
 		</div>
 		</div>
@@ -102,17 +103,18 @@
 	<section id="content-3" class="bg-white pt-30 content-3  content-section division">
 		<div class="container">
 			<div class="top-row pb-30">
-				<div class="row d-flex align-items-center">
-					<div class="col-md-5 col-lg-6">
-						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/173.png" alt="we-are-generating-digital-marketing">
-						</div>
-					</div>
+				<div class="row d-flex align-items-center column-sm-reverce">
+
 					<div class="col-md-7 col-lg-6">
-						<div class="txt-block right-column wow fadeInLeft">
+						<div class="txt-block left-column wow fadeInRight">
 							<h2 class="h3-xs">What Is <span class="txtred">Social Media Marketing?</span></h2>
 							<p class="p-lg txt-justify">Social media marketing is a type of online advertising that makes use of sites like Facebook, Twitter, LinkedIn, and Pinterest to build brand awareness, attract customers' attention, and connect businesses with a larger, more varied audience. An effective social media marketing strategy to engage customers and grow your brand is through social media marketing for enterprises and small companies.</p>
 							<p class="p-lg txt-justify">A dynamic, data-driven social media marketing strategy may help your business achieve outstanding results and transform customers into brand evangelists. More significantly, a creative social media marketing plan affects your digital marketing and <a href="https://clickboxagency.com/seo-company-in-india/" aria-label="seo company" title="seo company coimbatore" class="txtbluee"><u>search engine optimization</u></a> (SEO) activities favorably, increasing your business's lead and income streams.</p>
+						</div>
+					</div>
+					<div class="col-md-5 col-lg-6">
+						<div class="img-block right-column wow fadeInLeft">
+							<img class="img-fluid" src="../images/173.png" alt="we-are-generating-digital-marketing">
 						</div>
 					</div>
 				</div>
@@ -127,13 +129,13 @@
 					<div class="txt-block">
 						<h2 class="h3-xs text-center">Digital Marketing v<span class="txtred">s. Social Media Marketing:</span> What’s the Difference?</h2>
 						<p class="p-lg text-center">Digital marketing and social media marketing are both essential components of modern-day marketing strategies, but they are not the same thing.</p>
-					<p class="p-lg text-center">Digital marketing refers to any marketing efforts that leverage digital channels such as search engines, websites, email, and mobile apps to reach potential customers. It encompasses a broad range of tactics, including <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" aria-label="search engine optimization" title="search engine optimization" class="txtbluee"><u>search engine optimization</u></a> (SEO), <a href="https://www.wordstream.com/ppc" aria-label="pay-per-click" title="pay-per-click" class="txtbluee"><u>pay-per-click</u></a> (PPC) advertising, <a href="https://mailchimp.com/marketing-glossary/content-marketing/#:~:text=Content%20marketing%20is%20a%20marketing,to%20buy%20what%20you%20sell." aria-label="content marketing" title="content marketing" class="txtbluee"><u>content marketing</u></a>, <a href="https://mailchimp.com/marketing-glossary/email-marketing/" aria-label="email marketing" title="email marketing" class="txtbluee"><u>email marketing</u></a>, and more.</p>
+						<p class="p-lg text-center">Digital marketing refers to any marketing efforts that leverage digital channels such as search engines, websites, email, and mobile apps to reach potential customers. It encompasses a broad range of tactics, including <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" aria-label="search engine optimization" title="search engine optimization" class="txtbluee"><u>search engine optimization</u></a> (SEO), <a href="https://www.wordstream.com/ppc" aria-label="pay-per-click" title="pay-per-click" class="txtbluee"><u>pay-per-click</u></a> (PPC) advertising, <a href="https://mailchimp.com/marketing-glossary/content-marketing/#:~:text=Content%20marketing%20is%20a%20marketing,to%20buy%20what%20you%20sell." aria-label="content marketing" title="content marketing" class="txtbluee"><u>content marketing</u></a>, <a href="https://mailchimp.com/marketing-glossary/email-marketing/" aria-label="email marketing" title="email marketing" class="txtbluee"><u>email marketing</u></a>, and more.</p>
 						<p class="p-lg text-center">Social media marketing, on the other hand, is a subset of digital marketing that focuses on leveraging social media campaigns such as Facebook, Twitter, Instagram, LinkedIn, and others to build brand awareness, engage with customers, and drive traffic and sales. Social media marketing tactics include creating and sharing content, running paid social media ads, influencer marketing, and social media monitoring and analysis.</p>
 						<p class="p-lg text-center">The main difference between the two is that digital marketing covers a wide range of channels, while social media marketing specifically focuses on social media platforms. However, social media marketing is becoming increasingly important in the digital marketing landscape, as social media platforms are where many people spend a significant portion of their online time. Therefore, it is essential to incorporate social media marketing into your overall digital marketing strategy to achieve the best results.</p>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="row  justify-content-center">
 				<div class="col-lg-8 col-xl-8">
 					<div class="post-inner-img">
@@ -151,7 +153,7 @@
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
 						<h2 class="h3-xs">Why Your Business Needs A <span class="txtred">Social Media Marketing Service</span></h2>
-						<p class="p-md txtred">Are you ready and willing to make your business known on social media sites so you can start making more sales?</p>
+						<p class="p-md txtbluee">Are you ready and willing to make your business known on social media sites so you can start making more sales?</p>
 						<p class="p-lg txt-justify">If you don't know how important it is to market your business on social media, you're missing out on a lot of potential customers. By getting started with social media marketing, you'll have the chance to find new leads, raise brand awareness, and build unique relationships with your customers.</p>
 						<p class="p-lg txt-justify">Due to the global reach and interactivity of social media marketing websites, there will always be times when more money is spent on online advertising than on traditional print, TV, or radio advertising.</p>
 					</div>
@@ -166,7 +168,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-70">
-						<h2 class="h3-xs text-center">Here Are Some <span class="txtred">Key Reasons Why Your Business Needs A Social Media Marketing Service</span></h2>
+						<h2 class="h3-xs text-center">Here Are Some Key Reasons <span class="txtred">Why Your Business Needs A Social Media Marketing Service</span></h2>
 					</div>
 				</div>
 			</div>
@@ -263,7 +265,8 @@
 						<div class="fbox-4 pr-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-line-graph-1"></span>
+									<img src="../images/png-icons/php11.png" alt="social media icon" class="img-fluid">
+									<!-- <span class="flaticon-line-graph-1"></span> -->
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -276,7 +279,7 @@
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-idea"></span>
+									<img src="../images/png-icons/php12.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -289,7 +292,7 @@
 						<div class="fbox-4 pr-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-algorithm"></span>
+									<img src="../images/png-icons/php13.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -302,7 +305,7 @@
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-increase-1"></span>
+									<img src="../images/png-icons/php14.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -316,7 +319,7 @@
 						<div class="fbox-4 pr-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-reward"></span>
+									<img src="../images/png-icons/php15.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -329,7 +332,7 @@
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">]
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-seo"></span>
+									<img src="../images/png-icons/php16.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -342,7 +345,7 @@
 						<div class="fbox-4 pr-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-reward"></span>
+									<img src="../images/png-icons/php17.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -355,7 +358,7 @@
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">]
 							<div class="fbox-ico">
 								<div class="ico-65">
-									<span class="flaticon-seo"></span>
+									<img src="../images/png-icons/php18.png" alt="social media icon" class="img-fluid">
 								</div>
 							</div>
 							<div class="fbox-txt">
@@ -503,6 +506,24 @@
 			<div class="row justify-content-center mt-20">
 				<div class="col-lg-10 col-xl-10">
 					<p class="p-md text-center">We also provide a free consultation to assist you to choose a plan for your business. We'll learn about your business and offer a plan that fits your budget and goals.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--  -->
+	<section id="content-3" class="bg-snow pt-20 pb-40 content-3  content-section division">
+		<div class="container-fluid bortopbot">
+			<div class="top-row ">
+				<div class="row d-flex align-items-center justify-content-center">
+					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
+						<div class="txt-block left-column wow fadeInLeft ">
+							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
+								<h4 class="h4-md text-white">READY TO GROW YOUR BUSINESS</span></h4>
+								<p class="p-md text-white">For effective Social Media Marketing services NJ, please get in touch with us.</p>
+								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -950,11 +971,12 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-12 col-lg-8">
 					<div class="txt-block left-column  wow fadeInLeft">
-						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert Social Media Marketing nj?</h2>
+						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert Social Media Marketing NJ?</h2>
 						<div class="more-btn mt-20">
 							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-pink-hover">Launch Your Social Media Marketing Campaign Today</a>
 						</div>
-						<p class="p-lg txt-justify">Whether you're looking to increase your website traffic, generate leads, or drive sales, ClickBox has the expertise and experience to help you achieve your goals. <a href="https://clickboxagency.com/contacts/" aria-label="Contact us" title="Contact us" class="txtbluee"><u>Contact us today</u></a> to learn more about how we can help you take your online advertising to the next level.</p>
+						<p class="p-lg txt-justify">want to grow your brand on social media? Our social media marketing service is here to help your business reach its full potential on social media platforms! We understand the importance of a strong online presence, and we're dedicated to creating customized strategies that will boost your brand's visibility, engage your audience, and drive conversions.Let's work together to take your social media game to the next level <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us" class="txtbluee"><u>Contact us Today !</u></a> 
+						</p>
 
 					</div>
 				</div>
@@ -962,23 +984,7 @@
 		</div>
 	</section>
 	<!--  -->
-	<section id="content-3" class="bg-snow pt-20 pb-40 content-3  content-section division">
-		<div class="container-fluid bortopbot">
-			<div class="top-row ">
-				<div class="row d-flex align-items-center justify-content-center">
-					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
-						<div class="txt-block left-column wow fadeInLeft ">
-							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md text-white">READY TO GROW YOUR BUSINESS</span></h4>
-								<p class="p-md text-white">For effective Social Media Marketing services nj, please get in touch with us.</p>
-								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->

@@ -115,7 +115,7 @@
 								<li aria-haspopup="true"><a href="#">Services<span class="wsarrow"></span></a>
 									<ul class="sub-menu">
 										<li aria-haspopup="true"><a href="https://clickboxagency.com/seo-company-in-india/">SEO Service</a></li>
-										<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-seo-services/">Ecommerce Marketing</a></li>
+										<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-seo-service/">Ecommerce Marketing</a></li>
 										<li aria-haspopup="true"><a href="https://clickboxagency.com/best-digital-marketing-company-in-india/">Complete Digital Marketing</a></li>
 										<li aria-haspopup="true"><a href="https://clickboxagency.com/google-ads-agency/">Google Ads / Adwords Management</a></li>
 										<li aria-haspopup="true"><a href="#reviews-4">Wordpress Website Design</a></li>

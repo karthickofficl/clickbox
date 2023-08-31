@@ -38,7 +38,7 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.css">
 		<!-- RESPONSIVE CSS -->
 		<link href="https://clickboxagency.com/css/responsive.css" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="https://clickboxagency.com/css/cookieconsent.min.css" />
+		<!-- <link rel="stylesheet" type="text/css" href="https://clickboxagency.com/css/cookieconsent.min.css" /> -->
 		<style>
 			@media (min-width: 32em) {
 				.cc-window.cc-banner {

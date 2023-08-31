@@ -12,7 +12,7 @@ if (isset($_POST['send'])) {
     $message = $_POST['message'];
     $subject = 'Career Job Application';
 
-    $to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
+    $to ="sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com , dineshkumar@akkenna.com , sofia@akkenna.com";
     $htmlContent = ' 
     <html> 
     <head> 
@@ -82,10 +82,10 @@ if (isset($_POST['send'])) {
     <meta name="search engines" content="ALL" />
     <meta name="copyright" content="https://www.clickboxagency.com" />
     <meta name="email" content="info@clickboxagency.com" />
-    <link rel="canonical" href="https://www.clickboxagency.com/careers/" />
+    <link rel="canonical" href="https://www.clickboxagency.com/career/" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.clickboxagency.com/careers/" />
-    <meta property="og:site_name" content="https://www.clickboxagency.com/careers/" />
+    <meta property="og:url" content="https://www.clickboxagency.com/career/" />
+    <meta property="og:site_name" content="https://www.clickboxagency.com/career/" />
     <meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
     <meta property="og:title" content="Join Our Team: Clickbox Creative Marketing Agency" />
     <meta property="og:description" content="Looking to build a successful career? Explore our career page to find job opportunities." />
@@ -948,10 +948,10 @@ if (isset($_POST['send'])) {
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "url": "https://www.clickboxagency.com/careers/",
+            "url": "https://www.clickboxagency.com/career/",
             "potentialAction": {
                 "@type": "SearchAction",
-                "target": "https://www.clickboxagency.com/careers/find?q={search_term_string}",
+                "target": "https://www.clickboxagency.com/career/find?q={search_term_string}",
                 "query-input": "required name=search_term_string"
             }
         }
@@ -962,7 +962,7 @@ if (isset($_POST['send'])) {
             "@type": "WebSite",
             "name": "Join Our Team: Clickbox Creative Marketing Agency",
             "alternateName": "clickbox digital marketing jobs coimbatore,content writing jobs coimbatore,digital marketing executive jobs coimbatore,frontend developer jobs coimbatore",
-            "url": "https://www.clickboxagency.com/careers/"
+            "url": "https://www.clickboxagency.com/career/"
         }
     </script>
 
@@ -971,7 +971,7 @@ if (isset($_POST['send'])) {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "Join Our Team: Job Opportunities and Career Development  Clickbox Creative Marketing Agency",
-            "url": "https://www.clickboxagency.com/careers/",
+            "url": "https://www.clickboxagency.com/career/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
             "description": "Looking to build a successful career? Explore our career page to find job opportunities.",

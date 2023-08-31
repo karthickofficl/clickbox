@@ -314,7 +314,7 @@
 							</p>
 
 							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>
@@ -424,7 +424,7 @@
 	</script>
 
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

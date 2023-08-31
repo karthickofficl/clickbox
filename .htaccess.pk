@@ -1,0 +1,31 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^/]+)/$ $1.php
+RewriteRule ^seo/(.*)/$ seo/$1.php
+RewriteRule ^logo-design/(.*)/$ logo-design/$1.php
+RewriteRule ^blog/(.*)/$ blog/$1.php
+
+
+RewriteCond %{THE_REQUEST} ^[A-Z]+\ /([^/]+/)*[^.]+\.php(\?[^\ ]*)?\ HTTP/
+# RewriteRule ^(([^/]+/)*[^.]+)\.php$ https://clickboxagency.com/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5}|/)$
+# RewriteRule (.*)$ https://clickboxagency.com/$1/ [R=301,L]
+
+
+# ErrorDocument 404 https://clickboxagency.com
+
+
+        <ifmodule mod_deflate.c>
+        AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css text/javascript text/x-javascript  image/icon image/jpg image/jpeg image/png image/x-icon application/x-javascript application/javascript
+        </ifmodule>
+
+
+ <ifmodule mod_expires.c>
+        ExpiresActive On
+ExpiresDefault "access 1 month"
+        </ifmodule>

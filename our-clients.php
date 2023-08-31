@@ -1,14 +1,9 @@
 <?php
-
-
-
 ?>
 
 <div id="ourclients">
 
 	<body>
-		<!-- BRANDS-1
-			============================================= -->
 		<div id="brands-1" class="pt-30 pb-30 brands-section division">
 			<div class="container">
 				<div class="row justify-content-center">
@@ -125,8 +120,5 @@
 				</div> <!-- End Brands Carousel -->
 			</div> <!-- End container -->
 		</div> <!-- END BRANDS-1 -->
-
-
-
 
 </div>

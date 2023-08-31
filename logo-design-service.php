@@ -1,5 +1,4 @@
 <?php
-
 //  
 if (isset($_POST['send'])) {
 
@@ -193,7 +192,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/img-13.png" alt="content-image">
+							<img class="img-fluid" src="../images/Logo Design Service/clickbox services page image-01.png" alt="content-image">
 						</div>
 					</div>
 
@@ -218,7 +217,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/img-06.png" alt="content-image">
+							<img class="img-fluid" src="../images/Logo Design Service/02-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -266,7 +265,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/03-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md"> A Professional Logo Design Company</h5>
@@ -282,7 +281,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/04-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Create Distinctive Business Cards</h5>
@@ -300,7 +299,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/05-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Comprehensive Brand Analysis</h5>
@@ -315,7 +314,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/06-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Several Packages</h5>
@@ -334,7 +333,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/07-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Skilled Designers</h5>
@@ -347,7 +346,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/08-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Different Design Concepts
@@ -367,7 +366,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/09-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">100% Customizable</h5>
@@ -380,7 +379,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Logo Design Service/10-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Files With Vector Images
@@ -405,7 +404,7 @@ if (isset($_POST['send'])) {
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column video-preview wow fadeInRight">
 						<!-- Preview Image -->
-						<img class="img-fluid" src="../images/img-08.png" alt="video-preview">
+						<img class="img-fluid" src="../images/Logo Design Service/11-02.png" alt="video-preview">
 
 					</div>
 				</div>
@@ -597,35 +596,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 	<?php include('footer-script.php') ?>

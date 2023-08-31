@@ -57,6 +57,7 @@
 
 	<meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
+
 </head>
 
 <body>
@@ -64,11 +65,11 @@
 
 	<section id="hero-4" class="bg-scroll hero-section division">
 		<div class="container">
-			<div class="row d-flex align-items-center">
+			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
-					<div class="hero-4-txt white-color">
-						<h2 class="h2-lg">Boost Your Online Visibility with Our Results-Driven PPC Strategies</h2>
-						<p class="p-xl">Expert <a href="https://clickboxagency.com/google-ads-agency/" aria-label="Pay-Per-Click" title="Pay-Per-Click" class="txtbluee"><u>Pay-Per-Click</u></a> Ads Services to Drive Targeted Traffic and Boost Conversions Get a lot of people to see your brand and you'll get more leads.</p>
+					<div class="hero-4-txt white-color text-center">
+					<h1 class="h1-fsize white-color">Boost Your Online Visibility with Our <span class="txtyelloww">Results-Driven PPC Strategies</span></h1>
+						<p class="p-xl">Expert <a href="https://www.clickboxagency.com/google-ads-agency/" aria-label="Pay-Per-Click" title="Pay-Per-Click" class="txtbluee"><u>Pay-Per-Click</u></a> Ads Services to Drive Targeted Traffic and Boost Conversions Get a lot of people to see your brand and you'll get more leads.</p>
 					</div>
 				</div>
 			</div>
@@ -98,15 +99,15 @@
 	<!-- SECTION 3 -->
 	<section class="bg-white content-3 mb-20 features-section division  ">
 		<div class="container ">
-			<div class="row">
+			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
-					<div class="section-title  mb-30">
-						<h2 class="h3-xs">Major problems that <span class="txtred">online businesses face</span></h2>
+					<div class="section-title mb-30">
+						<h2 class="h3-xs text-center">Major problems that <span class="txtred">online businesses face</span></h2>
 					</div>
 				</div>
 			</div>
 			<div class="row justify-content-center">
-				<div class="col-lg-6 col-xl-6">
+				<div class="col-lg-6 col-xl-6 d-flex justify-content-center">
 					<ul class="simple-list">
 						<li class="list-item">
 							<p class="p-lg">Increased competition</p>
@@ -119,7 +120,7 @@
 						</li>
 					</ul>
 				</div>
-				<div class="col-lg-6 col-xl-6">
+				<div class="col-lg-6 col-xl-6 d-flex justify-content-center">
 					<ul class="simple-list">
 						<li class="list-item">
 							<p class="p-lg">Increased competition</p>
@@ -175,7 +176,7 @@
 					<div class="txt-block right-column wow fadeInLeft">
 						<h2 class="h3-xs">PPC Agency That <span class="txtred">Delivers Positive Results</span></h2>
 						<p class="p-md txtred">To help you save both time and money, we optimize your paid accounts</p>
-						<p class="p-lg txt-justify">Since the year 2020, our ppc management company nj has been offering comprehensive pay per click solutions to boost our clients' market success. In order to help you expand your campaign and reach your marketing objectives, our ppc campaign management company nj makes use of data and analytics.</p>
+						<p class="p-lg txt-justify">Since the year 2020, our ppc management company NJ has been offering comprehensive pay per click solutions to boost our clients' market success. In order to help you expand your campaign and reach your marketing objectives, our ppc campaign management company NJ  makes use of data and analytics.</p>
 						<p class="p-lg txt-justify">Learn how our ppc campaign management services has changed the landscape of digital marketing for the largest names in your field.</p>
 					</div>
 				</div>
@@ -351,7 +352,7 @@
 				<div class="col-lg-12 col-sm-12">
 					<div class="brands-title ">
 						<h2 class="h3-xs text-center">PPC Marketing <span class="txtred">Our Services</span></h2>
-						<p class="p-md text-center">Unlock Your Business's Full Potential with PPC</p>
+						<p class="p-lg text-center">Unlock Your Business's Full Potential with PPC</p>
 					</div>
 				</div>
 			</div>
@@ -472,7 +473,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md">Social Media Advertising</h6>
-							<p class="p-lg "><span class="txtyelloww">54% of internet consumers investigate products on social media</span>. Pay-per-click advertising may boost brand awareness, lower marketing expenses, and keep prospects in mind. Our pay per click professionals identify your target audience, study their social media activity, and use photos, videos, and texts to increase consumer reach and brand engagement.</p>
+							<p class="p-lg "><span class="txtyelloww">54%</span> of internet consumers investigate products on social media. Pay-per-click advertising may boost brand awareness, lower marketing expenses, and keep prospects in mind. Our pay per click professionals identify your target audience, study their social media activity, and use photos, videos, and texts to increase consumer reach and brand engagement.</p>
 						</div>
 					</div>
 				</div>
@@ -533,7 +534,7 @@
 						</div>
 						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
 							<h6 class="h6-md ">YouTube Ads</h6>
-							<p class="p-lg ">Use a more focused strategy for marketing videos on <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjFtrmMgJD-AhVGJSsKHYA1CQUYABAAGgJzZg&sig=AOD64_2v6y0tYoQAWjS1guwp3FmgepuLKQ&q&adurl&ved=2ahUKEwiI0rKMgJD-AhVoUGwGHYNyAlsQ0Qx6BAgJEAE" aria-label="YouTube" title="YouTube" class="txtbluee"><u>YouTube</u></a> to reach your target audience and create advertising that people will remember. Our PPC management firm will investigate YouTube's specialized targeting capabilities, create video remarketing campaigns, and provide an unexpected twist to your in-stream commercials. We make commercials for YouTube that convey your brand's personality and appeal to your ideal customers. </p>
+							<p class="p-lg ">Use a more focused strategy for marketing videos on <a href="https://www.youtube.com/intl/en_in/ads/" aria-label="YouTube" title="YouTube" class="txtbluee"><u>YouTube</u></a> to reach your target audience and create advertising that people will remember. Our PPC management firm will investigate YouTube's specialized targeting capabilities, create video remarketing campaigns, and provide an unexpected twist to your in-stream commercials. We make commercials for YouTube that convey your brand's personality and appeal to your ideal customers. </p>
 						</div>
 					</div>
 				</div>
@@ -1065,7 +1066,7 @@
 										<div class="accordion-body">
 											<!-- TEXT BOX -->
 											<div class="txt-box">
-												<p class="p-lg">PPC advertising services nj may be broken down into the following categories:</p>
+												<p class="p-lg">PPC advertising services NJ may be broken down into the following categories:</p>
 												<ul class="simple-list">
 													<li class="list-item">
 														<p class="p-lg">Remarketing Campaigns</p>
@@ -1172,7 +1173,7 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-12 col-lg-8">
 					<div class="txt-block left-column  wow fadeInLeft">
-						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert PPC services nj?</h2>
+						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert PPC services NJ?</h2>
 						<div class="more-btn mt-20">
 							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-pink-hover">Launch Your PPC Campaign Today</a>
 						</div>
@@ -1192,8 +1193,8 @@
 						<div class="txt-block left-column wow fadeInLeft ">
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
 								<h4 class="h4-md text-white">READY TO GROW YOUR BUSINESS</span></h4>
-								<p class="p-md text-white">For effective PPC marketing services nj, please get in touch with us.</p>
-								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
+								<p class="p-md text-white">For Effective PPC Marketing Services NJ, Please Get in Touch With Us.</p>
+								<a href="https://www.clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
 							</div>
 						</div>
 					</div>
@@ -1233,7 +1234,7 @@
 			"@context": "https://schema.org",
 			"@type": "Organization",
 			"name": "Result Driven PPC Campaign Advertising Company New Jersey | Clickbox",
-			"url": "https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/",
+			"url": "https://www.clickboxagency.com/pay-per-click-advertising-company-new-jersey/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "Looking for a reliable PPC campaign Advertising company in New Jersey? looking to increase brand awareness, leads, or boost sales, Contact us today...",

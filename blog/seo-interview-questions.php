@@ -1,64 +1,3 @@
-<?php
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$subject = 'Blog Details Feedback Form';
-	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-	 </table> 
-    </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-
-	// Additional headers 
-
-
-	$m = mail($to, $subject, $htmlContent, $headers);
-
-	// Set content-type header for sending HTML email
-
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,9 +28,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -105,7 +44,7 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/seo-interview-questions/"/>
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="Advanced 20 SEO Interview Questions and Answers 2023 Updated" />
 
@@ -117,16 +56,16 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="In a future SEO interview process, what kinds of questions can you expect to be asked of you? Practise your answers to these common SEO interview questions to help you obtain your dream career." />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 <body>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- SINGLE POST
 			============================================= -->
@@ -152,11 +91,11 @@ if (isset($_POST['send'])) {
 					<!-- <div class="single-post-txt"> -->
 
 					<!-- Text -->
-				
+				</div>
 
 
-				 <!-- BLOG POST TEXT -->
-				 <div class="single-post-txt">
+				<!-- BLOG POST TEXT -->
+				<div class="single-post-txt">
 					<p class="p-lg txt-justify">In today's world, digital marketing has developed as one of the most desirable job routes, and <a href="https://searchengineland.com/guide/what-is-seo"style="color:#0000FF;"><u>search engine optimization</u></a> is the digital marketing specialists that are in most demand. In point of fact, industries such as search engine optimization, social media, and analytics are likely to be responsible for the creation of more than 1,50,000 new employment over the course of the next few years. If you are hoping to secure your dream job in SEO and are a beginner or an experienced professional, the following SEO questions and answers will help you obtain an in-depth understanding of the most often-asked SEO interview questions and answers. If you are looking to land your dream job in SEO, you should review these questions and answers. Here is a fast review to help you prepare for your SEO interview questions and answers, and save you time and effort.</p>
 					<p class="p-lg txt-justify">We hope that by reading this blog, you will be better prepared to answer any SEO interview questions that may come up. New graduates that excel in search engine optimization are able to quickly get their first professional positions. <a href="https://medium.com/@Magento_expert/what-is-web-marketing-definition-and-types-1fef45c976cb"style="color:#0000FF;"><u>Web marketing</u></a> professionals in search of a new challenge.SEO executive interview questions at staffing firms or HR managers looking for an SEO prospect.</p>
 
@@ -357,7 +296,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">● Schema: It tells what <a href="https://www.techopedia.com/definition/4528/protocol" style="color:#0000FF;"><u>protocol</u></a> should be used to get to the Internet resource (HTTP and HTTPS are two of the most common protocols).</p>
 						</li>
 						<li>
-							<p class="p-lg txt-justify">● Host Name or Domain Name: This shows which host has the resource. https://www.clickboxagency.com is one example.</p>
+							<p class="p-lg txt-justify">● Host Name or Domain Name: This shows which host has the resource. www.clickboxagency.com is one example.</p>
 						</li>
 					</ul>
 					<p class="p-lg txt-justify"> <b>Clickbox Agency</b>, a digital marketing company specializes in uplifting your business through their marketing expertise. If you need assistance to upgrade your business, kindly click on this website: https://www.clickboxagency.com/</p>
@@ -535,10 +474,10 @@ if (isset($_POST['send'])) {
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</section> <!-- END CALL TO ACTION-5 -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 
 
 	<script type="application/ld+json">
@@ -596,13 +535,13 @@ if (isset($_POST['send'])) {
 
 			"description": "In a future SEO interview process, what kinds of questions can you expect to be asked of you? Practise your answers to these common SEO interview questions to help you obtain your dream career.",
 
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 8870578887",
+				"telephone": "+91 7358644710",
 
 				"contactType": "sales",
 
@@ -638,7 +577,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://www.clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

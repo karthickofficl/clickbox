@@ -13647,7 +13647,9 @@
     max-width: 100%;
     height: auto;
   }
-
+.banner-content h1 {
+    font-size: 27px !important;
+         }
 
 }
 
@@ -16448,6 +16450,8 @@
     right: 10px;
   }
 
-
+.banner-content h1 {
+    font-size: 27px !important;
+         }
 
 }

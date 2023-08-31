@@ -9,7 +9,7 @@ if (isset($_POST['send'])) {
 	$phone = $_POST['phone'];
 	$subject = 'Best Digital Marketting Service Page Form';
 
-	$to = 'sales@clickboxagency.com';
+	$to = 'sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com';
 	$htmlContent = ' 
     <html> 
     <head> 
@@ -37,7 +37,7 @@ if (isset($_POST['send'])) {
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
 	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-	$headers .= 'Bcc: techjam1993@gmail.com' . "\r\n";
+	$headers .= 'Bcc: sales@akkenna.com' . "\r\n";
 	// Additional headers 
 
 
@@ -192,7 +192,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-md-5 col-lg-6">
 					<div class="hero-18-img wow fadeInLeft">
-						<img class="img-fluid" src="https://clickboxagency.com/images/result-oriented-digitalmarketing.png" alt="hero-image">
+						<img class="img-fluid" src="../images/digital-margeting-banner.png" alt="hero-image">
 					</div>
 				</div>
 			</div> <!-- End row -->
@@ -212,7 +212,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="https://clickboxagency.com/images/best-digital-marketing360.png" alt="video-preview">
+						<img class="img-fluid" src="../images/digital-marketing-01.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -290,8 +290,9 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<span class="flaticon-idea"></span>
+							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color ">
+								<img src="../images/digital-marketing-roi-icon-1.svg" class="mt-25"/>
+								<!-- <span class="flaticon-idea"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -318,7 +319,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-								<span class="flaticon-smartphone"></span>
+							<img src="../images/digital-marketing-roi-icon-2.svg" class="mt-25"/>
+								<!-- <span class="flaticon-smartphone"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -345,7 +347,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
-								<span class="flaticon-algorithm"></span>
+							<img src="../images/digital-marketing-roi-icon-3.svg" class="mt-25"/>
+								<!-- <span class="flaticon-algorithm"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -370,7 +373,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
+							<img src="../images/digital-marketing-roi-icon-4.svg" class="mt-25"/>
+								<!-- <span class="flaticon-web-design"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -396,7 +400,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
+							<img src="../images/digital-marketing-roi-icon-5.svg" class="mt-25"/>
+								<!-- <span class="flaticon-layers"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -421,7 +426,8 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
+							<img src="../images/digital-marketing-roi-icon-6.svg" class="mt-25"/>
+								<!-- <span class="flaticon-email"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -446,7 +452,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
+							<img src="../images/digital-marketing-roi-icon-7.svg" class="mt-25"/>
+								<!-- <span class="flaticon-web-design"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -472,7 +479,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
+							<img src="../images/digital-marketing-roi-icon-8.svg" class="mt-25"/>
+								<!-- <span class="flaticon-layers"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -497,7 +505,8 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
+							<img src="../images/digital-marketing-roi-icon-9.svg" class="mt-25"/>
+								<!-- <span class="flaticon-email"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -571,7 +580,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="https://clickboxagency.com/images/our-digital-marketing-process.png" alt="content-image">
+							<img class="img-fluid" src="../images/digital-marketing-02.png" alt="content-image">
 						</div>
 					</div>
 				</div>
@@ -915,7 +924,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm">Let’s talk and work together to convey your business to the right audience! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
+						<h5 class="h5-sm">Let’s talk and work together to convey your business to the right audience! <a href="https://www.clickboxagency.com/contacts/">Contact Us</a></h5>
 					</div>
 				</div>
 			</div>
@@ -945,7 +954,7 @@ if (isset($_POST['send'])) {
 							</p>
 
 							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
+							<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue red-hover">Get in touch with us</a>
 
 						</div>
 					</div>

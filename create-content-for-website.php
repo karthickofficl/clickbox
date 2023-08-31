@@ -556,7 +556,7 @@ if (isset($_POST['send'])) {
   						</p>
 
   						<!-- Button -->
-  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+  						<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
   					</div>
   				</div>
@@ -585,7 +585,7 @@ if (isset($_POST['send'])) {
 
 				"@type": "SearchAction",
 
-				"target": "https://www.clickboxagency.com/create-content-for-website//find?q={search_term_string}",
+				"target": "https://www.clickboxagency.com/create-content-for-website/find?q={search_term_string}",
 
 				"query-input": "required name=search_term_string"
 

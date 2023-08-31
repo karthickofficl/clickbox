@@ -17,10 +17,10 @@
 	<meta name="search engines" content="ALL" />
 	<meta name="copyright" content="https://www.clickboxagency.com" />
 	<meta name="email" content="info@clickboxagency.com" />
-	<link rel="canonical" href="https://www.clickboxagency.com/about.php" />
+	<link rel="canonical" href="https://www.clickboxagency.com/about/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://www.clickboxagency.com/about.php" />
-	<meta property="og:site_name" content="https://www.clickboxagency.com" />
+	<meta property="og:url" content="https://www.clickboxagency.com/about/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/about/" />
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="About ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta property="og:description" content="Clickbox is a leading web development and digital marketing company based in Coimbatore. We specialize in SEO, social media, PPC, website design, and mobile app development services." />

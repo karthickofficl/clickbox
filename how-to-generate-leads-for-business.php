@@ -329,7 +329,7 @@ if (isset($_POST['send'])) {
 							<h6 class="h4-lg">Facebook Lead Generation</h6>
 
 							<p class="p-lg">Since its beginning, Facebook has been used to generate leads. Initially, businesses could use information from their bio and outbound links in their articles to draw new visitors to their websites. However, there was a significant change in how companies used the network to get leads after
-								<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/" style="color:#0000FF;"><u>Facebook Ads</u></a> was introduced in 2007 and its algorithm started to favor accounts that used sponsored advertising. For this reason, Facebook developed Lead Ads. Additionally, Facebook offers a tool that enables you to add a straightforward call-to-action button at the top of your Facebook Page, which may be used to link Facebook users to your website.
+								<a href="https://www.clickboxagency.com/how-much-does-it-cost-for-facebook-ads/" style="color:#0000FF;"><u>Facebook Ads</u></a> was introduced in 2007 and its algorithm started to favor accounts that used sponsored advertising. For this reason, Facebook developed Lead Ads. Additionally, Facebook offers a tool that enables you to add a straightforward call-to-action button at the top of your Facebook Page, which may be used to link Facebook users to your website.
 							</p>
 
 							<h6 class="h4-lg">PPC Lead Generation</h6>
@@ -526,12 +526,10 @@ if (isset($_POST['send'])) {
 							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
 
 							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
+							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.</p>
 
 							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+							<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
 						</div>
 					</div>

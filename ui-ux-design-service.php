@@ -199,7 +199,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/img-13.png" alt="content-image">
+							<img class="img-fluid" src="../images/UI Ux Design/1-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -224,7 +224,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/img-06.png" alt="content-image">
+							<img class="img-fluid" src="../images/UI Ux Design/2-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -270,7 +270,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6 order-first order-md-2">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/img-09.png" alt="content-image">
+							<img class="img-fluid" src="../images/UI Ux Design/3-02.png" alt="content-image">
 						</div>
 					</div>
 				</div>
@@ -289,7 +289,7 @@ if (isset($_POST['send'])) {
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column video-preview wow fadeInRight">
 						<!-- Preview Image -->
-						<img class="img-fluid" src="../images/img-08.png" alt="video-preview">
+						<img class="img-fluid" src="../images/UI Ux Design/4-02.png" alt="video-preview">
 
 					</div>
 				</div>
@@ -369,7 +369,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-6 col-lg-7">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/img-20.png" alt="content-image">
+						<img class="img-fluid" src="../images/UI Ux Design/5-02.png" alt="content-image">
 					</div>
 				</div>
 
@@ -417,7 +417,8 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<span class="flaticon-dashboard"></span>
+									<img src="../images/UI Ux Design/Asset 21.svg" >
+									<!-- <span class="flaticon-dashboard"></span> -->
 								</div>
 							</div>
 
@@ -445,7 +446,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<span class="flaticon-tool"></span>
+									<img src="../images/UI Ux Design/Asset 22.svg" >
 								</div>
 							</div>
 
@@ -489,7 +490,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<span class="flaticon-increase-1"></span>
+									<img src="../images/UI Ux Design/Asset 23.svg" >
 								</div>
 							</div>
 
@@ -520,7 +521,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<span class="flaticon-layers"></span>
+									<img src="../images/UI Ux Design/Asset 24.svg" >
 								</div>
 							</div>
 
@@ -548,7 +549,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<span class="flaticon-album"></span>
+									<img src="../images/UI Ux Design/Asset 25.svg" >
 								</div>
 							</div>
 
@@ -575,7 +576,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<span class="flaticon-24-hours"></span>
+									<img src="../images/UI Ux Design/Asset 26.svg" >
 								</div>
 							</div>
 

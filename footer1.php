@@ -150,13 +150,13 @@
   					<!-- Footer List -->
   					<ul class="foo-links text-secondary clearfix">
   						<li>
-  							<p class="p-lg"><a href="" style="color: #ededed;">Pay Per Click (PPC)</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/" style="color: #ededed;">Pay Per Click (PPC)</a></p>
   						</li>
   						<li>
   							<p class="p-lg"><a href="https://clickboxagency.com/seo-company-in-india/" style="color: #ededed;">SEO Services</a></p>
   						</li>
   						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Social Media Marketing</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/social-media-marketing-agency-in-new-jersey/" style="color: #ededed;">Social Media Marketing</a></p>
   						</li>
 
   						<li>
@@ -164,13 +164,13 @@
   						</li>
 
   						<li>
-  							<p class="p-lg"><a href="" style="color: #ededed;">Ecommerce Marketing</a></p>
+  							<p class="p-lg"><a href="https://www.clickboxagency.com/ecommerce-marketing-services/" style="color: #ededed;">Ecommerce Marketing</a></p>
   						</li>
   						<li>
-  							<p class="p-lg"><a href="" style="color: #ededed;">App Promotion</a></p>
+  							<p class="p-lg"><a href="https://www.clickboxagency.com/app-promotion-service/" style="color: #ededed;">App Promotion</a></p>
   						</li>
   						<li>
-  							<p class="p-lg"><a href="" style="color: #ededed;">ORM</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/crm-development-company-new-jersey/" style="color: #ededed;">ORM</a></p>
   						</li>
 
   					</ul>
@@ -191,7 +191,7 @@
   							<p class="p-lg"><a href="https://www.clickboxagency.com/wordpress-website-development-service/" style="color: #ededed;">WordPress Development</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="" style="color: #ededed;">PHP Web Development</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/php-development-service-new-jersey/" style="color: #ededed;">PHP Web Development</a></p>
   						</li>
   						<li aria-haspopup="true">
   							<p class="p-lg"><a href="https://www.clickboxagency.com/ecommerce-website-development-service/" style="color: #ededed;">E-commerce Development</a></p>
@@ -202,14 +202,14 @@
   						</li>
 
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="" style="color: #ededed;">React Native Development</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/react-native-development-company-new-jersey/" style="color: #ededed;">React Native Development</a></p>
   						</li>
   						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="" style="color: #ededed;">iOS App Development</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/ios-app-development-service-new-jersey/" style="color: #ededed;">iOS App Development</a></p>
   						</li>
-  						<li aria-haspopup="true">
-  							<p class="p-lg"><a href="" style="color: #ededed;">Android App Development</a></p>
-  						</li>
+  						<!--<li aria-haspopup="true">-->
+  						<!--	<p class="p-lg"><a href="" style="color: #ededed;">Android App Development</a></p>-->
+  						<!--</li>-->
   					</ul>
   				</div>
   			</div>
@@ -221,9 +221,9 @@
   					<!-- Footer List -->
   					<ul class="foo-links text-secondary clearfix">
   						<li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Logo Design</a></p>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Brand Naming</a></p>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">UI UX Design</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/logo-design-service/" style="color: #ededed;">Logo Design</a></p>
+  							<!--<p class="p-lg"><a href="#" style="color: #ededed;">Brand Naming</a></p>-->
+  							<p class="p-lg"><a href="https://clickboxagency.com/ui-ux-design-service/" style="color: #ededed;">UI UX Design</a></p>
   							<!-- <p class="p-lg"><a href="#" style="color: #ededed;">Social Media Creatives</a></p>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Explainer Videos</a></p> -->
   							<p class="p-lg"><a href="#" style="color: #ededed;">Educational Videos</a></p>
@@ -292,7 +292,7 @@
   							<p class="p-lg"><a href="#" style="color: #ededed;">Case Study</a></p>
   						</li>
 						  <li>
-  							<p class="p-lg"><a href="#" style="color: #ededed;">Careers</a></p>
+  							<p class="p-lg"><a href="https://clickboxagency.com/career/" style="color: #ededed;">Careers</a></p>
   						</li>
   					</ul>
   				</div>

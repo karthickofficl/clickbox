@@ -71,7 +71,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<h1 class="h2-xs text-center">Packages For <span class="txtred">Local Businesses Designed For Local SEO!</span></h1>
-						<p class="p-md text-center">Are you trying to find budget friendly local SEO packages? If so, join <a href="https://clickboxagency.com/" aria-label="ClickBox Agency" title="ClickBox Agency" class="txtbluee">ClickBox Agency</a> affordable local SEO packages. We offer affordable and customized local SEO packages that support the needs of each client's business rather than fixed-price monthly local SEO packages.</p>
+						<p class="p-md text-center">Are you trying to find budget friendly local SEO packages? If so, join <a href="https://www.clickboxagency.com/" aria-label="ClickBox Agency" title="ClickBox Agency" class="txtbluee">ClickBox Agency</a> affordable local SEO packages. We offer affordable and customized local SEO packages that support the needs of each client's business rather than fixed-price monthly local SEO packages.</p>
 					</div>
 				</div>
 				<div>

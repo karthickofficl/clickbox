@@ -135,7 +135,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-lg-5 order-last order-lg-2">
 					<div class="hero-8-img pc-20 text-center">
-						<img class="img-fluid" src="../images/hero-8-img.png" alt="hero-image">
+						<img class="img-fluid" src="../images/Shopify Website Development/01-02.png" alt="hero-image">
 					</div>
 				</div>
 
@@ -215,7 +215,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-12 col-lg-5">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/seo-06.png" alt="content-image">
+						<img class="img-fluid" src="../images/Shopify Website Development/02-02.png" alt="content-image">
 					</div>
 				</div>
 
@@ -235,7 +235,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/seo-04.png" alt="content-image">
+							<img class="img-fluid" src="../images/Shopify Website Development/03-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -317,7 +317,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-md-2">
 					<div class="rel img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/seo-05.png" alt="content-image">
+						<img class="img-fluid" src="../images/Shopify Website Development/04-02.png" alt="content-image">
 					</div>
 				</div>
 
@@ -362,7 +362,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/digital-marketing-service6.jpg" alt="Digital marketing services" />
+								<img class="img-fluid" src="../images/Shopify Website Development/05-02.png" alt="Digital marketing services" />
 							</div>
 
 							<!-- Title -->
@@ -383,7 +383,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/digital-marketing-service4.jpg" alt="Social media marketing" />
+								<img class="img-fluid" src="../images/Shopify Website Development/06-02.png" alt="Social media marketing" />
 							</div>
 
 							<!-- Title -->
@@ -416,7 +416,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/digital-marketing-service2.jpg" alt="google Ads management" />
+								<img class="img-fluid" src="../images/Shopify Website Development/07-02.png" alt="google Ads management" />
 							</div>
 
 							<!-- Title -->
@@ -441,7 +441,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/digital-marketing-service3.jpg" alt="ecommerce seo services image" />
+								<img class="img-fluid" src="../images/Shopify Website Development/08-02.png" alt="ecommerce seo services image" />
 							</div>
 
 							<!-- Title -->
@@ -520,7 +520,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-md-2">
 					<div class="rel img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/seo-05.png" alt="content-image">
+						<img class="img-fluid" src="../images/Shopify Website Development/09-02.png" alt="content-image">
 					</div>
 				</div>
 

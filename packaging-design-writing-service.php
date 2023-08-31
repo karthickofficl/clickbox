@@ -193,7 +193,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/img-13.png" alt="content-image">
+							<img class="img-fluid" src="../images/Packaging Design/01-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -223,7 +223,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Packaging Design/2-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Protection</h5>
@@ -239,7 +239,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-22.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Packaging Design/3-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Attraction</h5>
@@ -257,7 +257,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-seoservice.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Packaging Design/4-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Information</h5>
@@ -272,7 +272,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/img-21.png" alt="feature-icon" />
+								<img class="img-fluid" src="../images/Packaging Design/5-02.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Differentiation</h5>
@@ -337,7 +337,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInRight">
-							<img class="img-fluid" src="../images/img-06.png" alt="content-image">
+							<img class="img-fluid" src="../images/Packaging Design/6-02.png" alt="content-image">
 						</div>
 					</div>
 
@@ -358,7 +358,7 @@ if (isset($_POST['send'])) {
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column video-preview wow fadeInRight">
 						<!-- Preview Image -->
-						<img class="img-fluid" src="../images/img-08.png" alt="video-preview">
+						<img class="img-fluid" src="../images/Packaging Design/7-02.png" alt="video-preview">
 
 					</div>
 				</div>
@@ -425,7 +425,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="../images/Packaging Design/08-02.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -440,7 +440,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/img-16.png" alt="video-preview">
+						<img class="img-fluid" src="../images/Packaging Design/09-02.png" alt="video-preview">
 					</div>
 				</div>
 

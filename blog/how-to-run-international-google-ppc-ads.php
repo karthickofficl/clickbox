@@ -1,64 +1,3 @@
-<?php
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$subject = 'Blog Details Feedback Form';
-	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-	 </table> 
-    </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-
-	// Additional headers 
-
-
-	$m = mail($to, $subject, $htmlContent, $headers);
-
-	// Set content-type header for sending HTML email
-
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,9 +28,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -103,9 +42,9 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:url" content="https://www.clickboxagency.com/blog/how-to-run-international-google-ppc-ads/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/how-to-run-international-google-ppc-ads/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/" />
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How To Run International Google PPC Ads – A Detailed Guide" />
 
@@ -117,26 +56,28 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="International PPC ads are a great way to find the right audience for your business International Google Ads can be a powerful tool for businesses looking to expand their…" />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- SINGLE POST
 			============================================= -->
-	<section id="single-post" class="wide-30 inner-page-hero single-post-section division">
+			<!--  inner-page-hero  -->
+	<section id="single-post" class="wide-30 single-post-section division">
 		<div class="container">
 
 
 			<!-- SINGLE POST CONTENT -->
 			<div class="row">
+			<h1 class="h2-md text-center"><u>How To Run International Google PPC Ads</u></h1>
 				<div class="col-lg-10 offset-lg-1">
 					<div class="single-post-wrapper">
 
@@ -147,7 +88,6 @@ if (isset($_POST['send'])) {
 						<!-- SINGLE POST TITLE -->
 						<div class="single-post-title">
 							<!-- TITLE -->
-							<h1 class="h2-md">How To Run International Google PPC Ads</h1>
 
 						</div>
 						<div class="single-post-txt">
@@ -163,21 +103,22 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">A business or marketer may choose to use an international PPC advertising company for a variety of reasons. You may wish to expand your customer base or find that your product has particular appeal to those of a different cultural background. Or maybe things are going swimmingly in your own country, but you're ready to branch out into international trade.</p>
 							<p class="p-lg txt-justify">If you are unsure but willing to take a chance, advertising internationally may be profitable if you can overcome the challenges of creating an effective advertising campaign.If you're ready to launch your first global PPC campaign, this article will help. Including these seven suggestions into your advertising strategy will help you reach your desired demographic.</p>
 							<h4 class="h4-lg  txt-justify">How To Run International PPC Ads</h4>
-							<h6 class="h6-md">Location</h6>
+							<h6 class="h6-md">1. Location</h6>
 							<p class="p-lg txt-justify">Every campaign may not succeed by targeting a country. Your business and campaign may target a certain area. Showing it to a larger region will just generate non-converting clicks and waste PPC resources.</p>
 							<p class="p-lg txt-justify">To appear in "near me" search results, a restaurant should target localized traffic. You may not sell furniture nationwide due to transportation costs. If you're a UK company expanding to the US, start with big cities. Expand to more cities after gaining popularity and ROI.</p>
 							<p class="p-lg txt-justify">This regulation may not apply if you offer digital solutions like website development, graphic design, digital marketing, or <a href="https://clickboxagency.com/saas-marketing-techniques/" style="color:#0000FF;">SAAS</a> solutions. Target the nation.</p>
-							<h6 class="h6-md">Language</h6>
+							<h6 class="h6-md">2. Language</h6>
 							<p class="p-lg txt-justify">Language matters in multinational campaigns. Searching is no longer limited to English. Languages may be searched. Voice search helps. An international campaign should be customized for the target language since individuals prefer to talk in their own languages.</p>
 							<p class="p-lg txt-justify">Language needs consistency. Make sure the landing page and ad copy are the same language. Find high-volume language-specific <a href="https://support.google.com/google-ads/answer/7337243?hl=en" style="color:#0000FF;">keywords</a> for the landing page. The next pointer will elaborate.This blog explains multilingual website design.</p>
-							<h6 class="h6-md">Keyword</h6>
+							<h6 class="h6-md">3. Keyword</h6>
 							<p class="p-lg txt-justify">Most PPC specialists would respond "keywords" when asked "what is the most crucial part in a campaign?"</p>
 							<p class="p-lg txt-justify">We've stressed the importance of finding high-volume keywords in a language. Translating a high-volume English term into German will not optimize results. German and English searchers use different terms.Find campaign keywords with a <a href="https://backlinko.com/keyword-research-tools" style="color:#0000FF;">keyword research tool</a>. Analyze your competitors' ads for keyword and copy suggestions.</p>
-							<h6 class="h6-md">Time Zone</h6>
+							<h6 class="h6-md">4. Time Zone</h6>
 							<p class="p-lg txt-justify">PPC targets the appropriate individuals at the right time. International ad campaigns must account for time zones. Unless you change it, campaigns run 24/7 by default.</p>
 							<p class="p-lg txt-justify">Customize your Google Ads Ad Schedule to show your ad at the best moment in each region. India and New Jersey have separate campaign times.</p>
 							<h4 class="h4-lg  txt-justify">Insight into Your Audience</h4>
 							<p class="p-lg txt-justify">PPC campaigns change. Monitor your campaigns periodically to maximize your investment. Observation mode in Google Ads helps. It will provide the demographics of all ad clickers. Seeing these folks for a while can provide sufficient data:</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● Remarketing data – website visitors</p>
@@ -192,6 +133,7 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">● In-market – what people are actively looking for</p>
 								</li>
 							</ul>
+							</div>
 							<h4 class="h4-lg txt-justify">Responsive Search Ad and Expanded Text Ad</h4>
 							<p class="p-lg txt-justify">Spelling matters while writing. The UK spells color, whereas the US spells color.</p>
 							<h4 class="h4-lg txt-justify">Display Ad</h4>
@@ -200,7 +142,7 @@ if (isset($_POST['send'])) {
 							<!-- Text -->
 							<h4 class="h4-lg txt-justify">Way Forward</h4>
 							<p class="p-lg txt-justify">These recommended practices will make international Google advertisements easy. Nevertheless, using these requires knowledge and competence. Hire digital marketers to save time and focus on your main company. India is the most cost-effective area for multinational businesses to outsource marketing services. Choose India digital marketing.</p>
-							<h4 class="h4-lg txt-justify">7 Tips of International PPC Marketing</h4>
+							<h4 class="h4-lg txt-justify">7  Tips of International PPC Marketing</h4>
 							<h6 class="h6-md">1. Choose Countries for International PPC Advertising Agency</h6>
 							<p class="p-lg txt-justify">You should decide which nations will respond to your ad before launching targeted advertisements in those countries.</p>
 							<p class="p-lg txt-justify">Throwing away all of your preconceptions is one of the most crucial initial actions you can take. Even if you believe you are an expert on a nation and its culture, things may not be as simple as you believe.</p>
@@ -217,7 +159,7 @@ if (isset($_POST['send'])) {
 
 							<h6 class="h6-md txt-justify">3. Budget Country-Wise</h6>
 							<p class="p-lg txt-justify">The nation in which you do business will have an effect on your cost-per-click and cost-per-acquisition. The only way to know for sure what will happen is to experiment, initially targeting as many people as possible and then focusing on the nation where your ads receive the best response.</p>
-							<p class="p-lg txt-justify">Using a service such as <a href="https://ahrefs.com/" style="color:#0000FF;">Ahrefs</a> or <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjN1beX-qX9AhXxmGYCHbO-B6gYABAAGgJzbQ&sig=AOD64_3TgstFWs6f9WB_sYm4MJTahc16jg&q&adurl&ved=2ahUKEwixibGX-qX9AhVTBLcAHcukC3QQ0Qx6BAgJEAE" style="color:#0000FF;">SEMRush</a> to obtain a general notion of how much money should be budgeted for various nations. When we go into Ahrefs, you can type in a certain term and observe how the traffic looks in a different nation.</p>
+							<p class="p-lg txt-justify">Using a service such as <a href="https://ahrefs.com/" style="color:#0000FF;">Ahrefs</a> or <a href="https://www.semrush.com/lp/sem-aeoy/en/?kw=semrush&cmp" style="color:#0000FF;">Semrush</a> to obtain a general notion of how much money should be budgeted for various nations. When we go into Ahrefs, you can type in a certain term and observe how the traffic looks in a different nation.</p>
 							<p class="p-lg txt-justify">If there is a significant volume of traffic for a phrase that has a low level of competition, you might want to give the term a try by devoting a greater portion of your advertising budget to that word.</p>
 							<!-- Title -->
 							<h6 class="h6-md txt-justify">4. Promote Locally</h6>
@@ -230,30 +172,30 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">Track time zones too. If you include two nations on different sides of the world in the same campaign, boosting or dropping bids at specific periods will affect both countries.Separating campaigns by nation and monitoring metrics more often is preferable.</p>
 
 							<h6 class="h6-md txt-justify">6. Use Local Issues</h6>
-							<p class="p-lg txt-justify"><strong> using the same ad wording across campaigns</strong>. Even with a broad ad, you'll want to maintain the message specific to an area and update the copy as you switch regions.</p>
+							<p class="p-lg txt-justify"><strong> Avoid Using the same ad wording across campaigns</strong>. Even with a broad ad, you'll want to maintain the message specific to an area and update the copy as you switch regions.</p>
 							<p class="p-lg txt-justify">No matter your audience, ad text guidelines apply. Determine regional pain points, what excites them, and what makes them purchase. Regional variables will differ.Seasonal tendencies vary. <a href="https://trends.google.com/trends/" style="color:#0000FF;">Google Trends</a> helps identify this.</p>
 							<h6 class="h6-md txt-justify">7. Use Local Domain Extension</h6>
 							<p class="p-lg txt-justify">International PPC advertising requires much more credibility and trust. Choose a domain extension that matches the country you're advertising in to develop trust quickly—essential since you just have a few seconds before someone bounces.</p>
 							<p class="p-lg txt-justify">A ".au" or ".co.uk" domain extension may seem little, but it might make a big impact in the long term. Consider its potential benefit over a ".com" or ".org" extension.Having a country-specific domain extension makes you look local and enhances link clicks. Consider that the US has trust signals too. Like picking ".com" or ".org."</p>
-							<p class="p-lg txt-justify">Every bit helps with global trust signals. <a href="http://archive.icann.org/tr/english.html#:~:text=The%20Internet%20Corporation%20for%20Assigned,name%20system%20management%2C%20and%20root" style="color:#0000FF;">ICANN</a>(Internet Corporation for Assigned Names and Numbers).org lists many country-specific domain extensions.</p>
+							<p class="p-lg txt-justify">Every bit helps with global trust signals. <a href="https://archive.icann.org/tr/english.html#" style="color:#0000FF;">ICANN</a>(Internet Corporation for Assigned Names and Numbers).org lists many country-specific domain extensions.</p>
 							<h4 class="h4-lg txt-justify">Overview of Run International Google PPC Ads</h4>
 
 							<p class="p-lg txt-justify"><strong>Determine your target market(s): </strong> The first step is to identify the countries or regions you want to target with your ads. Consider factors such as the size of the market, the competition, the buying power of consumers, and any cultural or language barriers.</p>
-							<p class="p-lg txt-justify"><strong>Choose your ad language(s):</strong> Once you have identified your target market(s), you need to decide on the language(s) you will use for your ads. Google supports over 50 languages, so choose the one(s) that are most relevant to your target audience.</p>
-							<p class="p-lg txt-justify"><strong>Translate your ad copy:</strong> If you are targeting a language other than your own, you need to ensure that your ad copy is accurately translated by a professional translator. Keep in mind that literal translations can sometimes result in awkward or confusing wording, so make sure the translation is culturally appropriate as well.</p>
-							<p class="p-lg txt-justify"><strong>Select the right keywords:</strong> Research the keywords that your target audience is likely to use when searching for your products or services. Use Google's Keyword Planner tool to help you identify the most relevant and high-traffic keywords.</p>
-							<p class="p-lg txt-justify"><strong>Choose your bid strategy:</strong>Google offers a range of bid strategies, including cost per click (CPC), cost per acquisition (CPA), and return on ad spend (ROAS). Choose the bid strategy that aligns with your campaign goals and budget.</p>
-							<p class="p-lg txt-justify"><strong>Set up your campaign:</strong> In Google Ads, create a new campaign and select the target country/countries, language(s), and ad group(s). You can also set a specific budget and schedule for your campaign.</p>
-							<p class="p-lg txt-justify"><strong>Test and optimize your ads:</strong>Once your ads are up and running, monitor their performance regularly and make adjustments as needed. Test different ad variations, keywords, and bid strategies to find what works best for your target audience.</p>
-							<p class="p-lg txt-justify"><strong>Consider cultural nuances:</strong> Keep in mind that different cultures may respond differently to certain ad formats or messaging. Research cultural norms and preferences to ensure that your ads resonate with your target audience.</p>
-							<p class="p-lg txt-justify"><strong>Ensure compliance with local regulations:</strong> Some countries have specific regulations around advertising that you need to be aware of. Research any legal requirements or restrictions that apply to your target market(s) to ensure compliance.</p>
-							<p class="p-lg txt-justify"><strong>Measure your results:</strong> Use Google Ads reporting tools to track the performance of your ads and measure your return on investment (ROI). Use this data to inform future campaigns and optimize your advertising strategy.</p>
+							<p class="p-lg txt-justify"><strong>Choose your ad language(s): </strong> Once you have identified your target market(s), you need to decide on the language(s) you will use for your ads. Google supports over 50 languages, so choose the one(s) that are most relevant to your target audience.</p>
+							<p class="p-lg txt-justify"><strong>Translate your ad copy: </strong> If you are targeting a language other than your own, you need to ensure that your ad copy is accurately translated by a professional translator. Keep in mind that literal translations can sometimes result in awkward or confusing wording, so make sure the translation is culturally appropriate as well.</p>
+							<p class="p-lg txt-justify"><strong>Select the right keywords: </strong> Research the keywords that your target audience is likely to use when searching for your products or services. Use Google's Keyword Planner tool to help you identify the most relevant and high-traffic keywords.</p>
+							<p class="p-lg txt-justify"><strong>Choose your bid strategy: </strong> Google offers a range of bid strategies, including cost per click (CPC), cost per acquisition (CPA), and return on ad spend (ROAS). Choose the bid strategy that aligns with your campaign goals and budget.</p>
+							<p class="p-lg txt-justify"><strong>Set up your campaign: </strong> In Google Ads, create a new campaign and select the target country/countries, language(s), and ad group(s). You can also set a specific budget and schedule for your campaign.</p>
+							<p class="p-lg txt-justify"><strong>Test and optimize your ads: </strong> Once your ads are up and running, monitor their performance regularly and make adjustments as needed. Test different ad variations, keywords, and bid strategies to find what works best for your target audience.</p>
+							<p class="p-lg txt-justify"><strong>Consider cultural nuances: </strong> Keep in mind that different cultures may respond differently to certain ad formats or messaging. Research cultural norms and preferences to ensure that your ads resonate with your target audience.</p>
+							<p class="p-lg txt-justify"><strong>Ensure compliance with local regulations: </strong> Some countries have specific regulations around advertising that you need to be aware of. Research any legal requirements or restrictions that apply to your target market(s) to ensure compliance.</p>
+							<p class="p-lg txt-justify"><strong>Measure your results: </strong> Use Google Ads reporting tools to track the performance of your ads and measure your return on investment (ROI). Use this data to inform future campaigns and optimize your advertising strategy.</p>
 							<p class="p-lg txt-justify">As a Clickbox creative marketing agency, offers international Google PPC (pay-per-click) advertising services to help businesses reach their target audiences and drive conversions. With a team of experienced PPC specialists, Clickbox can create and manage targeted campaigns across multiple markets and languages, using advanced tools and techniques to optimize ad performance and maximize return on investment.</p>
-							<h4 class="h4-lg">By working with Clickbox, businesses can benefit from:</h4>
+							<h4 class="h4-lg">By working with Clickbox, businesses can benefit from</h4>
 							<p class="p-lg txt-justify">Expertise in international PPC advertising: Clickbox's team has extensive experience in creating and managing PPC campaigns across a wide range of industries and markets, making them well-equipped to help businesses reach their target audiences around the world.</p>
 							<p class="p-lg txt-justify">Advanced targeting and optimization: Clickbox uses advanced tools and techniques to target ads to specific audiences based on factors like location, language, demographics, and interests. They also continually optimize campaigns to maximize ad performance and return on investment.</p>
 							<p class="p-lg txt-justify">Transparent reporting and analysis: Clickbox provides detailed reporting and analysis of campaign performance, allowing businesses to track key metrics like click-through rates, conversions, and cost per acquisition.</p>
-							<p class="p-lg txt-justify">Overall, <a href="https://clickboxagency.com/contacts/" style="color:#0000FF;">Clickbox's</a> international Google PPC advertising service can help businesses expand their reach and increase conversions in new markets, making it a valuable tool for any company looking to grow their business globally. </p>
+							<p class="p-lg txt-justify">Overall,Clickbox's international  <a href="https://clickboxagency.com/contacts/" style="color:#0000FF;"> Google PPC advertising service </a>  can help businesses expand their reach and increase conversions in new markets, making it a valuable tool for any company looking to grow their business globally. </p>
 
 						</div> <!-- END BLOG POST TEXT -->
 						<!-- SINGLE POST SHARE LINKS -->
@@ -270,9 +212,9 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
+									<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://www.linkedin.com/company/clickbox-agency/" class="share-ico"><span class="flaticon-linkedin"></span></a></li>
 								</ul>
 							</div>
 						</div> <!-- SINGLE POST SHARE LINKS END -->
@@ -283,73 +225,13 @@ if (isset($_POST['send'])) {
 	</section> <!-- END SINGLE POST -->
 
 	<!-- POST COMMENTS============================================= -->
-	<section id="post-comments" class=" post-comments division">
-		<div class="container">
-			<div class="row">
-				<!-- COMMENTS WRAPPER -->
-				<div class="col-lg-10 offset-lg-1">
-					<div class="comments-wrapper">
-						<!-- COMMENT FORM -->
-						<div id="leave-comment">
-							<!-- Title -->
-							<h5 class="h5-lg">Leave a Comment</h5>
-							<!-- Text -->
-							<p class="p-md">Your email address will not be published. Required fields are marked *</p>
 
-							<form name="commentForm" method="post" class="row comment-form">
-
-								<div class="col-md-12">
-									<p>Name*</p>
-									<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required>
-								</div>
-
-								<div class="col-md-6">
-									<p>Email*</p>
-									<input type="email" name="email" class="form-control email" placeholder="Enter Your Email*" required>
-								</div>
-
-								<div class="col-md-6">
-									<p>Phone*</p>
-									<input type="tel" name="phone" class="form-control phone" placeholder="Enter Your Phone No*" required>
-								</div>
-
-								<div class="col-md-12 input-message">
-									<p>Subject *</p>
-									<textarea class="form-control message" name="message" rows="6" placeholder="Enter Your Comment Here* ..." required></textarea>
-								</div>
-
-								<!-- Contact Form Button -->
-								<div class="col-lg-12 form-btn">
-									<button type="submit" class="btn btn-skyblue tra-skyblue-hover submit" name="send">Submit</button>
-								</div>
-
-								<!-- Contact Form Message -->
-								<div class="col-md-12 comment-form-msg text-center">
-									<div class="sending-msg"><span class="loading"></span></div>
-								</div>
-								<div class="form-group">
-									<div class="col-sm-10 col-sm-offset-2">
-										<?php if (!empty($result)) {
-											echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-										} ?>
-									</div>
-								</div>
-
-							</form>
-
-						</div> <!-- END COMMENT FORM -->
-
-					</div>
-				</div> <!-- END COMMENTS WRAPPER -->
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END POST COMMENTS -->
 
 	<!-- BLOG-1
 			============================================= -->
-	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
+	<!-- <section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">
-			<!-- SECTION TITLE -->
+			
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mt-20">
@@ -358,45 +240,19 @@ if (isset($_POST['send'])) {
 				</div>
 			</div>
 
-			<!-- INCLUDE BLOGS -->
+			
 
-			<?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') ?>
+			</*?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') /*?>
 
-		</div> <!-- End container -->
-	</section> <!-- END BLOG-1 -->
+		</div> 
+	</section>  -->
 	<!-- CALL TO ACTION-5
 			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 
 
 	<script type="application/ld+json">
@@ -454,13 +310,13 @@ if (isset($_POST['send'])) {
 
 			"description": "International PPC ads are a great way to find the right audience for your business International Google Ads can be a powerful tool for businesses looking to expand their…",
 
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 8870578887",
+				"telephone": "+91 74185 55209",
 
 				"contactType": "sales",
 
@@ -496,7 +352,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://www.clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

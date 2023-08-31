@@ -134,7 +134,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-lg-5 order-last order-lg-2">
 					<div class="hero-8-img pc-20 text-center">
-						<img class="img-fluid" src="../images/hero-8-img.png" alt="hero-image">
+						<img class="img-fluid" src="../images/product description writing/1.png" alt="hero-image">
 					</div>
 				</div>
 
@@ -235,7 +235,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-12 col-lg-5">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/seo-06.png" alt="content-image">
+						<img class="img-fluid" src="../images/product description writing/2.png" alt="content-image">
 					</div>
 				</div>
 
@@ -255,7 +255,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/seo-04.png" alt="content-image">
+							<img class="img-fluid" src="../images/product description writing/3.png" alt="content-image">
 						</div>
 					</div>
 
@@ -321,7 +321,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-analytics"></span>
+							    <img src="../images/Article writing/icon/1_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -341,7 +341,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-web-search-engine"></span>
+						     	<img src="../images/Article writing/icon/2_2.svg">
 							</div>
 
 							<!-- Title -->
@@ -361,7 +361,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-line-graph-1"></span>
+							    <img src="../images/Article writing/icon/3_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -389,7 +389,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-analytics"></span>
+						     	<img src="../images/Article writing/icon/4_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -409,7 +409,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-web-search-engine"></span>
+							   <img src="../images/Article writing/icon/5_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -429,7 +429,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-line-graph-1"></span>
+							   <img src="../images/Article writing/icon/6_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -457,7 +457,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-analytics"></span>
+							   <img src="../images/Article writing/icon/7_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -477,7 +477,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-web-search-engine"></span>
+							   <img src="../images/Article writing/icon/8_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -497,7 +497,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="ico-70 skyblue-color">
-								<span class="flaticon-line-graph-1"></span>
+							   <img src="../images/Article writing/icon/9_1.svg">
 							</div>
 
 							<!-- Title -->
@@ -535,7 +535,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/seo-01.png" alt="video-preview">
+						<img class="img-fluid" src="../images/product description writing/4.png" alt="video-preview">
 					</div>
 				</div>
 
@@ -625,7 +625,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-md-2">
 					<div class="rel img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/seo-05.png" alt="content-image">
+						<img class="img-fluid" src="../images/product description writing/5.png" alt="content-image">
 					</div>
 				</div>
 
@@ -671,7 +671,7 @@ if (isset($_POST['send'])) {
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-									<span class="flaticon-album"></span>
+								   <img src="../images/Article writing/icon/10.svg">
 								</div>
 							</div>
 
@@ -698,7 +698,7 @@ if (isset($_POST['send'])) {
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-									<span class="flaticon-seo"></span>
+								   <img src="../images/Article writing/icon/11_1.svg">
 								</div>
 							</div>
 
@@ -725,7 +725,7 @@ if (isset($_POST['send'])) {
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-									<span class="flaticon-click-2"></span>
+							     	<img src="../images/Article writing/icon/12_1.svg">
 								</div>
 							</div>
 
@@ -752,7 +752,7 @@ if (isset($_POST['send'])) {
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-									<span class="flaticon-layers"></span>
+								   <img src="../images/Article writing/icon/13_1.svg">
 								</div>
 							</div>
 
@@ -970,35 +970,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 	<?php include('footer-script.php') ?>

@@ -18,10 +18,10 @@
  	<meta name="search engines" content="ALL" />
  	<meta name="copyright" content="https://www.clickboxagency.com" />
  	<meta name="email" content="info@clickboxagency.com" />
- 	<link rel="canonical" href="https://www.clickboxagency.com/privacy-policy.php" />
+ 	<link rel="canonical" href="https://www.clickboxagency.com/privacy-policy/" />
  	<meta property="og:type" content="website" />
- 	<meta property="og:url" content="https://www.clickboxagency.com/privacy-policy.php" />
- 	<meta property="og:site_name" content="https://www.clickboxagency.com" />
+ 	<meta property="og:url" content="https://www.clickboxagency.com/privacy-policy/" />
+ 	<meta property="og:site_name" content="https://www.clickboxagency.com/privacy-policy/" />
  	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
  	<meta property="og:title" content="Privacy Policy - ClickBox Advertising &amp; Digital Marketing Agency" />
  	<meta property="og:description" content="ClickBox is the best web development & digital marketing company in Coimbatore. We have a broad range of digital marketing services to meet your business needs. " />
@@ -237,7 +237,7 @@
  								</p>
 
  								<!-- Button -->
- 								<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
+ 								<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
 
  							</div>
  						</div>
@@ -308,25 +308,25 @@
  		</script>
  		<!-- EXTERNAL SCRIPTS
 		============================================= -->
- 		<script src="js/jquery-3.6.0.min.js"></script>
- 		<script src="js/bootstrap.min.js"></script>
- 		<script src="js/modernizr.custom.js"></script>
- 		<script src="js/jquery.easing.js"></script>
- 		<script src="js/jquery.appear.js"></script>
- 		<script src="js/jquery.scrollto.js"></script>
- 		<script src="js/menu.js"></script>
- 		<script src="js/imagesloaded.pkgd.min.js"></script>
- 		<script src="js/isotope.pkgd.min.js"></script>
- 		<script src="js/owl.carousel.min.js"></script>
- 		<script src="js/jquery.magnific-popup.min.js"></script>
- 		<script src="js/quick-form.js"></script>
- 		<script src="js/request-form.js"></script>
- 		<script src="js/jquery.validate.min.js"></script>
- 		<script src="js/jquery.ajaxchimp.min.js"></script>
- 		<script src="js/wow.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery-3.6.0.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/bootstrap.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/modernizr.custom.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery.easing.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery.appear.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery.scrollto.js"></script>
+ 		<script src="https://clickboxagency.com/js/menu.js"></script>
+ 		<script src="https://clickboxagency.com/js/imagesloaded.pkgd.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/isotope.pkgd.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/owl.carousel.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery.magnific-popup.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/quick-form.js"></script>
+ 		<script src="https://clickboxagency.com/js/request-form.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery.validate.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/jquery.ajaxchimp.min.js"></script>
+ 		<script src="https://clickboxagency.com/js/wow.js"></script>
 
  		<!-- Custom Script -->
- 		<script src="js/custom.js"></script>
+ 		<script src="https://clickboxagency.com/js/custom.js"></script>
 
 
 

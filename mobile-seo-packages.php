@@ -41,7 +41,7 @@
 
 	<meta property="og:url" content="https://www.clickboxagency.com/mobile-seo-packages/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/66" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/mobile-seo-packages/" />
 
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -947,7 +947,7 @@
 				<div class="row">
 					<div class="col  ">
 						<div class="more-questions">
-							<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
+							<h5 class="h5-sm ">Have more questions? <a href="https://www.clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
 						</div>
 					</div>
 				</div>

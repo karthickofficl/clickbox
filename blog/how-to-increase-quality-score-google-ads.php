@@ -1,62 +1,3 @@
-<?php
-
-//  
-if (isset($_POST['send'])) {
-
-	// getting post values
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$subject = 'Blog Details Feedback Form';
-	$message = $_POST['message'];
-	$to = 'sales@clickboxagency.com';
-	$htmlContent = ' 
-    <html> 
-    <head> 
-        <title>Welcome to Clickbox Agencies</title> 
-    </head> 
-    <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
-                <th>Name:</th><td>' . $name . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-                <th>Email:</th><td>' . $email . '</td> 
-            </tr> 
-            <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
-	 </table> 
-    </body> 
-    </html>';
-
-	// Set content-type header for sending HTML email 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-
-	// Additional headers 
-	$m = mail($to, $subject, $htmlContent, $headers);
-
-	// Set content-type header for sending HTML email
-
-	if (!$m) {
-		echo 'Message could not be sent.';
-	} else {
-		// echo 'Message has been sent';
-		$result = '
-    One of our representative will get in touch you.';
-	}
-}
-// else{
-//     print_r("ssdfs");die;
-// }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -87,9 +28,9 @@ if (isset($_POST['send'])) {
 
 	<meta name="search engines" content="ALL" />
 
-	<meta name="Author" content="https://www.clickboxagency.com/" />
+	<meta name="Author" content="www.clickboxagency.com" />
 
-	<meta name="copyright" content="https://www.clickboxagency.com/" />
+	<meta name="copyright" content="www.clickboxagency.com" />
 
 	<meta name="email" content="info@clickboxagency.com" />
 
@@ -101,9 +42,9 @@ if (isset($_POST['send'])) {
 
 	<meta property="og:url" content="https://www.clickboxagency.com/blog/how-to-increase-quality-score-google-ads/" />
 
-	<meta property="og:site_name" content="https://www.clickboxagency.com/blog/how-to-increase-quality-score-google-ads/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/"/>
 
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<meta property="og:title" content="How to Increase Your Quality Score in Google Ads " />
 
@@ -115,24 +56,27 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:description" content="Google Ads Quality Score is an important metric that can affect the performance and cost of your ads. Here are some tips how to increase your Quality Score ." />
 
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 	<!--FAVICON-->
 	<link rel="icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.png" type="image/x-icon">
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- SINGLE POST
 			============================================= -->
-	<section id="single-post" class="wide-30 inner-page-hero single-post-section division">
+			<!-- inner-page-hero  -->
+	<section id="single-post" class="single-post-section division">
 		<div class="container">
 			<!-- SINGLE POST CONTENT -->
-			<div class="row">
+			<div class="row wide-30 ">
+			<h1 class="h2-md text-center"><u>How to Increase Your Quality Score in Google Ads</u> </h1>
+
 				<div class="col-lg-10 offset-lg-1">
 					<div class="single-post-wrapper">
 
@@ -143,27 +87,28 @@ if (isset($_POST['send'])) {
 						<!-- SINGLE POST TITLE -->
 						<div class="single-post-title">
 							<!-- TITLE -->
-							<h1 class="h2-md">How to Increase Your Quality Score in Google Ads </h1>
 
 						</div>
 						<div class="single-post-txt">
-							<p class="p-lg txt-justify">Increasing your quality score on <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjn7_etstj9AhUC10wCHYmMADYYABAAGgJ0bQ&sig=AOD64_3L-1Glqtbwdc7IEvCX91yDKzxu4w&q&adurl&ved=2ahUKEwi-6PCtstj9AhXCm1YBHewrDwAQ0Qx6BAgJEAE" style="color:#0000FF;">Google Ads</a> will do more for you than simply give you something to talk about. It may also be beneficial to boost the amount of money you make from pay-per-click advertising and the position that your website or blog has in the rankings. An improvement in your score may serve as a sign that your advertisement or website is doing well. Without the score, you might not realise that certain aspects of your current situation are actually working against you rather than for you. Making sure you are utilising the appropriate keywords may, in the long run, save you both time and money if you do it correctly.</p>
+							<p class="p-lg txt-justify">Increasing your quality score on <a href="https://ads.google.com/" style="color:#0000FF;">Google Ads</a> will do more for you than simply give you something to talk about. It may also be beneficial to boost the amount of money you make from pay-per-click advertising and the position that your website or blog has in the rankings. An improvement in your score may serve as a sign that your advertisement or website is doing well. Without the score, you might not realise that certain aspects of your current situation are actually working against you rather than for you. Making sure you are utilising the appropriate keywords may, in the long run, save you both time and money if you do it correctly.</p>
 							<p class="p-lg txt-justify">The Ads quality score is a statistic that takes into account a variety of factors, such as the quality of the user experience provided by your website, the relevance of the keywords used, and the efficiency of the pay-per-click advertising campaign that you are running. As soon as you have an understanding of what your quality score is and why it is essential, you can start working on the aspects of your performance that contribute to it.</p>
 							<h4 class="h4-lg txt-justify">What is the Google Ads Quality Score?</h4>
 							<p class="p-lg txt-justify">Your Google Ads Quality Score is a measurement that determines how well your pay-per-click (PPC) advertising campaign's ads perform in terms of their quality, relevancy, and performance. Due to the fact that Quality Score influences both</p>
+							<div class="single-post-txt">
 							<ol class="digit-list">
 								<li>
-									<p class="p-lg"> position of your ads</p>
+									<p class="p-lg"> Position of your ads</p>
 								</li>
 								<li>
-									<p class="p-lg"> cost per action</p>
+									<p class="p-lg"> Cost per action</p>
 								</li>
 							</ol>
-							<h4 class="h4-lg txt-justify">1. position of your ads</h4>
+							</div>
+							<h4 class="h4-lg txt-justify">1. Position of your ads</h4>
 							<p class="p-lg txt-justify">Ad position is the relative placement of your ads on a search engine results page (also known as a <a href="https://support.google.com/google-ads/answer/1722122?hl=en" style="color:#0000FF;">SERP</a>) in comparison to the positions of other advertisements that show on the page. The following formula is used to calculate an advertisement's position, often known as its rank.</p>
 							<p class="p-lg txt-justify">Even advertising that has been extensively tuned is not guaranteed to maintain the same location over time. Paid search platforms such as Google Ads and Microsoft Ads function as an auction, which means that the position of your ads may change each time a user performs a search, even if multiple searches are performed using the exact same search criteria. This is true even if the user performs multiple searches using the same search criteria. Ad optimization, on the other hand, is of critical significance and may assist your advertisements in achieving consistently good positioning on the SERP.</p>
 							<h4 class="h4-lg txt-justify">2. Cost Per Action</h4>
-							<p class="p-lg txt-justify">A statistic that quantifies the amount of money that your company spends in order to make a conversion may also be referred to as the "cost per acquisition" (or "<a href="https://support.google.com/google-ads/answer/6396841?hl=en#:~:text=Average%20cost%20per%20action%20(CPA,for%20those%20conversions%20is%20%243.00." style="color:#0000FF;">CPA</a>" for short). Your cost per acquisition, also known as CPA, will almost always be higher than your cost per click, also known as CPC. This is due to the fact that not all of the people who click on your advertisement will go on to complete the action you want them to, whether that action is making a purchase or filling out a form to become a lead. When calculating the cost per action, the number of ad clicks required until someone becomes a customer is taken into account. In other words, increasing your conversion rate will result in a decrease in your cost per action. Your cost per acquisition (CPA) will be one of the factors that go towards determining your total Google ad expenditures. Head on over to our PPC metrics page for further information on CPA as well as the other 28 PPC metrics.</p>
+							<p class="p-lg txt-justify">A statistic that quantifies the amount of money that your company spends in order to make a conversion may also be referred to as the "cost per acquisition" (or "<a href="https://support.google.com/google-ads/answer/6396841?hl=en#" style="color:#0000FF;">CPA</a>" for short). Your cost per acquisition, also known as CPA, will almost always be higher than your cost per click, also known as CPC. This is due to the fact that not all of the people who click on your advertisement will go on to complete the action you want them to, whether that action is making a purchase or filling out a form to become a lead. When calculating the cost per action, the number of ad clicks required until someone becomes a customer is taken into account. In other words, increasing your conversion rate will result in a decrease in your cost per action. Your cost per acquisition (CPA) will be one of the factors that go towards determining your total Google ad expenditures. Head on over to our PPC metrics page for further information on CPA as well as the other 28 PPC metrics.</p>
 							<h4 class="h4-lg txt-justify">The Quality Score and Why is it Important </h4>
 							<p class="p-lg txt-justify">Google gives your keywords and your pay-per-click rate a grade called a "quality score." This number reflects how relevant and high-quality your keywords are. You can calculate what your cost per click will be with the help of this tool. You can also use it to figure out what the current rank of your advertisement is in the bidding process. You have the ability to take several actions to improve your quality score if it is lower than it should be. A quality score is determined by a combination of several different aspects. Each and every one of them plays a significant role in the process.</p>
 							<p class="p-lg txt-justify">It is important to take advantage of a quality score because doing so might provide you with useful information on your performance. It is able to inform you of the things that are going well as well as the things that are not going well. Once you have identified the problem areas, you will be better prepared to find solutions. This score may help you save time and money, help convert visitors into loyal clients, and help you figure out where you stand in comparison to the other businesses in your industry.</p>
@@ -178,6 +123,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">Your click-through rate (CTR) on Google advertisements will rise if they are appealing and respond to the searcher's query. A high CTR is the quickest way to a higher Quality Score and reduced costs per click, so make sure your ads are captivating and speak to the searcher's query.</p>
 							<h4 class="h4-lg txt-justify">What are the most important factors that affect a score?</h4>
 							<p class="p-lg txt-justify">A quality score is determined by a variety of factors, many of which are important. You may find a list of them below and then a more in-depth explanation of each in the paragraph that follows.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● Keywords' relative importance to the ad group</p>
@@ -198,32 +144,33 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">● Your historical performance</p>
 								</li>
 							</ul>
+							</div>
 							<!-- Text -->
 							<h4 class="h4-lg txt-justify"> Factors</h4>
-							<h6 class="h6-md">Acquiring Factor Awareness Is Step One</h6>
+							<h6 class="h6-md">1. Acquiring Factor Awareness Is Step One</h6>
 							<p class="p-lg txt-justify">You have already taken the first step towards raising your quality score in Google ads simply by reading the information that has been presented here. If you want to increase your quality score, it is just as important to understand the elements that go into determining it as it is to understand the ones that go into determining your credit score. Your first point should be to have an understanding of the components that go towards determining your final score. These elements do not all contribute the same amount to your score, and it is unclear what weight each aspect has in determining your overall score.</p>
 							<p class="p-lg txt-justify">Because of this, it is very necessary for you to have a complete understanding of all the aspects. To improve your score, you will need to focus on more than just one or two aspects of the whole equation. You will need to put in a little effort into each of these aspects in order to see any kind of improvement. After you have determined what it is that you should be on the lookout for, you can then start making adjustments in order to improve your score. Without initially having a solid knowledge of the criteria that go into determining your score, there is no way that it can be improved.</p>
-							<h6 class="h6-md">Increase your quality score by focusing your ad groups</h6>
+							<h6 class="h6-md">2.Increase your quality score by focusing your ad groups</h6>
 							<p class="p-lg txt-justify">If you organise your ad groups into more narrowly focused campaigns, you will see an improvement in your score. You will find that doing so will assist you in elevating the value of the real ad in relation to the search. When you are beginning the process of setting up your campaigns, make use of as many distinct ad groups as you see fit, provided that they are pertinent to the keywords that are being utilized. If they don't pertain to the discussion at hand, there's no use in bringing them up. Because it would be difficult for people to locate the particular advertisement that they are searching for if you just have a number of ad groups that employ the same keywords, your advertisements will not be relevant to the consumers of your website.</p>
 							<p class="p-lg txt-justify">It is important that each group of advertisements have their own unique list of pertinent keywords. You won't have any other option if you want to successfully target the people or communities that are of interest to you than this one. Make sure that the keywords you are using make sense and correspond to what the ad groups might be looking for. There are tools available that can assist you in determining which keywords are most pertinent to the ad groupings you have created. You may work towards boosting your quality score by targeting your ad groups with certain keywords. This will help you obtain more clicks on your ads.</p>
-							<h6 class="h6-md">Keywords for Academic Study</h6>
+							<h6 class="h6-md">3. Keywords for Academic Study</h6>
 							<p class="p-lg txt-justify">Before utilising keywords, check their overall performance. research before doing anything. Keywords are crucial to the quality score. Words in a search box affect whether your site or ad appears. Keywords abound. Search combinations are as crucial as words. Research can show you what keywords are being used, how significant they are to consumers, and how they might drive traffic to your website.</p>
 							<!-- Text -->
-							<h6 class="h6-md">Create Effective AdWords Ads</h6>
+							<h6 class="h6-md">4. Create Effective AdWords Ads</h6>
 							<p class="p-lg txt-justify">Well-written words attract buyers in any genre. <a href="https://ads.google.com/intl/en_in/home/resources/improve-quality-score/" style="color:#0000FF;">High-quality</a> commercials are essential for success. High-quality ads? High-quality ads focus on one product or service to attract the right audience. Multiple-product ads are less effective. Customers want to believe your ad provides what they need. A cluttered ad will turn off customers. Neat ads have more effect. Quality AdWords advertising will boost your quality score.</p>
-							<h6 class="h6-md">Reduce the size of your ad groups</h6>
+							<h6 class="h6-md">5. Reduce the size of your ad groups</h6>
 							<p class="p-lg txt-justify">Landing pages are generally the first thing users see on a website, and while you might not give them much thought at the time, they are crucial. Your quality score will go down if your landing page isn't up to par in terms of design, usability, and clarity. Consider how crucial your landing page is. That's why it's smart to think about implementing analytics tracking on your landing page. The Google PageSpeed Insights and the Google Mobile-Friendly tests are two that come to mind. Finding out your landing page quality score can help your development team choose changes that will have the most impact on your overall quality rating</p>
 							<p class="p-lg txt-justify">Also, you should think about including pertinent keywords on your landing page. More people will be curious about what you have to offer if you do this. Important, distinct keywords for each ad group should be considered. Though it's unlikely that you'll be able to create a landing page for each of your ad groups, doing so can boost your total score and the amount of time visitors spend on your site. The more positive an emotional reaction an ad elicits from its target audience, the higher the likelihood that audience members will buy from you.</p>
 							<p class="p-lg txt-justify">Make sure you cut down on the loading duration of your landing page as much as possible. This is really important if you want people to stay on your website until it loads completely. Visitors may abandon a website if the loading time of its landing page is too long.</p>
-							<h6 class="h6-md">Make your ad groups small</h6>
+							<h6 class="h6-md">6. Make your ad groups small</h6>
 							<p class="p-lg txt-justify">Despite the occasional lack of relevance, size may be important. Making certain ad groups smaller than others is relevant here. Use between 15 and 20 keywords per ad group, as is commonly advised, but this is not always the case. There will be no improvement to your quality score by doing this. Extreme difficulty may arise when trying to publish an ad that has fifteen to twenty pertinent keywords. Creating a single ad that is relevant to a number of different search phrases may prove challenging. Researchers and strategists agree that employing less than ten keywords per group is preferable to using more than twice that number.</p>
 							<p class="p-lg txt-justify">You can really raise your quality score by following both of those seemingly unrelated bits of advice. The rating's name, "Quality Score," should serve as a reminder that what matters most is the quality, rather than the number, of your keywords. When creating ad groups, the smaller they are, the better.</p>
-							<h6 class="h6-md">Make your ad groups small</h6>
+							<h6 class="h6-md">7. Negative keywords</h6>
 							<p class="p-lg txt-justify">This suggestion is unexpected. Negative keywords may even be a mystery. Negative keywords in ad groups stop your ad from appearing. Contrary. Instead of attracting visitors, your keywords are driving them away. Your ad will not appear when searchers use derogatory terms.</p>
 							<p class="p-lg txt-justify">Why are we debating this when we should be improving your score? Negative terms can really help. Keywords might block non-targeted ads. This actually boosts click-throughs. You don't want folks to click on your ad just because it appears since they're probably not seeking it. Your ad should be relevant and attract clicks. Negative keywords improve quality scores.</p>
-							<h6 class="h6-md">Expand your text ads</h6>
+							<h6 class="h6-md">8. Expand your text ads</h6>
 							<p class="p-lg txt-justify">Expanded text advertising lets you run longer ads. Using 50% more characters can boost quality. Long-tail keywords are a nice characteristic of expanding text advertisements. Your ad groups may benefit. Longer search keywords receive more room. It simplifies your discovery. Long-tail keywords increase ad relevance. Ad relevance increases the quality score.</p>
-							<h6 class="h6-md">Avoid using dynamic keyword insertion</h6>
+							<h6 class="h6-md">9. Avoid using dynamic keyword insertion</h6>
 							<p class="p-lg txt-justify"> AdWords offers dynamic keyword insertion. This function may help some, but it won't boost your quality score. Dynamic Keyword Insertion (DKI) lets you insert a search term into your ad content just as it was typed. This may sound good, but it can actually lower your quality score.</p>
 							<p class="p-lg txt-justify">The addition of keywords might also make your writing appear sloppy. Your marketing will fail. It's best to know your ad copy's wording. Dynamic keyword insertion is unnecessary if you employ restricted keyword ad groupings.</p>
 							<!-- Title -->
@@ -232,6 +179,7 @@ if (isset($_POST['send'])) {
 							<p class="p-lg txt-justify">In this piece, we'll go through some of the ways in which you may use your Quality Score to boost your efficiency and productivity.</p>
 							<h6 class="h6-md txt-justify">1. Review your Quality Score components</h6>
 							<p class="p-lg txt-justify">Examining the three parts of <a href="https://support.google.com/google-ads/answer/6167118?hl=en" style="color:#0000FF;">Quality Score</a> might reveal particular areas for enhancement.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● The percentage of people that see your ad and click it after seeing it displayed.</p>
@@ -242,24 +190,27 @@ if (isset($_POST['send'])) {
 								<li>
 									<p class="p-lg">● Ad click-through rates are directly correlated with the quality of the landing page experience provided to visitors.</p>
 								</li>
-
 							</ul>
+							</div>
 							<p class="p-lg txt-justify">Ad copy, keyword selection, and landing page content may all benefit from these metrics. Every part will have a rating between "Below average," "Average," and "Above average" to help you determine where you stand and where you may make changes.</p>
 							<p class="p-lg txt-justify">The most important thing is to focus on user needs and wants, since this will ensure success. The Quality Score metric should be used as a diagnostic tool to help you focus on your long-term performance goals while you explore strategies to improve the user experience.</p>
 							<h6 class="h6-md txt-justify">2. Make ads more relevant to keywords</h6>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● Ad copy should more closely reflect user queries in terms of language.</p>
 								</li>
 								<li>
-									<p class="p-lg">● Try to find ad groups that contain a wide variety of <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjj1ZzRt9j9AhVOHSsKHT7PAJAYABAAGgJzZg&sig=AOD64_1BbaIQvS83BonoFiLHgyj7VMurlA&q&adurl&ved=2ahUKEwiilJbRt9j9AhUIzDgGHZmBCAMQ0Qx6BAgJEAE" style="color:#0000FF;">keywords</a> that can't all be answered by a single ad. You should divide these ad groups up into several smaller groups so that they more closely reflect what the user is looking for.</p>
+									<p class="p-lg">● Try to find ad groups that contain a wide variety of <a href="https://keywordtool.io/" style="color:#0000FF;">keywords</a> that can't all be answered by a single ad. You should divide these ad groups up into several smaller groups so that they more closely reflect what the user is looking for.</p>
 								</li>
 								<li>
 									<p class="p-lg">● To boost relevancy, try organizing your keywords into categories. Your products, services, or other categories of interest can provide inspiration for these topics. In the ring selling scenario, for instance, you may have one set of keywords for "engagement rings" and another set for "wedding bands."</p>
 								</li>
 							</ul>
+							</div>
 							<h6 class="h6-md txt-justify">3. Try to improve your clickthrough rate (<a href="https://support.google.com/google-ads/answer/2615875?hl=en" style="color:#0000FF;">CTR</a>)</h6>
 							<p class="p-lg txt-justify">The expected CTR measures how many people are likely to click on your ad.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● Try these recommended practises if your Exp. CTR is "Below average" or "Average":</p>
@@ -283,9 +234,11 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">● Add extra detail to your ad text copy.</p>
 								</li>
 							</ul>
+							</div>
 							<p class="p-lg txt-justify">In some cases, a more targeted ad may have a lower click-through rate (CTR), but a greater conversion rate. Find the sweet spot that maximizes your chances of success with whatever it is you're trying to do.</p>
 							<h6 class="h6-md txt-justify">4. Consider updating your landing page</h6>
 							<p class="p-lg txt-justify">Increasing site traffic is simply one aspect of internet advertising. In order to keep people coming back to your site, you need to make sure they have a great time while they're there.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● The following are some suggestions to improve your landing page experience if it is rated as "Below average" or "Average:"</p>
@@ -307,8 +260,10 @@ if (isset($_POST['send'])) {
 								</li>
 
 							</ul>
+							</div>
 							<h6 class="h6-md txt-justify">5. Use Quality Score with other metrics</h6>
-							<p class="h6-md txt-justify">Check out your account's overall <a href="https://support.google.com/google-ads/answer/2615875?hl=en#:~:text=Clickthrough%20rate%20(CTR)%20can%20be,your%20CTR%20would%20be%205%25." style="color:#0000FF;">clickthrough</a>, conversion, and site engagement rates. They have a direct bearing on your results and can guide you in honing your skills in particular areas.</p>
+							<p class="h6-md txt-justify">Check out your account's overall <a href="https://support.google.com/google-ads/answer/2615875?hl=en#" style="color:#0000FF;">clickthrough</a>, conversion, and site engagement rates. They have a direct bearing on your results and can guide you in honing your skills in particular areas.</p>
+							<div class="single-post-txt">
 							<ul class="digit-list">
 								<li>
 									<p class="p-lg">● Quality Score may be used as a filter to help you prioritize your efforts when you assess your results:</p>
@@ -320,12 +275,14 @@ if (isset($_POST['send'])) {
 									<p class="p-lg">● Make use of your account's poor Quality Scores and component status to identify weaker patterns in ad relevance, click through rate, and landing page experience across the board, and then devise strategies to address these issues over the long run.</p>
 								</li>
 							</ul>
+							</div>
 							<h4 class="h4-lg">Final Word</h4>
-							<p class="p-lg txt-justify">Are you looking for a way to get the most out of your Google Ads campaigns? If so, then let us recommend <a href="https://clickboxagency.com/contacts/" style="color:#0000FF;">Click Box</a> – the best choice for managing all aspects of your Google Ads needs.</p>
-							<p class="p-lg txt-justify">ClickBox <a href="https://clickboxagency.com/google-ads-agency/" style="color:#0000FF;">Creative Digital Marketing Agency</a> provides you with comprehensive solutions related to optimizing your campaigns, structuring them to maximize efficiency and ensuring that they are in line with Google's standards and guidelines. Our experienced Google ads professionals provide excellent customer support and ensure that your campaigns are running smoothly and achieving the results you want.</p>
-							<p class="p-lg txt-justify">Clickbox Creative Digital Marketing Agency is a company that offers services to help improve your Quality Score in Google Ads. Quality Score is an important metric in Google Ads that measures the relevance and quality of your ads, keywords, and landing pages. A higher Quality Score can lead to lower costs and better ad positions.</p>
 							<p class="p-lg txt-justify">While Clickbox's services may be helpful in improving your Quality Score, it's important to note that there are no guarantees when it comes to Google Ads. Your Quality Score is affected by a variety of factors, including the relevance of your keywords, the quality of your ad copy, and the user experience on your landing pages.</p>
 							<p class="p-lg txt-justify">Before using any service to improve your Quality Score, it's important to first ensure that your Google Ads account is set up correctly and that you're following best practices for ad creation and optimization. You may also want to consider working with a certified Google Ads expert who can provide personalized recommendations and guidance for your specific account and goals.</p>
+							<p class="p-lg txt-justify">Are you looking for a way to get the most out of your Google Ads campaigns? If so, then let us recommend <a href="https://clickboxagency.com/contacts/" style="color:#0000FF;">Click Box</a> the best choice for managing all aspects of your Google Ads needs.</p>
+							<p class="p-lg txt-justify">ClickBox <a href="https://clickboxagency.com/google-ads-agency/" style="color:#0000FF;">Creative Digital Marketing Agency</a> provides you with comprehensive solutions related to optimizing your campaigns, structuring them to maximize efficiency and ensuring that they are in line with Google's standards and guidelines. Our experienced Google ads professionals provide excellent customer support and ensure that your campaigns are running smoothly and achieving the results you want.</p>
+							<p class="p-lg txt-justify">Clickbox Creative Digital Marketing Agency is a company that offers services to help improve your Quality Score in Google Ads. Quality Score is an important metric in Google Ads that measures the relevance and quality of your ads, keywords, and landing pages. A higher Quality Score can lead to lower costs and better ad positions.</p>
+							
 						</div> <!-- END BLOG POST TEXT -->
 						<!-- SINGLE POST SHARE LINKS -->
 						<div class="row post-share-links d-flex align-items-center">
@@ -342,9 +299,9 @@ if (isset($_POST['send'])) {
 							<!-- POST SHARE ICONS -->
 							<div class="col-md-3 col-xl-3 post-share-list text-end">
 								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
+									<li><a href="https://twitter.com/clickboxagency" class="share-ico"><span class="flaticon-twitter"></span></a></li>
+									<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" class="share-ico"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="https://www.linkedin.com/company/clickbox-agency/" class="share-ico"><span class="flaticon-linkedin"></span></a></li>
 								</ul>
 							</div>
 						</div> <!-- SINGLE POST SHARE LINKS END -->
@@ -355,23 +312,19 @@ if (isset($_POST['send'])) {
 	</section> <!-- END SINGLE POST -->
 
 	<!-- POST COMMENTS============================================= -->
-	<section id="post-comments" class=" post-comments division">
+
+	<!-- <section id="post-comments" class=" post-comments division">
 		<div class="container">
 			<div class="row">
 
-
-				<!-- COMMENTS WRAPPER -->
 				<div class="col-lg-10 offset-lg-1">
 					<div class="comments-wrapper">
 
 
-						<!-- COMMENT FORM -->
 						<div id="leave-comment">
 
-							<!-- Title -->
 							<h5 class="h5-lg">Leave a Comment</h5>
 
-							<!-- Text -->
 							<p class="p-md">Your email address will not be published. Required fields are marked *</p>
 
 							<form name="commentForm" method="post" class="row comment-form">
@@ -396,12 +349,10 @@ if (isset($_POST['send'])) {
 									<textarea class="form-control message" name="message" rows="6" placeholder="Enter Your Comment Here* ..." required></textarea>
 								</div>
 
-								<!-- Contact Form Button -->
 								<div class="col-lg-12 form-btn">
 									<button type="submit" class="btn btn-skyblue tra-skyblue-hover submit" name="send">Submit</button>
 								</div>
 
-								<!-- Contact Form Message -->
 								<div class="col-md-12 comment-form-msg text-center">
 									<div class="sending-msg"><span class="loading"></span></div>
 								</div>
@@ -415,23 +366,23 @@ if (isset($_POST['send'])) {
 
 							</form>
 
-						</div> <!-- END COMMENT FORM -->
+						</div> 
 
 					</div>
-				</div> <!-- END COMMENTS WRAPPER -->
+				</div> 
 
 
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END POST COMMENTS -->
+			</div>
+		</div> 
+	</section>  -->
 
 	<!-- BLOG-1
 			============================================= -->
-	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
+	<!-- <section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
 		<div class="container">
 
 
-			<!-- SECTION TITLE -->
+		
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mt-20">
@@ -440,45 +391,45 @@ if (isset($_POST['send'])) {
 				</div>
 			</div>
 
-			<!-- INCLUDE BLOGS -->
+		
 
-			<?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') ?>
+			</*?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') */?>
 
-		</div> <!-- End container -->
-	</section> <!-- END BLOG-1 -->
+		</div> 
+	</section>  -->
 	<!-- CALL TO ACTION-5
 			============================================= -->
-	<section id="cta-5" class="cta-section division ">
+	<!-- <section id="cta-5" class="cta-section division ">
 		<div class="container">
 			<div class="rel bg-10 cta-5-wrapper">
 				<div class="row justify-content-center">
 
 
-					<!-- CALL TO ACTION TEXT -->
+					
 					<div class="col-lg-8">
 						<div class="cta-5-txt white-color text-center">
 
-							<!-- Title -->
+							
 							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
 
-							<!-- Text -->
+							
 							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
 
 							</p>
 
-							<!-- Button -->
+							
 							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
 
 						</div>
 					</div>
 				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+			</div> 
+		</div> 
+	</section>  -->
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 
 
 	<script type="application/ld+json">
@@ -536,13 +487,13 @@ if (isset($_POST['send'])) {
 
 			"description": "Google Ads Quality Score is an important metric that can affect the performance and cost of your ads. Here are some tips how to increase your Quality Score .",
 
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 
 			"contactPoint": {
 
 				"@type": "ContactPoint",
 
-				"telephone": "+91 8870578887",
+				"telephone": "+91 74185 55205",
 
 				"contactType": "sales",
 
@@ -578,7 +529,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<script src="https://www.clickboxagency.com/js/custom.js"></script>
 	<?php include('popup1.php') ?>
 
 </body>

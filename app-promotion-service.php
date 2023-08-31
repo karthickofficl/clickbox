@@ -1,23 +1,22 @@
 <?php
 
-//  
 if (isset($_POST['send'])) {
 
 	// getting post values
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	$subject = 'SEO Service Form';
-
-	$to = 'sales@clickboxagency.com';
+	
+	$subject = 'Enquiry From App Promotion';
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
     <html> 
     <head> 
         <title>Welcome to Clickbox Agencies</title> 
     </head> 
     <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+        <h3>Thanks you for joining with us!</h3> 
+               <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
             <tr> 
                 <th>Name:</th><td>' . $name . '</td> 
             </tr> 
@@ -27,35 +26,28 @@ if (isset($_POST['send'])) {
             <tr style="background-color: #e0e0e0;"> 
             <th>Phone:</th><td>' . $phone . '</td> 
         </tr> 
-
-        </table> 
+         
+	 </table> 
     </body> 
     </html>';
 
 	// Set content-type header for sending HTML email 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-	$headers .= 'Bcc: techjam1993@gmail.com' . "\r\n";
+
 	// Additional headers 
-
-
 	$m = mail($to, $subject, $htmlContent, $headers);
-
+	echo $m;
 	// Set content-type header for sending HTML email
 
 	if (!$m) {
 		echo 'Message could not be sent.';
 	} else {
-		// echo 'Message has been sent';
 		$result = '
-    One of our representative will get in touch you.';
+		One of our representative will get in touch you.';
+		
 	}
 }
-// else{
-//     print_r("ssdfs");die;
-// }
 ?>
 
 <!DOCTYPE html>
@@ -541,37 +533,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division">
-		<div class="container">
-			<div class="rel bg-04 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-
-
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
+	
 
 	<?php include('footer1.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -637,7 +599,6 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	<?php include('popup1.php') ?>
 
 </body>
 

@@ -5,12 +5,13 @@ $(window).on("load", (function () { "use strict"; var e = $("#loading"); e.find(
 
 
     $(".request-form").validate({ rules: { name: { required: !0, minlength: 2, maxlength: 16 }, email: { required: !0, email: !0 } }, messages: { name: { required: "Please enter no less than (2) characters" }, email: { required: "We need your email address to contact you", email: "Your email address must be in the format of name@domain.com" } } }), $(".contact-form").validate({
-      rules: { name: { required: !0, minlength: 1, maxlength: 16 }, email: { required: !0, email: !0 }, phone: { required: !0 }, message: { required: !0, minlength: 2 } }, messages: {
+      rules: { name: { required: !0, minlength: 1, maxlength: 16 }, email: { required: !0, email: !0 }, phone: { required: !0 }, company: { required: !0 }, services: { required: !0 }, budget: { required: !0 }, message: { required: !0, minlength: 2 } }, messages: {
         name: { required: "Please enter no less than (1) characters" },
         email: {
           required: "We need your email address to contact you",
           email: "Your email address must be in the format of name@domain.com"
         },
+       
         message: { required: "Please enter no less than (2) characters" }
       }
     }),

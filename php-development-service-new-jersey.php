@@ -65,10 +65,10 @@
 
 	<section id="hero-4" class="bg-scroll hero-section division">
 		<div class="container">
-			<div class="row d-flex align-items-center">
+			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
-					<div class="hero-4-txt white-color">
-						<h2 class="h2-lg">Custom PHP Web Development Company in New Jersey</h2>
+					<div class="hero-4-txt white-color text-center">
+						<h1 class="h1-fsize white-color">Custom <span class="txtyelloww">PHP Web Development</span> Company in New Jersey</h1>
 						<p class="p-xl">We offer the best web solutions for all your business needs!</p>
 						<div class="mt-20">
 							<a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover" title="Let’s Discuss Your PHP Project">Let’s Discuss Your PHP Project</a>
@@ -253,8 +253,8 @@
 					<!-- FEATURE BOX #1 -->
 					<div class="col">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<span class="flaticon-analytics"></span>
+							<div class="fbox-ico-center ico-rounded-lg  ">
+								<img src="../images/png-icons/php01.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">Custom PHP Web Development Services</h5>
 							<p class="p-lg">Our company offers PHP web design and development services that are tailored to the needs of your business. We have a team of experienced PHP developers who can make scalable, secure, and easy-to-use web solutions that will help your business grow and improve your online presence.</p>
@@ -263,8 +263,8 @@
 					<!-- FEATURE BOX #2 -->
 					<div class="col">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php02.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Framework Development</h5>
 							<p class="p-lg">We are experts at building PHP frameworks, and we use popular frameworks like Laravel, CodeIgniter, and Symfony to make strong web apps. Our experienced developers make sure that the code is written in a way that is efficient, scalable, and can be changed to fit the needs of your business.</p>
@@ -273,8 +273,8 @@
 					<!-- FEATURE BOX #3 -->
 					<div class="col">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php03.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">Full-Stack PHP Development</h5>
 							<p class="p-lg">We provide full-stack PHP development services in New Jersey to create web apps that are effective and scalable. In order to offer high-quality services that are precisely tailored to your company's needs, our team makes use of the most recent frameworks and developments and has extensive knowledge in both front-end and back-end design.</p>
@@ -283,8 +283,8 @@
 					<!-- FEATURE BOX #4 -->
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php04.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Website Support & Maintenance</h5>
 							<p class="p-lg">ClickBox offers expert PHP web development support and maintenance services to keep your site up-to-date, secure, and working well. Our services include fixing bugs, putting out updates, making backups, and checking security. Contact us if you want solutions that are reliable and cost-effective.</p>
@@ -293,8 +293,8 @@
 					<!-- FEATURE BOX #5 -->
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php05.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Web APP Upgradation & Migration</h5>
 							<p class="p-lg">We offer professional PHP web app development upgrade and migration services to make sure your web app is up-to-date and running well. Our team of experts will take care of the process so you can focus on running your business.</p>
@@ -303,8 +303,8 @@
 					<!-- FEATURE BOX #6 -->
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php06.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Back-End & Web Services</h5>
 							<p class="p-lg">Our developers are experts at making PHP back-end solutions and web services to power your online presence. Professionals at ClickBox make solutions that meet the needs of your business that are stable, responsive, and secure. Let us assist you in giving form to your thoughts.</p>
@@ -313,8 +313,8 @@
 					<!-- FEATURE BOX #7 -->
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php07.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">eCommerce PHP Solutions</h5>
 							<p class="p-lg">Our eCommerce PHP web development Solutions give businesses of all sizes a platform that is powerful and scalable. With features like integrating payment gateways, managing inventory, and tracking orders, we help you make online shopping for your customers as easy as possible.</p>
@@ -323,8 +323,8 @@
 					<!-- FEATURE BOX #8 -->
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg">
+								<img src="../images/png-icons/php08.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP CMS/Platforms Development</h5>
 							<p class="p-lg">Our PHP development agency in New Jersey specializes in making content management systems and platforms that are powerful, flexible, and match the needs of your business. We use the newest PHP frameworks and technologies to create solutions that are secure and efficient.</p>
@@ -333,8 +333,8 @@
 					<!-- FEATURE BOX #9 -->
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-web-search-engine"></span>
+							<div class="fbox-ico-center ico-rounded-lg ">
+								<img src="../images/png-icons/php09.png" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP API Development & Integrations</h5>
 							<p class="p-lg">We specialize in the creation and integration of PHP APIs. Our team is skilled at building reliable APIs that securely link your web applications, mobile apps, and other services, ensuring the best possible user experience and performance.</p>
@@ -353,7 +353,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-70">
-						<h2 class="h3-xs text-center">PHP Web Development Company in <span class="txtred">New Jersey for Several Different Industry Sectors!</span></h2>
+						<h2 class="h3-xs text-center">PHP Web Development Company in New Jersey for <span class="txtred">Several Different Industry Sectors!</span></h2>
 						<p class="p-lg text-center">PHP is a fantastic choice for building websites and web applications for a wide range of industries because it is flexible and easy to change. Our PHP development services in New Jersey can help you build a strong online presence that engages and keeps your audience's attention, regardless of your industry, whether it's finance, healthcare, e-commerce, or another field. Our team of expert PHP developers has the technical expertise and creativity to create custom web solutions for your business that meet all of its needs. Let us help you make an online experience that keeps people interested, raises the visibility of your brand, and grows your business.</p>
 					</div>
 				</div>
@@ -454,7 +454,7 @@
 	</section>
 	<!-- SECTION 6 -->
 	<!-- CONTENT-7 -->
-	<section id="content-3" class="bg-snow pt-40 pb-30 content-3  content-section division">
+	<!-- <section id="content-3" class="bg-snow pt-40 pb-30 content-3  content-section division">
 		<div class="container">
 			<div class="top-row bgblackhover border50">
 				<div class="row d-flex align-items-center justify-content-center">
@@ -463,14 +463,29 @@
 					</div>
 					<div class="col-md-6 col-lg-4 text-end coltoaction-res ">
 						<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us" class="btn btn-sm btn-pink yellow-hover">Free PHP Consultation Available Now</a>
-						<!-- </div>
-						</div> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<section id="content-3" class="bg-snow pt-20 pb-40 content-3  content-section division">
+		<div class="container-fluid bortopbot">
+			<div class="top-row ">
+				<div class="row d-flex align-items-center justify-content-center">
+					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
+						<div class="txt-block left-column wow fadeInLeft ">
+							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
+								<h4 class="h4-md text-white">READY TO GROW YOUR BUSINESS</span></h4>
+								<p class="p-md text-white">For effective PHP Development services NJ, please get in touch with us.</p>
+								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<div id="brands-1" class="pt-50 pb-50 brands-section division">
+	<!-- <div id="brands-1" class="pt-50 pb-50 brands-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
@@ -510,9 +525,9 @@
 						</div>
 					</div>
 				</div>
-			</div> <!-- End Brands Carousel -->
-		</div> <!-- End container -->
-	</div> <!-- END BRANDS-1 -->
+			</div>
+		</div> 
+	</div> -->
 
 	<!-- Section 8 -->
 	<div id="servicecarousel-1" class="pt-40 pb-50 brands-section division">
@@ -746,7 +761,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green purple-color">
-									<span class="flaticon-idea"></span>
+									<span class="flaticon-paint-roller"></span>
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">UI/UX Design</h5>
@@ -1079,11 +1094,12 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-12 col-lg-8">
 					<div class="txt-block left-column  wow fadeInLeft">
-						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert PPC services nj?</h2>
+						<h2 class="h3-xs text-center">Ready to start driving targeted traffic and generating leads with our expert PHP services NJ?</h2>
 						<div class="more-btn mt-20">
-							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-pink-hover">Launch Your PPC Campaign Today</a>
+							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-pink-hover">Launch Your PHP Development Today</a>
 						</div>
-						<p class="p-lg txt-justify">Whether you're looking to increase your website traffic, generate leads, or drive sales, ClickBox has the expertise and experience to help you achieve your goals. <a href="https://clickboxagency.com/contacts/" aria-label="Contact us" title="Contact us" class="txtbluee"><u>Contact us today</u></a> to learn more about how we can help you take your online advertising to the next level.</p>
+						<p class="p-lg txt-justify">Our team of skilled PHP developers has years of experience working with businesses of all sizes, and we pride ourselves on delivering high-quality solutions that meet our clients' needs. From custom website development to e-commerce solutions and beyond, we can help you create the perfect website or web application for your business.
+							<br>So why wait? Let us help you take your business to the next level with our professional PHP development services. <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us" class="txtbluee"><u>Contact us today</u></a> to learn more about how we can help you achieve your web development goals.</p>
 
 					</div>
 				</div>
@@ -1091,23 +1107,7 @@
 		</div>
 	</section>
 	<!--  -->
-	<section id="content-3" class="bg-snow pt-20 pb-40 content-3  content-section division">
-		<div class="container-fluid bortopbot">
-			<div class="top-row ">
-				<div class="row d-flex align-items-center justify-content-center">
-					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
-						<div class="txt-block left-column wow fadeInLeft ">
-							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md text-white">READY TO GROW YOUR BUSINESS</span></h4>
-								<p class="p-md text-white">For effective PHP Development services nj, please get in touch with us.</p>
-								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->

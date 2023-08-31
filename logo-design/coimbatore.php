@@ -1,23 +1,22 @@
 <?php
 
-//  
 if (isset($_POST['send'])) {
 
 	// getting post values
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	$subject = 'Ecommerce SEO Service Form';
-
-	$to = 'sales@clickboxagency.com';
+	
+	$subject = 'Enquiry From Logo Design';
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
     <html> 
     <head> 
         <title>Welcome to Clickbox Agencies</title> 
     </head> 
     <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+        <h3>Thanks you for joining with us!</h3> 
+               <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
             <tr> 
                 <th>Name:</th><td>' . $name . '</td> 
             </tr> 
@@ -27,36 +26,29 @@ if (isset($_POST['send'])) {
             <tr style="background-color: #e0e0e0;"> 
             <th>Phone:</th><td>' . $phone . '</td> 
         </tr> 
-
-        </table> 
+         
+	 </table> 
     </body> 
     </html>';
 
 	// Set content-type header for sending HTML email 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
+
 	// Additional headers 
-
-
 	$m = mail($to, $subject, $htmlContent, $headers);
-
+	echo $m;
 	// Set content-type header for sending HTML email
 
 	if (!$m) {
 		echo 'Message could not be sent.';
 	} else {
-		// echo 'Message has been sent';
 		$result = '
-    One of our representative will get in touch you.';
+		One of our representative will get in touch you.';
+		
 	}
 }
-// else{
-//     print_r("ssdfs");die;
-// }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -116,12 +108,12 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header-style.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
 </head>
 
 <body>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/header.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
 
 	<!-- HERO-23
 			============================================= -->
@@ -201,7 +193,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
-							<img class="img-fluid" src="https://clickboxagency.com/images/logo-design-02.png" alt="innovative-logo-design-branding-company-coimbatore">
+							<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-02.png" alt="innovative-logo-design-branding-company-coimbatore">
 						</div>
 					</div>
 				</div>
@@ -623,10 +615,10 @@ if (isset($_POST['send'])) {
 				<div class="row row-cols-1 row-cols-md-3">
 					<!-- FEATURE BOX #1 -->
 					<div class="col ">
-						<div class="fbox-8 mb-40 wow fadeInUp ">
+						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img01.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-03.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Creative in Our Way</h5>
@@ -641,7 +633,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img02.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-04.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Better Portfolio</h5>
@@ -654,7 +646,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img03.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-05.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Timeline-Based Project</h5>
@@ -675,7 +667,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp ">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img04.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-06.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Attractive Packages </h5>
@@ -688,7 +680,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img05.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-07.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Skilled Designer </h5>
@@ -701,7 +693,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="https://clickboxagency.com/images/logodesign-img06.jpg" alt="feature-icon" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-08.png" alt="feature-icon" />
 							</div>
 							<!-- Title -->
 							<h5 class="h5-md">Different Design Concepts
@@ -776,7 +768,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-09.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -806,7 +798,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-10.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -841,7 +833,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-11.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -863,7 +855,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-12.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -899,7 +891,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-13.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -926,7 +918,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-14.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -948,7 +940,7 @@ if (isset($_POST['send'])) {
 								<div class="release-highlights">
 									<!-- Image -->
 									<div class="fbox-img bg-whitesmoke-gradient">
-										<img class="img-fluid" src="https://www.clickboxagency.com/images/ecommerce-seo-09.png" alt="marketing-automation-via-email" />
+										<img class="img-fluid" src="https://www.clickboxagency.com/images/clickbox services page image-15.png" alt="marketing-automation-via-email" />
 									</div>
 								</div>
 
@@ -1210,11 +1202,11 @@ if (isset($_POST['send'])) {
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
 											<b>Does my company require a unique logo?</b>
 										</button>
 									</h2>
-									<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg text-justify">Start a project on ClickBox, choose how much you want to spend, and describe what you need from all sectors.<br>
 												Working with the global community of professional designers at ClickBox and giving feedback can help you find ideas and logos that you and your clients will lik
@@ -1299,11 +1291,11 @@ if (isset($_POST['send'])) {
 							<div class="accordion" id="accordionExample">
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingSeven">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
 											<b>Can I interact with the designers directly?</b>
 										</button>
 									</h2>
-									<div id="collapseSeven" class="accordion-collapse collapse show" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+									<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<p class="p-lg text-justify">Sure, in reality, a logo's success depends a lot on what the client wants, how they see things, and what ideas they have.<br> We are the best logo design company because we follow a clear process that lets you talk directly to the designer and tell them what you think.</p>
 										</div>
@@ -1396,44 +1388,18 @@ if (isset($_POST['send'])) {
 			================================wide-50=======inner-page-hero====== -->
 
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-04 cta-5-wrapper">
-				<div class="row justify-content-center">
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
 
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/footer-script.php') ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer-script.php') ?>
 	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"url": "https://www.clickboxagency.com/logo-design/coimbatore/",
+			"url": "www.clickboxagency.com/logo-design/coimbatore/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://www.clickboxagency.com/logo-design/coimbatore/find?q={search_term_string}",
+				"target": "www.clickboxagency.com/logo-design/coimbatore/find?q={search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -1457,10 +1423,10 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "ClickBox is a best logo designing company in Coimbatore, provides brand identity services through logos, brochures, websites, flyers, corporate identity designs, and more. ",
-				"logo": "https://www.clickboxagency.com/images/logo-01.png",
+				"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
-				"telephone": "+91 8870578887",
+				"telephone": "+91 7358644710",
 				"contactType": "sales",
 				"contactOption": "Customer Service",
 				"areaServed": "India, United States, Australia, Canada, United Kingdom",
@@ -1484,8 +1450,7 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
-	<?php include($_SERVER['DOCUMENT_ROOT'] . '/clickboxdemo/popup1.php') ?>
+	<script src="https://clickboxagency.com/js/custom.js"></script>
 
 </body>
 

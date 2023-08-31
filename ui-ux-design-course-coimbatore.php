@@ -1,24 +1,27 @@
 <?php
 
-//  
 if (isset($_POST['send'])) {
 
 	// getting post values
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	$subject = 'Digital Marketing Internship Form';
+	$courses = $_POST['courses'];
+	$message = $_POST['message'];
 
-	$to = 'sales@clickboxagency.com';
+	
+	
+	$subject = 'Enquiry From UI/UX Course';
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
     <html> 
     <head> 
         <title>Welcome to Clickbox Agencies</title> 
     </head> 
     <body> 
-        <h1>Thanks you for joining with us!</h1> 
-        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
-            <tr> 
+        <h3>Thanks you for joining with us!</h3> 
+               <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+            <tr > 
                 <th>Name:</th><td>' . $name . '</td> 
             </tr> 
             <tr style="background-color: #e0e0e0;"> 
@@ -27,35 +30,35 @@ if (isset($_POST['send'])) {
             <tr style="background-color: #e0e0e0;"> 
             <th>Phone:</th><td>' . $phone . '</td> 
         </tr> 
-
-        </table> 
+         <tr style="background-color: #e0e0e0;"> 
+		        <th>Message:</th><td>' . $message . '</td> 
+         	</tr> 
+         	    <tr style="background-color: #e0e0e0;"> 
+               <th>Courses:</th><td>' . $courses . '</td> 
+           </tr>
+          
+         
+	 </table> 
     </body> 
     </html>';
 
 	// Set content-type header for sending HTML email 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
-	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
-	$headers .= 'Bcc: techjam1993@gmail.com' . "\r\n";
+
 	// Additional headers 
-
-
 	$m = mail($to, $subject, $htmlContent, $headers);
-
+	echo $m;
 	// Set content-type header for sending HTML email
 
 	if (!$m) {
 		echo 'Message could not be sent.';
 	} else {
-		// echo 'Message has been sent';
 		$result = '
-    One of our representative will get in touch you.';
+		One of our representative will get in touch you.';
+		
 	}
 }
-// else{
-//     print_r("ssdfs");die;
-// }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -143,45 +146,67 @@ if (isset($_POST['send'])) {
 						<!-- Text -->
 						<p class="p-md">ClickBox Agency offers this UI UX design course in Coimbatore. This UI UX design course offers training aligned with industry standards in Design Thinking, Interaction Design, Wireframing, and more to prepare you for a successful future in UI UX designer.</p>
 						</br>
-						<form method="post">
-
+						
+		                   <form method="post" class="grey-color ">
+                             <div class="row d-flex ">
+                                 <div class="col-lg-6 mt-1">
+                                     
+                                
 							<!-- Form Input -->
-							<div class="row">
-								<div class="col-sm-3">
-									<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" autocomplete="off" required>
+							<div class="row ">
+								<div class="col-sm-6 ">
+									<input type="text" name="name" class="form-control grey-color name" placeholder="Enter Your Name*" autocomplete="off" required>
 								</div>
 								</br>
 
 								<!-- Form Input -->
-								<div class="col-sm-3">
-									<input type="email" name="email" class="form-control email" placeholder="Enter Your Email*" autocomplete="off" required>
+								<div class="col-sm-6 ">
+									<input type="email" name="email" class="form-control grey-color  email" placeholder="Enter Your Email*" autocomplete="off" required>
 								</div>
 								</br>
 
-								<div class="col-sm-3">
-									<input type="text" name="phone" class="form-control phone" placeholder="Enter Your Phone*" autocomplete="off" required>
+								<div class="col-sm-6  mt-25">
+									<input type="number" name="phone" class="form-control grey-color  phone" placeholder="Enter Your Phone*" autocomplete="off" required>
 								</div>
 								</br>
+								<div class="col-sm-6 mt-25 ">
+							   					    				<select class="form-select grey-color" aria-label="courses" name="courses" id="courses" required> 
+							             <option value="">Select your Courses </option>
+									    <option value="Digital Marketing">Digital Marketing Course</option>
+								    	<option value="UI/UX Course">UI/UX Course</option>
+									
+								</select>
+							</div>
+							<br/>
+							 </div>
+							 	</div>
+                         
+						<div class="col-lg-6">
+								<div class="col-md-12 mt-1">
+								<textarea class="form-control grey-color img-fluid-tools message" name="message" minlength="50" maxlength="100" rows="6" placeholder="Share Your Comments:" required></textarea>
+							    </div>
 
 								<!-- Form Button -->
-								<div class="col-sm-3  ">
-									<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send" style="padding: 10px 34px !important;">Get Started Now</button>
-								</div>
+							
 							</div>
-
-							<!-- Form Message -->
-							<div class="col-md-12 request-form-msg text-center">
+									<div class="col-lg-12 contact-form-msg">
 								<span class="loading"></span>
 							</div>
 							<div class="form-group">
-								<div class="col-sm-10 col-sm-offset-2">
+								<div class="col-sm-12 col-sm-offset-2">
 									<?php if (!empty($result)) {
-										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
+										echo '<div class="alert bg-success alert-dark"><b>Your message sent successfully! </b>' . $result . '</div>';
 									} ?>
 								</div>
 							</div>
+								<div class="col-sm-12  mt-20 text-center">
+									<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send" style="padding: 10px 34px !important;">Get Started Now</button>
+								</div>
+						
+                              </div>
+                           </form>
 
-						</form>
+                           </form>
 
 						<!-- HERO QUICK FORM -->
 
@@ -553,7 +578,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/logodesign-img06.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/UI-UX-1-02.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -603,7 +628,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/ui-design-and-prototyping.png" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/UI-UX-1-03.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -638,7 +663,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/logodesign-img02.jpg" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/UI-UX-1-04.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -664,7 +689,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/02.png" alt="feature-icon" />
+								<img class="homeimgsize" src="../images/UI-UX-1-05.png" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -914,7 +939,7 @@ if (isset($_POST['send'])) {
 			<div class="row">
 				<div class="col">
 					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+						<h5 class="h5-sm ">Have more questions? <a href="https://www.clickboxagency.com/contacts/">Ask your question here</a></h5>
 					</div>
 				</div>
 			</div>
@@ -922,7 +947,6 @@ if (isset($_POST['send'])) {
 
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
-	
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -987,7 +1011,7 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	<?php include('popup1.php') ?>
+<?/*php include('popup1.php')*/ ?>
 
 </body>
 

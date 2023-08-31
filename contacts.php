@@ -12,7 +12,7 @@ if (isset($_POST['send'])) {
 	$sendNDA = $_POST['sendNDA'];
 	$message = $_POST['message'];
 	$subject = 'Contact Page Form Details';
-	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com,sofia@akkenna.com";
 	$htmlContent = ' 
     <html> 
     <head> 
@@ -28,23 +28,23 @@ if (isset($_POST['send'])) {
                 <th>Email:</th><td>' . $email . '</td> 
             </tr> 
             <tr style="background-color: #e0e0e0;"> 
-            <th>Phone:</th><td>' . $phone . '</td> 
-        </tr> 
-         <tr style="background-color: #e0e0e0;"> 
-            <th>Services:</th><td>' . $services . '</td> 
-        </tr> 
-         <tr style="background-color: #e0e0e0;"> 
-            <th>Company:</th><td>' . $company . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-            <th>Budget:</th><td>' . $budget . '</td> 
-        </tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>send NDA:</th><td>' . $sendNDA . '</td> 
-	</tr> 
-		<tr style="background-color: #e0e0e0;"> 
-		<th>Message:</th><td>' . $message . '</td> 
-	</tr> 
+                <th>Phone:</th><td>' . $phone . '</td> 
+            </tr> 
+            <tr style="background-color: #e0e0e0;"> 
+               <th>Services:</th><td>' . $services . '</td> 
+           </tr> 
+           <tr style="background-color: #e0e0e0;"> 
+              <th>Company:</th><td>' . $company . '</td> 
+           </tr> 
+		   <tr style="background-color: #e0e0e0;"> 
+              <th>Budget:</th><td>' . $budget . '</td> 
+           </tr> 
+		   <tr style="background-color: #e0e0e0;"> 
+		      <th>send NDA:</th><td>' . $sendNDA . '</td> 
+	        </tr> 
+		    <tr style="background-color: #e0e0e0;"> 
+		        <th>Message:</th><td>' . $message . '</td> 
+         	</tr> 
 	 </table> 
     </body> 
     </html>';
@@ -85,12 +85,12 @@ if (isset($_POST['send'])) {
 	<meta name="Distribution" content="Global" />
 	<meta name="Rating" content="general" />
 	<meta name="search engines" content="ALL" />
-	<meta name="copyright" content="https://www.clickboxagency.com" />
+	<meta name="copyright" content="https://www.clickboxagency.com/" />
 	<meta name="email" content="info@clickboxagency.com" />
-	<link rel="canonical" href="https://www.clickboxagency.com/contacts.php" />
+	<link rel="canonical" href="https://www.clickboxagency.com/contacts/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://www.clickboxagency.com/contacts.php" />
-	<meta property="og:site_name" content="https://www.clickboxagency.com" />
+	<meta property="og:url" content="https://www.clickboxagency.com/contacts/" />
+	<meta property="og:site_name" content="https://www.clickboxagency.com/contacts/" />
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<meta property="og:title" content="Contact Us - ClickBox Advertising &amp; Digital Marketing Agency" />
 	<meta property="og:description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
@@ -112,7 +112,7 @@ if (isset($_POST['send'])) {
 				<div class="col-md-10 col-lg-8">
 					<div class="section-title title-02 mb-80">
 						<!-- Title -->
-						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate, Drop us a Line</h2>
+						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate, <br/>Drop us a Line</h2>
 					</div>
 				</div>
 			</div>
@@ -141,39 +141,29 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<div class="col-md-6">
-								<select class="form-select" aria-label="services" name="services" id="services">
-									<option selected>Select your services</option>
-									<option value="Digital Marketing">Digital Marketing</option>
-									<option value="Content Writing">Content Writing</option>
-									<option value="Website Development">Website Development</option>
-									<option value="Videos Creation">Videos Creation</option>
-									<option value="Article Writing">Article Writing</option>
-									<option value="Seo Content Writing">Seo Content Writing</option>
-									<option value="Pressrelease Writing">Pressrelease Writing</option>
-									<option value="Website Content Writing">Website Content Writing</option>
-									<option value="Logo Design">Logo Design</option>
-									<option value="Brochure Design">Brochure Design</option>
-									<option value="Flyer Design">Flyer Design</option>
-									<option value="Ecommerce Website Development">Ecommerce Website Development</option>
-									<option value="Wordpress Website Development">Wordpress Website Development</option>
-									<option value="Blog Writing ">Blog Writing</option>
-									<option value="Brochure Content Writing">Brochure Content Writing</option>
-									<option value="UI UX Design">UI UX Design</option>
-									<option value="Website Redesigning">Website Redesigning</option>
-									<option value="Shopify Website Development">Shopify Website Development</option>
-									<option value="Product Description Writing">Product Description Writing</option>
-									<option value="Packaging Design Writing">Packaging Design Writing</option>
-									<option value="Ecommerce Marketing">Ecommerce Marketing</option>
-									<option value="Ecommerce Seo">Ecommerce Seo</option>
-									<option value="Ebook Writing">Ebook Writing</option>
-									<option value="Company Profile Writing">Company Profile Writing</option>
-									<option value="Content Writing">Content Writing</option>
-									<option value="Company Profile Design">Company Profile Design</option>
+								<select class="form-select" aria-label="services" name="services" id="services" required>
+									<option value="">Select your services</option>
+										<option value="Mobile App Development">Mobile App Development</option>
+										<option value="Web App Development">Web App Development</option>
+										<option value="Hire Dedicated Development">Hire Dedicated Development</option>
+										<option value="Ecommerce Development">Ecommerce Development</option>
+										<option value="Logo Design">Logo Design</option>
+										<option value="UI UX Design">UI UX Design</option>
+										<option value="Website Design and Development">Website Design and Development</option>
+										<option value="Wordpress Development">Wordpress Development</option>
+										<option value="Shopify Website Development">Shopify Website Development</option>
+										<option value="Website Redesigning">Website Redesigning</option>
+									    <option value="Digital Marketing">Digital Marketing</option>
+									    <option value="Search Engine Optimization">Search Engine Optimization</option>
+									    <option value="Social Media Marketing">Social Media Marketing</option>
+								    	<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
+								    	<option value="Explainer Video Creation">Explainer Video Creation</option>
+									
 								</select>
 							</div>
 							<div class="col-md-6">
-								<select class="form-select" aria-label="budget" name="budget" id="budget">
-									<option selected>Select your budget</option>
+								<select class="form-select" aria-label="budget" name="budget" id="budget" required>
+									<option value="">Select your budget</option>
 									<option value="Less than 10K USD">Less than 10K USD</option>
 									<option value="10K-25K USD">10K-25K USD</option>
 									<option value="25K-50K USD">25K-50K USD</option>
