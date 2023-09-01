@@ -19,7 +19,7 @@
   </script>
   <a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
   	<!-- <i class="fa fa-whatsapp"></i> -->
-  	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="" sizes="" srcset="">
+  	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="watsapp" sizes="" srcset="">
   </a>
   <!-- btn-success -->
   <!-- <a href="tel:8870578887" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
@@ -91,19 +91,7 @@
   				</div>
   			</div>
   			<!-- SECOND -->
-  			<div class="col">
-  				<!-- ALREADY WRITE CODE -->
-  				<div class="footer-links mb-10">
-  					<div class="footer-fbox-4 wow fadeInUp">
-  						<div class="footer-fbox-txt-footer">
-  							<!-- Title -->
-  							<h6 class="h6-xl txtbluee">Canada</h6>
-  							<!-- Text -->
-  							<p class="p-lg ">644,Orchards Blvd SW,<br>Edmonton Alberta, T6X 2L4,<br> +1 (780) 678-7657</p>
-  						</div>
-  					</div>
-  				</div>
-  			</div>
+  			
   			<!-- THIRD -->
   			<div class="col">
   				<!-- ALREADY WRITE CODE -->
@@ -347,7 +335,7 @@
   		background-color: #fff !important;
   	}
   </style>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+  <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script> -->
 
   <!--Start of Tawk.to Script-->
   <script type="text/javascript">

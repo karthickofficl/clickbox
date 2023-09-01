@@ -11,9 +11,9 @@
 
     <title>Clickbox Agency | Educational Video Production Company</title>
 
-    <meta name=description content="Elevate online education with Clickbox Agency's impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
+    <meta name=description content="Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
 
-    <meta name=keywords content="educational video nj, educational video production nj, how to make an educational video, educational video production company nj, educational video platform nj, animated educational video nj, educational video company nj" />
+    <meta name=keywords content="educational video coimbatore, educational video production coimbatore, how to make an educational video, educational video production company coimbatore, educational video platform coimbatore, animated educational video coimbatore, educational video company coimbatore" />
 
     <meta name="language" content="en" />
 
@@ -33,27 +33,27 @@
 
     <meta name="email" content="info@clickboxagency.com" />
 
-    <link rel="canonical" href="https://www.clickboxagency.com/educational-video-company-nj/" />
+    <link rel="canonical" href="https://www.clickboxagency.com/educational-video-company-coimbatore/" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:type" content="website" />
 
-    <meta property="og:url" content="https://www.clickboxagency.com/educational-video-company-nj/" />
+    <meta property="og:url" content="https://www.clickboxagency.com/educational-video-company-coimbatore/" />
 
-    <meta property="og:site_name" content="https://www.clickboxagency.com/educational-video-company-nj/" />
+    <meta property="og:site_name" content="https://www.clickboxagency.com/educational-video-company-coimbatore/" />
 
     <meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
     <meta property="og:title" content="Clickbox Agency | Educational Video Production Company" />
 
-    <meta property="og:description" content="Elevate online education with Clickbox Agency's impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
+    <meta property="og:description" content="Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
 
     <meta name="twitter:card" content="summary" />
 
     <meta name="twitter:title" content="Clickbox Agency | Educational Video Production Company" />
 
-    <meta name="twitter:description" content="Elevate online education with Clickbox Agency's impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
+    <meta name="twitter:description" content="Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
 
     <meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
     <?php include('header-style.php') ?>
@@ -71,7 +71,7 @@
                         <h1 class="h1-fsize white-color">Clickbox’s<span class="txtyelloww"> Educational Video Production Service</span></h1>
                         <p class="p-xl">Quality Educational Videos for Easy Understanding</p>
                         <button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
-                            <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Obtain your project's price</a></button>
+                            <a href="https://www.clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Obtain Your Project's Price</a></button>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
                     <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center">Perks of <span class="txtred"> Educational Video Production</span></h2>
+                        <h2 class="h3-xs text-center">Advantages Of <span class="txtred"> Educational Video Production</span></h2>
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
         <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
                     <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center">Why is Video <span class="txtred">Such an Effective Educational Tool?</span></h2>
+                        <h2 class="h3-xs text-center">Why Is Video <span class="txtred">Such An Effective Educational Tool?</span></h2>
                     </div>
                 </div>
             </div>
@@ -236,9 +236,9 @@
 					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 pc-50">
 						<div class="txt-block left-column wow fadeInLeft ">
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md"><span style="color: #fff;">Have you heard?</span></h4>
+								<h4 class="h4-md"><span style="color: #fff;">Have You Heard?</span></h4>
                                 <p class="p-lg text-center">96% of individuals have turned to explainer videos to gain insights into products or services. Discover the potential of video marketing through our recently conducted annual survey, which presents a wealth of intriguing data.</p>
-								<a href="https://clickboxagency.com/demo/career/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover"> Explore the findings now</a>
+								<a href="https://www.clickboxagency.com/contacts/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover"> Explore The Findings Now</a>
 
 							</div>
 						</div>
@@ -690,8 +690,8 @@
 					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
 						<div class="txt-block left-column wow fadeInLeft ">
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md"><span style="color: #fff;">Ready to kickstart your next video project? </span></h4>
-								<a href="https://clickboxagency.com/contacts/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">Let's chat</a>
+								<h4 class="h4-md"><span style="color: #fff;">Ready to Kickstart Your Next Video Project? </span></h4>
+								<a href="https://www.clickboxagency.com/contacts/" aria-label="contacts" title="contacts" class="btn btn-sm btn-skyblue yellow-hover">Let's Chat</a>
 
 							</div>
 						</div>
@@ -873,10 +873,10 @@
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "url": "https://www.clickboxagency.com/educational-video-company-nj/",
+            "url": "https://www.clickboxagency.com/educational-video-company-coimbatore/",
             "potentialAction": {
                 "@type": "SearchAction",
-                "target": "https://www.clickboxagency.com/educational-video-company-nj/find?q={search_term_string}",
+                "target": "https://www.clickboxagency.com/educational-video-company-coimbatore/find?q={search_term_string}",
                 "query-input": "required name=search_term_string"
             }
         }
@@ -886,8 +886,8 @@
             "@context": "http://schema.org",
             "@type": "WebSite",
             "name": "Clickbox Agency | Educational Video Production Company",
-            "alternateName": "educational video nj, educational video production nj, how to make an educational video, educational video production company nj, educational video platform nj, animated educational video nj, educational video company nj",
-            "url": "https://www.clickboxagency.com/educational-video-company-nj/"
+            "alternateName": "educational video coimbatore, educational video production coimbatore, how to make an educational video, educational video production company coimbatore, educational video platform coimbatore, animated educational video coimbatore, educational video company coimbatore",
+            "url": "https://www.clickboxagency.com/educational-video-company-coimbatore/"
         }
     </script>
 
@@ -896,10 +896,10 @@
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "Clickbox Agency | Full-service Branding Services",
-            "url": "https://www.clickboxagency.com/educational-video-company-nj/",
+            "url": "https://www.clickboxagency.com/educational-video-company-coimbatore/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
-            "description": "Elevate online education with Clickbox Agency's impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more.",
+            "description": "Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more.",
             "logo": "https://www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",

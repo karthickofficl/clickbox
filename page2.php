@@ -11,9 +11,11 @@
 
 	<title>ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India</title>
 
-	<meta name=description content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta name=description
+		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
-	<meta name=keywords content="seo agency, digital marketing agency, seo agency india, digital marketing agency india, seo agency coimbatore, digital marketing agency coimbatore" />
+	<meta name=keywords
+		content="seo agency, digital marketing agency, seo agency india, digital marketing agency india, seo agency coimbatore, digital marketing agency coimbatore" />
 
 	<meta name="language" content="en" />
 
@@ -47,13 +49,15 @@
 
 	<meta property="og:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India" />
 
-	<meta property="og:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta property="og:description"
+		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India" />
 
-	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta name="twitter:description"
+		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -79,19 +83,16 @@
 			</div>
 
 
-			<!-- FEATURED POST -->
+			<!-- FEATURED POST 1 -->
 			<div class="rel blog-post-wide featured-post">
 				<div class="row d-flex align-items-center">
-
-					<!-- Featured Badge -->
-					<div class="featured-badge ico-25 bg-whitesmoke yellow-color">
-						<span class="flaticon-star-1"></span>
-					</div>
 
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+							<img class="img-fluid"
+								src="https://clickboxagency.com/images/blog/advanced-seo-techniques.jpg"
+								alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -99,504 +100,420 @@
 					<!-- BLOG POST TEXT -->
 					<div class="col-lg-5 blog-post-txt">
 
-						<!-- Post Tag -->
-						<p class="p-md post-tag">B2B Marketing Strategies</p>
-
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/b2b-marketing-strategy/">Best Guide to B2B Marketing Strategies - Follow These 10 Strategies</a>
+							<a href="https://clickboxagency.com/advanced-seo-techniques/" class="txt-justify">Advanced
+								SEO Techniques to Rank #1 in Google.</a>
 						</h5>
 
 						<!-- Text -->
-						<p class="p-lg txt-justify">Every entrepreneur is struggling to find their marketing strategy and the right path of marketing is ...
+						<p class="p-lg txt-justify">SEO (search engine optimization) is pivotal in website creation. 80%
+							of website...
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/b2b-marketing-strategy/">
-								<p class="p-md">Read More</p>
+						<div class="post-meta"><a href="https://clickboxagency.com/advanced-seo-techniques/">
+								<a href="https://clickboxagency.com/advanced-seo-techniques/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
 							</a></div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
 				</div> <!-- End row -->
-			</div> <!-- END FEATURED POST -->
-
-
-			<!-- POSTS WRAPPER -->
-			<div class="posts-wrapper">
-				<!-- BLOG POSTS CATEGORY -->
-				<div class="row">
-					<div class="col-md-12">
-						<h5 class="h5-lg posts-category">Latest Articles</h5>
-					</div>
-				</div>
-				<!-- BLOG POSTS -->
-				<div class="row">
-					<div class="col gallery-items-list">
-						<div class="masonry-wrap grid-loaded">
-							<!-- BLOG POST #1 -->
-							<div class="blog-3-post masonry-image">
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/b2b-marketing-strategy/" class="txt-justify">
-											Best Guide to B2B Marketing Strategies - Follow These 10 Strategies
-										</a>
-									</h5>
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Every entrepreneur is struggling to find their marketing strategy and the right path of marketing is ...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-							</div> <!-- END BLOG POST #1 -->
-							<!-- BLOG POST #2 -->
-
-							<div class="blog-3-post masonry-image">
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/digital-marketing-checklist/" class="txt-justify">
-											Digital Marketing Checklists to Make Marketing Process Easier In 2022
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Marketing is the best business partner for every entrepreneur and marketer who wants to reach their target ...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #2 -->
-							<!-- BLOG POST #3 -->
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-much-cost-facebook-advertising.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/" class="txt-justify">
-											How Much Does Facebook Advertising Cost in 2022?
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">
-									Marketers and Entrepreneurs rebrand their marketing process because of the growth of social media. Specifically, Facebook has become a daily...</p>
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #3 -->
-							<!-- BLOG POST #4 -->
-							<div class="blog-3-post masonry-image">
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/reputation-management-in-digital-marketing/" class="txt-justify">
-											Role of ORM in Digital Marketing-How It Impacts Your Business?
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">
-										ORM is abbreviated as Online Reputation Management.
-										Online Reputation Management is the ...
-										<!-- <br> -->
-									</p>
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #4 -->
-
-
-							<!-- BLOG POST #5 -->
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-choose-right-digital-marketing.jpg" alt="right-digital-marketing-agency-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/right-digital-marketing-agency/">
-											How to Choose the Right Digital Marketing Agency in 2022?
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Planning to choose the digital marketing agency for your business? It is easy, but...</p>
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #5 -->
-
-							<!-- BLOG POST #6 -->
-
-							<!-- .......................3rd Section Add.................... -->
-							<!-- BLOG POST #7 -->
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/advanced-seo-techniques.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/advanced-seo-techniques/">
-											Advanced SEO Techniques to Rank #1 in Google.
-										</a>
-									</h5>
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">SEO (search engine optimization) is pivotal in website creation. 80% of website...</p>
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #7 -->
-
-
-							<!-- BLOG POST #7 -->
-
-							<!-- BLOG POST #8 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/google-analytics-metrics.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/google-analytics-metrics/">
-											Google Analytics Metrics for E Commerce Business.
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Every marketer or a business owner planning to build a website has to research and add a lot of valued contents...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #8-->
-
-
-
-							<!-- BLOG POST #9 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/linkedin-post-lead.png" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/linkedin-lead-generation/">
-											Trending LinkedIn Lead Generation Techniques in 2022
-										</a>
-									</h5>
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify"> Social media has a wide range of users. Facebook and Twitter are used by people for sports, memes, and entertainment...
-									</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #9-->
-							<!-- ........................3rd End.......................... -->
-
-							<!-- ...........................4 Start................................ -->
-
-							<!-- BLOG POST #10 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/nykaa-1.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/nykaa-success-story/">
-											Nykaa- A Huge Success
-										</a>
-										<!--NYKAA- A HUGE SUCCESS-->
-									</h5>
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Everyone is naturally good-looking, but with the correct cosmetics, they can enhance their natural beauty. However, in today's world, buying cosmetics from a store is a bit tough...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #10-->
-
-
-							<!-- BLOG POST #11 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/saas-marketing-techniques/">
-											What is SAAS Marketing?
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Software-as-a-service (SAAS), is a popular booming industry. The competition in this evolving business is huge...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #11-->
-							<!-- BLOG POST #12 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/viral-marketing.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/viral-marketing-campaigns/">
-											Viral Marketing Techniques
-										</a>
-										<!--VIRAL MARKETING TECHNIQUES-->
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Social media is a battlefield of competitive businesses. Every business markets their product...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #12-->
-							<!-- ..............................4 End...................................... -->
-							<!-- ............5th Start.............. -->
-
-							<!-- BLOG POST #12 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/fomo-marketing-techniques.png" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/fomo-marketing-techniques/">
-											What is FOMO marketing?
-										</a>
-									</h5>
-									<!-- Post Link -->
-
-									<p class="p-md post-tag txt-justify">FOMO or fear of missing out is a marketing strategy used by at least 56% of marketers. It works out conveniently...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-							</div> <!-- END BLOG POST #12-->
-							<!-- BLOG POST #13 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/boost-your-instagram.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/boost-your-instagram/">
-											Instagram organic growth strategy
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">
-										Instagram organic growth strategy is to multiply your followers without spending a single penny from your marketing budget...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #13-->
-
-							<!-- BLOG POST #14 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-leads-for-business.jpg" alt="blog-post-image" />
-
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/how-to-generate-leads-for-business/">
-											How To Generate Leads For Business?
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">Creating high-quality leads was identified as one of the biggest challenges by 37% of marketers. Lead generation is defined as the activity...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #14-->
-							<!-- ................5th End..................... -->
-							<!-- BLOG POST #1 -->
-
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/digital-marketing-specialist.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/become-digital-marketing-specialist/">
-											How Do I Become an Effective Digital Marketing Specialist?
-										</a>
-									</h5>
-
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">
-										Are you curious about how online businesses and shopping operate? Digital marketing is the key...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-
-							</div> <!-- END BLOG POST #1-->
-
-							<!-- BLOG POST #2 -->
-							<div class="blog-3-post masonry-image">
-
-								<!-- BLOG POST IMAGE -->
-								<div class="blog-post-img">
-									<div class="hover-overlay">
-										<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-create-content-for-websites.jpg" alt="blog-post-image" />
-										<div class="item-overlay"></div>
-									</div>
-								</div>
-
-								<!-- BLOG POST TEXT -->
-								<div class="blog-post-txt">
-
-									<!-- Post Tag -->
-									<h5 class="h5-md">
-										<a href="https://clickboxagency.com/create-content-for-website/">
-											How to Create Content for Websites?
-										</a>
-									</h5>
-									<!-- Post Link -->
-									<p class="p-md post-tag txt-justify">
-										The success of your business depends on the content of your website...</p>
-
-								</div> <!-- END BLOG POST TEXT -->
-							</div> <!-- END BLOG POST #2 -->
+			</div>
+			<!-- END FEATURED POST 1-->
+
+			<!-- FEATURED POST 2-->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid"
+								src="https://clickboxagency.com/images/blog/google-analytics-metrics.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
 						</div>
 					</div>
-				</div> <!-- END BLOG POSTS -->
-			</div> <!-- END POSTS WRAPPER -->
 
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/google-analytics-metrics/" class="txt-justify">Google
+								Analytics Metrics for E Commerce Business.</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Every marketer or a business owner planning to build a website has
+							to research and add a lot of valued contents...</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/google-analytics-metrics/">
+								<a href="https://clickboxagency.com/google-analytics-metrics/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 2 -->
+
+			<!-- FEATURED POST 3-->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/linkedin-post-lead.png"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/linkedin-lead-generation/" class="txt-justify">Trending
+								LinkedIn Lead Generation Techniques in 2022</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Social media has a wide range of users. Facebook and Twitter are
+							used by people for sports, memes, and entertainment...</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/linkedin-lead-generation/">
+								<a href="https://clickboxagency.com/linkedin-lead-generation/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 3 -->
+
+			<!-- FEATURED POST 4 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/nykaa-1.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/nykaa-success-story/" class="txt-justify">Top
+								Nykaa- A Huge Success</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Everyone is naturally good-looking, but with the correct cosmetics,
+							they can enhance their natural beauty. However, in today's world, buying cosmetics from a
+							store is a bit tough...
+						</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/nykaa-success-story/">
+								<a href="https://clickboxagency.com/nykaa-success-story/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 4 -->
+
+			<!-- FEATURED POST 5 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid"
+								src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/saas-marketing-techniques/" class="txt-justify">What is
+								SAAS Marketing?</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Software-as-a-service (SAAS), is a popular booming industry. The
+							competition in this evolving business is huge...</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/saas-marketing-techniques/">
+								<a href="https://clickboxagency.com/saas-marketing-techniques/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 5 -->
+
+			<!-- FEATURED POST 6 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/viral-marketing.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/fomo-marketing-techniques/" class="txt-justify">What is
+								FOMO marketing?</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">FOMO or fear of missing out is a marketing strategy used by at least
+							56% of marketers. It works out conveniently...
+						</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/fomo-marketing-techniques/">
+								<a href="https://clickboxagency.com/fomo-marketing-techniques/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 6 -->
+
+
+			<!-- FEATURED POST 7 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/boost-your-instagram.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/boost-your-instagram/" class="txt-justify">Instagram
+								organic growth strategy</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Instagram organic growth strategy is to multiply your followers
+							without spending a single penny from your marketing budget...</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/boost-your-instagram/">
+								<a href="https://clickboxagency.com/boost-your-instagram/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 7 -->
+
+			<!-- FEATURED POST 8 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid"
+								src="https://clickboxagency.com/images/blog/how-to-leads-for-business.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/how-to-generate-leads-for-business/"
+								class="txt-justify">How To Generate Leads For Business?</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Creating high-quality leads was identified as one of the biggest
+							challenges by 37% of marketers. Lead generation is defined as the activity...
+						</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/how-to-generate-leads-for-business/">
+								<a href="https://clickboxagency.com/how-to-generate-leads-for-business/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 8 -->
+
+			<!-- FEATURED POST 9 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid"
+								src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/images/blog/digital-marketing-specialist.jpg"
+								class="txt-justify">How Do I Become an Effective Digital Marketing Specialist?</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Are you curious about how online businesses and shopping operate?
+							Digital marketing is the key...
+						</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a
+								href="https://clickboxagency.com/become-digital-marketing-specialist/">
+								<a href="https://clickboxagency.com/become-digital-marketing-specialist/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 9 -->
+
+			<!-- FEATURED POST 10 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid"
+								src="https://clickboxagency.com/images/blog/how-to-create-content-for-websites.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/create-content-for-website/" class="txt-justify">How to
+								Create Content for Websites?</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">The success of your business depends on the content of your
+							website...</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/create-content-for-website/">
+								<a href="https://clickboxagency.com/create-content-for-website/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 10 -->
+
+			<!-- FEATURED POST 11 -->
+			<div class="rel blog-post-wide featured-post">
+				<div class="row d-flex align-items-center">
+
+					<!-- BLOG POST IMAGE -->
+					<div class="col-lg-7 blog-post-img">
+						<div class="hover-overlay">
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/viral-marketing.jpg"
+								alt="blog-post-image" />
+							<div class="item-overlay"></div>
+						</div>
+					</div>
+
+					<!-- BLOG POST TEXT -->
+					<div class="col-lg-5 blog-post-txt">
+
+						<!-- Post Link -->
+						<h5 class="h5-xl">
+							<a href="https://clickboxagency.com/viral-marketing-campaigns/" class="txt-justify">Viral
+								Marketing Techniques</a>
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg txt-justify">Social media is a battlefield of competitive businesses. Every
+							business markets their product...</p>
+
+						<!-- Post Meta -->
+						<div class="post-meta"><a href="https://clickboxagency.com/viral-marketing-campaigns/">
+								<a href="https://clickboxagency.com/viral-marketing-campaigns/"
+									class="btn  btn-pink yellow-hover last-link">Read More</a>
+							</a></div>
+
+					</div> <!-- END BLOG POST TEXT -->
+
+				</div> <!-- End row -->
+			</div>
+			<!-- END FEATURED POST 11 -->
 		</div> <!-- End container -->
 	</section> <!-- END BLOG POSTS LISTING -->
 
@@ -614,8 +531,10 @@
 									<span class="flaticon-back"></span>
 								</a>
 							</li>
-							<li class="page-item" ><a class="page-link" href="https://clickboxagency.com/blogs/">1</a></li>
-							<li class="page-item active" aria-current="page"><a class="page-link" href="https://clickboxagency.com/page2/">2</a></li>
+							<li class="page-item"><a class="page-link" href="https://clickboxagency.com/blogs/">1</a>
+							</li>
+							<li class="page-item active" aria-current="page"><a class="page-link"
+									href="https://clickboxagency.com/page2/">2</a></li>
 							<li class="page-item"><a class="page-link" href="../#">3</a></li>
 							<li class="page-item">
 								<a class="page-link" href="../#" aria-label="Next">
@@ -628,36 +547,7 @@
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</div> <!-- END PAGE PAGINATION -->
-
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
+	
 	<?php include('footer.php') ?>
 
 	</div> <!-- END PAGE CONTENT -->

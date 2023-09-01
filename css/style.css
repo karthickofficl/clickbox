@@ -18,9 +18,6 @@ body {
   z-index: 3;
 }
 
-/*  PAGE CONTENT*/
-
-
 #page {
   overflow: hidden;
 }
@@ -93,9 +90,10 @@ body {
 /*------------------------------------------*/
 /*  Margin Top
   /*------------------------------------------*/
-  .mt-150 {
-    margin-top: 150px;
-  }
+.mt-150 {
+  margin-top: 150px;
+}
+
 .mt-100 {
   margin-top: 100px;
 }
@@ -240,12 +238,14 @@ body {
 .mt-inverse-20 {
   margin-top: -20px;
 }
+
 /*------------------------------------------*/
 /*  Margin Bottom Inverse
   /*------------------------------------------*/
-  .mb-inverse-30 {
+.mb-inverse-30 {
   margin-top: -30px;
 }
+
 /*------------------------------------------*/
 /*  Margin Bottom
   /*------------------------------------------*/
@@ -926,11 +926,13 @@ body {
   padding-right: 10px;
   padding-left: 10px;
 }
+
 .p-40 {
-   padding:20px; 
+  padding: 20px;
 }
+
 .p-30 {
-   padding:30px; 
+  padding: 30px;
 }
 
 
@@ -2612,7 +2614,7 @@ span.os-version {
 /* 95px */
 .ico-100 [class*="flaticon-"]:before,
 .ico-100 [class*="flaticon-"]:after {
-  font-size: 6.25rem ;
+  font-size: 6.25rem;
 }
 
 /* 100px */
@@ -2749,7 +2751,7 @@ span.os-version {
 }
 
 .ico-95 img {
-  width: 95px ;
+  width: 95px;
   height: 95px !important;
 }
 
@@ -3284,8 +3286,9 @@ h5.sm-title {
   float: left;
   margin-bottom: 0;
 }
-.display-2{
-    display: none !important;
+
+.display-2 {
+  display: none !important;
 }
 
 /*------------------------------------------*/
@@ -4291,6 +4294,7 @@ p.terms-txt a,
   padding-top: 160px;
   padding-bottom: 50px;
 }
+
 #hero-44 {
   position: relative;
   background-image: url(../images/hero-4.jpg);
@@ -5205,8 +5209,7 @@ p.terms-txt a,
 }
 
 .fbox-7,
-.fbox-19.bg-white
-.fbox-5.bg-white {
+.fbox-19.bg-white .fbox-5.bg-white {
   background-color: #fff;
   border: 1px solid #efefef;
   -webkit-border-radius: 16px;
@@ -7929,6 +7932,7 @@ h5.posts-category {
 .comment-form textarea {
   min-height: 200px;
 }
+
 .textsize1 {
   min-height: 100px !important;
 }
@@ -7936,8 +7940,9 @@ h5.posts-category {
 .comment-form textarea.form-control {
   padding: 20px;
 }
-.image-boxing{
-    padding: 70px !important;
+
+.image-boxing {
+  padding: 70px !important;
 }
 
 /*------------------------------------------*/
@@ -8062,7 +8067,7 @@ h5.posts-category {
   /*------------------------------------------*/
 
 .contact-form textarea {
-  min-height: 100px ;
+  min-height: 100px;
 }
 
 .contact-form textarea.form-control {
@@ -8471,13 +8476,14 @@ img.footer-logo {
 .terms-box a {
   font-weight: 500;
 }
+
 /*------------------------------------------*/
 /*  New PAGE TYPOGRAPHY
   /*------------------------------------------*/
 
 .pad-new {
-    padding: 20px ;
-    height: 190px !important;
+  padding: 20px;
+  height: 190px !important;
 }
 
 
@@ -8982,19 +8988,26 @@ details[open] summary::before {
   flex-direction: column;
 
 }
-.banner-content{
+
+.banner-content {
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
-.banner-content h1{
+
+.banner-content h1 {
   font-size: 60px;
+  color: #000;
+  line-height: 1.25;
 }
-.banner-content p{
+
+.banner-content p {
   font-size: 30px;
+  color: #464d5c;
 }
+
 .videoinsidetext a {
   color: #FFF;
 }
@@ -9022,7 +9035,7 @@ details[open] summary::before {
   border: 1px solid #CF1E46;
 }
 
-.homebtn a{
+.homebtn a {
   color: white !important;
 }
 
@@ -9292,6 +9305,7 @@ body .img-fluid-tools {
   height: 100px;
   object-fit: contain;
 }
+
 body .img-fluid-tool {
   width: 100%;
   height: 190px;
@@ -9756,14 +9770,16 @@ body .img-fluid-800 {
   .why-hire-steps ul li.why-hire-item+li {
     margin-top: 20px
   }
+
   .column-sm-reverce {
     flex-direction: column-reverse !important;
   }
-  .responsive{
-      width: auto !important;
+
+  .responsive {
+    width: auto !important;
 
   }
-  
+
 }
 
 @media(max-width: 480px) {
@@ -9779,130 +9795,157 @@ body .img-fluid-800 {
     font-family: OpenSans-Regular
   }
 
-.column-sm-reverce {
+  .column-sm-reverce {
     flex-direction: column-reverse !important;
   }
-  .banner-content h1{
-  font-size: 27px !important;
+
+  .banner-content h1 {
+    font-size: 27px !important;
+  }
 }
-}
-@media (max-width: 1199px){
-.technologystack-nft-sec .col-md-4 {
+
+@media (max-width: 1199px) {
+  .technologystack-nft-sec .col-md-4 {
     max-width: 50% !important;
     flex: 0 0 50% !important;
+  }
 }
-}
-@media (max-width: 775px){
-    
 
-.technologystack-nft-sec .col-md-4, section.section-padding.blockchain-benefits-sec.light-blue-bg .margin-width {
-   flex: 0 0 auto;
+@media (max-width: 775px) {
+
+
+  .technologystack-nft-sec .col-md-4,
+  section.section-padding.blockchain-benefits-sec.light-blue-bg .margin-width {
+    flex: 0 0 auto;
     width: 49.333333% !important;
+  }
 }
-}
-@media (max-width: 465px){
-    
 
-.technologystack-nft-sec .col-md-4, section.section-padding.blockchain-benefits-sec.light-blue-bg .margin-width {
-   flex: 0 0 auto;
+@media (max-width: 465px) {
+
+
+  .technologystack-nft-sec .col-md-4,
+  section.section-padding.blockchain-benefits-sec.light-blue-bg .margin-width {
+    flex: 0 0 auto;
     width: 100% !important;
-}
+  }
 }
 
-@media (max-width: 1199px){
-.banner-inner-1 img, .launch-marketplace-main img, .looking-for-L img, .technologystack-box-list li figure img {
+@media (max-width: 1199px) {
+
+  .banner-inner-1 img,
+  .launch-marketplace-main img,
+  .looking-for-L img,
+  .technologystack-box-list li figure img {
     height: auto !important;
-}
+  }
 }
 
 .service-carousel button {
   display: none !important;
 }
+
 body .h1-fsize {
   font-size: 3.5rem;
 }
+
 .main-heading-box {
-    max-width: 770px;
-    margin: auto auto 60px;
-    text-align: center;
-    padding: 0 15px;
+  max-width: 770px;
+  margin: auto auto 60px;
+  text-align: center;
+  padding: 0 15px;
 }
+
 .technologystack-box-list figcaption h6 {
-    font-size: 13px;
-    color: #171616;
-    text-align: center;
-    font-weight: 400;
-    padding-top: 5px;
-    word-break: break-all;
+  font-size: 13px;
+  color: #171616;
+  text-align: center;
+  font-weight: 400;
+  padding-top: 5px;
+  word-break: break-all;
 }
+
 .technologystack-box {
-    height: 100%;
-   
-    border-radius: 15px;
-    background: #fff;
-    padding: 20px;
+  height: 100%;
+
+  border-radius: 15px;
+  background: #fff;
+  padding: 20px;
 }
+
 .technologystack-box-list {
-    display: flex!important;
+  display: flex !important;
 }
+
 .technologystack-box-list li figure {
-    width: 100%;
-    
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 5px;
-    margin: auto;
+  width: 100%;
+
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  margin: auto;
 }
 
 .technologystack-box-list li {
-    margin: 5px auto;
-    width: 25%;
-    padding: 0 3px;
+  margin: 5px auto;
+  width: 25%;
+  padding: 0 3px;
 }
+
 .section-padding {
-    padding: 100px 0!important;
+  padding: 100px 0 !important;
 }
+
 .paddTop0 {
-    padding-top: 0!important;
+  padding-top: 0 !important;
 }
-@media (max-width: 1024px){
-.margin-width {
-   flex: 0 0 auto !important;
+
+@media (max-width: 1024px) {
+  .margin-width {
+    flex: 0 0 auto !important;
     width: 100% !important;
+  }
 }
-}
-@media (max-width: 560px){
-.margin-width {
-   flex: 0 0 auto !important;
+
+@media (max-width: 560px) {
+  .margin-width {
+    flex: 0 0 auto !important;
     width: 100% !important;
+  }
 }
-}
-@media (max-width: 768px){
-.free-consul {
-   margin-top: 20px !important ;
-}
-.free-consul1{
+
+@media (max-width: 768px) {
+  .free-consul {
+    margin-top: 20px !important;
+  }
+
+  .free-consul1 {
     margin-bottom: 20px !important;
+  }
+
+  .pad-imgs {
+    padding: 0 !important;
+  }
 }
-.pad-imgs{
-    padding: 0!important;
+
+.obj-fit {
+  width: fit-content !important;
+  display: inline-block !important;
+  text-align: center !important;
 }
+
+.h-100 {
+  height: 100% !important;
 }
-.obj-fit{
-    width: fit-content !important;
-    display: inline-block !important;
-    text-align: center !important;
+
+.p-50 {
+  padding: 40px !important;
 }
-.h-100{
-    height: 100% !important;
-}
-.p-50{
-    padding: 40px !important;
-}
-.technologystack-nft-sec{
-   background: #414a57 !important;
+
+.technologystack-nft-sec {
+  background: #414a57 !important;
 }
 
 /*New */
@@ -9910,37 +9953,45 @@ body .h1-fsize {
 /* height:50px !important;*/
 /*}*/
 
-.width-180{
-    width:180px;
+.width-180 {
+  width: 180px;
 }
-.width-200{
-    width:200px;
+
+.width-200 {
+  width: 200px;
 }
-.width-260{
-    width:260px;
+
+.width-260 {
+  width: 260px;
 }
-.width-285{
-    width:285px;
+
+.width-285 {
+  width: 285px;
 }
-.width-300{
-    width:300px;
+
+.width-300 {
+  width: 300px;
 }
-.width-50{
-    width:50% !important;
+
+.width-50 {
+  width: 50% !important;
 }
-.width-60{
-    width:60% !important;
+
+.width-60 {
+  width: 60% !important;
 }
-.width-70{
-    width:70% !important;
+
+.width-70 {
+  width: 70% !important;
 }
-.width-80{
-    width:80% !important;
+
+.width-80 {
+  width: 80% !important;
 }
 
 
 .bg-tra-white-dark {
-  background-color: rgba(255, 255, 255,10);
+  background-color: rgba(255, 255, 255, 10);
 }
 
 .bg-tra-grey-dark {
@@ -9948,7 +9999,7 @@ body .h1-fsize {
 }
 
 .bg-tra-blue-dark {
-  background-color: rgba(37, 138, 255,10);
+  background-color: rgba(37, 138, 255, 10);
 }
 
 .bg-tra-skyblue-dark {
@@ -9991,4 +10042,6 @@ body .h1-fsize {
   background: rgba(255, 179, 12, 10);
 }
 
-
+/* .txtblack {
+  color: #000000 !important;
+} */

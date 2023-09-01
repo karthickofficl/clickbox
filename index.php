@@ -6,9 +6,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="author" content="ClickBox Agency" />
-	<title>ClickBox Advertising & Digital Marketing Agency in Coimbatore</title>
-	<meta name="description" content="ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more." />
-	<meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india">
+	<title>ClickBox Creative Digital Marketing and Advertising Agency</title>
+	<meta name="description" content="ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development." />
+	<meta name="keywords" content="digital marketing agency coimbatore, digital marketing agency, digital marketing agency india, digital marketing agency new jersey">
 	<meta name="language" content="en" />
 	<meta name="revisit-after" content="7 days" />
 	<meta name="Expires" content="never" />
@@ -22,11 +22,11 @@
 	<meta property="og:url" content="https://www.clickboxagency.com/" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com/" />
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
-	<meta property="og:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
-	<meta property="og:description" content="ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more. " />
+	<meta property="og:title" content="ClickBox Creative Digital Marketing and Advertising Agency" />
+	<meta property="og:description" content="ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development." />
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:title" content="ClickBox Advertising & Digital Marketing Agency in Coimbatore" />
-	<meta name="twitter:description" content="ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more." />
+	<meta name="twitter:title" content="ClickBox Creative Digital Marketing and Advertising Agency" />
+	<meta name="twitter:description" content="ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development." />
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<!-- FAVICON AND TOUCH ICONS -->
@@ -129,175 +129,193 @@
 			</div>
 			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-30">
 				<div class="col serv" style="border-left:none;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="logo design">
-								</span>
+					<a href="https://clickboxagency.com/logo-design-service/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="logo design">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">Logo Design</h6>
+								<p class="p-lg ">We are overjoyed to make available, free of charge, the expert <a href="https://clickboxagency.com/logo-design/coimbatore/" aria-label="logo design coimbatore" title="logo design coimbatore" class="dblue">logo design</a> services that we provide to companies and startups who are interested in developing powerful brand identities. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Logo Design</h6>
-							<p class="p-lg ">We are overjoyed to make available, free of charge, the expert <a href="https://clickboxagency.com/logo-design/coimbatore/" aria-label="logo design coimbatore" title="logo design coimbatore" class="dblue">logo design</a> services that we provide to companies and startups who are interested in developing powerful brand identities. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="ui ux design">
-								</span>
+					<a href="https://clickboxagency.com/ui-ux-design-service/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="ui ux design">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">UI UX Design </h6>
+								<!-- Text -->
+								<p class="p-lg ">We are a top UI/UX design agency based in New Jersey that specializes in making user experiences that are smooth and easy to use, which increase engagement and conversion rates. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">UI UX Design </h6>
-							<!-- Text -->
-							<p class="p-lg ">We are a top UI/UX design agency based in New Jersey that specializes in making user experiences that are smooth and easy to use, which increase engagement and conversion rates. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="website development">
-								</span>
+					<a href="https://www.clickboxagency.com/website-development-company-new-jersey/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="website development">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">Website Development</h6>
+								<!-- Text -->
+								<p class="p-lg ">We are a top website development company based in New Jersey that specializes in making high-quality websites that are customized to meet the needs of your business. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Website Development</h6>
-							<!-- Text -->
-							<p class="p-lg ">We are a top website development company based in New Jersey that specializes in making high-quality websites that are customized to meet the needs of your business. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv" style="border-left:none;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="ecommerce devlopement">
-								</span>
+					<a href="https://clickboxagency.com/ecommerce-website-development-service/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="ecommerce devlopement">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">Ecommerce Development</h6>
+								<!-- Text -->
+								<p class="p-lg ">Looking to develop your own ecommerce website? Our expert team specializes in ecommerce development, providing custom solutions to meet your unique business needs. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Ecommerce Development</h6>
-							<!-- Text -->
-							<p class="p-lg ">Looking to develop your own ecommerce website? Our expert team specializes in ecommerce development, providing custom solutions to meet your unique business needs. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="mobile app development">
-								</span>
+					<a href="https://clickboxagency.com/mobile-app-development-company-new-jersey/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="mobile app development">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">Mobile App Development</h6>
+								<!-- Text -->
+								<p class="p-lg ">We are a premier mobile app development agency that specializes in creating cutting-edge mobile apps that help businesses reach their target audience, increase engagement, and drive growth. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Mobile App Development</h6>
-							<!-- Text -->
-							<p class="p-lg ">We are a premier mobile app development agency that specializes in creating cutting-edge mobile apps that help businesses reach their target audience, increase engagement, and drive growth. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="digital marketing">
-								</span>
+					<a href="https://clickboxagency.com/digital-marketing-agency-coimbatore/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="digital marketing">
+									</span>
+								</div>
 							</div>
-						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Digital Marketing</h6>
 							<!-- Text -->
-							<p class="p-lg ">Our full-service digital marketing agency helps businesses of all sizes succeed online. Our extensive digital marketing services are tailored to your specific business needs and goals. <a href="#" class="btn-sm-services">See more...</a></p>
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">Digital Marketing</h6>
+								<!-- Text -->
+								<p class="p-lg ">Our full-service digital marketing agency helps businesses of all sizes succeed online. Our extensive digital marketing services are tailored to your specific business needs and goals. </p>
 
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv" style="border-left:none;border-bottom: 0px;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="content marketing">
-								</span>
+					<a href="https://clickboxagency.com/website-content-writing-service/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="content marketing">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md">Content Marketing</h6>
+								<!-- Text -->
+								<p class="p-lg ">Are you interested in finding high-quality content that can engage your audience and produce results for you? Look no further! Our team of skilled writers is here to help you achieve your content marketing goals. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md">Content Marketing</h6>
-							<!-- Text -->
-							<p class="p-lg ">Are you interested in finding high-quality content that can engage your audience and produce results for you? Look no further! Our team of skilled writers is here to help you achieve your content marketing goals. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv" style="border-bottom: 0px;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="seo">
-								</span>
+					<a href="https://clickboxagency.com/seo-company-in-india/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="seo">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md ">Search Engine Optimization</h6>
+								<!-- Text -->
+								<p class="p-lg ">Our <a href="https://clickboxagency.com/seo-company-in-india/" aria-label="seo" title="seo" class="dblue">SEO</a> experts enhance your website's content, structure, and backlinks to improve its search engine rankings (SERPs). We can raise brand visibility, quality leads, and online income. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md ">Search Engine Optimization</h6>
-							<!-- Text -->
-							<p class="p-lg ">Our <a href="https://clickboxagency.com/seo-company-in-india/" aria-label="seo" title="seo" class="dblue">SEO</a> experts enhance your website's content, structure, and backlinks to improve its search engine rankings (SERPs). We can raise brand visibility, quality leads, and online income. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 				<div class="col serv" style="border-bottom: 0px;">
-					<div class="fbox-4 p-all-20 wow fadeInUp">
-						<!-- Icon -->
-						<div class="fbox-ico-home">
-							<div class="ico-65-home">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="explainer video">
-								</span>
+					<a href="https://clickboxagency.com/explainer-video-production-company-nj/" target="_blank">
+						<div class="fbox-4 p-all-20 wow fadeInUp">
+							<!-- Icon -->
+							<div class="fbox-ico-home">
+								<div class="ico-65-home">
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="explainer video">
+									</span>
+								</div>
+							</div>
+							<!-- Text -->
+							<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
+								<!-- Title -->
+								<h6 class="h6-md ">Explainer Video Creation</h6>
+								<!-- Text -->
+								<p class="p-lg ">Our team of expert video creators and animators have a wealth of experience in creating a wide range of video content, including promotional videos, product demos, explainer videos, whiteboard animation videos and more. </p>
 							</div>
 						</div>
-						<!-- Text -->
-						<div class="fbox-txt-home btn-hover-block" style="padding-left: 10px;">
-							<!-- Title -->
-							<h6 class="h6-md ">Explainer Video Creation</h6>
-							<!-- Text -->
-							<p class="p-lg ">Our team of expert video creators and animators have a wealth of experience in creating a wide range of video content, including promotional videos, product demos, explainer videos, whiteboard animation videos and more. <a href="#" class="btn-sm-services">See more...</a></p>
-						</div>
-					</div>
+					</a>
 				</div>
 			</div>
 		</div> <!-- End container -->
@@ -835,12 +853,12 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingOne">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-											<b>The services provided by your digital marketing agency.?</b>
+											<b>The services provided by your digital marketing agency?</b>
 										</button>
 									</h2>
 									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-											<p class="p-lg txt-justify">Our company offers a wide range of digital marketing services, such as SEO, PPC advertising, social media marketing, email marketing, content marketing, and web design development and mobile app development.</p>
+											<p class="p-lg txt-justify">Our company offers a wide range of digital marketing services, such as SEO, PPC advertising, social media marketing, email marketing, content marketing, web design development and mobile app development.</p>
 										</div>
 									</div>
 								</div>
@@ -1045,8 +1063,8 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "ClickBox Advertising & Digital Marketing Agency in Coimbatore",
-			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india",
+			"name": "ClickBox Creative Digital Marketing and Advertising Agency",
+			"alternateName": "digital marketing agency coimbatore, digital marketing agency, digital marketing agency india, digital marketing agency new jersey",
 			"url": "https://www.clickboxagency.com/"
 		}
 	</script>
@@ -1055,11 +1073,11 @@
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "ClickBox Advertising & Digital Marketing Agency in Coimbatore",
+			"name": "ClickBox Creative Digital Marketing and Advertising Agency",
 			"url": "https://www.clickboxagency.com/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
-			"description": "ClickBox Digital Marketing Agency offers a comprehensive range of digital marketing services, including SEO, PPC, SMM, web design, and more.",
+			"description": "ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development.",
 			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",

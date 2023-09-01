@@ -8121,6 +8121,9 @@
 /* ------------------------------------------------------------------------ */
 
 @media (min-width: 414px) and (max-width: 479.95px) {
+  .banner-content h1 {
+    font-size: 27px !important;
+  }
 
   #stlChanger {
     display: none;
@@ -13647,9 +13650,10 @@
     max-width: 100%;
     height: auto;
   }
-.banner-content h1 {
+
+  .banner-content h1 {
     font-size: 27px !important;
-         }
+  }
 
 }
 
@@ -16450,8 +16454,8 @@
     right: 10px;
   }
 
-.banner-content h1 {
+  .banner-content h1 {
     font-size: 27px !important;
-         }
+  }
 
 }

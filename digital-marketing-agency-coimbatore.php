@@ -68,75 +68,56 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
 					<div class="hero-4-txt white-color text-center">
-						<h1 class="h1-fsize white-color">Are You Struggling to <span class="txtyelloww">Rank Higher in Business ? </span></h1>
-						<p class="p-xl">Boost Your Business with Digital Marketing!</p>
-                        <button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
-				         <a href="/" aria-label="contact us" title="contact us">Get a free consultation. </a></button>
+						<h1 class="h1-fsize white-color">Boost Your Business with <span class="txtyelloww"> Digital Marketing Services!</span></h1>
+						<p class="p-xl">Are You Struggling to Rank Higher in Business ?</p>
+						<button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
+							<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Get a Free Consultation</a></button>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
-	<!-- <section id="features-4" class=" features-section division pb-40">
-		<div class="container">
-
-
-			
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-xl-12">
-					<div class="section-title title-01 ">
-
-						
-							<p class="p-lg">There are over<span class="txtred"> 3.9 billion daily active email users</span> throughout the globe; no other platform even comes close. Are you taking use of email marketing's potential for your company?</p>
-							<p class="p-lg">There is a window of opportunity for you to improve sales by linking your brand with the appropriate consumers at the right time. If you need help creating an email marketing strategy that will help you achieve your company goals, consider ClickBox Email Marketing  Agency NJ.
-</p>
-					
-					
-
-					</div>
-				</div>
-			</div>
-        </div>
-     </section>
-	 -->
-	<!-- SECTION 4 -->
 	<section class=" content-3 pt-30 features-section division mb-40">
 		<div class="container">
+			<div class="col-lg-10 col-xl-10">
+				<div class="section-title  mb-30">
+					<h3 class="h4-xl text-center">Clickbox's Digital <span class="txtred">Marketing Services</span><br /></h3>
+					<!-- <p class="p-lg text-center">Build your brand's reputation as a leader in your field and make more money.</p> -->
+				</div>
+			</div>
 			<div class="row  d-flex align-items-center justify-content-center">
-
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block">
 						<p class="p-lg">The full-service digital marketing company ClickBox Creative marketing Agency is creative, flexible, and doesn't rely on deceptive marketing techniques to attract new customers. Instead, ClickBox Creative marketing Agency uses its own marketing and search engine optimization (SEO) abilities to attract new website visitors.</p>
-					    <p class="p-lg txt-justify">We're not a company without change. We don't just work for a few businesses. ClickBox Creative marketing Agency has the professionals and experience to help any business in any field build a custom website and use a variety of <a href="http://www.clickboxagency.com" class="txtbluee">digital marketing services in coimbatore</a>.</p>
-							<p class="p-lg txt-justify">So many other companies use a one-size-fits-all approach, giving you the same strategy and cookie-cutter website as your rival down the street.</p>
-                    </div>
+						<p class="p-lg txt-justify">We're not a company without change. We don't just work for a few businesses. ClickBox Creative marketing Agency has the professionals and experience to help any business in any field build a custom website and use a variety of <a href="http://www.clickboxagency.com" class="txtbluee">digital marketing services in coimbatore</a>.</p>
+						<p class="p-lg txt-justify">So many other companies use a one-size-fits-all approach, giving you the same strategy and cookie-cutter website as your rival down the street.</p>
+					</div>
 				</div>
 
 				<div class="col-md-5 col-lg-6">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_XKay8w80Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/_XKay8w80Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
 		</div>
 	</section>
 
-	
-    <section id="content-3" class="bg-white  content-3  content-section division ">
+
+	<section id="content-3" class="bg-white  content-3  content-section division ">
 		<div class="container">
 			<div class="top-row pb-30">
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInRight">
-                        <img class="img-fluid" src="../images/Digital Marketing Agency/Asset 74100.svg" alt="ClickBox-Creative-marketing-Agency">
+							<img class="img-fluid" src="../images/Digital Marketing Agency/Asset 74100.svg" alt="ClickBox-Creative-marketing-Agency">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block left-column  wow fadeInLeft">
-                               <p class="p-lg txt-justify">ClickBox Creative marketing Agency works with you to create digital marketing services and a plan that meet the specific needs of your business. We become a part of your team, a partner who knows your market and goals, not just a firm that mindlessly carries out strategies.</p>
-								<p class="p-lg txt-justify">ClickBox Creative marketing Agency focuses on customer relationships and results, which is different from a lot of other agencies that use glitz and glam to close sales but then don't follow through. We always achieve what we say we will, and we don't make empty claims. We also make sure to make the most of your budget so you can get the most return on your investment (ROI).</p>
-                                <p class="p-lg txt-justify">Our reviews and customer feedback say a lot about us. With month-to-month contracts, we earn your business every day.</p>
-								<p class="p-lg txt-justify">Look at the list below to see the many different digital marketing services that ClickBox Creative marketing Agency has to offer. Get in touch with us right away to find out more about how we can help your business.</p>
+							<p class="p-lg txt-justify">ClickBox Creative marketing Agency works with you to create digital marketing services and a plan that meet the specific needs of your business. We become a part of your team, a partner who knows your market and goals, not just a firm that mindlessly carries out strategies.</p>
+							<p class="p-lg txt-justify">ClickBox Creative marketing Agency focuses on customer relationships and results, which is different from a lot of other agencies that use glitz and glam to close sales but then don't follow through. We always achieve what we say we will, and we don't make empty claims. We also make sure to make the most of your budget so you can get the most return on your investment (ROI).</p>
+							<p class="p-lg txt-justify">Our reviews and customer feedback say a lot about us. With month-to-month contracts, we earn your business every day.</p>
+							<p class="p-lg txt-justify">Look at the list below to see the many different digital marketing services that ClickBox Creative marketing Agency has to offer. Get in touch with us right away to find out more about how we can help your business.</p>
 						</div>
 					</div>
 
@@ -144,7 +125,7 @@
 
 			</div>
 	</section>
-	
+
 
 
 
@@ -161,7 +142,7 @@
 						</div>
 					</div>
 				</div>
-				
+
 	</section>
 
 
@@ -186,7 +167,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img  src="../images/Digital Marketing Agency/Icon/01.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/01.svg" />
 									</span>
 								</div>
 							</div>
@@ -194,7 +175,7 @@
 						<div class="squire-content mt-15">
 
 							<h5 class="h6-md text-white ">Search Engine Optimization (SEO)</h5>
-							<p class="p-lg text-squire-muted">We can help you <a href="https://clickboxagency.com/digital-marketing-packages/" class="txtbluee">get better organic rankings</a> and more exposure in search results by doing careful keyword research and using "white hat" SEO techniques. Our Internet marketing business does a lot of keyword research, does both on-page and off-page optimization, and uses Google Search Console to track your results. As part of your digital marketing solutions, we can use these methods to bring in high-quality leads and traffic and improve the number of people who buy from you.</p>
+							<p class="p-lg text-squire-muted">We can help you <a href="https://clickboxagency.com/digital-marketing-packages/" class="txtredd">get better organic rankings</a> and more exposure in search results by doing careful keyword research and using "white hat" SEO techniques. Our Internet marketing business does a lot of keyword research, does both on-page and off-page optimization, and uses Google Search Console to track your results. As part of your digital marketing solutions, we can use these methods to bring in high-quality leads and traffic and improve the number of people who buy from you.</p>
 						</div>
 					</div>
 				</div>
@@ -204,7 +185,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/02.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/02.svg" />
 									</span>
 								</div>
 							</div>
@@ -221,14 +202,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/03.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/03.svg" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
 							<h5 class="h6-md text-white mt-10">Technical SEO</h5>
-							<p class="p-lg text-squire-muted">Establish a solid online presence with expert SEO and <a href="https://clickboxagency.com/wordpress-website-development-service/" class="txtbluee">web marketing services</a> that hit the mark. Our technical SEO specialists generate crawl error reports, examine your HTTPS status codes, accelerate your website, audit your connections, and eliminate duplicate content. This makes it simpler to crawl and examine your website. We also help you migrate your site to a new host and add structured data coding to it.</p>
+							<p class="p-lg text-squire-muted">Establish a solid online presence with expert SEO and <a href="https://clickboxagency.com/wordpress-website-development-service/" class="txtyelloww">web marketing services</a> that hit the mark. Our technical SEO specialists generate crawl error reports, examine your HTTPS status codes, accelerate your website, audit your connections, and eliminate duplicate content. This makes it simpler to crawl and examine your website. We also help you migrate your site to a new host and add structured data coding to it.</p>
 
 						</div>
 					</div>
@@ -239,14 +220,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/04.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/04.svg" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
 							<h5 class="h6-md text-white mt-10">Link Building</h5>
-							<p class="p-lg text-squire-muted">Get a steady flow of traffic from high-authority websites, and your customers will trust you more. Our Internet marketing company uses paid ads, advertising, and partnerships to get your page content in front of important people. We use smart guest writing, put out original, interesting content, share infographics based on data, and increase your social media involvement. We <a href="https://clickboxagency.com/link-building-packages/" class="txtbluee" >build good rankings</a> this way, which leads to more sales.</p>
+							<p class="p-lg text-squire-muted">Get a steady flow of traffic from high-authority websites, and your customers will trust you more. Our Internet marketing company uses paid ads, advertising, and partnerships to get your page content in front of important people. We use smart guest writing, put out original, interesting content, share infographics based on data, and increase your social media involvement. We <a href="https://clickboxagency.com/link-building-packages/" class="txtyelloww">build good rankings</a> this way, which leads to more sales.</p>
 
 						</div>
 					</div>
@@ -257,14 +238,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-								    	<img  src="../images/Digital Marketing Agency/Icon/05.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/05.svg" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
 							<h5 class="h6-md text-white mt-10">Web Design and Development</h5>
-							<p class="p-lg text-squire-muted">ClickBox Creative Marketing Agency makes <a href="" class="txtbluee">custom websites</a> that work well on mobile devices and are designed for search engines. These websites can help you meet your business goals and improve your digital marketing efforts. We make a visual order to show off your site's important parts and get people to do what you want them to do. Our web design experts use clear calls to action (CTAs), avoid carousels and moving sliders, simplify form fields, and make content for your characters.</p>
+							<p class="p-lg text-squire-muted">ClickBox Creative Marketing Agency makes <a href="https://www.clickboxagency.com/website-development-company-new-jersey/" class="txtredd">custom websites</a> that work well on mobile devices and are designed for search engines. These websites can help you meet your business goals and improve your digital marketing efforts. We make a visual order to show off your site's important parts and get people to do what you want them to do. Our web design experts use clear calls to action (CTAs), avoid carousels and moving sliders, simplify form fields, and make content for your characters.</p>
 
 						</div>
 					</div>
@@ -275,7 +256,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/06.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/06.svg" />
 									</span>
 								</div>
 							</div>
@@ -293,7 +274,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/07.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/07.svg" />
 									</span>
 								</div>
 							</div>
@@ -301,7 +282,7 @@
 						<div class="squire-content mt-15">
 
 							<h5 class="h6-md text-white ">Social Media Marketing</h5>
-							<p class="p-lg text-squire-muted">Are you prepared to expand your social media audience and sell to them? We develop social media strategies to help your business expand and maintain fan engagement. Our digital marketing agency assists you in determining your objectives, compares you to your competitors, and analyzes how your consumers behave online. Based on data and analytics, we develop <a href="https://clickboxagency.com/social-media-marketing-agency-in-new-jersey/" class="txtbluee" >social media brand management</a> and paid advertising strategies for your business.</p>
+							<p class="p-lg text-squire-muted">Are you prepared to expand your social media audience and sell to them? We develop social media strategies to help your business expand and maintain fan engagement. Our digital marketing agency assists you in determining your objectives, compares you to your competitors, and analyzes how your consumers behave online. Based on data and analytics, we develop <a href="https://clickboxagency.com/social-media-marketing-agency-in-new-jersey/" class="txtredd">social media brand management</a> and paid advertising strategies for your business.</p>
 						</div>
 					</div>
 				</div>
@@ -311,7 +292,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									   <img  src="../images/Digital Marketing Agency/Icon/08.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/08.svg" />
 									</span>
 								</div>
 							</div>
@@ -328,25 +309,25 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/09.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/09.svg" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
 							<h5 class="h6-md text-white mt-10">Explainer Video Production</h5>
-							<p class="p-lg text-squire-muted">If video marketing is done right, it can be very powerful and interesting. Using video to tell a story can take your brand to the next level and get your customers much more involved. Grab the attention of your customers and make a buzz in the online community with interesting, <a href="https://clickboxagency.com/explainer-video-production-company-nj/" class="txtbluee">SEO-optimized video</a> material. We can help you with everything from finding locations and writing scripts to making motion graphics and editing videos.</p>
+							<p class="p-lg text-squire-muted">If video marketing is done right, it can be very powerful and interesting. Using video to tell a story can take your brand to the next level and get your customers much more involved. Grab the attention of your customers and make a buzz in the online community with interesting, <a href="https://clickboxagency.com/explainer-video-production-company-nj/" class="txtyelloww">SEO-optimized video</a> material. We can help you with everything from finding locations and writing scripts to making motion graphics and editing videos.</p>
 
 						</div>
 					</div>
 				</div>
-                <div class="col squire-cards-col mt-3">
+				<div class="col squire-cards-col mt-3">
 					<div class="squire-cards squire-cards-red h-100">
 						<div class="squire-icons">
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/10.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/10.svg" />
 									</span>
 								</div>
 							</div>
@@ -354,7 +335,7 @@
 						<div class="squire-content mt-15">
 
 							<h5 class="h6-md text-white ">Content Writing</h5>
-							<p class="p-lg text-squire-muted">The information on your website is very important. It's the basis of your SEO and the reason why many people come to your site. If you hire ClickBox Creative Marketing Agency to create your content, we'll write it carefully. Our <a href="https://clickboxagency.com/seo-content-writing-service/" class="txtbluee">content marketing</a> specialists keep up with the latest news and market trends so that we can make sure our material meets Google's standards. We write headlines that get people's attention, use high-performing keywords, include images, and set up your posts in a way that makes them easy to read.</p>
+							<p class="p-lg text-squire-muted">The information on your website is very important. It's the basis of your SEO and the reason why many people come to your site. If you hire ClickBox Creative Marketing Agency to create your content, we'll write it carefully. Our <a href="https://clickboxagency.com/seo-content-writing-service/" class="txtyelloww">content marketing</a> specialists keep up with the latest news and market trends so that we can make sure our material meets Google's standards. We write headlines that get people's attention, use high-performing keywords, include images, and set up your posts in a way that makes them easy to read.</p>
 						</div>
 					</div>
 				</div>
@@ -364,14 +345,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/11.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/11.svg" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
 							<h5 class="h6-md text-white mt-10">Online Reputation Management (ORM)</h5>
-							<p class="p-lg text-squire-muted">Your business' online reputation and reviews can make or destroy it. With the assistance of our internet marketing firm, you can enhance your image and achieve greater success. We collaborate with Rize Reviews to help you receive more reviews, keep track of them, and respond to them. Our team utilizes cutting-edge online reputation management tools, two-way SMS marketing services, and QR codes to assist you in obtaining more positive reviews and streamlining your <a href="https://clickboxagency.com/orm-packages/" class="txtbluee">ORM</a> practices.</p>
+							<p class="p-lg text-squire-muted">Your business' online reputation and reviews can make or destroy it. With the assistance of our internet marketing firm, you can enhance your image and achieve greater success. We collaborate with Rize Reviews to help you receive more reviews, keep track of them, and respond to them. Our team utilizes cutting-edge online reputation management tools, two-way SMS marketing services, and QR codes to assist you in obtaining more positive reviews and streamlining your <a href="https://clickboxagency.com/orm-packages/" class="txtredd">ORM</a> practices.</p>
 						</div>
 					</div>
 				</div>
@@ -381,7 +362,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									   <img  src="../images/Digital Marketing Agency/Icon/12.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/12.svg" />
 									</span>
 								</div>
 							</div>
@@ -393,13 +374,13 @@
 						</div>
 					</div>
 				</div>
-                <div class="col squire-cards-col mt-3">
+				<div class="col squire-cards-col mt-3">
 					<div class="squire-cards squire-cards-yellow h-100">
 						<div class="squire-icons">
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/13.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/13.svg" />
 									</span>
 								</div>
 							</div>
@@ -407,7 +388,7 @@
 						<div class="squire-content mt-15">
 
 							<h5 class="h6-md text-white ">Conversion Rate Optimization (CRO)</h5>
-							<p class="p-lg text-squire-muted">Getting people to visit your website is only half the fight. Conversion optimization is the process of making sure your site is set up to turn users into buyers. With the <a href="https://clickboxagency.com/cro-packages/" class="txtbluee">CRO services</a>from ClickBox Creative Marketing Agency, you can get more people to the end of your sales process and increase the number of people who buy from you. Our New Jersey digital marketing company makes sure that your website is designed for mobile and voice search and has landing pages. </p>
+							<p class="p-lg text-squire-muted">Getting people to visit your website is only half the fight. Conversion optimization is the process of making sure your site is set up to turn users into buyers. With the <a href="https://clickboxagency.com/cro-packages/" class="txtredd">CRO services</a> from ClickBox Creative Marketing Agency, you can get more people to the end of your sales process and increase the number of people who buy from you. Our New Jersey digital marketing company makes sure that your website is designed for mobile and voice search and has landing pages. </p>
 						</div>
 					</div>
 				</div>
@@ -417,7 +398,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/14.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/14.svg" />
 									</span>
 								</div>
 							</div>
@@ -434,14 +415,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-									  <img  src="../images/Digital Marketing Agency/Icon/15.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/15.svg" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
 							<h5 class="h6-md text-white mt-10">eCommerce Web Design</h5>
-							<p class="p-lg text-squire-muted">At ClickBox Creative Marketing Agency, we know how to make websites that sell things online. When you sell things online, how your website looks is a big part of how well it does. A study by the Baymard Institute found that <a href="https://clickboxagency.com/ecommerce-marketing-services/" class="txtbluee">eCommerce websites</a> with good checkout designs can improve sales by 35%. If you hire our Internet marketing company, we can help you show what makes you different from your competitors and get people to keep items in their shopping carts for longer.</p>
+							<p class="p-lg text-squire-muted">At ClickBox Creative Marketing Agency, we know how to make websites that sell things online. When you sell things online, how your website looks is a big part of how well it does. A study by the Baymard Institute found that <a href="https://clickboxagency.com/ecommerce-marketing-services/" class="txtyelloww">eCommerce websites</a> with good checkout designs can improve sales by 35%. If you hire our Internet marketing company, we can help you show what makes you different from your competitors and get people to keep items in their shopping carts for longer.</p>
 
 						</div>
 					</div>
@@ -449,13 +430,14 @@
 			</div>
 	</section>
 
-    <div id="brands-1" class="pt-50 pb-50 brands-section division">
+	<div id="brands-1" class="pt-50 pb-50 brands-section division">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-lg-8">
+				<div class="col-lg-10">
 					<div class="brands-title text-center">
 						<!-- Title -->
-						<h3 class="h4-xl text-center">Why Should a Business Invest in <span class="txtred">Digital Marketing?</span></h3>
+						<h3 class="h4-xl text-center mb-20">Why Should a Business Invest in <span class="txtred">Digital Marketing?</span></h3>
+						<p class="p-lg text-center">Businesses should invest in digital marketing because it offers an unparalleled opportunity to reach a global audience with targeted messages. It's cost-effective, measurable, and provides real-time insights, allowing businesses to adapt swiftly to changing trends and customer preferences. By building a strong online presence, engaging directly with customers, and leveraging data-driven strategies, businesses can enhance their brand, generate leads, and stay competitive in the digital age.</p>
 					</div>
 				</div>
 			</div>
@@ -495,15 +477,14 @@
 	</div> <!-- END BRANDS-1 -->
 
 
-    <section class="bg-white content-3 mb-20 features-section division  ">
+	<section class="bg-white content-3 mb-20 features-section division  ">
 		<div class="container ">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-xl-12">
 					<div class="section-title title-01 mb-30">
-						<h3 class="h4-xl text-center">Why Your Business Should Use  <span class="txtred">Digital Marketing Services</span></h3>
-                        <h4 class="h5-xs text-center"><span class="txtred">Increase Customer Engagement and </span> Rank Well in Search Results</h4>
-                        <p class="p-lg">Online marketing is growing at a rate that has never been seen before. eMarketer says that U.S. businesses spend more than <span class="txtred">$110 billion</span> a year on internet ads. Since more and more businesses are putting time and money into online marketing, you can't just use your old advertising methods to bring in people.</p>
-						<p class="p-lg">With value-driven internet marketing services, you can boost your sales and build a strong digital base. Digital marketing can help.</p>
+						<h3 class="h4-xl text-center">Why Your Business Should Use <span class="txtred">Digital Marketing Services</span></h3>
+						<h4 class="h5-xs text-center"><span class="txtred">Increase Customer Engagement and </span> Rank Well in Search Results</h4>
+						<p class="p-lg">Online marketing is growing at a rate that has never been seen before. eMarketer says that U.S. businesses spend more than <span class="txtred">$110 billion</span> a year on internet ads. Since more and more businesses are putting time and money into online marketing, you can't just use your old advertising methods to bring in people. With value-driven internet marketing services, you can boost your sales and build a strong digital base. Digital marketing can help.</p>
 					</div>
 				</div>
 			</div>
@@ -519,10 +500,10 @@
 						<li class="list-item">
 							<p class="p-lg">Get a lot of ROI</p>
 						</li>
-                        <li class="list-item">
+						<li class="list-item">
 							<p class="p-lg">Use as many customer contacts as possible.</p>
 						</li>
-                        <li class="list-item">
+						<li class="list-item">
 							<p class="p-lg">Watch how your effort goes.</p>
 						</li>
 					</ul>
@@ -538,10 +519,10 @@
 						<li class="list-item">
 							<p class="p-lg">Drive healthy progress over the long term</p>
 						</li>
-                        <li class="list-item">
+						<li class="list-item">
 							<p class="p-lg">Use exact selection of your audience</p>
 						</li>
-                        <li class="list-item">
+						<li class="list-item">
 							<p class="p-lg">Boost the number of sales you make.</p>
 						</li>
 					</ul>
@@ -565,10 +546,10 @@
 
 						<!-- Title -->
 						<h3 class="h4-xl text-center mt-40">Why Should Your <span class="txtred"> Business Use Clickbox Digital Marketing Service?</span></h3>
-                        <h4 class="h5-xs text-center"><span class="txtred">How to Increase Your Sales Growth Rate and </span> Be a Success Online</h4>
-                        <p class="p-lg">ClickBox Internet Marketing Agency is a goal-oriented advertising business that has won awards for its internet marketing services. Our main goal is to help companies keep more customers and make the most of conversion possibilities.
+						<h4 class="h5-xs text-center"><span class="txtred">How to Increase Your Sales Growth Rate and </span> Be a Success Online</h4>
+						<p class="p-lg">ClickBox Internet Marketing Agency is a goal-oriented advertising business that has won awards for its internet marketing services. Our main goal is to help companies keep more customers and make the most of conversion possibilities.
 						</p>
-                        <p class="p-lg">You can count on us to do everything we can to help your brand do well online. If you choose ClickBox, you'll get (among many other digital business options) the following. 
+						<p class="p-lg">You can count on us to do everything we can to help your brand do well online. If you choose ClickBox, you'll get (among many other digital business options) the following.
 						</p>
 
 						<!-- Text -->
@@ -591,7 +572,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/16.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/16.svg" />
 									</span>
 								</div>
 							</div>
@@ -620,7 +601,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/17.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/17.svg" />
 									</span>
 								</div>
 							</div>
@@ -650,7 +631,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/18.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/18.svg" />
 									</span>
 								</div>
 							</div>
@@ -679,7 +660,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/19.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/19.svg" />
 									</span>
 								</div>
 							</div>
@@ -705,7 +686,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/20.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/20.svg" />
 									</span>
 								</div>
 							</div>
@@ -731,7 +712,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img  src="../images/Digital Marketing Agency/Icon/21.svg" />
+										<img src="../images/Digital Marketing Agency/Icon/21.svg" />
 									</span>
 								</div>
 							</div>
@@ -759,96 +740,6 @@
 
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
-
-	<!-- Section 10 -->
-
-	<!-- <section id="features-4" class="pt-90 pb-40 bg-white features-section division">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-10">
-					<div class="section-title  mb-70">
-						<h3 class="h4-xl text-center ">Why Choose Us for<span class="txtred"> App Promotion Services?</span></h3>
-							</div>
-				</div>
-			</div>
-			<div class="fbox-4-wrapper fbox-4-wide">
-				<div class="row">
-					<div class="col-lg-4 col-md-4 col-sm-12 order-md-1 order-sm-2 mobile-infograpic-col">
-						
-						<div class="fbox-txt-infograpic text-right-info">
-
-							<h6 class="h6-md">Expert Group</h6>
-						
-							<details>
-								<summary>We have a skilled staff that provides mobile app marketing services with tailored tactics for each<br><span class="readmore">Read more...</span></summary>
-								<p class="p-lg ">app. All have delivered outstanding results for a variety of app marketing tasks. We offer tailored tactics to meet your individual requirements.</p>
-							</details>
-						</div>
-						
-						<div class="fbox-txt-infograpic text-right-info">
-							
-							<h6 class="h6-md">Dedicated Supervisor</h5>
-								
-								<details>
-									<summary>We have a specialized staff to assist you and answer any questions you may have about mobile <br><span class="readmore">Read more...</span></summary>
-									<p class="p-lg ">app advertising. We have a solid reputation for offering web marketing services for mobile apps to customers all around the globe.</p>
-								</details>
-						</div>
-						
-						<div class="fbox-txt-infograpic text-right-info">
-
-							<h6 class="h6-md">Newest Tools</h5>
-								
-								<details>
-									<summary>For app marketing, King of Digital Marketing employs cutting-edge techniques and technology.  <br><span class="readmore">Read more...</span></summary>
-									<p class="p-lg ">We employ the most up-to-date tools for better planning, analysis, advertising, content production, and installation with the highest ROI.</p>
-								</details>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1 mt-30">
-						<img src="../images/185.png" alt="why choose clickboxagency" class="img-fluid">
-
-					</div>
-					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
-						
-						<div class="fbox-txt-infograpic">
-							
-							<h6 class="h6-md">An expert in ASO</h6>
-							<details>
-								<summary>Hire an expert ASO team in Delhi, India, to push your app to the top of the Play Store rankings.  <br><span class="readmore">Read more...</span></summary>
-
-								<p class="p-lg "> It allows you to obtain the most downloads naturally while also increasing retention. We are referred to as the King of ASO Services.</p>
-							</details>
-						</div>
-						
-						<div class="fbox-txt-infograpic">
-							
-							<h6 class="h6-md">Packages at Reasonable Prices</h6>
-							<details>
-								<summary>We provide inexpensive Mobile App Promotion packages in Delhi, India. We price based on  <br><span class="readmore">Read more...</span></summary>
-								
-								<p class="p-lg ">cost per install or campaign management in Google or Social Media, with ASO Package included.</p>
-							</details>
-						</div>
-						<div class="fbox-txt-infograpic">
-							
-							<h6 class="h6-md">Services of the highest caliber</h6>
-							
-							<details>
-								<summary>From the beginning of the project, we advise on app UI and UX consultancy, pre-launch <br><span class="readmore">Read more...</span></summary>
-								<p class="p-lg "> campaign planning, installation, and high retention. Many brands rely on us to provide high-quality services.</p>
-							</details>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>	
-     -->
-
-
-
-
 
 
 	<!-- FAQs-2>===================================== -->
@@ -902,14 +793,14 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            <b>Compared to traditional marketing, how cost-effective is digital marketing?</b>
+											<b>Compared to traditional marketing, how cost-effective is digital marketing?</b>
 										</button>
 									</h2>
 									<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
 											<!-- TEXT BOX -->
 											<div class="txt-box">
-                                                <p class="p-lg">Most of the time, digital marketing is cheaper than standard marketing methods. Online advertising, social media campaigns, and email marketing are often less expensive than standard types of advertising like TV or paper. Digital marketing also makes it easier to focus and measure, which makes the best use of resources. </p>
+												<p class="p-lg">Most of the time, digital marketing is cheaper than standard marketing methods. Online advertising, social media campaigns, and email marketing are often less expensive than standard types of advertising like TV or paper. Digital marketing also makes it easier to focus and measure, which makes the best use of resources. </p>
 											</div>
 										</div>
 									</div>
@@ -927,12 +818,12 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFive">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                          <b>Would digital marketing services be good for my business?</b>
+											<b>Would digital marketing services be good for my business?</b>
 										</button>
 									</h2>
 									<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
 										<div class="accordion-body">
-                                          <p class="p-lg">Digital marketing services can help almost any business. Digital marketing can be helpful if you want to be more visible online, reach more people, interact with customers on social media, get more leads, and see how well your marketing efforts are working.</p>
+											<p class="p-lg">Digital marketing services can help almost any business. Digital marketing can be helpful if you want to be more visible online, reach more people, interact with customers on social media, get more leads, and see how well your marketing efforts are working.</p>
 										</div>
 									</div>
 								</div>
@@ -1000,7 +891,7 @@
 			</div>
 		</div>
 	</section> -->
-	
+
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->

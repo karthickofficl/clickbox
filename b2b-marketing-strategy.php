@@ -6,7 +6,7 @@ if (isset($_POST['send'])) {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	
+
 	$subject = 'Enquiry From B2B';
 	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
@@ -45,7 +45,6 @@ if (isset($_POST['send'])) {
 	} else {
 		$result = '
 		One of our representative will get in touch you.';
-		
 	}
 }
 ?>
@@ -114,30 +113,136 @@ if (isset($_POST['send'])) {
 	<link rel="shortcut icon" href="https://www.clickboxagency.com/images/favicon.png" type="image/x-icon">
 
 	<?php include('header-style.php') ?>
+	<style>
+		.owl-carousel .owl-item img {
+			height: 100% !important;
+		}
 
+		#blog-page .masonry-image {
+			width: 90% !important;
+		}
+
+		/* SHARE ICONS */
+		.sticky-sidebar-offset {
+			top: 80px;
+		}
+
+		/* .sticky-top {
+			position: -webkit-sticky !important;
+			position: sticky !important;
+			top: 100px !important;
+			z-index: 1020 !important;
+		} */
+
+	
+
+		.share p {
+			margin-bottom: 10px;
+			font-size: .95rem;
+			opacity: .5;
+		}
+
+		.share ul {
+			padding-left: 0;
+			margin-left: 0;
+		}
+
+		.share ul li {
+			display: block;
+			margin-bottom: 5px;
+		}
+
+		.shareitnow li a {
+			width: 30px;
+			height: 30px;
+			border: 1px solid #212529;
+			line-height: 30px;
+			text-align: center;
+			display: inline-block;
+			border-radius: 50%;
+			color: #212529;
+			font-size: 13px;
+			opacity: .3;
+		}
+
+		.clap-btn {
+			display: inline-block;
+			Cursor: pointer;
+			width: 80px;
+			height: 80px;
+		}
+
+		.clap-btn {
+			background: url('https://i.ibb.co/GVsbrFF/claps.png') no-repeat 0% 50%;
+			background-size: 900%;
+			border: 1px solid #212529;
+			border-radius: 50%;
+		}
+
+		.clap-active {
+			animation-name: animate;
+			animation-duration: .8s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+		}
+
+		.clap-active {
+			animation-timing-function: steps(8);
+		}
+
+		@keyframes animate {
+			0% {
+				background-position: left;
+			}
+
+			50% {
+				background-position: right;
+			}
+
+			100% {
+				background-position: right;
+			}
+		}
+	</style>
+	<link href="../css/style.css" rel="stylesheet">
 </head>
 
 <body>
 
 	<?php include('header.php') ?>
 
+
+
 	<!-- SINGLE POST -->
 	<!-- ===========================wide-100==================  -->
 	<section id="single-post" class="wide-30 inner-page-hero single-post-section division">
 		<div class="container">
-
-
-			<!-- SINGLE POST CONTENT -->
-			<div class="row">
-				<div class="col-lg-10 offset-lg-1">
-					<div class="single-post-wrapper">
-
-						<!-- BLOG POST INNER IMAGE -->
-						<div class="post-inner-img">
-							<img class="img-fluid" src="../images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+			<div class="row d-flex justify-content-center ">
+				<div class="col-lg-10 col-md-10">
+					<div class="post-inner-img ">
+						<img class="img-fluid" src="../images/blog/best-b2b-marketing.png" alt="blog-post-image" />
+					</div>
+				</div>
+			</div>
+			<div class="row ">
+				<div class=" col-lg-1 mb-4  order-md-first">
+					<div class="sticky-top sticky-sidebar-offset">
+						<div class="share text-center">
+							<div class="sidebarapplause">
+								<span class="clap-btn"></span>
+							</div>
+							<p class="sharecolour"> Share</p>
+							<ul class="shareitnow">
+								<li> <a target="_blank" href="" aria-label="Twitter"> <i class="fa fa-twitter"></i> </a></li>
+								<li> <a target="_blank" href="" aria-label="Facebook"> <i class="fa fa-facebook"></i> </a></li>
+								<li> <a target="_blank" href="" aria-label="Pinterest"> <i class="fa fa-pinterest"></i> </a></li>
+								<li> <a target="_blank" href="" aria-label="Linkedin"> <i class="fa fa-linkedin"></i> </a></li>
+							</ul>
 						</div>
-
-
+					</div>
+				</div>
+				<div class="col-lg-9 ">
+					<div class="single-post-wrapper">
 						<!-- SINGLE POST TITLE -->
 						<div class="single-post-title">
 
@@ -149,7 +254,7 @@ if (isset($_POST['send'])) {
 						<div class="single-post-txt">
 
 							<!-- Text -->
-							<p class="p-lg txt-justify">Every entrepreneur is struggling to find their marketing strategy and the right path of marketing is not identified until it is implemented and tested with the audience.
+							<p class="p-lg txt-justify blog-para">Every entrepreneur is struggling to find their marketing strategy and the right path of marketing is not identified until it is implemented and tested with the audience.
 
 								<br>The audience is the major key to your marketing strategy. If you are not able to reach your target audience, then there is no need for taking marketing efforts and doing the promotion process. Hence, identify your customers.
 							</p>
@@ -161,115 +266,115 @@ if (isset($_POST['send'])) {
 						<div class="single-post-txt">
 
 							<!-- Title -->
-							<h4 class="h4-lg">What is B2B Marketing?
+							<h4 class="h4-lg blog-title">What is B2B Marketing?
 							</h4>
 
 							<!-- Text -->
-							<p class="p-lg txt-justify">B2B (Business-to-Business) is the process of online business transactions that happen between two businesses or two companies.
+							<p class="p-lg txt-justify blog-para">B2B (Business-to-Business) is the process of online business transactions that happen between two businesses or two companies.
 
 								<br>You have to be clear, that the marketing process for individual customers is different from the marketing process for companies. You should follow some special strategies to make B2B marketing successful. Therefore, this guide is prepared to discuss some of the useful marketing methods to increase your business outcomes.
 							</p>
 							<!-- Title -->
-							<h4 class="h4-lg">B2B Examples:</h4>
+							<h4 class="h4-lg blog-title">B2B Examples</h4>
 
 							<!-- Text -->
-							<p class="p-lg txt-justify">General Electric is the best example of a B2B product, as it supplies goods not only to its customers (audience) but also to some enterprises. This connection between organizations is all about B2B.
+							<p class="p-lg txt-justify blog-para">General Electric is the best example of a B2B product, as it supplies goods not only to its customers (audience) but also to some enterprises. This connection between organizations is all about B2B.
 
 								<br><br>Amazon is another great example for both B2B and B2C (Business-to-Consumer)- Many goods in the Amazon marketplace are only for business purposes and not for individual customer sales.
 
 								<br><br>Now, I hope that you know the B2B process. Let’s jump onto the guide to get some b2b lead generation strategies.
 							</p>
 							<!-- Title -->
-							<h4 class="h4-lg">10 B2B DIGITAL MARKETING STRATEGIES: </h4>
+							<h4 class="h4-lg blog-title">10 B2B Digital Marketing Strategies</h4>
 
 							<!-- Text -->
-							<p class="p-lg txt-justify">Before starting any projects, planning is a priority. A process without a proper plan will be a mess. So, plan your process. Digital marketing is a tree and its marketing methods are its branches. You have to water this tree to get fruits (customers). Here I am going to provide the b2b marketing plans in detail so that you can reach your customers easily.</p>
+							<p class="p-lg txt-justify blog-para">Before starting any projects, planning is a priority. A process without a proper plan will be a mess. So, plan your process. Digital marketing is a tree and its marketing methods are its branches. You have to water this tree to get fruits (customers). Here I am going to provide the b2b marketing plans in detail so that you can reach your customers easily.</p>
 
 
-							<h4 class="h4-lg">We divide the 10 strategies into 3 steps:</h4>
+							<h4 class="h4-lg blog-title">We divide the 10 strategies into 3 steps</h4>
 
 							<!-- Digit List -->
 							<ul class="digit-list" style="list-style: upper-alpha; padding-left:21px;">
 
 								<li>
-									<p class="p-lg">Reaching Right Customers</p>
+									<p class="p-lg blog-para">Reaching Right Customers</p>
 								</li>
 								<li>
-									<p class="p-lg">Selling Products to Customers</p>
+									<p class="p-lg blog-para">Selling Products to Customers</p>
 								</li>
 								<li>
-									<p class="p-lg">Retargeting and Repeating Process</p>
+									<p class="p-lg blog-para">Retargeting and Repeating Process</p>
 								</li>
 
 							</ul>
 
 							<!-- Text -->
-							<p class="p-lg">We will see the 3 steps in detail.</p>
+							<p class="p-lg blog-para">We will see the 3 steps in detail.</p>
 
-							<h4 class="h4-lg">(A) Reaching Right Customers:</h4>
+							<h4 class="h4-lg blog-title">(A) Reaching Right Customers</h4>
 
 							<!-- Text -->
-							<p class="p-lg txt-justify">This is the first step of starting your B2B marketing strategy which requires more effort.
+							<p class="p-lg txt-justify blog-para">This is the first step of starting your B2B marketing strategy which requires more effort.
 
 								<br>In a B2B business, you have two types of customers:
 							</p>
 
 
-							<p class="p-lg txt-justify"><b>Type I:</b> Individual sellers who are buying your supplies and selling them (as a complete product) to their customers </p>
-							<p class="p-lg txt-justify"><b>Type II:</b> A large company that relies on your supplies to create the product for their customers. <br><br>Did you decide the type of B2B customers you want? You can sell your supplies to individual sellers or companies or both places; it depends on your products and business goals. </p>
+							<p class="p-lg txt-justify blog-para"><b>Type I:</b> Individual sellers who are buying your supplies and selling them (as a complete product) to their customers </p>
+							<p class="p-lg txt-justify blog-para"><b>Type II:</b> A large company that relies on your supplies to create the product for their customers. <br><br>Did you decide the type of B2B customers you want? You can sell your supplies to individual sellers or companies or both places; it depends on your products and business goals. </p>
 							<!-- Title -->
-							<h4 class="h4-lg">How to reach these customers?</h4>
+							<h4 class="h4-lg blog-title">How to reach these customers?</h4>
 
 							<!-- Text -->
-							<p class="p-lg">You can use the following marketing process to get expected outcomes. If your marketing process reaches your customers, then you crossed half of the sea to make a sale.</p>
+							<p class="p-lg blog-para">You can use the following marketing process to get expected outcomes. If your marketing process reaches your customers, then you crossed half of the sea to make a sale.</p>
 
-							<h4 class="h4-lg">1. DISPLAY ADVERTISING: </h4>
-
-
-							<p class="p-lg txt-justify">Advertisements are the traditional marketing way of promoting your products. These ads can be of any format like text, audio, videos, or images that are displayed on websites, blogs, social media sites, and other online platforms. </p>
-
-							<h4 class="h4-lg">Identify the Niche Site:</h4>
-
-							<p class="p-lg txt-justify">You can create an attractive ad and display it on popular online sites to draw the attention of the audience. To do that correctly, filter the right platform like niche-based websites, blogs, or social sites.</p>
-							<p class="p-lg txt-justify">For instance, if you are selling automobile parts and create ads based on your products, then you have to put these ads only on platforms that talk about the automobile. Instead, if you placed your ad on a gaming or irrelevant niche site, those audiences cannot see your ad and you have to lose your time and money.</p>
-							<p class="p-lg txt-justify">So, picking a suitable niche site is very important!</p>
-							<p class="p-lg txt-justify"><b>Note:</b> You can write funny, memorable, and attractive slogans in-text ads, use colorful pictures for your image ads, or use interactive videos for your video ads. Marketing is all about conveying your products to the right customers in a friendly way. </p>
-
-							<h4 class="h4-lg">2. PPC ADVERTISEMENTS:</h4>
+							<h4 class="h4-lg blog-title">1. Display Advertising </h4>
 
 
-							<p class="p-lg txt-justify">PPC (Pay Per Click) advertisements are similar to display ads, but the pricing will vary. When you search for something on Google, the search results will display some ads related to your search followed by popular and free blogs or websites. These ads are PPC ads. </p>
-							<p class="p-lg txt-justify">Stats say that audience will be able to reach their searched information quickly with the help of these ads. When these people click your ads, you have to pay the amount for the search engines. These ads will have high competition and you can get the ads to display place by bidding with your competitors so that you can place your ad relevant to the keywords of your customers. </p>
-							<p class="p-lg txt-justify">The price of PPC ads will vary based on keywords and the number of clicks for your ads. But display ads need a constant price for the total time allocations for your ad.</p>
-							<p class="p-lg txt-justify">So, implementing any one of these ads or both ways can able to get target customers. It depends on your budget range. If you are a beginner, then you can use the following free b2b digital marketing strategies instead of creating ads.</p>
+							<p class="p-lg txt-justify blog-para">Advertisements are the traditional marketing way of promoting your products. These ads can be of any format like text, audio, videos, or images that are displayed on websites, blogs, social media sites, and other online platforms. </p>
 
-							<h4 class="h4-lg">3. SEARCH ENGINE OPTIMIZATION (SEO):</h4>
+							<h4 class="h4-lg blog-title">Identify the Niche Site</h4>
 
+							<p class="p-lg txt-justify blog-para">You can create an attractive ad and display it on popular online sites to draw the attention of the audience. To do that correctly, filter the right platform like niche-based websites, blogs, or social sites.</p>
+							<p class="p-lg txt-justify blog-para">For instance, if you are selling automobile parts and create ads based on your products, then you have to put these ads only on platforms that talk about the automobile. Instead, if you placed your ad on a gaming or irrelevant niche site, those audiences cannot see your ad and you have to lose your time and money.</p>
+							<p class="p-lg txt-justify blog-para">So, picking a suitable niche site is very important!</p>
+							<p class="p-lg txt-justify blog-para"><b>Note:</b> You can write funny, memorable, and attractive slogans in-text ads, use colorful pictures for your image ads, or use interactive videos for your video ads. Marketing is all about conveying your products to the right customers in a friendly way. </p>
 
-							<p class="p-lg txt-justify">In digital marketing, SEO, and SEM (Search Engine Marketing) are the major parts. SEM is all about paid advertisements and PPC is included in this SEM category. SEO is the process of driving organic traffic to your business in a free method. </p>
-							<p class="p-lg txt-justify">As per stats by Ahrefs, 53.3% of website traffic comes from organic searches in search engines like Google. Hence nearly half of the leads are attained from Google, SEO is the top marketing strategy for B2B businesses. </p>
-							<p class="p-lg txt-justify">Also, per BrightEdge, SEO is 1000+ times better than social media in driving traffic to your website. </p>
-							<p class="p-lg txt-justify">It is shown how SEO plays a major role in the marketing process. SEO is simply defined as the process of ranking your website in the top positions of the search results. People will generally click the top-most results and so, you can get the traffic. </p>
-							<p class="p-lg txt-justify">The process of SEO is classified as On-Page SEO and Off-Page SEO. </p>
-
-							<h4 class="h4-lg">On-Page SEO:</h4>
-
-							<p class="p-lg txt-justify">Since keywords are the key to SEO, your website or blog content should contain keywords. Usually, low competitive keywords can be preferred to rank easily in search results. Optimize all the website content based on specific keywords. </p>
-
-							<h4 class="h4-lg">Off-Page SEO:</h4>
-
-							<p class="p-lg txt-justify">In the Off-page SEO process, you have to create backlinks to your website. The more the backlinks, the higher the domain authority (DA). Even though (DA) is not important, it is important to create more backlinks which increases the website position in the search results. For these activities, you have to do link submissions for your target keywords. </p>
-
-							<h4 class="h4-lg">4. B2B CONTENT MARKETING:</h4>
+							<h4 class="h4-lg blog-title">2. PPC Advertisements</h4>
 
 
-							<p class="p-lg txt-justify">There is a popular slogan in the marketing field- “Content is the King” - It is not a myth and it is one of the proven facts in marketing.
+							<p class="p-lg txt-justify blog-para">PPC (Pay Per Click) advertisements are similar to display ads, but the pricing will vary. When you search for something on Google, the search results will display some ads related to your search followed by popular and free blogs or websites. These ads are PPC ads. </p>
+							<p class="p-lg txt-justify blog-para">Stats say that audience will be able to reach their searched information quickly with the help of these ads. When these people click your ads, you have to pay the amount for the search engines. These ads will have high competition and you can get the ads to display place by bidding with your competitors so that you can place your ad relevant to the keywords of your customers. </p>
+							<p class="p-lg txt-justify blog-para">The price of PPC ads will vary based on keywords and the number of clicks for your ads. But display ads need a constant price for the total time allocations for your ad.</p>
+							<p class="p-lg txt-justify blog-para">So, implementing any one of these ads or both ways can able to get target customers. It depends on your budget range. If you are a beginner, then you can use the following free b2b digital marketing strategies instead of creating ads.</p>
+
+							<h4 class="h4-lg blog-title">3. Search Engine Optimization (SEO)</h4>
+
+
+							<p class="p-lg txt-justify blog-para">In digital marketing, SEO, and SEM (Search Engine Marketing) are the major parts. SEM is all about paid advertisements and PPC is included in this SEM category. SEO is the process of driving organic traffic to your business in a free method. </p>
+							<p class="p-lg txt-justify blog-para">As per stats by Ahrefs, 53.3% of website traffic comes from organic searches in search engines like Google. Hence nearly half of the leads are attained from Google, SEO is the top marketing strategy for B2B businesses. </p>
+							<p class="p-lg txt-justify blog-para">Also, per BrightEdge, SEO is 1000+ times better than social media in driving traffic to your website. </p>
+							<p class="p-lg txt-justify blog-para">It is shown how SEO plays a major role in the marketing process. SEO is simply defined as the process of ranking your website in the top positions of the search results. People will generally click the top-most results and so, you can get the traffic. </p>
+							<p class="p-lg txt-justify blog-para">The process of SEO is classified as On-Page SEO and Off-Page SEO. </p>
+
+							<h4 class="h4-lg blog-title">On-Page SEO</h4>
+
+							<p class="p-lg txt-justify blog-para">Since keywords are the key to SEO, your website or blog content should contain keywords. Usually, low competitive keywords can be preferred to rank easily in search results. Optimize all the website content based on specific keywords. </p>
+
+							<h4 class="h4-lg blog-title">Off-Page SEO</h4>
+
+							<p class="p-lg txt-justify blog-para">In the Off-page SEO process, you have to create backlinks to your website. The more the backlinks, the higher the domain authority (DA). Even though (DA) is not important, it is important to create more backlinks which increases the website position in the search results. For these activities, you have to do link submissions for your target keywords. </p>
+
+							<h4 class="h4-lg blog-title">4. B2B Content Marketing</h4>
+
+
+							<p class="p-lg txt-justify blog-para">There is a popular slogan in the marketing field- “Content is the King” - It is not a myth and it is one of the proven facts in marketing.
 
 								<br>By the stats from Demand Metric and Neil Patel, Content marketing’s cost is 62% lesser than traditional marketing but drives 3X more leads.
 
 								<br>Content can be created in many formats (similar to ads) like images, videos, or text. Some of the best content creation methods are:
 							</p>
-							<p class="p-lg txt-justify"><b>Write Blogs:</b> When people landed on your website through search results, their main purpose is to read some useful information. The best way to pull traffic to your website is by writing blogs.
+							<p class="p-lg txt-justify blog-para"><b>Write Blogs:</b> When people landed on your website through search results, their main purpose is to read some useful information. The best way to pull traffic to your website is by writing blogs.
 
 								<br>As said already, B2B content is different from B2C content. Since you are writing content for other business entrepreneurs instead of individuals, you have to optimize the articles based on their searches.
 
@@ -282,10 +387,10 @@ if (isset($_POST['send'])) {
 
 
 
-							<h4 class="h4-lg">5. VIDEO MARKETING:</h4>
+							<h4 class="h4-lg blog-title">5. Video Marketing</h4>
 
 
-							<p class="p-lg txt-justify">As seen above, SEO is the best and organic b2b lead generation strategy, Google is the first search engine used by most people.
+							<p class="p-lg txt-justify blog-para">As seen above, SEO is the best and organic b2b lead generation strategy, Google is the first search engine used by most people.
 
 								<br>Next to Google, YouTube is the second-best choice of search engines to research their information. As we know, YouTube is a video form of a search result provider.
 
@@ -296,40 +401,40 @@ if (isset($_POST['send'])) {
 
 
 
-							<h4 class="h4-lg">Some Video Marketing Ideas Are: </h4>
+							<h4 class="h4-lg blog-title">Some Video Marketing Ideas Are </h4>
 
 							<!-- List -->
 							<ul class="simple-list">
 
 								<li class="list-item">
-									<p class="p-lg">Explainer or animated video that explains your business and product.</p>
+									<p class="p-lg blog-para">Explainer or animated video that explains your business and product.</p>
 								</li>
 
 								<li class="list-item">
-									<p class="p-lg">’How-to’, ‘Why’, and ‘What’ type of videos.</p>
+									<p class="p-lg blog-para">’How-to’, ‘Why’, and ‘What’ type of videos.</p>
 								</li>
 
 								<li class="list-item">
-									<p class="p-lg">Top 10 content videos.</p>
+									<p class="p-lg blog-para">Top 10 content videos.</p>
 								</li>
 
 								<li class="list-item">
-									<p class="p-lg">Create videos based on your blog post.</p>
+									<p class="p-lg blog-para">Create videos based on your blog post.</p>
 								</li>
 
 							</ul>
 
 							<!-- Text -->
-							<p class="p-lg txt-justify">As said before, ads are also in video format. So, create videos for your paid ads, that can be displayed on YouTube or any other social media sites.
+							<p class="p-lg txt-justify blog-para">As said before, ads are also in video format. So, create videos for your paid ads, that can be displayed on YouTube or any other social media sites.
 								<br>The main thing is, to develop interactive, funny, and informative video content.
 							</p>
 
 
 
-							<h4 class="h4-lg">6. SOCIAL MEDIA MARKETING (SMM):</h4>
+							<h4 class="h4-lg blog-title">6. Social Media Marketing (SMM)</h4>
 
 
-							<p class="p-lg txt-justify">Social media is a free and friendly platform for B2B businesses, especially for beginners who don’t want to spend money on ads.
+							<p class="p-lg txt-justify blog-para">Social media is a free and friendly platform for B2B businesses, especially for beginners who don’t want to spend money on ads.
 
 								<br>The following social media sites are considered the first to publish their business posts.
 
@@ -341,45 +446,48 @@ if (isset($_POST['send'])) {
 							<ul class="simple-list">
 
 								<li class="list-item">
-									<p class="p-lg">675 million users are found monthly.</p>
+									<p class="p-lg blog-para">675 million users are found monthly.</p>
 								</li>
 
 								<li class="list-item">
-									<p class="p-lg">Your LinkedIn paid ads will reach 12% of the world's population.</p>
+									<p class="p-lg blog-para">Your LinkedIn paid ads will reach 12% of the world's population.</p>
 								</li>
 
 								<li class="list-item">
-									<p class="p-lg">30 million companies are registered on LinkedIn.</p>
+									<p class="p-lg blog-para">30 million companies are registered on LinkedIn.</p>
 								</li>
 
 							</ul>
+							</p>
+							<p class="p-lg txt-justify blog-para">
+								<br>LinkedIn is the first and prior platform to create an account. In LinkedIn, you can post images, videos, and can submit articles. All types of content are supported, so you can reach many B2B buyers with your powerful content.
 
-							<br>LinkedIn is the first and prior platform to create an account. In LinkedIn, you can post images, videos, and can submit articles. All types of content are supported, so you can reach many B2B buyers with your powerful content.
+								<br><b>Facebook and Twitter:</b> Next to LinkedIn, Facebook and Twitter are the best. You can post the image or video about your business updates, new product details.
 
-							<br><b>Facebook and Twitter:</b> Next to LinkedIn, Facebook and Twitter are the best. You can post the image or video about your business updates, new product details.
+								<br><b>Instagram:</b> Instagram is the best place for image content. You can use these platforms to connect with your B2B buyers, as you know how much these platforms are used by the people.
 
-							<br><b>Instagram:</b> Instagram is the best place for image content. You can use these platforms to connect with your B2B buyers, as you know how much these platforms are used by the people.
+								<br><b>Paid Ads:</b> As above, PPC and display ads are a part of the marketing strategy, you can place display ads on these social media sites.
 
-							<br><b>Paid Ads:</b> As above, PPC and display ads are a part of the marketing strategy, you can place display ads on these social media sites.
+								<br><b>TikTok:</b> Even TikTok is banned in some places, it is used in most of the countries and if you are a part of those active regions, then use TikTok as one of your marketing platforms. Because it is the new platform when compared to these above platforms, it gains an audience in a short period. So, audience engagement is more in this application.
 
-							<br><b>TikTok:</b> Even TikTok is banned in some places, it is used in most of the countries and if you are a part of those active regions, then use TikTok as one of your marketing platforms. Because it is the new platform when compared to these above platforms, it gains an audience in a short period. So, audience engagement is more in this application.
+								<br><b>Other Popular Platforms:</b> Pinterest, Reddit, WhatsApp are also some of the most used applications where you can implement your B2B marketing methods.
 
-							<br><b>Other Popular Platforms:</b> Pinterest, Reddit, WhatsApp are also some of the most used applications where you can implement your B2B marketing methods.
+								<br>These 6 ways will help you to connect with your target audience easily. Follow all these methods to get quick traffic.
+							</p>
+							<h4 class="h4-lg blog-title">(B) Selling Products to Customers </h4>
+							<p class="p-lg txt-justify blog-para">
 
-							<br>These 6 ways will help you to connect with your target audience easily. Follow all these methods to get quick traffic.
+								<br>Now, we will jump into the second step. When you follow these above-mentioned marketing methods, traffic will increase, and leads will start entering your business.
 
-							<h4 class="h4-lg">(B) Selling Products to Customers: </h4>
-
-							<br>Now, we will jump into the second step. When you follow these above-mentioned marketing methods, traffic will increase, and leads will start entering your business.
-
-							<br>After having enough amount of traffic to your website, it’s time to convert the traffic into your customers. For that, use the following ways. </p>
-
-
-
-							<h4 class="h4-lg">7. EMAIL MARKETING:</h4>
+								<br>After having enough amount of traffic to your website, it’s time to convert the traffic into your customers. For that, use the following ways.
+							</p>
 
 
-							<p class="p-lg">Emails are a personal way to connect with your customers. With the help of email, you can make more sales. But getting your customers’ mail is not an easy process. So, try these methods.
+
+							<h4 class="h4-lg blog-title">7. Email Marketing</h4>
+
+
+							<p class="p-lg blog-para">Emails are a personal way to connect with your customers. With the help of email, you can make more sales. But getting your customers’ mail is not an easy process. So, try these methods.
 
 								<br><b>Provide Free Resources:</b> Free resources are always the appreciated method between the customers. You can create a landing page to get the customers’ email and you can send the free content to your customer’s mail. In this way, you can get mail-ids and customers can get valuable content.
 
@@ -397,53 +505,53 @@ if (isset($_POST['send'])) {
 							</p>
 
 
-							<h4 class="h4-lg">Email Marketing Tools:</h4>
+							<h4 class="h4-lg blog-title">Email Marketing Tools</h4>
 
 
-							<p class="p-lg txt-justify">How do you send one mail to all your email subscribers at the same time? By using any of the email marketing tools (available online) like Mailchimp, it is possible to send one mail to many subscribers at the same time. This will save your time and Mailchimp is free to start and you can manage up to 2000 subscribers in its free plan. For more, you have to upgrade to the next rice plan. </p>
+							<p class="p-lg txt-justify blog-para">How do you send one mail to all your email subscribers at the same time? By using any of the email marketing tools (available online) like Mailchimp, it is possible to send one mail to many subscribers at the same time. This will save your time and Mailchimp is free to start and you can manage up to 2000 subscribers in its free plan. For more, you have to upgrade to the next rice plan. </p>
 
-							<h4 class="h4-lg">Customer Behavior:</h4>
+							<h4 class="h4-lg blog-title">Customer Behavior</h4>
 
 
-							<p class="p-lg txt-justify">Understanding your customers is the right path to cross the other half of the sea. You can make gradual improvements in posting articles, images, and sending emails when you know your customer requirements completely.
+							<p class="p-lg txt-justify blog-para">Understanding your customers is the right path to cross the other half of the sea. You can make gradual improvements in posting articles, images, and sending emails when you know your customer requirements completely.
 
 								<br>Also, by posting consistently on social media platforms and writing articles, you can make a sale.
 
 								<br>Hurrah! You finally made a sale.
 							</p>
 
-							<h4 class="h4-lg">(C) Retargeting and Repeating Process:</h4>
+							<h4 class="h4-lg blog-title">(C) Retargeting and Repeating Process</h4>
 
-							<p class="p-lg txt-justify">Want to make more sales?
+							<p class="p-lg txt-justify blog-para">Want to make more sales?
 
 								<br>Don’t worry. Check the other marketing methods. Retargeting is the process of reaching your old customers and connecting with them for future projects.
 
 								<br>Repeating the same process, again and again, will help you to get new traffic and customers. Some other b2b lead generation marketing strategies to implement are:
 							</p>
 
-							<h4 class="h4-lg">8. B2B INFLUENCER MARKETING: </h4>
+							<h4 class="h4-lg blog-title">8. B2B Influencer Marketing </h4>
 
-							<p class="p-lg txt-justify">Influencers are mostly present on every online platform. Influencers are the person who is believed by people and can help their followers by providing solutions. You can connect with these influencers in your niche, and ask them to promote your products in return for a commission.
+							<p class="p-lg txt-justify blog-para">Influencers are mostly present on every online platform. Influencers are the person who is believed by people and can help their followers by providing solutions. You can connect with these influencers in your niche, and ask them to promote your products in return for a commission.
 
 								<br>If any of your target B2B buyers follow the influencers (that you are connected with), then you have a chance of getting these buyers as your customers.
 							</p>
 
-							<h4 class="h4-lg">9. AFFILIATE MARKETING:</h4>
+							<h4 class="h4-lg blog-title">9. Affiliate Marketing</h4>
 
-							<p class="p-lg txt-justify">Do you know, you can connect with affiliate marketers to promote your products? Affiliate marketing is the process where people will promote your products to their B2B buyer friends/connections. If you make any profit or sell through them, you can give a commission fee for recommending clients to your business. So, it is easier to reach more B2B buyers. You can decide your commission fee range and terms & conditions for your affiliate marketers. </p>
+							<p class="p-lg txt-justify blog-para">Do you know, you can connect with affiliate marketers to promote your products? Affiliate marketing is the process where people will promote your products to their B2B buyer friends/connections. If you make any profit or sell through them, you can give a commission fee for recommending clients to your business. So, it is easier to reach more B2B buyers. You can decide your commission fee range and terms & conditions for your affiliate marketers. </p>
 
-							<h4 class="h4-lg">10. EVENT MARKETING:</h4>
+							<h4 class="h4-lg blog-title">10. Event Marketing</h4>
 
-							<p class="p-lg txt-justify">The type is similar to sample marketing provided by offline stores to convey their product presence to their customers.
+							<p class="p-lg txt-justify blog-para">The type is similar to sample marketing provided by offline stores to convey their product presence to their customers.
 
 								<br>You can conduct free events or seminars (webinars online) so that you can get traffic to your events. From that, you can able to find customers to make a sale.
 
 								<br>These are the ten proven b2b marketing strategies that will help you to drive leads to your B2B business.
 							</p>
 
-							<h4 class="h4-lg">Final Words:</h4>
+							<h4 class="h4-lg blog-title">Final Words</h4>
 
-							<p class="p-lg txt-justify">I hope, you can find many best ideas to improve your business growth. You can implement all these 10 strategies to get results quickly. Or you can do the one-by-one method to get passive outputs.
+							<p class="p-lg txt-justify blog-para">I hope, you can find many best ideas to improve your business growth. You can implement all these 10 strategies to get results quickly. Or you can do the one-by-one method to get passive outputs.
 
 								<br>Are you a beginner or running out of time? Leave this marketing process with us!
 
@@ -456,8 +564,8 @@ if (isset($_POST['send'])) {
 						<div class="row post-share-links d-flex align-items-center">
 
 							<!-- POST TAGS -->
-							<div class="col-md-9 col-xl-9 post-tags-list">
-								<div class='didide p-3'>
+							<div class="col-md-12 col-xl-12 post-tags-list">
+								<div class='didide p-3 blog-para'>
 									<!-- p-3 its edited for 22.9 -->
 									<span><a href="#">b2b marketing strategy</a></span>
 									<span><a href="#">b2b lead generation strategies</a></span>
@@ -476,14 +584,18 @@ if (isset($_POST['send'])) {
 							</div>
 
 							<!-- POST SHARE ICONS -->
-							<div class="col-md-3 col-xl-3 post-share-list text-end">
-								<ul class="share-social-icons ico-25 text-center clearfix">
-									<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
-									<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
-								</ul>
-							</div>
 
+
+						</div>
+
+						<div class="row d-flex align-items-center justify-content-center mt-50 gap-3">
+							<div class="col-md-2 d-flex align-items-center justify-content-center">
+								<img src="../images/person-icon.svg">
+							</div>
+							<div class="col-md-8">
+								<h4 class="h4-lg">Written by Beantsingh Duggal</h4>
+								<p class="p-lg txt-justify ">AVP Sales working at MindInventory, with overall experience of 13+ years, Beant Singh Duggal is evaluating business opportunities and potential markets by analyzing financial feasibility studies and conducting market research.He oversees the efforts to support and assist the organization in identifying and securing new Business opportunities, facilitating efforts to develop, implement and refine standard procedures for researching, collecting, and tracking information about clients including client’s coordinates, pipelines, and previous outsourcing experiences. </p>
+							</div>
 						</div>
 						<!--END POST SHARE-->
 					</div>
@@ -586,41 +698,12 @@ if (isset($_POST['send'])) {
 
 			<!-- INCLUDE BLOGS -->
 
-			<?php include('newblog.php') ?>
+			<?php include('newblog2.php') ?>
 
 		</div> <!-- END BLOG POSTS -->
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
-
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
+	<a id="back-to-top" class="back-to-top"><img src="../images/up-arrow.svg" class="up-arrow"></a>
 
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -628,6 +711,27 @@ if (isset($_POST['send'])) {
 	<?php include('footer-script.php') ?>
 
 
+	<script>
+		var backTop = $('#back-to-top');
+
+		$(window).scroll(function() {
+			console.log("hello1");
+			if ($(window).scrollTop() > 400) {
+				backTop.addClass('show');
+				console.log("hello2");
+			} else {
+				backTop.removeClass('show');
+				console.log("hello3");
+			}
+		});
+
+		backTop.on('click', function(e) {
+			e.preventDefault();
+			$('html, body').animate({
+				scrollTop: 0
+			}, '300');
+		});
+	</script>
 	<script type="application/ld+json">
 		{
 
@@ -725,7 +829,46 @@ if (isset($_POST['send'])) {
 		}
 	</script>
 	<!-- Custom Script -->
-	<script src="../js/custom.js"></script>
+	<!-- <script src="../js/custom.js"></script> -->
+
+	<script>
+		var owl = $('.service-carousel');
+		owl.owlCarousel({
+			items: 3,
+			loop: !0,
+			autoplay: !0,
+			navBy: 1,
+			nav: !1,
+			autoplayTimeout: 4e3,
+			autoplayHoverPause: !1,
+			smartSpeed: 2e3,
+			responsive: {
+				0: {
+					items: 2
+				},
+				550: {
+					items: 3
+				},
+				767: {
+					items: 3
+				},
+				768: {
+					items: 3
+				},
+				991: {
+					items: 3
+				},
+				1e3: {
+					items: 3
+				}
+			}
+		});
+	</script>
+	<script>
+		$('.clap-btn').on('click', function() {
+			$(this).toggleClass('clap-active');
+		});
+	</script>
 
 </body>
 
