@@ -13,7 +13,7 @@ if (isset($_POST['send'])) {
 	$message = $_POST['message'];
 	$subject = 'Contact Page Form Details';
 	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com,muthu@akkenna.com";
-	$htmlContent = ' 
+	$htmlContent = '
     <html> 
     <head> 
         <title>Welcome to Clickbox Agencies</title> 
