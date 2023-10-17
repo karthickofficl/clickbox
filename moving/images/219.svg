@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.62 511.45">
+  <g>
+    <path d="m160.54,122.95H37.5c-16.57,0-30,13.43-30,30v233.17c0,16.56,13.43,30,30,30h331.18" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <path d="m291.08,122.95h124.04c16.57,0,30,13.43,30,30v233.17c0,16.56-13.43,30-30,30h-31.44" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <polyline points="291.08 157.21 410.57 157.21 410.57 381.86 42.05 381.86 42.05 157.21 160.54 157.21" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <path d="m318.81,503.95h0c-26.2,0-47.45-21.24-47.45-47.45v-40.39h-99.83v40.39c0,26.2-21.24,47.45-47.45,47.45h0" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <line x1="110.98" y1="503.95" x2="331.91" y2="503.95" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <path d="m160.54,82.59v139.91c0,8.29,6.72,15,15,15h100.54c8.28,0,15-6.71,15-15V22.5c0-8.28-6.72-15-15-15h-100.54c-8.28,0-15,6.72-15,15v45.09" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <line x1="160.54" y1="204.87" x2="291.08" y2="204.87" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <line x1="160.54" y1="40.14" x2="291.08" y2="40.14" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <polyline points="189.68 108.88 213.11 129 261.94 82" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <polyline points="301.08 304.74 271.08 274.74 241.08 304.74" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <line x1="271.08" y1="274.74" x2="271.08" y2="349.25" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <polyline points="150.54 309.25 180.54 339.25 210.54 309.25" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <line x1="180.54" y1="339.25" x2="180.54" y2="264.74" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+  </g>
+  <g>
+    <line x1="234.31" y1="166.78" x2="249.31" y2="166.78" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+    <line x1="203.31" y1="166.78" x2="218.31" y2="166.78" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15"/>
+  </g>
+</svg>

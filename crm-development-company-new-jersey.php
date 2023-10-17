@@ -103,7 +103,7 @@
 			    <div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-20">
-					<h3 class="h4-xl text-center">Custom <span class="txtred">CRM Software Development Company</span><br/> in New Jersey </h3>
+					<h1 class="h4-xl text-center">Custom <span class="txtred">CRM Software Development Company</span><br/> in New Jersey </h1>
 					</div>
 				</div>
 			</div>
@@ -337,7 +337,7 @@
 						<div class="col ">
                         
 						   <div class="fbox-txt-center  text-center">
-                           <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color orange-bg ">
+                           <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange pink-color pink-bg ">
 								<span class="flaticon-idea"></span>
 							</div>
 								<!-- Title -->
@@ -349,7 +349,7 @@
 						<div class="col">
                            
                             <div class="fbox-txt-center text-center">
-                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
+                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange pink-color  pink-bg">
 								<span class="flaticon-algorithm"></span>
 							</div>
 								<!-- Title -->
@@ -359,7 +359,7 @@
                         </div>
 						<div class="col">
 							   <div class="fbox-txt-center text-center">
-                               <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
+                               <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange pink-color">
 								<span class="flaticon-smartphone"></span>
 							</div>
 								<!-- Title -->
@@ -371,7 +371,7 @@
 							
 						
                             <div class="fbox-txt-center text-center">
-                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
+                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange pink-color">
 								<span class="flaticon-web-design"></span>
 							</div>
 								<!-- Title -->
@@ -381,23 +381,25 @@
 						<div class="col">
 							
                             <div class="fbox-txt-center text-center">
-                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
+                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange pink-color">
 								<span class="flaticon-layers"></span>
 							</div>
 								<!-- Title -->
 								<h5 class="p-lg text-center">Deployment
 								</h5>
-							</div></div>
+							</div>
+							</div>
 						<div class="col">
 							
 						
                             <div class="fbox-txt-center text-center">
-                            <div class="fbox-ico-center ico-rounded-lg  bg-tra-green green-color">
-									<img class="img-fluid ico-100" src="../images/png-icons/133.png" alt="crm-development-service">
+                            <div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange pink-color">
+								<span class="flaticon-settings"></span>
 							</div>
 								<!-- Title -->
 								<h5 class="p-lg text-center">Maintenance and Support
 								</h5>
+							</div>
 							</div>
 
 						

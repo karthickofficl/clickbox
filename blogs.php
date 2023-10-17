@@ -11,11 +11,9 @@
 
 	<title>ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore</title>
 
-	<meta name=description
-		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta name=description content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
-	<meta name=keywords
-		content="seo agency, digital marketing agency, seo agency india, digital marketing agency india, seo agency coimbatore, digital marketing agency coimbatore" />
+	<meta name=keywords content="seo agency, digital marketing agency, seo agency india, digital marketing agency india, seo agency coimbatore, digital marketing agency coimbatore" />
 
 	<meta name="language" content="en" />
 
@@ -49,15 +47,13 @@
 
 	<meta property="og:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore" />
 
-	<meta property="og:description"
-		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta property="og:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore" />
 
-	<meta name="twitter:description"
-		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -92,8 +88,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/best-b2b-marketing.png"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://www.clickboxagency.com/images-new/blog/b2b-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -113,10 +108,10 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/b2b-marketing-strategy/">
-								<a href="https://clickboxagency.com/b2b-marketing-strategy/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/b2b-marketing-strategy/" class="btn  btn-pink yellow-hover last-link">Read More
+							</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -131,9 +126,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/inbound-vs-outbound-lead-generation-strategies.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/inbound-outbound-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -143,8 +136,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/"
-								class="txt-justify">Inbound Vs Outbound Lead Generation Strategies</a>
+							<a href="https://clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/" class="txt-justify">Inbound Vs Outbound Lead Generation Strategies</a>
 						</h5>
 
 						<!-- Text -->
@@ -154,11 +146,10 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/">
-								<a href="https://clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/blog/inbound-vs-outbound-lead-generation-strategies/" class="btn  btn-pink yellow-hover last-link">Read More
+							</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -173,9 +164,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/top-digital-marketing-interview-question-and-answers.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/top-digital-marketing-interview-question-and-answers.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -185,8 +174,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/blog/digital-marketing-interview-questions-answers/"
-								class="txt-justify">Top 50 Digital Marketing Interview Question and Answers</a>
+							<a href="https://clickboxagency.com/blog/digital-marketing-interview-questions-answers/" class="txt-justify">Top 50 Digital Marketing Interview Question and Answers</a>
 						</h5>
 
 						<!-- Text -->
@@ -195,11 +183,10 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/blog/digital-marketing-interview-questions-answers/">
-								<a href="https://clickboxagency.com/blog/digital-marketing-interview-questions-answers/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/blog/digital-marketing-interview-questions-answers/" class="btn  btn-pink yellow-hover last-link">Read More
+							</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -214,9 +201,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/online-logo-makers-tool.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/online-logo-makers-tool.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -236,10 +221,9 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/blog/online-free-logo-makers/">
-								<a href="https://clickboxagency.com/blog/online-free-logo-makers/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/blog/online-free-logo-makers/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -254,9 +238,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/seo-interview-questions.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/advanced-seo-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -266,21 +248,18 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://www.clickboxagency.com/blog/seo-interview-questions/"
-								class="txt-justify">Advanced 20 SEO Interview Questions and Answers 2023 Updated</a>
+							<a href="https://www.clickboxagency.com/blog/seo-interview-questions/" class="txt-justify">Advanced 20 SEO Interview Questions and Answers 2023 Updated</a>
 						</h5>
 
 						<!-- Text -->
 						<p class="p-lg txt-justify">In today's world, digital marketing has developed as one of the most
-							desirable job routes, and <a href="https://searchengineland.com/guide/what-is-seo"
-								style="color:#0000FF;"><u>search engine optimization</u></a> is the digital marketing...
+							desirable job routes, and <a href="https://searchengineland.com/guide/what-is-seo" style="color:#0000FF;"><u>search engine optimization</u></a> is the digital marketing...
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://www.clickboxagency.com/blog/seo-interview-questions/">
-								<a href="https://www.clickboxagency.com/blog/seo-interview-questions/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://www.clickboxagency.com/blog/seo-interview-questions/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -295,9 +274,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/how-to-create-seo-friendly-website.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-create-seo-friendly-website.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -307,8 +284,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/"
-								class="txt-justify">How to Create SEO Friendly Website in 2023</a>
+							<a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/" class="txt-justify">How to Create SEO Friendly Website in 2023</a>
 						</h5>
 
 						<!-- Text -->
@@ -317,18 +293,16 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/">
-								<a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
 				</div> <!-- End row -->
 			</div>
 			<!-- END FEATURED POST 6 -->
-			
+
 
 			<!-- FEATURED POST 7 -->
 			<div class="rel blog-post-wide featured-post">
@@ -337,9 +311,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/digital-marketing-checklist.png"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/digital-marketing-checklist-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -349,19 +321,16 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/digital-marketing-checklist/"
-								class="txt-justify">Digital Marketing Checklists to Make Marketing Process Easier In 2023</a>
+							<a href="https://clickboxagency.com/digital-marketing-checklist/" class="txt-justify">Digital Marketing Checklists to Make Marketing Process Easier In 2023</a>
 						</h5>
 
 						<!-- Text -->
 						<p class="p-lg txt-justify">Marketing is the best business partner for every entrepreneur and marketer who wants to reach their target ...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/digital-marketing-checklist/">
-								<a href="https://clickboxagency.com/digital-marketing-checklist/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/digital-marketing-checklist/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -376,9 +345,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/how-much-cost-facebook-advertising.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/facebook-ads-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -388,8 +355,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/"
-								class="txt-justify">How Much Does Facebook Advertising Cost in 2023?</a>
+							<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/" class="txt-justify">How Much Does Facebook Advertising Cost in 2023?</a>
 						</h5>
 
 						<!-- Text -->
@@ -397,11 +363,9 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/">
-								<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/how-much-does-it-cost-for-facebook-ads/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -416,9 +380,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -428,21 +390,18 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/reputation-management-in-digital-marketing/"
-								class="txt-justify">Role of ORM in Digital Marketing-How It Impacts Your Business?</a>
+							<a href="https://clickboxagency.com/reputation-management-in-digital-marketing/" class="txt-justify">Role of ORM in Digital Marketing-How It Impacts Your Business?</a>
 						</h5>
 
 						<!-- Text -->
 						<p class="p-lg txt-justify">ORM is abbreviated as Online Reputation Management.
-										Online Reputation Management is the ...
+							Online Reputation Management is the ...
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/reputation-management-in-digital-marketing/">
-								<a href="https://clickboxagency.com/reputation-management-in-digital-marketing/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/reputation-management-in-digital-marketing/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -457,9 +416,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/how-to-choose-right-digital-marketing.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/right-dightal-marketing-agency-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -469,19 +426,16 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/right-digital-marketing-agency/"
-								class="txt-justify">How to Choose the Right Digital Marketing Agency in 2022?</a>
+							<a href="https://clickboxagency.com/right-digital-marketing-agency/" class="txt-justify">How to Choose the Right Digital Marketing Agency in 2022?</a>
 						</h5>
 
 						<!-- Text -->
 						<p class="p-lg txt-justify">Planning to choose the digital marketing agency for your business? It is easy, but...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/right-digital-marketing-agency/">
-								<a href="https://clickboxagency.com/right-digital-marketing-agency/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/right-digital-marketing-agency/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -506,8 +460,7 @@
 									<span class="flaticon-back"></span>
 								</a>
 							</li>
-							<li class="page-item active" aria-current="page"><a class="page-link"
-									href="https://clickboxagency.com/blogs/">1</a></li>
+							<li class="page-item active" aria-current="page"><a class="page-link" href="https://clickboxagency.com/blogs/">1</a></li>
 							<li class="page-item"><a class="page-link" href="https://clickboxagency.com/page2/">2</a>
 							</li>
 							<li class="page-item"><a class="page-link" href="#">3</a></li>

@@ -12,7 +12,7 @@ if (isset($_POST['send'])) {
 	
 	
 	$subject = 'Enquiry From UI/UX Course';
-	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com,muthu@akkena.com";
 	$htmlContent = ' 
     <html> 
     <head> 

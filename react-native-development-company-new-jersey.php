@@ -66,7 +66,7 @@
 	<section id="hero-4" class="bg-scroll hero-section division  pb-0">
 		<div class="container">
 			<div class="row d-flex align-items-center justify-content-center mt-inverse-20">
-            <h3 class="h3-xs text-center white-color mt-inverse-20"> Premium <span class="txtyelloww">React Native App Development Company</span><br/>  in New Jersey </h3>
+            <h1 class="h3-xs text-center white-color mt-inverse-20"> Premium <span class="txtyelloww">React Native App Development Company</span><br/>  in New Jersey </h1>
 				 <div class="col-md-6 col-lg-6 mb-20 mt-30" >
 					<div class="left-column wow fadeInRight ">
 					    <div>
@@ -1212,7 +1212,7 @@
 								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" class="form-control phone" placeholder="Mobile Number*" maxlength="10">
 							</div>
 							<div class="col-md-6">
 								<input type="text" name="company" class="form-control company" placeholder="Company Name*">

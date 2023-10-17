@@ -12,7 +12,7 @@ if (isset($_POST['send'])) {
     $message = $_POST['message'];
     $subject = 'Career Job Application';
 
-    $to ="sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com , dineshkumar@akkenna.com , sofia@akkenna.com";
+    $to ="sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
     $htmlContent = ' 
     <html> 
     <head> 
@@ -526,7 +526,7 @@ if (isset($_POST['send'])) {
 
     <section class="mt-30 mb-30">
         <div class="container-fluid jobcontainer">
-            <h1 class="text-center mt-50 mb-50 ">Current Opening</h1>
+            <h2 class="text-center mt-50 mb-50 ">Current Opening</h2>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="accordion" id="accordionExample">

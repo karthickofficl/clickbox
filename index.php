@@ -21,13 +21,13 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.clickboxagency.com/" />
 	<meta property="og:site_name" content="https://www.clickboxagency.com/" />
-	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.webp" />
 	<meta property="og:title" content="ClickBox Creative Digital Marketing and Advertising Agency" />
 	<meta property="og:description" content="ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development." />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="ClickBox Creative Digital Marketing and Advertising Agency" />
 	<meta name="twitter:description" content="ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development." />
-	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
+	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.webp" />
 
 	<!-- FAVICON AND TOUCH ICONS -->
 	<link rel="shortcut icon" href="https://clickboxagency.com/images/favicon.ico" type="image/x-icon">
@@ -70,7 +70,7 @@
 <body>
 	<?php include('header.php') ?>
 	<!-- <section class="rel">
-		<video id="background-video" autoplay loop muted poster="./images/png-icons/banner-video-img.jpg">
+		<video id="background-video" autoplay loop muted poster="./images/png-icons/banner-video-img.webp">
 			<source src="https://clickboxagency.com/images/video/videoclick.mp4" type="video/mp4">
 		</video>
 		<div class="videoinsidetext">
@@ -99,7 +99,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="https://clickboxagency.com/images/we-are-generating-digital-marketing.svg" alt="we-are-generating-digital-marketing">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/home/we-are-generating-digital-marketing.webp" alt="we-are-generating-digital-marketing">
 						</div>
 					</div>
 					<!-- TEXT BLOCK -->
@@ -135,7 +135,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="logo design">
+										<img src="https://clickboxagency.com/images-new/home/icons/logo-design.webp" alt="logo design">
 									</span>
 								</div>
 							</div>
@@ -155,7 +155,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="ui ux design">
+										<img src="https://clickboxagency.com/images-new/home/icons/ui-ux.webp" alt="ui ux design">
 									</span>
 								</div>
 							</div>
@@ -176,7 +176,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="website development">
+										<img src="https://clickboxagency.com/images-new/home/icons/programmer.webp" alt="website development">
 									</span>
 								</div>
 							</div>
@@ -197,7 +197,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="ecommerce devlopement">
+										<img src="https://clickboxagency.com/images-new/home/icons/ecommerce.webp" alt="ecommerce devlopement">
 									</span>
 								</div>
 							</div>
@@ -218,7 +218,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="mobile app development">
+										<img src="https://clickboxagency.com/images-new/home/icons/app-development.webp" alt="mobile app development">
 									</span>
 								</div>
 							</div>
@@ -239,7 +239,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="digital marketing">
+										<img src="https://clickboxagency.com/images-new/home/icons/social-media-marketing.webp" alt="digital marketing">
 									</span>
 								</div>
 							</div>
@@ -261,7 +261,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="content marketing">
+										<img src="https://clickboxagency.com/images-new/home/icons/content-creator.webp" alt="content marketing">
 									</span>
 								</div>
 							</div>
@@ -282,7 +282,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="seo">
+										<img src="https://clickboxagency.com/images-new/home/icons/seo.webp" alt="seo">
 									</span>
 								</div>
 							</div>
@@ -303,7 +303,7 @@
 							<div class="fbox-ico-home">
 								<div class="ico-65-home">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="explainer video">
+										<img src="https://clickboxagency.com/images-new/home/icons/teaching.webp" alt="explainer video">
 									</span>
 								</div>
 							</div>
@@ -336,141 +336,141 @@
 					<div class="owl-carousel brands-carousel">
 						<!-- Designing -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/17.jpg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="../images-new/home/tools/17.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/18.jpg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/18.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/19.jpg" alt="tools-logo" />
-						</div>
-
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/01.jpeg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/19.webp" alt="tools-logo" />
 						</div>
 
-						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/03.jpg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/01.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/04.jpg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/03.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/05.jpg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/04.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/06.jpg" alt="tools-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/05.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/23.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/06.webp" alt="tools-logo">
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/25.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/23.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/27.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/25.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/24.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/27.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/26.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/24.webp" alt="tools-logo" />
+						</div>
+
+						<!-- BRAND LOGO IMAGE -->
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/26.webp" alt="tools-logo" />
 						</div>
 						<!--  -->
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/07.jpg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/07.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/08.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/08.webp" alt="brand-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/10.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/10.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/11.svg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/11.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/12.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/12.webp" alt="brand-logo" />
 						</div>
 						<!--  -->
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/20.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/20.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/09.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/09.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/22.jpg" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/22.webp" alt="brand-logo" />
 						</div>
 						<!--  -->
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/29.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/29.webp" alt="brand-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/28.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/28.webp" alt="brand-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/32.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/32.webp" alt="brand-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/33.png" alt="brand-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/33.webp" alt="brand-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/34.png" alt="tools-logo" />
-						</div>
-						<!--  -->
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/13.png" alt="tools-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/14.jpg" alt="tools-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/15.png" alt="tools-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/16.svg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/34.webp" alt="tools-logo" />
 						</div>
 						<!--  -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/35.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/13.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/37.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/14.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/31.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/15.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/36.png" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/16.webp" alt="tools-logo" />
+						</div>
+						<!--  -->
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/35.webp" alt="tools-logo" />
+						</div>
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/37.webp" alt="tools-logo" />
+						</div>
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/31.webp" alt="tools-logo" />
+						</div>
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/home/tools/36.webp" alt="tools-logo" />
 						</div>
 					</div>
 				</div>
@@ -485,7 +485,7 @@
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title title-01 mb-70">
 						<!-- Title -->
-						<h2 class="h3-xs ">Why Choose ClickBox for <span class="txtred">Your Digital Marketing Agency?</span></h2>
+						<h2 class="h3-xs ">Why Choose ClickBox?</h2>
 					</div>
 				</div>
 			</div>
@@ -525,7 +525,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
-						<img src="https://clickboxagency.com/images/png-icons/why-choose-us-home.png" alt="why choose clickboxagency" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/home/why-choose-us-home.webp" alt="why choose clickboxagency" class="img-fluid">
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
@@ -600,7 +600,7 @@
 							<!-- Icon -->
 							<div class="ico-65">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="research and analysis">
+									<img src="https://clickboxagency.com/images-new/home/icons/analyst.webp" alt="research and analysis">
 								</span>
 							</div>
 						</div>
@@ -618,7 +618,7 @@
 								<!-- Icon -->
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="planning and implementation">
+										<img src="https://clickboxagency.com/images-new/home/icons/process.webp" alt="planning and implementation">
 									</span>
 								</div>
 							</div>
@@ -637,7 +637,7 @@
 								<!-- Icon -->
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/control.svg" alt="monitoring">
+										<img src="https://clickboxagency.com/images-new/home/icons/control.webp" alt="monitoring">
 									</span>
 								</div>
 							</div>
@@ -656,7 +656,7 @@
 								<!-- Icon -->
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="reporting and analysis">
+										<img src="https://clickboxagency.com/images-new/home/icons/analytics.webp" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -687,48 +687,25 @@
 				<div class="col text-center">
 					<div class="owl-carousel brands-carousel">
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-3.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-3.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-18.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-18.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-6.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-6.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-7.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-7.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-12.png" alt="brand-logo" />
-						</div>
-						<!-- <div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-1.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-4.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-2.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-12.webp" alt="brand-logo" />
 						</div>
 						
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-5.png" alt="brand-logo">
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-8.png" alt="brand-logo" />
-						</div>
-
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-9.png" alt="brand-logo" />
-						</div>
-
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-10.png" alt="brand-logo" />
-						</div> -->
 					</div>
 				</div>
 			</div> <!-- End Brands Carousel -->
@@ -739,50 +716,30 @@
 					<div class="owl-carousel brands-carousel">
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-22.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-22.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-23.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-23.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-24.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-24.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-25.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-25.webp" alt="brand-logo" />
 						</div>
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-27.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-27.webp" alt="brand-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-21.png" alt="brand-logo" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/clients/brand-21.webp" alt="brand-logo" />
 						</div>
-						<!-- <div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-13.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-14.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-15.png" alt="brand-logo">
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-16.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-17.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-19.png" alt="brand-logo" />
-						</div>
-						<div class="brand-logo">
-							<img class="img-fluid" src="https://clickboxagency.com/images/brand-20.png" alt="brand-logo" />
-						</div> -->
+						
 					</div>
 				</div>
 			</div> <!-- End Brands Carousel -->
@@ -808,21 +765,21 @@
 						<div class="hover-div gallery__item gallery__item--1">
 							<figure class='hover-hover'>
 								<a href="https://clickboxagency.com/saas-marketing-techniques/" aria-label="saas marketing techniques" title="saas">
-									<img src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg" alt="saas marketing techniques" class='upcoming_grid borradi-10 hover-home-img' />
+									<img src="https://clickboxagency.com/images-new/home/saas-marketing-techniques.webp" alt="saas marketing techniques" class='upcoming_grid borradi-10 hover-home-img' />
 								</a>
 							</figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--2">
-							<figure class='hover-hover'> <a href="https://clickboxagency.com/blog/online-free-logo-makers/" aria-label="online logo makers" title="online logo makers"><img src="https://clickboxagency.com/images/blog/online-logo-makers-tool.jpg" alt="online logo makers" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'> <a href="https://clickboxagency.com/blog/online-free-logo-makers/" aria-label="online logo makers" title="online logo makers"><img src="https://clickboxagency.com/images-new/home/online-logo-makers-tool.webp" alt="online logo makers" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/" aria-label="seo friendly website" title="seo friendly website"><img src="https://clickboxagency.com/images/png-icons/home-blog02.jpg" alt="seo friendly website" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/how-to-create-seo-friendly-website/" aria-label="seo friendly website" title="seo friendly website"><img src="https://clickboxagency.com/images-new/home/seo-friendly.webp" alt="seo friendly website" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-process/" aria-label="logo design process" title="logo design process"><img src="https://clickboxagency.com/images/png-icons/home-blog01.jpg" alt="logo design process" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-process/" aria-label="logo design process" title="logo design process"><img src="https://clickboxagency.com/images-new/home/logo-design-process.webp" alt="logo design process" class='upcoming_grid' /></a></figure>
 						</div>
 						<div class="hover-div gallery__item gallery__item--3">
-							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-principles/" aria-label="logo design principles" title="logo design principles"><img src="https://clickboxagency.com/images/blog/logo-design-principles-you-need-to-know.jpg" alt="logo design principles" class='upcoming_grid' /></a></figure>
+							<figure class='hover-hover'><a href="https://clickboxagency.com/blog/logo-design-principles/" aria-label="logo design principles" title="logo design principles"><img src="https://clickboxagency.com/images-new/home/logo-design-principles-you-need-to-know.webp" alt="logo design principles" class='upcoming_grid' /></a></figure>
 						</div>
 					</div>
 				</div>
@@ -1031,7 +988,7 @@
 					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
 						<div class="txt-block left-column wow fadeInLeft ">
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md"><span style="color: #fff;">Are you Ready to Take the Next Step in your Career?</span></h4>
+								<h4 class="h4-md"><span style="color: #fff;">Are You Ready To Take The Next Step In Your Career?</span></h4>
 								<p class="p-md text-white">We offer a challenging and rewarding work environment with ample opportunities for growth and advancement.</p>
 								<a href="https://clickboxagency.com/career/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">Join Our Dynamic Team</a>
 
@@ -1078,7 +1035,7 @@
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "ClickBox Digital Marketing Agency is your hub for branding enhancement through digital marketing, graphics, video creation, and website/mobile app development.",
-			"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.webp",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 8870578887",

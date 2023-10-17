@@ -85,7 +85,7 @@
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/184.png" alt="we-are-generating-digital-marketing">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/184.webp" alt="we-are-generating-digital-marketing">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
@@ -116,7 +116,7 @@
 						<div class="squire-icons">
 							<div class="ico-65">
 								<span>
-									<img src="../images/186.png" alt="research and analysis">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/186.webp" alt="research and analysis">
 								</span>
 							</div>
 						</div>
@@ -136,7 +136,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/187.png" alt="planning and implementation">
+										<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/187.webp" alt="planning and implementation">
 									</span>
 								</div>
 							</div>
@@ -157,7 +157,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/188.png" alt="monitoring">
+										<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/188.webp" alt="monitoring">
 									</span>
 								</div>
 							</div>
@@ -178,7 +178,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/189.png" alt="reporting and analysis">
+										<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/189.webp" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -199,7 +199,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/190.png" alt="reporting and analysis">
+										<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/190.webp" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -220,7 +220,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/191.png" alt="reporting and analysis">
+										<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/191.webp" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -254,7 +254,7 @@
 					<div class="col">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg  ">
-								<img src="../images/png-icons/php01.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php01.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">Custom PHP Web Development Services</h5>
 							<p class="p-lg">Our company offers PHP web design and development services that are tailored to the needs of your business. We have a team of experienced PHP developers who can make scalable, secure, and easy-to-use web solutions that will help your business grow and improve your online presence.</p>
@@ -264,7 +264,7 @@
 					<div class="col">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php02.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php02.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Framework Development</h5>
 							<p class="p-lg">We are experts at building PHP frameworks, and we use popular frameworks like Laravel, CodeIgniter, and Symfony to make strong web apps. Our experienced developers make sure that the code is written in a way that is efficient, scalable, and can be changed to fit the needs of your business.</p>
@@ -274,7 +274,7 @@
 					<div class="col">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php03.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php03.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">Full-Stack PHP Development</h5>
 							<p class="p-lg">We provide full-stack PHP development services in New Jersey to create web apps that are effective and scalable. In order to offer high-quality services that are precisely tailored to your company's needs, our team makes use of the most recent frameworks and developments and has extensive knowledge in both front-end and back-end design.</p>
@@ -284,7 +284,7 @@
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php04.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php04.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Website Support & Maintenance</h5>
 							<p class="p-lg">ClickBox offers expert PHP web development support and maintenance services to keep your site up-to-date, secure, and working well. Our services include fixing bugs, putting out updates, making backups, and checking security. Contact us if you want solutions that are reliable and cost-effective.</p>
@@ -294,7 +294,7 @@
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php05.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php05.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Web APP Upgradation & Migration</h5>
 							<p class="p-lg">We offer professional PHP web app development upgrade and migration services to make sure your web app is up-to-date and running well. Our team of experts will take care of the process so you can focus on running your business.</p>
@@ -304,7 +304,7 @@
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php06.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php06.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP Back-End & Web Services</h5>
 							<p class="p-lg">Our developers are experts at making PHP back-end solutions and web services to power your online presence. Professionals at ClickBox make solutions that meet the needs of your business that are stable, responsive, and secure. Let us assist you in giving form to your thoughts.</p>
@@ -314,7 +314,7 @@
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php07.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php07.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">eCommerce PHP Solutions</h5>
 							<p class="p-lg">Our eCommerce PHP web development Solutions give businesses of all sizes a platform that is powerful and scalable. With features like integrating payment gateways, managing inventory, and tracking orders, we help you make online shopping for your customers as easy as possible.</p>
@@ -324,7 +324,7 @@
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg">
-								<img src="../images/png-icons/php08.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php08.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP CMS/Platforms Development</h5>
 							<p class="p-lg">Our PHP development agency in New Jersey specializes in making content management systems and platforms that are powerful, flexible, and match the needs of your business. We use the newest PHP frameworks and technologies to create solutions that are secure and efficient.</p>
@@ -334,7 +334,7 @@
 					<div class="col mt-20">
 						<div class="fbox-5 bg-white h-100 mb-40 wow fadeInUp">
 							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/png-icons/php09.png" alt="php icon" class="img-fluid">
+								<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/php09.webp" alt="php icon" class="img-fluid">
 							</div>
 							<h5 class="h5-sm">PHP API Development & Integrations</h5>
 							<p class="p-lg">We specialize in the creation and integration of PHP APIs. Our team is skilled at building reliable APIs that securely link your web applications, mobile apps, and other services, ensuring the best possible user experience and performance.</p>
@@ -348,13 +348,16 @@
 	</section>
 
 	<!-- SECTION 5 -->
-	<section id="features-4" class="pt-20 bg-white features-section division">
+		<!-- FEATURES-5
+			============================================= -->
+
+	<section id="features-4" class=" bg-white features-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
-					<div class="section-title  mb-70">
-						<h2 class="h3-xs text-center">PHP Web Development Company in New Jersey for <span class="txtred">Several Different Industry Sectors!</span></h2>
-						<p class="p-lg text-center">PHP is a fantastic choice for building websites and web applications for a wide range of industries because it is flexible and easy to change. Our PHP development services in New Jersey can help you build a strong online presence that engages and keeps your audience's attention, regardless of your industry, whether it's finance, healthcare, e-commerce, or another field. Our team of expert PHP developers has the technical expertise and creativity to create custom web solutions for your business that meet all of its needs. Let us help you make an online experience that keeps people interested, raises the visibility of your brand, and grows your business.</p>
+					<div class="section-title  mb-40">
+						<h3 class="h4-xl text-center">Industry</span></h3>
+						<!--<p class="p-lg text-center">PHP is a fantastic choice for building websites and web applications for a wide range of industries because it is flexible and easy to change. Our PHP development services in New Jersey can help you build a strong online presence that engages and keeps your audience's attention, regardless of your industry, whether it's finance, healthcare, e-commerce, or another field. Our team of expert PHP developers has the technical expertise and creativity to create custom web solutions for your business that meet all of its needs. Let us help you make an online experience that keeps people interested, raises the visibility of your brand, and grows your business.</p>-->
 					</div>
 				</div>
 			</div>
@@ -363,15 +366,15 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/192.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/192.webp">
 							</figure>
-							<figcaption> Education & e-learning </figcaption>
+							<figcaption> Education </figcaption>
 						</a>
 					</div>
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/193.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/193.webp">
 							</figure>
 							<figcaption> Food & Restaurant </figcaption>
 						</a>
@@ -379,31 +382,31 @@
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/194.jpg">
+								<img class="lazyload" alt="Dev Technosys-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/194.webp">
 							</figure>
-							<figcaption> Travel & Tourism </figcaption>
+							<figcaption> Travel & Tours </figcaption>
 						</a>
 					</div>
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/195.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/195.webp">
 							</figure>
-							<figcaption> Healthcare & Medical </figcaption>
+							<figcaption> Healthcare </figcaption>
 						</a>
 					</div>
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/196.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/196.webp">
 							</figure>
-							<figcaption> Entertainment & media </figcaption>
+							<figcaption> Gaming </figcaption>
 						</a>
 					</div>
 					<div class="col-md-6 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/197.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/197.webp">
 							</figure>
 							<figcaption> Ecommerce </figcaption>
 						</a>
@@ -411,31 +414,31 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/198.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/198.webp">
 							</figure>
-							<figcaption> Non-profit & social organizations </figcaption>
+							<figcaption> Service Marketplace </figcaption>
 						</a>
 					</div>
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/199.jpg">
+								<img class="lazyload" alt="Dev Technosys-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/199.webp">
 							</figure>
-							<figcaption> Automotive industry </figcaption>
+							<figcaption> Automotives </figcaption>
 						</a>
 					</div>
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/200.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/200.webp">
 							</figure>
-							<figcaption> Finance & banking </figcaption>
+							<figcaption> Banking </figcaption>
 						</a>
 					</div>
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/201.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/201.webp">
 							</figure>
 							<figcaption> Real Estate </figcaption>
 						</a>
@@ -443,7 +446,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/202.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/202.webp">
 							</figure>
 							<figcaption> On-demand </figcaption>
 						</a>
@@ -452,6 +455,13 @@
 			</div>
 		</div>
 	</section>
+
+
+
+
+
+
+
 	<!-- SECTION 6 -->
 	<!-- CONTENT-7 -->
 	<!-- <section id="content-3" class="bg-snow pt-40 pb-30 content-3  content-section division">
@@ -545,7 +555,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="logo design">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/logo-design.webp" alt="logo design">
 								</span>
 							</div>
 						</div>
@@ -560,7 +570,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="ui ux design">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/ui-ux.webp" alt="ui ux design">
 								</span>
 							</div>
 						</div>
@@ -575,7 +585,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="website development">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/programmer.webp" alt="website development">
 								</span>
 							</div>
 						</div>
@@ -590,7 +600,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="content marketing">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/content-creator.webp" alt="content marketing">
 								</span>
 							</div>
 						</div>
@@ -605,7 +615,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="seo">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/seo.webp" alt="seo">
 								</span>
 							</div>
 						</div>
@@ -620,7 +630,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="explainer video">
+									<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/icon/teaching.webp" alt="explainer video">
 								</span>
 							</div>
 						</div>
@@ -686,7 +696,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
-						<img src="../images/185.png" alt="why choose clickboxagency" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/php-development-service-new-jersey/185.webp" alt="why choose clickboxagency" class="img-fluid">
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
@@ -740,7 +750,7 @@
 					<div class="owl-carousel service-carousel">
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-process"></span>
 								</div>
 								<div class="fbox-txt-center">
@@ -750,7 +760,7 @@
 						</div>
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-idea"></span>
 								</div>
 								<div class="fbox-txt-center">
@@ -760,7 +770,7 @@
 						</div>
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-paint-roller"></span>
 								</div>
 								<div class="fbox-txt-center">
@@ -771,7 +781,7 @@
 
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-php"></span>
 								</div>
 								<div class="fbox-txt-center">
@@ -781,7 +791,7 @@
 						</div>
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-shield-2"></span>
 								</div>
 								<div class="fbox-txt-center">
@@ -792,7 +802,7 @@
 
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-server"></span>
 								</div>
 								<div class="fbox-txt-center">
@@ -802,7 +812,7 @@
 						</div>
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
+								<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
 									<span class="flaticon-user"></span>
 								</div>
 								<div class="fbox-txt-center">

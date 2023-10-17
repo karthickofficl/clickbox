@@ -1,0 +1,7 @@
+[23-Aug-2023 22:15:41 UTC] PHP Warning:  include(popup1.php): failed to open stream: No such file or directory in /home/clicjvku/public_html/seo/index.php on line 172
+[23-Aug-2023 22:15:41 UTC] PHP Warning:  include(popup1.php): failed to open stream: No such file or directory in /home/clicjvku/public_html/seo/index.php on line 172
+[23-Aug-2023 22:15:41 UTC] PHP Warning:  include(): Failed opening 'popup1.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clicjvku/public_html/seo/index.php on line 172
+[24-Aug-2023 06:12:55 UTC] PHP Warning:  include(/home/clicjvku/public_html/clickboxdemo/footer.php): failed to open stream: No such file or directory in /home/clicjvku/public_html/seo/seo-agency-bangalore.php on line 1084
+[24-Aug-2023 06:12:55 UTC] PHP Warning:  include(): Failed opening '/home/clicjvku/public_html/clickboxdemo/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clicjvku/public_html/seo/seo-agency-bangalore.php on line 1084
+[24-Aug-2023 06:12:55 UTC] PHP Warning:  include(/home/clicjvku/public_html/clickboxdemo/footer-script.php): failed to open stream: No such file or directory in /home/clicjvku/public_html/seo/seo-agency-bangalore.php on line 1087
+[24-Aug-2023 06:12:55 UTC] PHP Warning:  include(): Failed opening '/home/clicjvku/public_html/clickboxdemo/footer-script.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/clicjvku/public_html/seo/seo-agency-bangalore.php on line 1087

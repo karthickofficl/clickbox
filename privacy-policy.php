@@ -104,7 +104,7 @@
  							<h1 class="h2-md">Privacy Policy</h1>
 
  							<!-- Text -->
- 							<p class="p-xl grey-color">Last Modified: May 10, 2022</p>
+ 							<p class="p-xl grey-color">Last Modified: May 10, 2023</p>
 
  						</div>
 
@@ -216,37 +216,7 @@
  				</div> <!-- End row -->
  			</div> <!-- End container -->
  		</section> <!-- END TERMS & PRIVACY -->
- 		<!-- CALL TO ACTION-5
-			============================================= -->
- 		<section id="cta-5" class="cta-section division">
- 			<div class="container">
- 				<div class="rel bg-04 cta-5-wrapper">
- 					<div class="row justify-content-center">
-
-
- 						<!-- CALL TO ACTION TEXT -->
- 						<div class="col-lg-8">
- 							<div class="cta-5-txt white-color text-center">
-
- 								<!-- Title -->
- 								<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
- 								<!-- Text -->
- 								<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
- 								</p>
-
- 								<!-- Button -->
- 								<a href="https://www.clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
- 							</div>
- 						</div>
-
-
- 					</div>
- 				</div> <!-- End row -->
- 			</div> <!-- End container -->
- 		</section> <!-- END CALL TO ACTION-5 -->
+ 		
  		<?php include('footer1.php') ?>
 
  		<script type="application/ld+json">

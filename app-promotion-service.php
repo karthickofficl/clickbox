@@ -129,7 +129,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-4-txt white-color">
 
 						<!-- Title -->
-						<h2 class="h2-md">Expand your Apps with us - ClickBox</h2>
+						<h1 class="h2-md">Expand your Apps with us - ClickBox</h1>
 
 
 					</div>

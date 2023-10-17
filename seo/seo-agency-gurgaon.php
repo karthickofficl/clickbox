@@ -6,7 +6,7 @@ if (isset($_POST['send'])) {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	
+
 	$subject = 'Enquiry From UI/UX Course';
 	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
@@ -45,7 +45,6 @@ if (isset($_POST['send'])) {
 	} else {
 		$result = '
 		One of our representative will get in touch you.';
-		
 	}
 }
 ?>
@@ -110,6 +109,11 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
+	<style>
+		.review-4 {
+			height: 310px;
+		}
+	</style>
 
 </head>
 
@@ -288,12 +292,9 @@ if (isset($_POST['send'])) {
 	</section> <!-- END CONTENT-2 -->
 
 
-	<!-- FEATURES-3
-			============================================= -->
-	<section id="features-3" class="pb-60 features-section division">
-		<div class="container">
-
-
+	<!-- FEATURES-3 WRAPPER -->
+	<div class="fbox-3-wrapper text-center">
+		<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
@@ -313,258 +314,254 @@ if (isset($_POST['send'])) {
 			</div>
 
 
-			<!-- FEATURES-3 WRAPPER -->
-			<div class="fbox-3-wrapper text-center">
-				<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+			<!-- FEATURE BOX #1 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
-
-					<!-- FEATURE BOX #1 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<span class="flaticon-idea"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">On-Page SEO</h5>
-
-								<!-- Text -->
-								<p class="p-lg">Our on-page services include the process of optimizing search engine friendly content. It includes website content like heading (H1, H2...H6), descriptions, tags, keywords, blog, etc., Also the internal linking quality is also analyzed. These tasks will help to list your website on top of search engine results on Google, Bing, etc.,
-
-
-								</p>
-
-							</div>
-
-						</div>
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
+						<img src="../../images/Search engine optimization/Icon/1_2.svg" class="mt-25" alt="On-Page SEO" />
+						<!-- <span class="flaticon-idea"></span> -->
 					</div>
 
+					<!-- Text -->
+					<div class="fbox-txt-center">
 
-					<!-- FEATURE BOX #2 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+						<!-- Title -->
+						<h5 class="h5-md">On-Page SEO</h5>
 
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-								<span class="flaticon-smartphone"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Off-Page SEO
-								</h5>
-
-								<!-- Text -->
-								<p class="p-lg">The off-page process is the activity of building backlinks to your website. The more quality backlinks, the more reach your website will receive. So, we assure you by building the best backlinks to your site by writing SEO content blog, press releases, attractive profile creations, etc.,
+						<!-- Text -->
+						<p class="p-lg">Our on-page services include the process of optimizing search engine friendly content. It includes website content like heading (H1, H2...H6), descriptions, tags, keywords, blog, etc., Also the internal linking quality is also analyzed. These tasks will help to list your website on top of search engine results on Google, Bing, etc.,
 
 
-								</p>
+						</p>
 
-							</div>
-
-						</div>
 					</div>
-
-
-					<!-- FEATURE BOX #3 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
-								<span class="flaticon-algorithm"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Website Optimization Services</h5>
-
-								<!-- Text -->
-								<p class="p-lg">Our website optimization services include the process of analyzing website designs, keyword counts, page loading, image or video quality uploaded in the site, etc., As a whole, we will deliver an interactive website to turn your visitors into customers.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-
-
-					<!-- FEATURE BOX #4 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Content Optimization Services</h5>
-
-								<!-- Text -->
-								<p class="p-lg">In content optimization services, the SEO friendliness of the content is checked. It is similar to on-page services, but here, we not only analyze the on-page contents but also focus on contents that are created for social media posts.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-
-
-					<!-- FEATURE BOX #5 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Local SEO Service</h5>
-
-								<!-- Text -->
-								<p class="p-lg">We as a local SEO company gurgaon, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-
-
-					<!-- FEATURE BOX #6 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">International SEO Services
-								</h5>
-
-								<!-- Text -->
-								<p class="p-lg">In addition to local SEO services, we also help our abroad customers by providing international SEO services. Here, we optimize the site by using either global keywords or keywords focusing on particular regions. If your audience target is all over the world, then this service is perfect for your website.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-					<!-- FEATURE BOX #4 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Mobile SEO</h5>
-
-								<!-- Text -->
-								<p class="p-lg">People are using mobile apps more than websites and web apps, hence optimizing your mobile app or your website on the mobile screen is an important activity. So, mobile SEO is carried out here. We will help you to design a website that is perfect for mobile screens and also help you to optimize keywords based on mobile app searches.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-
-
-					<!-- FEATURE BOX #5 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Ecommerce SEO Services</h5>
-
-								<!-- Text -->
-								<p class="p-lg">A normal business website is different from an eCommerce website as the eCommerce site is all about selling different products to the customers. In eCommerce SEO services gurgaon, we make a deep analysis to find the top and best keywords of the products that your customers are looking for. Based on this research, we will update your website on eCommerce keywords.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-
-
-					<!-- FEATURE BOX #6 -->
-					<div class="col">
-						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
-							</div>
-
-							<!-- Text -->
-							<div class="fbox-txt-center">
-
-								<!-- Title -->
-								<h5 class="h5-md">Small-scale and Large-scale Business</h5>
-
-								<!-- Text -->
-								<p class="p-lg">We expand our company by providing small business SEO and large business SEO services all over the world. From small-scale to large-scale business, we will help our customers to achieve wide branch reach and traffic conversion rate. Also, we are landing on all niches and uses a separate strategy for each niche.
-
-
-								</p>
-
-							</div>
-
-						</div>
-					</div>
-
-
 
 				</div>
-			</div> <!-- END FEATURES-3 WRAPPER -->
+			</div>
 
 
-		</div> <!-- End container -->
+			<!-- FEATURE BOX #2 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
+						<img src="../../images/Search engine optimization/Icon/2_3.svg" class="mt-25" alt="Off-Page SEO" />
+					</div>
+
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Off-Page SEO
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg">The off-page process is the activity of building backlinks to your website. The more quality backlinks, the more reach your website will receive. So, we assure you by building the best backlinks to your site by writing SEO content blog, press releases, attractive profile creations, etc.,
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- FEATURE BOX #3 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
+						<img src="../../images/Search engine optimization/Icon/3_2.svg" class="mt-25" alt="Website Optimization Services" />
+					</div>
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Website Optimization Services</h5>
+
+						<!-- Text -->
+						<p class="p-lg">Our website optimization services include the process of analyzing website designs, keyword counts, page loading, image or video quality uploaded in the site, etc., As a whole, we will deliver an interactive website to turn your visitors into customers.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- FEATURE BOX #4 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
+						<img src="../../images/Search engine optimization/Icon/4_2.svg" class="mt-25" alt="Content Optimization Services" />
+					</div>
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Content Optimization Services</h5>
+
+						<!-- Text -->
+						<p class="p-lg">In content optimization services, the SEO friendliness of the content is checked. It is similar to on-page services, but here, we not only analyze the on-page contents but also focus on contents that are created for social media posts.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- FEATURE BOX #5 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
+						<img src="../../images/Search engine optimization/Icon/5_2.svg" class="mt-25" alt="Local SEO Service" />
+					</div>
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Local SEO Service</h5>
+
+						<!-- Text -->
+						<p class="p-lg">We as a local SEO company coimbatore, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- FEATURE BOX #6 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
+						<img src="../../images/Search engine optimization/Icon/6_2.svg" class="mt-25" alt="International SEO Services" />
+					</div>
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">International SEO Services
+						</h5>
+
+						<!-- Text -->
+						<p class="p-lg">In addition to local SEO services, we also help our abroad customers by providing international SEO services. Here, we optimize the site by using either global keywords or keywords focusing on particular regions. If your audience target is all over the world, then this service is perfect for your website.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+			<!-- FEATURE BOX #4 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
+						<img src="../../images/Search engine optimization/Icon/7_2.svg" class="mt-25" alt="Mobile SEO" />
+					</div>
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Mobile SEO</h5>
+
+						<!-- Text -->
+						<p class="p-lg">People are using mobile apps more than websites and web apps, hence optimizing your mobile app or your website on the mobile screen is an important activity. So, mobile SEO is carried out here. We will help you to design a website that is perfect for mobile screens and also help you to optimize keywords based on mobile app searches.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- FEATURE BOX #5 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<!-- Icon -->
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
+						<img src="../../images/Search engine optimization/Icon/8_2.svg" class="mt-25" alt="Ecommerce SEO Services" />
+					</div>
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Ecommerce SEO Services</h5>
+
+						<!-- Text -->
+						<p class="p-lg">A normal business website is different from an eCommerce website as the eCommerce site is all about selling different products to the customers. In eCommerce SEO services coimbatore, we make a deep analysis to find the top and best keywords of the products that your customers are looking for. Based on this research, we will update your website on eCommerce keywords.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- FEATURE BOX #6 -->
+			<div class="col">
+				<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
+
+					<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
+						<img src="../../images/Search engine optimization/Icon/9_2.svg" class="mt-25" alt="Small-scale and Large-scale" />
+					</div>
+
+					<!-- Text -->
+					<div class="fbox-txt-center">
+
+						<!-- Title -->
+						<h5 class="h5-md">Small-scale and Large-scale Business</h5>
+
+						<!-- Text -->
+						<p class="p-lg">We expand our company by providing small business SEO and large business SEO services all over the world. From small-scale to large-scale business, we will help our customers to achieve wide branch reach and traffic conversion rate. Also, we are landing on all niches and uses a separate strategy for each niche.
+
+
+						</p>
+
+					</div>
+
+				</div>
+			</div>
+
+
+
+		</div>
+	</div> <!-- END FEATURES-3 WRAPPER -->
+
+
+	</div> <!-- End container -->
 	</section> <!-- END FEATURES-3 -->
 
 
@@ -1057,35 +1054,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Best SEO Services in Gurgaon</h2>
-
-							<!-- Text -->
-							<p class="p-md">Increase organic visibility, quality traffic, increase leads & sales of your online business.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get a Free Quote</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
@@ -1109,7 +1078,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Result-Oriented Search Engine Optimization Agency in Gurgaon",
 			"alternateName": " Seo agency gurgaon , seo companies in gurgaon , best seo company in gurgaon, seo service gurgaon",
-				"url": "https://www.clickboxagency.com/seo/seo-agency-gurgaon/"
+			"url": "https://www.clickboxagency.com/seo/seo-agency-gurgaon/"
 		}
 	</script>
 
@@ -1122,7 +1091,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Agency Gurgaon, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "www.clickboxagency.com/images/logo-01.png",
+			"logo": "www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 7358644710",

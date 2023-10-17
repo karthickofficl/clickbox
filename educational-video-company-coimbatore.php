@@ -9,7 +9,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Clickbox Agency | Educational Video Production Company</title>
+    <title>Clickbox Agency | Educational Video Production Company Coimbatore</title>
 
     <meta name=description content="Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
 
@@ -45,13 +45,13 @@
 
     <meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-    <meta property="og:title" content="Clickbox Agency | Educational Video Production Company" />
+    <meta property="og:title" content="Clickbox Agency | Educational Video Production Company Coimbatore" />
 
     <meta property="og:description" content="Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
 
     <meta name="twitter:card" content="summary" />
 
-    <meta name="twitter:title" content="Clickbox Agency | Educational Video Production Company" />
+    <meta name="twitter:title" content="Clickbox Agency | Educational Video Production Company Coimbatore" />
 
     <meta name="twitter:description" content="Elevate online education with Clickbox Agency Coimbatore, impactful Educational Video Production Service, featuring engaging explainer videos, animated videos, and more." />
 
@@ -69,7 +69,7 @@
                 <div class="col-md-10">
                     <div class="hero-4-txt white-color text-center">
                         <h1 class="h1-fsize white-color">Clickbox’s<span class="txtyelloww"> Educational Video Production Service</span></h1>
-                        <p class="p-xl">Quality Educational Videos for Easy Understanding</p>
+                        <p class="p-xl">Quality Educational Videos For Easy Understanding</p>
                         <button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
                             <a href="https://www.clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Obtain Your Project's Price</a></button>
                     </div>
@@ -142,7 +142,7 @@
                     <div class="owl-carousel service-carousel">
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                <img src="../images/Educational Video Production/Icon/Asset 17.svg" class="">
+                                <img src="../images/Educational Video Production/Icons1/6.svg" class="" alt="Wider Access">
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Wider Access</h5>
                                     <p>Break geographical barriers by expanding education's reach.</p>
@@ -151,7 +151,7 @@
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                <img src="../images/Educational Video Production/Icon/Asset 15.svg" class="">
+                                <img src="../images/Educational Video Production/Icons1/4.svg" class="" alt="Engagement">
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Engagement</h5>
                                     <p>Visual appeal boosts interest and retention.</p>
@@ -160,7 +160,7 @@
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                <img src="../images/Educational Video Production/Icon/Asset 14.svg" class="">
+                                <img src="../images/Educational Video Production/Icons1/3.svg" class="" alt="Flexibility">
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Flexibility</h5>
                                     <p> Learners control their learning pace and style.</p>
@@ -170,7 +170,7 @@
 
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                <img src="../images/Educational Video Production/Icon/Asset 16.svg" class="">
+                                <img src="../images/Educational Video Production/Icons1/5.svg" class="" alt="Effective Learning">
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Effective Learning</h5>
                                     <p> Multimedia caters to diverse preferences.</p>
@@ -179,7 +179,7 @@
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                <img src="../images/Educational Video Production/Icon/Asset 13.svg" class="">
+                                <img src="../images/Educational Video Production/Icons1/2.svg" class="" alt="Cost Savings">
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Cost Savings</h5>
                                     <p>Cut training expenses while delivering quality.</p>
@@ -189,7 +189,7 @@
 
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                <img src="../images/Educational Video Production/Icon/Asset 12.svg" class="">
+                                <img src="../images/Educational Video Production/Icons1/1.svg" class="" alt="Attraction">
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Attraction</h5>
                                     <p>Engage potential students and stakeholders effectively.</p>
@@ -278,7 +278,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                              <img src="../images/Educational Video Production/SVG/Asset 28.svg" >
+                              <img src="../images/Educational Video Production/SVG/Asset 28.svg" alt="Explainer Videos" >
                             </div>
 
                             <!-- Title -->
@@ -298,7 +298,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 29.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 29.svg" alt="Tutorial and How-To Videos">
                             </div>
 
                             <!-- Title -->
@@ -318,7 +318,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 30.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 30.svg" alt="Lecture and Classroom Videos" >
                             </div>
 
                             <!-- Title -->
@@ -338,7 +338,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 31.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 31.svg" alt="Animated Educational Videos" >
                             </div>
 
                             <!-- Title -->
@@ -358,7 +358,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 32.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 32.svg" alt="Documentaries" >
                             </div>
 
                             <!-- Title -->
@@ -378,7 +378,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 33.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 33.svg" alt="Case Studies Videos " >
                             </div>
 
                             <!-- Title -->
@@ -399,7 +399,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 34.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 34.svg" alt="Virtual Tours" >
                             </div>
 
                             <!-- Title -->
@@ -419,7 +419,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 35.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 35.svg" alt="Interviews and Expert Talks" >
                             </div>
 
                             <!-- Title -->
@@ -439,7 +439,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 36.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 36.svg" alt="Webinars and Workshops" >
                             </div>
 
                             <!-- Title -->
@@ -458,7 +458,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 37.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 37.svg" alt="Interactive Videos">
                             </div>
 
                             <!-- Title -->
@@ -478,7 +478,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 38.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 38.svg" alt="Language Learning Videos" >
                             </div>
 
                             <!-- Title -->
@@ -498,7 +498,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                              <img src="../images/Educational Video Production/SVG/Asset 39.svg" >
+                              <img src="../images/Educational Video Production/SVG/Asset 39.svg" alt="Demonstration Videos" >
                             </div>
 
                             <!-- Title -->
@@ -517,7 +517,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                            <img src="../images/Educational Video Production/SVG/Asset 40.svg" >
+                            <img src="../images/Educational Video Production/SVG/Asset 40.svg" alt="Science Experiment Videos" >
                             </div>
 
                             <!-- Title -->
@@ -537,7 +537,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                              <img src="../images/Educational Video Production/SVG/Asset 41.svg" >
+                              <img src="../images/Educational Video Production/SVG/Asset 41.svg"  alt="Historical Reconstruction Videos">
                             </div>
 
                             <!-- Title -->
@@ -557,7 +557,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                              <img src="../images/Educational Video Production/SVG/Asset 42.svg" >
+                              <img src="../images/Educational Video Production/SVG/Asset 42.svg" alt="VR Educational Videos " >
                             </div>
 
                             <!-- Title -->
@@ -600,7 +600,7 @@
             <div class="row justify-content-center mb-30">
                 <div class="col-lg-12 col-xl-12">
                     <div class="section-title title-01 ">
-                        <h3 class="h4-xl text-center">Why do Animated Videos <span class="txtred">Lead in Education? </span> </h3>
+                        <h3 class="h4-xl text-center">Why Do Animated Videos <span class="txtred">Lead In Education? </span> </h3>
                     </div>
                 </div>
             </div>
@@ -885,7 +885,7 @@
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "name": "Clickbox Agency | Educational Video Production Company",
+            "name": "Clickbox Agency | Educational Video Production Company Coimbatore",
             "alternateName": "educational video coimbatore, educational video production coimbatore, how to make an educational video, educational video production company coimbatore, educational video platform coimbatore, animated educational video coimbatore, educational video company coimbatore",
             "url": "https://www.clickboxagency.com/educational-video-company-coimbatore/"
         }

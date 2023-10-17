@@ -82,7 +82,7 @@
 
 						<!-- BLOG POST INNER IMAGE -->
 						<div class="post-inner-img">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/Clickbox blog poster-03.jpg" alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/seo-strategies.webp" alt="blog-post-image" />
 						</div>
 						<!-- SINGLE POST TITLE -->
 						<!-- <div class="single-post-title"> -->
@@ -328,15 +328,8 @@
 							</div>
 						</div>
 
-						<!-- POST SHARE ICONS -->
-						<div class="col-md-3 col-xl-3 post-share-list text-end">
-							<ul class="share-social-icons ico-25 text-center clearfix">
-								<li><a href="#" class="share-ico"><span class="flaticon-twitter"></span></a></li>
-								<li><a href="#" class="share-ico"><span class="flaticon-facebook"></span></a></li>
-								<li><a href="#" class="share-ico"><span class="flaticon-bookmark"></span></a></li>
-							</ul>
-						</div>
-
+						
+						
 					</div> <!-- SINGLE POST SHARE LINKS END -->
 				</div>
 			</div>
@@ -348,79 +341,107 @@
 
 	<!-- POST COMMENTS
 			============================================= -->
-	<section id="post-comments" class=" post-comments division">
+	<section id="contacts-2" class="bg-snow pt-10 contacts-section division">
 		<div class="container">
-			<div class="row">
-
-
-				<!-- COMMENTS WRAPPER -->
-				<div class="col-lg-10 offset-lg-1">
-					<div class="comments-wrapper">
-
-
-						<!-- COMMENT FORM -->
-						<div id="leave-comment">
-
-							<!-- Title -->
-							<h5 class="h5-lg">Leave a Comment</h5>
-
-							<!-- Text -->
-							<p class="p-md">Your email address will not be published. Required fields are marked *</p>
-
-							<form name="commentForm" method="post" class="row comment-form">
-
-								<div class="col-md-12">
-									<p>Name*</p>
-									<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required>
-								</div>
-
-								<div class="col-md-6">
-									<p>Email*</p>
-									<input type="email" name="email" class="form-control email" placeholder="Enter Your Email*" required>
-								</div>
-
-								<div class="col-md-6">
-									<p>Phone*</p>
-									<input type="tel" name="phone" class="form-control phone" placeholder="Enter Your Phone No*" required>
-								</div>
-
-								<div class="col-md-12 input-message">
-									<p>Subject *</p>
-									<textarea class="form-control message" name="message" rows="6" placeholder="Enter Your Comment Here* ..." required></textarea>
-								</div>
-
-								<!-- Contact Form Button -->
-								<div class="col-lg-12 form-btn">
-									<button type="submit" class="btn btn-skyblue tra-skyblue-hover submit" name="send">Submit</button>
-								</div>
-
-								<!-- Contact Form Message -->
-								<div class="col-md-12 comment-form-msg text-center">
-									<div class="sending-msg"><span class="loading"></span></div>
-								</div>
-								<div class="form-group">
-									<div class="col-sm-10 col-sm-offset-2">
-										<?php if (!empty($result)) {
-											echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-										} ?>
-									</div>
-								</div>
-
-							</form>
-
-						</div> <!-- END COMMENT FORM -->
-
+			<!-- SECTION TITLE -->
+			<div class="row justify-content-center">
+				<div class="col-md-10 col-lg-8">
+					<div class="section-title title-02 justify-content-center mb-80">
+						<!-- Title -->
+						<h2 class="p-md  txtredd">Questions? We're Here To Help. <br>Send Us A Message!</h2>
 					</div>
-				</div> <!-- END COMMENTS WRAPPER -->
+				</div>
+			</div>
+			<!-- CONTACT FORM -->
+			<div class="row justify-content-center">
+				<div class="col-lg-6 col-xl-6">
+					<div class="post-inner-img">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+					</div>
+				</div>
+				<div class="col-lg-6 col-xl-6">
+					<div class="form-holder">
+						<form name="contactform" method="post" class="row contact-form">
+							<!-- Contact Form Input -->
+							<div class="col-md-6">
+								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
+							</div>
+							<div class="col-md-6">
+								<input type="email" name="email" class="form-control email" placeholder="Email Address*">
+							</div>
+							<div class="col-md-6">
+								<input type="number" maxlength="10" name="phone" class="form-control phone" placeholder="Mobile Number*">
+							</div>
+							<div class="col-md-6">
+								<input type="text" name="company" class="form-control company" placeholder="Company Name*">
+							</div>
 
+							<div class="col-md-6">
+								<select class="form-select" aria-label="services" name="services" id="services" required>
+									<option value="">Select your services</option>
+									<option value="Mobile App Development">Mobile App Development</option>
+									<option value="Web App Development">Web App Development</option>
+									<option value="Hire Dedicated Development">Hire Dedicated Development</option>
+									<option value="Ecommerce Development">Ecommerce Development</option>
+									<option value="Logo Design">Logo Design</option>
+									<option value="UI UX Design">UI UX Design</option>
+									<option value="Website Design and Development">Website Design and Development</option>
+									<option value="Wordpress Development">Wordpress Development</option>
+									<option value="Shopify Website Development">Shopify Website Development</option>
+									<option value="Website Redesigning">Website Redesigning</option>
+									<option value="Digital Marketing">Digital Marketing</option>
+									<option value="Search Engine Optimization">Search Engine Optimization</option>
+									<option value="Social Media Marketing">Social Media Marketing</option>
+									<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
+									<option value="Explainer Video Creation">Explainer Video Creation</option>
 
-			</div> <!-- End row -->
+								</select>
+							</div>
+							<div class="col-md-6">
+								<select class="form-select" aria-label="budget" name="budget" id="budget" required>
+									<option value="">Select your budget</option>
+									<option value="Less than 10K USD">Less than 10K USD</option>
+									<option value="10K-25K USD">10K-25K USD</option>
+									<option value="25K-50K USD">25K-50K USD</option>
+									<option value="50K-100K USD">50K-100K USD</option>
+									<option value="More than 100K USD">More than 100K USD</option>
+								</select>
+							</div>
+							<div class="col-md-12">
+								<textarea class="form-control message" name="message" rows="6" placeholder="Share Your Requirements:"></textarea>
+							</div>
+							<div class="col-md-6">
+								<input type="checkbox" name="sendNDA" class="checkboxone">
+								<label for="sendNDA">Send NDA</label>
+							</div>
+							<!-- Contact Form Button -->
+							<div class="col-md-12 mt-15 form-btn text-right">
+								<button type="submit" class="btn btn-skyblue yellow-hover submit" name="send">Submit Request</button>
+							</div>
+							<!-- Contact Form Message -->
+							<div class="col-lg-12 contact-form-msg">
+								<span class="loading"></span>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-10 col-sm-offset-2">
+									<?php if (!empty($result)) {
+										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
+									} ?>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div> <!-- END CONTACT FORM -->
 		</div> <!-- End container -->
-	</section> <!-- END POST COMMENTS -->
+	</section> <!-- END CONTACTS-2 -->
+
+
+
 
 	<!-- BLOG-1
 			============================================= -->
-	<section id="blog-1" class="bg-whitesmoke-gradient  blog-section division">
+	<section id="blog-1" class="bg-whitesmoke-gradient blog-section division">
 		<div class="container">
 
 
@@ -428,46 +449,55 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mt-20">
-						<h2 class="h2-md">Keep Reading...</h2>
+						<!--wide-60  -->
+						<h2 class="p-md  txtredd">Stay Engaged With Our Content</h2>
 					</div>
 				</div>
 			</div>
 
 			<!-- INCLUDE BLOGS -->
 
-			<?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog.php') ?>
+
 
 		</div> <!-- End container -->
 	</section> <!-- END BLOG-1 -->
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
+
+	<a id="back-to-top" class="back-to-top"><img src="../images/up-arrow.svg" class="up-arrow" alt="back-to-top"></a>
 
 
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
+	<?php include('footer.php') ?>
 
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
+	</div> <!-- END PAGE CONTENT -->
 
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
+	<?php include('footer-script.php') ?>
 
-							</p>
+	<script>
+		var backTop = $('#back-to-top');
 
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue yellow-hover">Get in touch with us</a>
+		$(window).scroll(function() {
+			if ($(window).scrollTop() > 400) {
+				backTop.addClass('show');
+			} else {
+				backTop.removeClass('show');
+			}
+		});
 
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
+		backTop.on('click', function(e) {
+			e.preventDefault();
+			$('html, body').animate({
+				scrollTop: 0
+			}, '300');
+		});
+	</script>
+
+
+			<!-- INCLUDE BLOGS -->
+
+			<?php include($_SERVER['DOCUMENT_ROOT'] . '/newblog2.php') ?>
+
 		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
+	</section> <!-- END BLOG-1 -->
+
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 

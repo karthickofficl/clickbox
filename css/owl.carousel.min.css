@@ -55,7 +55,7 @@
 
 .owl-carousel .owl-item img {
     object-fit: contain;
-    height: 100px;
+    height: 100%;
     display: block;
     width: 100%;
 

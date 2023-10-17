@@ -6,9 +6,9 @@ if (isset($_POST['send'])) {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	
+
 	$subject = 'Enquiry From Logo Design';
-	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com,muthu@akkenna.com";
 	$htmlContent = ' 
     <html> 
     <head> 
@@ -45,7 +45,6 @@ if (isset($_POST['send'])) {
 	} else {
 		$result = '
 		One of our representative will get in touch you.';
-		
 	}
 }
 ?>
@@ -109,8 +108,14 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include('header-style.php') ?>
+	<style>
+		.review-4 {
+			height: 310px;
+		}
+	</style>
 
 </head>
+
 <body>
 
 	<?php include('header1.php') ?>
@@ -124,7 +129,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-4-txt white-color">
 
 						<!-- Title -->
-						<h2 class="h2-lg">Result Driven SEO Company In India</h2>
+						<h1 class="h2-lg txtyelloww">Result Driven SEO Company In India</h1>
 
 						<!-- List -->
 						<ul class="simple-list">
@@ -176,7 +181,7 @@ if (isset($_POST['send'])) {
 							</br>
 
 							<div class="col-md-12">
-								<input type="text" name="phone" class="form-control phone" placeholder="Phone*" autocomplete="off" required>
+								<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*" autocomplete="off" required>
 							</div>
 							</br>
 
@@ -295,7 +300,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<img  src="../images/Search engine optimization/Icon/1_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/1_2.svg" class="mt-25" alt="On-Page SEO" />
 								<!-- <span class="flaticon-idea"></span> -->
 							</div>
 
@@ -320,7 +325,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-							  <img  src="../images/Search engine optimization/Icon/2_3.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/2_3.svg" class="mt-25" alt="Off-Page SEO" />
 							</div>
 
 							<!-- Text -->
@@ -346,7 +351,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
-							  <img  src="../images/Search engine optimization/Icon/3_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/3_2.svg" class="mt-25" alt="Website Optimization Services" />
 							</div>
 
 							<!-- Text -->
@@ -373,7 +378,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-							  <img  src="../images/Search engine optimization/Icon/4_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/4_2.svg" class="mt-25" alt="Content Optimization Services" />
 							</div>
 
 							<!-- Text -->
@@ -397,7 +402,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-							   <img  src="../images/Search engine optimization/Icon/5_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/5_2.svg" class="mt-25" alt="Local SEO Service" />
 							</div>
 
 							<!-- Text -->
@@ -418,7 +423,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-							  <img  src="../images/Search engine optimization/Icon/6_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/6_2.svg" class="mt-25" alt="International SEO Services" />
 							</div>
 
 							<!-- Text -->
@@ -442,7 +447,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-							  <img  src="../images/Search engine optimization/Icon/7_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/7_2.svg" class="mt-25" alt="Mobile SEO" />
 							</div>
 
 							<!-- Text -->
@@ -466,7 +471,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-							  <img  src="../images/Search engine optimization/Icon/8_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/8_2.svg" class="mt-25" alt="Ecommerce SEO Services" />
 							</div>
 							<!-- Text -->
 							<div class="fbox-txt-center">
@@ -488,7 +493,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-							   <img  src="../images/Search engine optimization/Icon/9_2.svg" class="mt-25"/>
+								<img src="../images/Search engine optimization/Icon/9_2.svg" class="mt-25" alt="Small-scale and Large-scale" />
 							</div>
 
 							<!-- Text -->
@@ -782,147 +787,158 @@ if (isset($_POST['send'])) {
 
 	<!-- FAQs-2
 			============================================= -->
-	<section id="faqs-2" class="pt-30 faqs-section division">
+	<!-- FAQs-2 QUESTIONS -->
+	<section id="faqs-2" class="pt-20 faqs-section division">
 		<div class="container">
-			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-10">
-					<div class="section-title title-02 mb-75">
-
-						<!-- Section ID -->
-						<span class="section-id txt-upcase">Frequently Asked Questions</span>
-
-						<!-- Title -->
-						<h2 class="h2-xs txtredd">Search Engine Optimization Service</h2>
-
+				<div class="col-lg-10 col-xl-8">
+					<div class="section-title title-01 mb-80">
+						<h2 class="h3-xs text-center">FAQ On <span class="txtred">Our Social Media Marketing Service</span></h2>
 					</div>
 				</div>
 			</div>
 			<!-- FAQs-2 QUESTIONS -->
 			<div class="faqs-2-questions">
 				<div class="row row-cols-1 row-cols-lg-2">
-					<!-- QUESTIONS HOLDER -->
+
+					<!-- START QUESTIONS HOLDER -->
 					<div class="col">
 						<div class="questions-holder pr-15">
-							<!-- QUESTION #1 -->
-							<div class="question wow fadeInUp">
-
-								<!-- Question -->
-								<h5 class="h5-md">How much time does it take to get SEO results? </h5>
-
-								<!-- Answer -->
-								<p class="p-lg">SEO is not a one-day process. It is a slow process but will give consistent and organic results depending on the strategies. In general, a new website or blog takes 6-12 months to rank top on Google. But if you are using other marketing methods (like Social media marketing, paid ads) in addition to SEO, you may able to reach your customers soon. Remember that, SEO is an inexpensive method when compared to another method. So, you need a minimum of 3 months to get rankings.
-								</p>
+							<!-- QUES 1 -->
+							<div class="accordion" id="accordionExample">
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+											<b>How much time does it take to get SEO results?</b>
+										</button>
+									</h2>
+									<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<p class="p-lg">SEO is not a one-day process. It is a slow process but will give consistent and organic results depending on the strategies. In general, a new website or blog takes 6-12 months to rank top on Google. But if you are using other marketing methods (like Social media marketing, paid ads) in addition to SEO, you may able to reach your customers soon. Remember that, SEO is an inexpensive method when compared to another method. So, you need a minimum of 3 months to get rankings.</p>
+											
+										</div>
+									</div>
+								</div>
+								<!-- QUES 2 -->
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingTwo">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+											<b>Do you offer monthly SEO price packages?</b>
+										</button>
+									</h2>
+									<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<!-- TEXT BOX -->
+											<div class="txt-box">
+												<p class="p-lg">Yes!, As you can see from our affordable SEO packages, we are offering monthly price plans, we are appreciating to take monthly plans for 1 or 2 months. Since SEO services need some time to merge your website on Google, you can use form monthly packages at least for 3 months to see some results.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- QUES 3 -->
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingThree">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+											<b>How to choose the right SEO company in India?</b>
+										</button>
+									</h2>
+									<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<!-- TEXT BOX -->
+											<div class="txt-box">
+												<p class="p-lg">In India, you can find different SEO agencies, but the main thing is, you have to choose the suitable SEO experts for your business. You can find the companies’ list on social media, Google, or company review sites like Clutch. Once you listed some companies, then you can check old client's feedbacks & reviews, their previous projects to decide whether the company is suitable for you or not.
+													<br>ClickBox Agency is a leading SEO company in India as we are delivering proven ranking results to our happy clients. You can check our portfolio here.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
 
 							</div>
-
-							<!-- QUESTION #2 -->
-							<div class="question wow fadeInUp">
-
-								<!-- Question -->
-								<h5 class="h5-md">Do you offer monthly SEO price packages?</h5>
-
-								<!-- Answer -->
-								<p class="p-lg">Yes!, As you can see from our affordable SEO packages, we are offering monthly price plans, we are appreciating to take monthly plans for 1 or 2 months. Since SEO services need some time to merge your website on Google, you can use form monthly packages at least for 3 months to see some results.
-								</p>
-
-							</div>
-
-							<!-- QUESTION #3 -->
-							<div class="question wow fadeInUp">
-
-								<!-- Question -->
-								<h5 class="h5-md">How to choose the right SEO company in India?</h5>
-
-								<!-- Answer -->
-								<p class="p-lg">In India, you can find different SEO agencies, but the main thing is, you have to choose the suitable SEO experts for your business. You can find the companies’ list on social media, Google, or company review sites like Clutch. Once you listed some companies, then you can check old client's feedbacks & reviews, their previous projects to decide whether the company is suitable for you or not.
-
-									<br>ClickBox Agency is a leading SEO company in India as we are delivering proven ranking results to our happy clients. You can check our portfolio here.
-								</p>
-
-							</div>
-						</div>
-					</div> <!-- END QUESTIONS HOLDER -->
-
-					<!-- QUESTIONS HOLDER -->
+						</div> <!-- END QUESTIONS HOLDER -->
+					</div>
 					<div class="col">
-						<div class="questions-holder pl-15">
-							<!-- QUESTION #3 -->
-							<div class="question wow fadeInUp">
-
-								<!-- Question -->
-								<h5 class="h5-md">How can I track the project status?</h5>
-
-								<!-- Answer -->
-								<p class="p-lg">When we start the SEO projects, we will provide the following reports to our clients. Thus, you can track the service status easily.
-								</p>
-
-								<!-- Answer -->
-								<ul class="simple-list">
-
-									<li class="list-item">
-										<p class="p-lg">Keyword Ranking Reports
-										</p>
-									</li>
-
-									<li class="list-item">
-										<p class="p-lg">Competitor Analysis Report
-										</p>
-									</li>
-
-									<li class="list-item">
-										<p class="p-lg">Analytics Report with tools like Google Analytics and Google Search Console
-										</p>
-									</li>
-
-									<li class="list-item">
-										<p class="p-lg">Backlinks Reports
-										</p>
-									</li>
-
-									<li class="list-item">
-										<p class="p-lg">Optimized Content Strategy
-										</p>
-									</li>
-
-								</ul>
-
-							</div>
-
-							</br></br>
-							<!-- QUESTION #3 -->
-							<div class="question wow fadeInUp">
-
-								<!-- Question -->
-								<h5 class="h5-md">What is the difference between white-hat and black-hat SEO?</h5>
-
-								<!-- Answer -->
-								<p class="p-lg">White hat SEO is the process where the SEO strategies follow Google’s or other search engines’ policies and terms and optimize the site based on these conditions.
-
-									<br>Black hat SEO is a process that includes unfair SEO strategies that are against search engine policies. This SEO method is not advisable as your website will be removed from search results if you implement black hat SEO methods.
-
-									<br>At ClickBox Agency, we are using only white hat SEO methods and are not appreciating black-hat SEO methods.
-								</p>
-
+						<div class="questions-holder pr-15">
+							<div class="accordion" id="accordionExample">
+								<!-- Ques 4 -->
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingSeven">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+											<b>How can I track the project status?</b>
+										</button>
+									</h2>
+									<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<!-- TEXT BOX -->
+											<div class="txt-box">
+												<p class="p-lg">When we start the SEO projects, we will provide the following reports to our clients. Thus, you can track the service status easily.</p>
+												<ul class="simple-list">
+													<li class="list-item">
+														<p class="p-lg">Keyword Ranking Reports</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Competitor Analysis Report</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Analytics Report with tools like Google Analytics and Google Search Console</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Backlinks Reports</p>
+													</li>
+													<li class="list-item">
+														<p class="p-lg">Optimized Content Strategy</p>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- QUES 5 -->
+								<div class="accordion-item">
+									<h2 class="accordion-header" id="headingFive">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+											<b> What is the difference between white-hat and black-hat SEO?</b>
+										</button>
+									</h2>
+									<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+										<div class="accordion-body">
+											<p class="p-lg">White hat SEO is the process where the SEO strategies follow Google’s or other search engines’ policies and terms and optimize the site based on these conditions.
+												<br>Black hat SEO is a process that includes unfair SEO strategies that are against search engine policies. This SEO method is not advisable as your website will be removed from search results if you implement black hat SEO methods.
+												<br>At ClickBox Agency, we are using only white hat SEO methods and are not appreciating black-hat SEO methods.
+											</p>
+										</div>
+									</div>
+								</div>
+								
 							</div>
 						</div>
-					</div> <!-- END QUESTIONS HOLDER -->
-				</div> <!-- End row -->
-			</div> <!-- END FAQs-2 QUESTIONS -->
-
-
-			<!-- MORE QUESTIONS BUTTON -->
-			<div class="row">
-				<div class="col">
-					<div class="more-questions">
-						<h5 class="h5-sm">Ready to make us your SEO consultant in India? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h5>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col  ">
+						<div class="more-questions">
+							<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Ask your question here</a></h5>
+						</div>
 					</div>
 				</div>
 			</div>
+	</section>
+	<!--  -->
+	<!--  -->
+	<section id="content-3" class="bg-white pt-30 content-3  content-section division">
+		<div class="container">
+			<div class="row d-flex align-items-center justify-content-center">
+				<div class="col-md-12 col-lg-8">
+					<div class="txt-block left-column  wow fadeInLeft">
+						<h2 class="h3-xs text-center">Ready to make us your SEO consultant in India? Let’s join together and increase your brand reach to the right audience and get your sales done! <a href="https://clickboxagency.com/contacts/">Contact Us</a></h2>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--  -->
 
-
-		</div> <!-- End container -->
-	</section> <!-- END FAQs-2 -->
 
 
 
@@ -948,7 +964,7 @@ if (isset($_POST['send'])) {
 			"@type": "WebSite",
 			"name": "Result Driven SEO Company In India",
 			"alternateName": "seo company india, seo services india, search engine optimization india, seo agency india",
-				"url": "https://www.clickboxagency.com/seo-company-in-india/"
+			"url": "https://www.clickboxagency.com/seo-company-in-india/"
 		}
 	</script>
 
@@ -961,7 +977,7 @@ if (isset($_POST['send'])) {
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",
 			"description": "As a leading SEO Company in India, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.,",
-				"logo": "https://www.clickboxagency.com/images/logo-01.png",
+			"logo": "https://www.clickboxagency.com/images/logo-01.png",
 			"contactPoint": {
 				"@type": "ContactPoint",
 				"telephone": "+91 8870578887",
@@ -989,7 +1005,7 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
-	
+
 
 </body>
 

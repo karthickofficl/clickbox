@@ -68,10 +68,10 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
 					<div class="hero-4-txt white-color text-center">
-						<h1 class="h1-fsize white-color">Boost Your Business with <span class="txtyelloww"> Digital Marketing Services!</span></h1>
-						<p class="p-xl">Are You Struggling to Rank Higher in Business ?</p>
+						<h1 class="h1-fsize white-color">Boost Your Business With <span class="txtyelloww"> Digital Marketing Services!</span></h1>
+						<p class="p-xl">Are You Struggling To Rank Higher In Business ?</p>
 						<button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
-							<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Get a Free Consultation</a></button>
+							<a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Get A Free Consultation</a></button>
 					</div>
 				</div>
 			</div>
@@ -88,8 +88,8 @@
 			<div class="row  d-flex align-items-center justify-content-center">
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block">
-						<p class="p-lg">The full-service digital marketing company ClickBox Creative marketing Agency is creative, flexible, and doesn't rely on deceptive marketing techniques to attract new customers. Instead, ClickBox Creative marketing Agency uses its own marketing and search engine optimization (SEO) abilities to attract new website visitors.</p>
-						<p class="p-lg txt-justify">We're not a company without change. We don't just work for a few businesses. ClickBox Creative marketing Agency has the professionals and experience to help any business in any field build a custom website and use a variety of <a href="http://www.clickboxagency.com" class="txtbluee">digital marketing services in coimbatore</a>.</p>
+						<p class="p-lg">The full-service digital marketing company ClickBox creative marketing agency is creative, flexible, and doesn't rely on deceptive marketing techniques to attract new customers. Instead, ClickBox Creative marketing Agency uses its own marketing and search engine optimization (SEO) abilities to attract new website visitors.</p>
+						<p class="p-lg txt-justify">We're not a company without change. We don't just work for a few businesses. ClickBox Creative marketing Agency has the professionals and experience to help any business in any field build a custom website and use a variety of <a href="https://www.clickboxagency.com" class="txtbluee">digital marketing services in coimbatore</a>.</p>
 						<p class="p-lg txt-justify">So many other companies use a one-size-fits-all approach, giving you the same strategy and cookie-cutter website as your rival down the street.</p>
 					</div>
 				</div>
@@ -109,13 +109,13 @@
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInRight">
-							<img class="img-fluid" src="../images/Digital Marketing Agency/Asset 74100.svg" alt="ClickBox-Creative-marketing-Agency">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/Asset-74100.webp" alt="ClickBox-Creative-marketing-Agency">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block left-column  wow fadeInLeft">
-							<p class="p-lg txt-justify">ClickBox Creative marketing Agency works with you to create digital marketing services and a plan that meet the specific needs of your business. We become a part of your team, a partner who knows your market and goals, not just a firm that mindlessly carries out strategies.</p>
-							<p class="p-lg txt-justify">ClickBox Creative marketing Agency focuses on customer relationships and results, which is different from a lot of other agencies that use glitz and glam to close sales but then don't follow through. We always achieve what we say we will, and we don't make empty claims. We also make sure to make the most of your budget so you can get the most return on your investment (ROI).</p>
+							<p class="p-lg txt-justify">ClickBox creative marketing agency works with you to create digital marketing services and a plan that meet the specific needs of your business. We become a part of your team, a partner who knows your market and goals, not just a firm that mindlessly carries out strategies.</p>
+							<p class="p-lg txt-justify">ClickBox creative marketing agency focuses on customer relationships and results, which is different from a lot of other agencies that use glitz and glam to close sales but then don't follow through. We always achieve what we say we will, and we don't make empty claims. We also make sure to make the most of your budget so you can get the most return on your investment (ROI).</p>
 							<p class="p-lg txt-justify">Our reviews and customer feedback say a lot about us. With month-to-month contracts, we earn your business every day.</p>
 							<p class="p-lg txt-justify">Look at the list below to see the many different digital marketing services that ClickBox Creative marketing Agency has to offer. Get in touch with us right away to find out more about how we can help your business.</p>
 						</div>
@@ -135,8 +135,8 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-12 col-xl-12">
 						<div class="section-title title-01 mb-30">
-							<h3 class="h4-xl text-center">How do Digital Marketing Services <span class="txtred">Help Business Growth?</span> </h3>
-							<h4 class="h5-xs text-center"><span class="txtred">Engage With Your Target Customers </span> At the Right Time and Place </h4>
+							<h3 class="h4-xl text-center">How Do Digital Marketing Services <span class="txtred">Help Business Growth?</span> </h3>
+							<h4 class="h5-xs text-center"><span class="txtred">Engage With Your Target Customers </span> At The Right Time And Place </h4>
 							<p class="p-lg">Digital marketing services let all kinds of businesses sell their names for a low price around the clock. You can reach more people in your niche market with the help of a digital marketing business, no matter where they are or what time it is. This is true for both small and medium-sized businesses, as well as for businesses with more than one site. </p>
 							<p class="p-lg">Hiring a digital marketing agency is one of the best ways to reach new customers while keeping your present ones happy. Customers will always find your business as long as it has a strong online presence.</p>
 						</div>
@@ -167,7 +167,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/01.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/01.webp" alt="SEO"/>
 									</span>
 								</div>
 							</div>
@@ -185,7 +185,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/02.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/02.webp" alt="Local SEO" />
 									</span>
 								</div>
 							</div>
@@ -202,7 +202,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/03.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/03.webp" alt="Technical SEO"/>
 									</span>
 								</div>
 							</div>
@@ -220,7 +220,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/04.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/04.webp" alt="Link Building" />
 									</span>
 								</div>
 							</div>
@@ -238,7 +238,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/05.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/05.webp" alt="Web Design and Development" />
 									</span>
 								</div>
 							</div>
@@ -256,7 +256,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/06.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/06.webp"alt="Custom Website Design" />
 									</span>
 								</div>
 							</div>
@@ -274,7 +274,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/07.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/07.webp"alt="Social Media Marketing"/>
 									</span>
 								</div>
 							</div>
@@ -292,7 +292,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/08.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/08.webp" alt="PPC" />
 									</span>
 								</div>
 							</div>
@@ -309,7 +309,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/09.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/09.webp" alt="Explainer Video Production" />
 									</span>
 								</div>
 							</div>
@@ -327,7 +327,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/10.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/10.webp" alt="Content Writing"/>
 									</span>
 								</div>
 							</div>
@@ -345,7 +345,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/11.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/11.webp" alt="ORM" />
 									</span>
 								</div>
 							</div>
@@ -362,14 +362,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/12.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/12.webp" alt="Ecommerce Marketing" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
-							<h5 class="h6-md text-white mt-10">eCommerce Marketing</h5>
-							<p class="p-lg text-squire-muted">The <a href="https://clickboxagency.com/ecommerce-marketing-services/" class="txtbluee">eCommerce marketing</a> operation generated 23 percent more revenue than the previous year. Take advantage of the numerous ways your eCommerce business can help you market your products and provide 24/7 access to your customers. Our internet marketing company provides eCommerce SEO and eCommerce PPC services to increase website traffic at the beginning of the sales cycle. We obtain more reviews for your products, improve the functionality of your product pages, and tailor your marketing to the desires of your customers.</p>
+							<h5 class="h6-md text-white mt-10">Ecommerce Marketing</h5>
+							<p class="p-lg text-squire-muted">The <a href="https://clickboxagency.com/ecommerce-marketing-services/" class="txtbluee">Ecommerce marketing</a> operation generated 23 percent more revenue than the previous year. Take advantage of the numerous ways your eCommerce business can help you market your products and provide 24/7 access to your customers. Our internet marketing company provides eCommerce SEO and eCommerce PPC services to increase website traffic at the beginning of the sales cycle. We obtain more reviews for your products, improve the functionality of your product pages, and tailor your marketing to the desires of your customers.</p>
 
 						</div>
 					</div>
@@ -380,7 +380,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/13.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/13.webp" alt="CRO" />
 									</span>
 								</div>
 							</div>
@@ -398,7 +398,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/14.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/14.webp" alt="Email Marketing" />
 									</span>
 								</div>
 							</div>
@@ -415,14 +415,14 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/15.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/15.webp" alt="Ecommerce Web Design" />
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
-							<h5 class="h6-md text-white mt-10">eCommerce Web Design</h5>
-							<p class="p-lg text-squire-muted">At ClickBox Creative Marketing Agency, we know how to make websites that sell things online. When you sell things online, how your website looks is a big part of how well it does. A study by the Baymard Institute found that <a href="https://clickboxagency.com/ecommerce-marketing-services/" class="txtyelloww">eCommerce websites</a> with good checkout designs can improve sales by 35%. If you hire our Internet marketing company, we can help you show what makes you different from your competitors and get people to keep items in their shopping carts for longer.</p>
+							<h5 class="h6-md text-white mt-10">Ecommerce Web Design</h5>
+							<p class="p-lg text-squire-muted">At ClickBox Creative Marketing Agency, we know how to make websites that sell things online. When you sell things online, how your website looks is a big part of how well it does. A study by the Baymard Institute found that <a href="https://clickboxagency.com/ecommerce-marketing-services/" class="txtyelloww">Ecommerce websites</a> with good checkout designs can improve sales by 35%. If you hire our Internet marketing company, we can help you show what makes you different from your competitors and get people to keep items in their shopping carts for longer.</p>
 
 						</div>
 					</div>
@@ -436,7 +436,7 @@
 				<div class="col-lg-10">
 					<div class="brands-title text-center">
 						<!-- Title -->
-						<h3 class="h4-xl text-center mb-20">Why Should a Business Invest in <span class="txtred">Digital Marketing?</span></h3>
+						<h3 class="h4-xl text-center mb-20">Why Should A Business Invest In <span class="txtred">Digital Marketing?</span></h3>
 						<p class="p-lg text-center">Businesses should invest in digital marketing because it offers an unparalleled opportunity to reach a global audience with targeted messages. It's cost-effective, measurable, and provides real-time insights, allowing businesses to adapt swiftly to changing trends and customer preferences. By building a strong online presence, engaging directly with customers, and leveraging data-driven strategies, businesses can enhance their brand, generate leads, and stay competitive in the digital age.</p>
 					</div>
 				</div>
@@ -447,27 +447,27 @@
 					<div class="owl-carousel brands-carousel">
 						<!-- Designing -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="../images/Digital Marketing Agency/money-bag.svg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/money-bag.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="../images/Digital Marketing Agency/planning.svg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/planning.webp" alt="tools-logo" />
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="../images/Digital Marketing Agency/businessman.svg" alt="tools-logo" />
-						</div>
-
-						<div class="brand-logo">
-							<img class="img-fluid-tools" src="../images/Digital Marketing Agency/revenue.svg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/businessman.webp" alt="tools-logo" />
 						</div>
 
-						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="../images/Digital Marketing Agency/social-security.svg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/revenue.webp" alt="tools-logo" />
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-							<img class="img-fluid-tools" src="../images/Digital Marketing Agency/warning.svg" alt="tools-logo" />
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/social-security.webp" alt="tools-logo" />
+						</div>
+
+						<!-- BRAND LOGO IMAGE -->
+						<div class="brand-logo">
+							<img class="img-fluid-tools" src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/warning.svg" alt="tools-logo" />
 						</div>
 
 					</div>
@@ -483,7 +483,7 @@
 				<div class="col-lg-12 col-xl-12">
 					<div class="section-title title-01 mb-30">
 						<h3 class="h4-xl text-center">Why Your Business Should Use <span class="txtred">Digital Marketing Services</span></h3>
-						<h4 class="h5-xs text-center"><span class="txtred">Increase Customer Engagement and </span> Rank Well in Search Results</h4>
+						<h4 class="h5-xs text-center"><span class="txtred">Increase Customer Engagement And </span> Rank Well In Search Results</h4>
 						<p class="p-lg">Online marketing is growing at a rate that has never been seen before. eMarketer says that U.S. businesses spend more than <span class="txtred">$110 billion</span> a year on internet ads. Since more and more businesses are putting time and money into online marketing, you can't just use your old advertising methods to bring in people. With value-driven internet marketing services, you can boost your sales and build a strong digital base. Digital marketing can help.</p>
 					</div>
 				</div>
@@ -537,8 +537,6 @@
 			============================================= -->
 	<section id="features-4" class=" features-section division">
 		<div class="container">
-
-
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-xl-12">
@@ -546,15 +544,12 @@
 
 						<!-- Title -->
 						<h3 class="h4-xl text-center mt-40">Why Should Your <span class="txtred"> Business Use Clickbox Digital Marketing Service?</span></h3>
-						<h4 class="h5-xs text-center"><span class="txtred">How to Increase Your Sales Growth Rate and </span> Be a Success Online</h4>
+						<h4 class="h5-xs text-center"><span class="txtred">How To Increase Your Sales Growth Rate And </span> Be A Success Online</h4>
 						<p class="p-lg">ClickBox Internet Marketing Agency is a goal-oriented advertising business that has won awards for its internet marketing services. Our main goal is to help companies keep more customers and make the most of conversion possibilities.
 						</p>
 						<p class="p-lg">You can count on us to do everything we can to help your brand do well online. If you choose ClickBox, you'll get (among many other digital business options) the following.
 						</p>
-
-						<!-- Text -->
-
-					</div>
+						</div>
 				</div>
 			</div>
 
@@ -572,7 +567,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/16.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/16.webp" alt="Data-Driven" />
 									</span>
 								</div>
 							</div>
@@ -581,7 +576,7 @@
 							<div class="fbox-txt pl-20">
 
 								<!-- Title -->
-								<h5 class="h5-sm">Data-driven Digital Marketing Services
+								<h5 class="h5-sm">Data-Driven Digital Marketing Services
 								</h5>
 
 								<!-- Text -->
@@ -601,7 +596,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/17.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/17.webp" alt="Industry Experts" />
 									</span>
 								</div>
 							</div>
@@ -631,7 +626,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/18.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/18.webp" alt="Custom Digital Marketing" />
 									</span>
 								</div>
 							</div>
@@ -640,7 +635,7 @@
 							<div class="fbox-txt pl-20">
 
 								<!-- Title -->
-								<h5 class="h5-sm">Framework for custom digital marketing</h5>
+								<h5 class="h5-sm">Framework For Custom Digital Marketing</h5>
 
 								<!-- Text -->
 								<p class="p-lg">Our internet marketing service examines online marketing from every angle. We evaluate your current marketing plans and digital presence, establish key performance indicators (KPIs), determine the brand's aesthetic, and ensure that the consumer experience is incorporated into every stage of your strategy.
@@ -660,7 +655,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/19.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/19.webp" alt="Personalization" />
 									</span>
 								</div>
 							</div>
@@ -669,7 +664,7 @@
 							<div class="fbox-txt pl-20">
 
 								<!-- Title -->
-								<h5 class="h5-sm"> Personalization across all channels</h5>
+								<h5 class="h5-sm"> Personalization Across All Channels</h5>
 
 								<!-- Text -->
 								<p class="p-lg">The Harris Poll conducted a RedPoint Global poll, and the results showed that 63 percent of customers expect personalized brand experiences as the norm. At Clickbox, we analyze our audience and find out what they want and need so we can make personalized internet marketing plans that bring in more business. Personalization across all channels brings in more money and makes people more loyal to your business.
@@ -686,7 +681,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/20.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/20.webp" alt=" Tracking And Evaluating " />
 									</span>
 								</div>
 							</div>
@@ -695,7 +690,7 @@
 							<div class="fbox-txt pl-20">
 
 								<!-- Title -->
-								<h5 class="h5-sm"> Tracking and evaluating the campaign</h5>
+								<h5 class="h5-sm"> Tracking And Evaluating The Campaign</h5>
 
 								<!-- Text -->
 								<p class="p-lg">How do you know if your company's internet marketing services are working? At Clickbox Creative Marketing Agency, we set up the metrics for your campaign and do regular tracking and review to figure out how well your strategies are working. Using the data from Google Analytics, we can change your online marketing strategies and improve how you target your audience to help you make more money and visibility.</p>
@@ -712,7 +707,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="../images/Digital Marketing Agency/Icon/21.svg" />
+										<img src="https://clickboxagency.com/images-new/services/digital-marketing-agency-coimbatore/icon/21.webp"alt="Competitive Pricing"  />
 									</span>
 								</div>
 							</div>
@@ -748,7 +743,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
 					<div class="section-title title-01 mb-40">
-						<h3 class="h4-xl text-center">Digital Marketing Services<span class="txtred"> FAQ</span></h3>
+						<h3 class="h4-xl text-center">Digital Marketing Services<span class="txtred"> FAQs</span></h3>
 					</div>
 				</div>
 			</div>

@@ -143,7 +143,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-8-txt">
 
 						<!-- Title -->
-						<h2 class="h2-md">We Develop Your Concept Into A Valuable Business.</h2>
+						<h1 class="h2-md">We Develop Your Concept Into A Valuable Business.</h1>
 
 
 

@@ -11,9 +11,9 @@
 
     <title>Boost Your Marketing Strategy With Whiteboard Animation Video</title>
 
-    <meta name=description content="Simplify complex ideas through whiteboard animation videos. Unlock effective communication with the Click Box whiteboard animation company in India." />
+    <meta name=description content="Unlock effective communication with the Click Box whiteboard animation company in Coimbatore." />
 
-    <meta name=keywords content="Whiteboard animation video, whiteboard animation, whiteboard animation service, whiteboard animation company, whiteboard animation company in india," />
+    <meta name=keywords content="Whiteboard animation video, whiteboard animation, whiteboard animation service coimbatore, whiteboard animation company coimbatore, whiteboard animation company in india" />
 
     <meta name="language" content="en" />
 
@@ -47,30 +47,32 @@
 
     <meta property="og:title" content="Boost Your Marketing Strategy With Whiteboard Animation Video" />
 
-    <meta property="og:description" content="Simplify complex ideas through whiteboard animation videos. Unlock effective communication with the Click Box whiteboard animation company in India." />
+    <meta property="og:description" content="Unlock effective communication with the Click Box whiteboard animation company in Coimbatore." />
 
     <meta name="twitter:card" content="summary" />
 
     <meta name="twitter:title" content="Boost Your Marketing Strategy With Whiteboard Animation Video" />
 
-    <meta name="twitter:description" content="Simplify complex ideas through whiteboard animation videos. Unlock effective communication with the Click Box whiteboard animation company in India." />
+    <meta name="twitter:description" content="Unlock effective communication with the Click Box whiteboard animation company in Coimbatore." />
 
     <meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
     <?php include('header-style.php') ?>
 
 
     <style>
-        .nav-pills .nav-link{
+        .nav-pills .nav-link {
             border-radius: 0px !important;
         }
+
         .nav-pills .nav-link.active {
             background-color: white !important;
             color: black !important;
             font-weight: bold;
             border-bottom: 2px solid #CF1E46 !important;
         }
-        .nav-link{
-            color:grey !important;
+
+        .nav-link {
+            color: grey !important;
         }
     </style>
 
@@ -81,40 +83,32 @@
 
 
     <section id="hero-4" class="bg-scroll hero-section division  pb-0">
-		<div class="container">
-			<div class="row d-flex align-items-center justify-content-center mt-inverse-50 ">
-			     <h3 class="h3-xs text-center white-color ">Transforming Complexity into <br/><span class="txtyelloww">Clarity Through Whiteboard Animation</span></h3>
-			<div class="col-md-6 col-lg-6 mt-inverse-10 ">
-					<div class="left-column wow fadeInRight">
-					    <div class="mt-15 p-40 text-center">
-						 <img class="img-fluid " src="../images/White Board Animation/SVG/01.svg" alt="white-board-animation"> 
-						 </div>
-					</div>
-				</div>
-          		<div class="col-md-6 col-lg-6  mt-inverse-10">
-				    <div class="left-column wow fadeInRight ">
-					<div class=" white-color text-center">
-					    
-					 
-						<p class="p-xl">ClickBox: Using the Blank Canvas of Creativity to Shape Your Ideas Story Revealing: Step by step, stroke by stroke</p>
-                        <div class="text-center mt-40 mb-40">
-						
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover" >Try Out Today</a>
-						</div>
-					</div>
-					</div>
-				</div>
-					
-			</div>
-		</div>
-			
-	
-		</section>	
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center mt-inverse-50 ">
+                <h1 class="h3-xs text-center white-color ">Transforming Complexity Into <br /><span class="txtyelloww">Clarity Through Whiteboard Animation</span></h1>
+                
+                <div class="col-md-6 col-lg-6  mt-inverse-10">
+                    <div class="left-column wow fadeInRight ">
+                        <div class=" white-color text-center">
+                            <p class="p-xl">ClickBox: Using the Blank Canvas Of Creativity To Shape Your Ideas Story Revealing: Step By Step, Stroke By Stroke</p>
+                            <div class="text-center mt-40 mb-40">
+
+                                <a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover">Try Out Today</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
 
 
-    
+    </section>
+
+
+
     <!-- SECTION 4 -->
-    <section class=" content-3 pt-30 features-section division mb-40">
+    <section class=" content-3 mt-50 features-section division ">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
@@ -125,7 +119,7 @@
             </div>
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-5 col-lg-6  d-flex align-items-center justify-content-center">
-                <img class="img-fluid width-70" src="../images/White Board Animation/SVG/02.svg" alt="white-board-animation"> 
+                    <img class="img-fluid width-70" src="../images/White Board Animation/SVG/02.svg" alt="white-board-animation">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
@@ -146,7 +140,7 @@
                     </div>
                 </div>
                 <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/White Board Animation/SVG/03.svg" alt="white-board-animation"> 
+                    <img class="img-fluid " src="../images/White Board Animation/SVG/03.svg" alt="white-board-animation">
                 </div>
 
             </div>
@@ -155,18 +149,18 @@
     </section>
 
 
-    <section class=" content-3 pt-30 features-section division mb-40">
+    <section class=" content-3 mt-50 features-section division ">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
                     <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center"> <span class="txtred">A Brief Description of </span>Whiteboard Animation Videos</h2>
+                        <h2 class="h3-xs text-center"> <span class="txtred">A Brief Description Of </span>Whiteboard Animation Videos</h2>
                     </div>
                 </div>
             </div>
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/White Board Animation/SVG/04.svg" alt="white-board-animation"> 
+                    <img class="img-fluid " src="../images/White Board Animation/SVG/04.svg" alt="white-board-animation">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
@@ -189,7 +183,7 @@
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">
                 <div class="col-lg-12 col-xl-12">
-                    <div class="section-title title-01 mb-70">
+                    <div class="section-title title-01 mb-40">
 
                         <!-- Title -->
                         <h3 class="h4-xl text-center">Why Choose <span class="txtred">Whiteboard Animation Videos?</span></h3>
@@ -213,7 +207,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/1.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/1.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -242,7 +236,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/2.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/2.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -269,7 +263,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/3.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/3.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -300,7 +294,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/4.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/4.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -326,7 +320,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/5.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/5.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -355,7 +349,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/6.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/6.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -382,7 +376,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/7.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/7.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -413,7 +407,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/8.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/8.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -432,15 +426,15 @@
                         </div>
                     </div>
 
-                     <!-- FEATURE BOX #3 -->
-                     <div class="col">
+                    <!-- FEATURE BOX #3 -->
+                    <div class="col">
                         <div class="fbox-4 pr-25 mb-40 wow fadeInUp">
 
                             <!-- Icon -->
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/9.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/9.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -471,7 +465,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/White Board Animation/Icons/10.svg" alt="white-board-animation"> 
+                                    <img src="../images/White Board Animation/Icons/10.svg" alt="white-board-animation">
                                 </div>
                             </div>
 
@@ -490,7 +484,7 @@
                         </div>
                     </div>
 
-                    
+
                 </div>
             </div> <!-- END FEATURES-4 WRAPPER -->
             <div class="row justify-content-center">
@@ -507,311 +501,311 @@
     </section> <!-- END FEATURES-4 -->
 
 
-    <section id="features-4" class=" features-section division mt-50">
-		<div class="container">
+    <section id="features-4" class=" features-section division mt-10">
+        <div class="container">
 
 
-			<!-- SECTION TITLE -->
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-xl-12">
-					<div class="section-title title-01 mb-40">
+            <!-- SECTION TITLE -->
+            <div class="row justify-content-center">
+                <div class="col-lg-12 col-xl-12">
+                    <div class="section-title title-01 mb-40">
 
-						<!-- Title -->
-						<h3 class="h4-xl text-center mt-40">Several Applications of <span class="txtred"> Whiteboard Animation Videos </span></h3>
-						<p class="p-lg">A whiteboard animation company that offers whiteboard animation services is a flexible and interesting way to get your message across. It is used in many different fields because it can break down complicated ideas, keep an audience's attention, and help people remember what you said. Here's how <a href="https://www.webdew.com/blog/make-a-whiteboard-animation" class="txtbluee">whiteboard animation</a> is used in different fields.
-						</p>
-						<!-- Text -->
+                        <!-- Title -->
+                        <h3 class="h4-xl text-center mt-40">Several Applications Of <span class="txtred"> Whiteboard Animation Videos </span></h3>
+                        <p class="p-lg">A whiteboard animation company that offers whiteboard animation services is a flexible and interesting way to get your message across. It is used in many different fields because it can break down complicated ideas, keep an audience's attention, and help people remember what you said. Here's how <a href="https://www.webdew.com/blog/make-a-whiteboard-animation" class="txtbluee">whiteboard animation</a> is used in different fields.
+                        </p>
+                        <!-- Text -->
 
-					</div>
-				</div>
-			</div>
+                    </div>
+                </div>
+            </div>
 
-			<!-- FEATURES-4 WRAPPER -->
-			<div class="fbox-4-wrapper fbox-4-wide">
-				<div class="row row-cols-1 row-cols-md-3">
+            <!-- FEATURES-4 WRAPPER -->
+            <div class="fbox-4-wrapper fbox-4-wide">
+                <div class="row row-cols-1 row-cols-md-3">
 
 
-					<!-- FEATURE BOX #1 -->
+                    <!-- FEATURE BOX #1 -->
 
-					<div class="col serv " style="border-left:none;">
-						<div class="fbox-4 pl-5 mb-40 wow fadeInUp">
+                    <div class="col serv " style="border-left:none;">
+                        <div class="fbox-4 pl-5 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/11.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/11.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Education and E-Learning whiteboard video</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Education and E-Learning Whiteboard Video</h5>
 
-								<!-- Text -->
-                                 <ul class="simple-list" >
-                                    <li class="list-item">Whiteboard animation takes complicated ideas and makes them easier for students  to understand.</li>
+                                <!-- Text -->
+                                <ul class="simple-list">
+                                    <li class="list-item">Whiteboard animation takes complicated ideas and makes them easier for students to understand.</li>
                                     <li class="list-item">Educators use whiteboard graphics to make courses that are interesting and keep students' attention.</li>
                                     <li class="list-item">How-to guides and step-by-step lessons are made to look good, which makes learning easier.</li>
                                 </ul>
-							</div>
+                            </div>
 
-						</div>
-					</div>
+                        </div>
+                    </div>
 
 
-					<!-- FEATURE BOX #2 -->
-					<div class="col serv ">
-						<div class="fbox-4 pl-5 mb-40 wow fadeInUp">
+                    <!-- FEATURE BOX #2 -->
+                    <div class="col serv ">
+                        <div class="fbox-4 pl-5 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/12.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/12.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Corporate Training whiteboard video</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Corporate Training Whiteboard Video</h5>
 
-								<!-- Text -->
-								<ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Whiteboard animations make the process of learning about business policies, procedures, and values easier for new employees to understand about the project .</li>
                                     <li class="list-item">Complex regulations are made comprehensible through visual explanations, improving compliance among employees.</li>
                                 </ul>
 
-							</div>
+                            </div>
 
-						</div>
-					</div>
+                        </div>
+                    </div>
 
 
-					<!-- FEATURE BOX #3 -->
+                    <!-- FEATURE BOX #3 -->
 
-					<div class="col serv ">
-						<div class="fbox-4 pl-5 mb-40 wow fadeInUp">
+                    <div class="col serv ">
+                        <div class="fbox-4 pl-5 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/13.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/13.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Marketing and Advertising</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Marketing and Advertising</h5>
 
-								<!-- Text -->
-                                <ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Clickbox, a whiteboard animation company in India, uses whiteboard animations to introduce new goods or services to customers and show off what makes them special.</li>
-                                    <li class="list-item">Engaging stories help people feel connected to a brand, which helps them  remember it.</li>
+                                    <li class="list-item">Engaging stories help people feel connected to a brand, which helps them remember it.</li>
                                     <li class="list-item">Bite-sized whiteboard animations on social platforms get users' attention.</li>
                                 </ul>
-							</div>
+                            </div>
 
-						</div>
-					</div>
+                        </div>
+                    </div>
 
 
-					<!-- FEATURE BOX #4 -->
-					<div class="col serv " style="border-left:none;">
-						<div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
+                    <!-- FEATURE BOX #4 -->
+                    <div class="col serv " style="border-left:none;">
+                        <div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/14.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/14.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Healthcare whiteboard videos</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Healthcare Whiteboard Videos</h5>
 
-								<!-- Text -->
-								<ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Medical ideas, processes, and possible treatments are broken down into pictures that patients and their families can understand.</li>
                                     <li class="list-item">Animated videos are a great way to spread information about public health and raise awareness.</li>
                                 </ul>
 
 
-							</div>
+                            </div>
 
-						</div>
-					</div>
-					<div class="col serv ">
-						<div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
+                        </div>
+                    </div>
+                    <div class="col serv ">
+                        <div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/15.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/15.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Finance and Banking</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Finance and Banking</h5>
 
-								<!-- Text -->
-                                <ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Whiteboard images break down complicated financial ideas into simple once so that people can make better decisions.</li>
                                     <li class="list-item">Investment plans, market trends, and economic ideas are made available to clients.</li>
                                 </ul>
-							</div>
+                            </div>
 
-						</div>
-					</div>
+                        </div>
+                    </div>
 
-					<div class="col serv ">
-						<div class="fbox-4 mt-20 pl-5 mb-40 wow fadeInUp">
+                    <div class="col serv ">
+                        <div class="fbox-4 mt-20 pl-5 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/16.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/16.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Technology and IT</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Technology and IT</h5>
 
-								<!-- Text -->
-                                <ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Whiteboard cartoons show how software works, how apps work, and how technology problems can be solved.</li>
                                     <li class="list-item">Complicated IT concepts are visualized to help users understand software or hardware operations.</li>
                                 </ul>
-							</div>
+                            </div>
 
-						</div>
-					</div>
+                        </div>
+                    </div>
 
-					<!-- FEATURE BOX #4 -->
-					<div class="col serv " style="border-left:none;">
-						<div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
+                    <!-- FEATURE BOX #4 -->
+                    <div class="col serv " style="border-left:none;">
+                        <div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/17.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/17.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Real Estate whiteboard videos</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Real Estate Whiteboard Videos</h5>
 
-								<!-- Text -->
-								<ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Whiteboard animations bring property listings to life by giving virtual tours and showing key features.</li>
                                     <li class="list-item">Visualizing real estate data and market trends helps clients make better choices.</li>
                                 </ul>
 
-							</div>
+                            </div>
 
-						</div>
-					</div>
-					<div class="col serv ">
-						<div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
+                        </div>
+                    </div>
+                    <div class="col serv ">
+                        <div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/18.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/18.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Travel and Tourism whiteboard videos</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Travel and Tourism Whiteboard Videos</h5>
 
-								<!-- Text -->
-                                <ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Whiteboard animations show places to visit, cultural sights, and things to do.</li>
                                     <li class="list-item">Animated guides offer travelers advice, suggestions on what to do and not do, and other crucial information.</li>
                                 </ul>
-							</div>
+                            </div>
 
-						</div>
-					</div>
-					<div class="col serv ">
-						<div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
+                        </div>
+                    </div>
+                    <div class="col serv ">
+                        <div class="fbox-4 pl-5 mt-20 mb-40 wow fadeInUp">
 
-							<!-- Icon -->
-							<div class="fbox-ico">
-								<div class="ico-65 skyblue-color">
-									<span>
-                                    <img src="../images/White Board Animation/Icons/19.svg" alt="white-board-animation"> 
-									</span>
-								</div>
-							</div>
+                            <!-- Icon -->
+                            <div class="fbox-ico">
+                                <div class="ico-65 skyblue-color">
+                                    <span>
+                                        <img src="../images/White Board Animation/Icons/19.svg" alt="white-board-animation">
+                                    </span>
+                                </div>
+                            </div>
 
-							<!-- Text -->
-							<div class="fbox-txt pl-20">
+                            <!-- Text -->
+                            <div class="fbox-txt pl-20">
 
-								<!-- Title -->
-								<h5 class="h5-sm">Government and Public Services</h5>
+                                <!-- Title -->
+                                <h5 class="h5-sm">Government and Public Services</h5>
 
-								<!-- Text -->
-                                <ul class="simple-list" >
+                                <!-- Text -->
+                                <ul class="simple-list">
                                     <li class="list-item">Whiteboard animations simplify complex government policies, initiatives, and reforms for the public.</li>
-                                    <li class="list-item">Government agencies use animations to teach people about elections, public services, and  their communities.</li>
+                                    <li class="list-item">Government agencies use animations to teach people about elections, public services, and their communities.</li>
                                 </ul>
-							</div>
+                            </div>
 
-						</div>
-					</div>
-
-
-				</div>
-			</div> <!-- END FEATURES-4 WRAPPER -->
-
-		</div> <!-- End container -->
-	</section> <!-- END FEATURES-4 -->
-  
+                        </div>
+                    </div>
 
 
-    <section id="content-3" class="bg-white pt-60 content-3  content-section division">
+                </div>
+            </div> <!-- END FEATURES-4 WRAPPER -->
+
+        </div> <!-- End container -->
+    </section> <!-- END FEATURES-4 -->
+
+
+
+    <section id="content-3" class="bg-white mt-50 content-3  content-section division">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
                     <div class="section-title">
                         <h3 class="h4-xl text-center">Process Behind Our<span class="txtred"> Whiteboard Animation Videos</span></h3>
-                        <p class="p-lg text-center mt-30">At ClickBox, a whiteboard animation company in India, we provide a wide range of whiteboard animation services that may be adapted to match your individual requirements in the following ways:</p>
+                        <p class="p-lg text-center mt-20">At ClickBox, a whiteboard animation company in India, we provide a wide range of whiteboard animation services that may be adapted to match your individual requirements in the following ways:</p>
                     </div>
                 </div>
             </div>
@@ -831,18 +825,18 @@
                     <div class="col  ">
                         <div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-3 bg-white text-start">
                             <div class="fbox-ico-center ico-rounded-lg input-group  bg-tra-skyblue-dark skyblue-color">
-                            <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/21.svg" alt="white-board-animation">
+                                <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/21.svg" alt="white-board-animation">
                             </div>
                             <div class="mt-15">
                                 <h5 class="h5-sm">Script Writing</h5>
-                                <p class="p-lg">The key to any great whiteboard animation  is a solid screenplay that has been carefully developed. We work hard to <a href="https://www.youtube.com/@clickboxagency" class="txtbluee">design scripts</a> that are not just succinct but also powerful and that are in line with the goals that you have set for your message.</p>
+                                <p class="p-lg">The key to any great whiteboard animation is a solid screenplay that has been carefully developed. We work hard to <a href="https://www.youtube.com/@clickboxagency" class="txtbluee">design scripts</a> that are not just succinct but also powerful and that are in line with the goals that you have set for your message.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col  ">
                         <div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-3 bg-white text-start">
                             <div class="fbox-ico-center ico-rounded-lg input-group  bg-tra-orange-dark orange-color">
-                            <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/22.svg" alt="white-board-animation">
+                                <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/22.svg" alt="white-board-animation">
                             </div>
                             <div class="mt-15">
                                 <h5 class="h5-sm">Storyboarding</h5>
@@ -853,7 +847,7 @@
                     <div class="col  mt-40">
                         <div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-3 bg-white text-start">
                             <div class="fbox-ico-center ico-rounded-lg   input-group bg-tra-yellow-dark yellow-color">
-                            <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/23.svg" alt="white-board-animation">
+                                <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/23.svg" alt="white-board-animation">
                             </div>
                             <div class="mt-15">
                                 <h5 class="h5-sm">Illustration and Animation</h5>
@@ -864,7 +858,7 @@
                     <div class="col mt-40  ">
                         <div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-3 bg-white text-start ">
                             <div class="fbox-ico-center ico-rounded-lg input-group  bg-tra-red-dark red-color">
-                            <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/24.svg" alt="white-board-animation">
+                                <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/24.svg" alt="white-board-animation">
                             </div>
                             <div class="mt-15">
                                 <h5 class="h5-sm">Voiceovers and Sound Effects</h5>
@@ -876,7 +870,7 @@
                     <div class="col  mt-40">
                         <div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-3 bg-white text-start">
                             <div class="fbox-ico-center ico-rounded-lg input-group  bg-tra-green-dark green-color">
-                            <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/25.svg" alt="white-board-animation">
+                                <img class="img-fluid ico-100  mt-15" src="../images/White Board Animation/Icons/25.svg" alt="white-board-animation">
                             </div>
                             <div class="mt-15">
                                 <h5 class="h5-sm">Editing and Finalization</h5>
@@ -884,14 +878,7 @@
                             </div>
                         </div>
                     </div>
-
-
-
-                    <!--  -->
-
-
-
-                </div>
+                    </div>
             </div>
 
         </div>
@@ -903,18 +890,18 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 col-xl-12">
                     <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center mb-30">Benefits of Working With <span class="txtred"> Clickbox Whiteboard Animation Company </span></h2>
+                        <h2 class="h3-xs text-center mb-20">Benefits Of Working With <span class="txtred"> Clickbox Whiteboard Animation Company </span></h2>
                         <p class="p-lg">Find out the benefits of teaming up with the ClickBox whiteboard animation company in India. From strategic insights to creative skills, we're your way to digital success. Benefit from custom solutions, strategies based on data, and a team of people whose sole goal is to boost your online profile. Whether it's SEO, social media, <a href="https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/" class="txtbluee">PPC</a>, or web design, you can trust us to help you manage the digital landscape and take your business to new heights. Experience success with our collaborative approach and unwavering commitment to the growth of your business</p>
                     </div>
                 </div>
             </div>
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-5 col-lg-6 d-flex align-items-center justify-content-center">
-                <img class="img-fluid width-70" src="../images/White Board Animation/SVG/05.svg" alt="white-board-animation"> 
+                    <img class="img-fluid width-70" src="../images/White Board Animation/SVG/05.svg" alt="white-board-animation">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                        <h5 class="h5-sm"><span class="txtred">Creativity</span> and Innovation:</h5>
+                        <h5 class="h5-sm"><span class="txtred">Creativity</span> and Innovation</h5>
                         <p class="p-lg">See the whiteboard animation that the <a href="https://clickboxagency.com/" class="txtbluee">ClickBox whiteboard animation company</a> has created, which is unlike anything you've seen before. We distill concepts into compelling visual narratives, illuminating the intricate through the application of aesthetic expertise. Raise the profile of your brand's message with our innovative strategy that stands out from the crowd and gets people involved.</p>
 
                     </div>
@@ -925,20 +912,20 @@
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                       <h5 class="h5-sm"><span class="txtred">Experienced</span>Team</h5>
+                        <h5 class="h5-sm"><span class="txtred">Experienced</span> Team</h5>
                         <p class="p-lg">ClickBox's experienced team is great at whiteboard animation, which turns complicated ideas into interesting visuals. With a knack for sharing stories and artistic skill, we make animations that are both entertaining and informative. Trust our experience to bring your ideas to life and connect with your audience in a memorable way.</p>
 
                     </div>
                 </div>
                 <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/White Board Animation/SVG/06.svg" alt="white-board-animation"> 
+                    <img class="img-fluid " src="../images/White Board Animation/SVG/06.svg" alt="white-board-animation">
                 </div>
 
             </div>
 
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/White Board Animation/SVG/07.svg" alt="white-board-animation"> 
+                    <img class="img-fluid " src="../images/White Board Animation/SVG/07.svg" alt="white-board-animation">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
@@ -953,13 +940,13 @@
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                       <h5 class="h5-sm"><span class="txtred">Timely</span>Delivery</h5>
+                        <h5 class="h5-sm"><span class="txtred">Timely</span> Delivery</h5>
                         <p class="p-lg">The ClickBox whiteboard animation company makes sure that great whiteboard animation solutions are delivered on time. Our commitment to meeting goals means that your visual stories come to life exactly when you need them to, captivating your audience and getting you results. ClickBox lets you see how powerful it is to be creative at the right time.</p>
 
                     </div>
                 </div>
                 <div class="col-md-5 col-lg-6 d-flex align-items-center justify-content-center">
-                <img class="img-fluid width-70" src="../images/White Board Animation/SVG/08.svg" alt="white-board-animation"> 
+                    <img class="img-fluid width-70" src="../images/White Board Animation/SVG/08.svg" alt="white-board-animation">
                 </div>
 
             </div>
@@ -969,31 +956,31 @@
 
 
     <section id="content-3" class="bg-snow  content-3  content-section division mt-50">
-		<div class="container-fluid bortopbot">
-			<div class="top-row ">
-				<div class="row d-flex align-items-center justify-content-center">
-					<div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
-						<div class="txt-block left-column wow fadeInLeft ">
-							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md"><span style="color: #fff;">Let's animate your story on a whiteboard </span></h4>
-								<a href="https://clickboxagency.com/contacts/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">Get a Quote</a>
+        <div class="container-fluid bortopbot">
+            <div class="top-row ">
+                <div class="row d-flex align-items-center justify-content-center">
+                    <div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
+                        <div class="txt-block left-column wow fadeInLeft ">
+                            <div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
+                                <h4 class="h4-md"><span style="color: #fff;">Let's Animate Your Story On A Whiteboard </span></h4>
+                                <a href="https://clickboxagency.com/contacts/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">Get A Quote</a>
 
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-		</div>
-	</section>
+        </div>
+    </section>
 
     <!-- FAQs-2>===================================== -->
-    <section id="faqs-2" class="pt-20 pb-20 faqs-section division">
+    <section id="faqs-2" class="mt-50 faqs-section division">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-8">
                     <div class="section-title title-01 mb-40">
-                        <h3 class="h4-xl text-center">Content Management System <span class="txtred">FAQs</span></h3>
+                        <h3 class="h4-xl text-center">Whiteboard Animation <span class="txtred">FAQs</span></h3>
                     </div>
                 </div>
             </div>
@@ -1050,7 +1037,7 @@
                                     </div>
                                 </div>
                                 <!-- QUES 4 -->
-                                
+
                             </div>
                         </div> <!-- END QUESTIONS HOLDER -->
                     </div>
@@ -1101,7 +1088,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -1110,12 +1097,12 @@
 
             </div>
             <div class="row">
-				<div class="col ">
-					<div class="more-questions">
-						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
-					</div>
-				</div>
-			</div>
+                <div class="col ">
+                    <div class="more-questions">
+                        <h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+                    </div>
+                </div>
+            </div>
     </section>
 
 
@@ -1140,7 +1127,7 @@
             "@context": "http://schema.org",
             "@type": "WebSite",
             "name": "Boost Your Marketing Strategy With Whiteboard Animation Video",
-            "alternateName": "Whiteboard animation video, whiteboard animation, whiteboard animation service, whiteboard animation company, whiteboard animation company in india,",
+            "alternateName": "Whiteboard animation video, whiteboard animation, whiteboard animation service coimbatore, whiteboard animation company coimbatore, whiteboard animation company in india",
             "url": "https://www.clickboxagency.com/whiteboard-animation-company-in-india/"
         }
     </script>
@@ -1153,7 +1140,7 @@
             "url": "https://www.clickboxagency.com/whiteboard-animation-company-in-india/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
-            "description": "Simplify complex ideas through whiteboard animation videos. Unlock effective communication with the Click Box whiteboard animation company in India.",
+            "description": "Unlock effective communication with the Click Box whiteboard animation company in Coimbatore.",
             "logo": "https://www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",
@@ -1182,7 +1169,7 @@
     </script>
 
 
-   
+
 
     <script>
         const typedTextSpan = document.querySelector(".typed-text");

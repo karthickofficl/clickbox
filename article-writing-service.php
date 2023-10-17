@@ -141,7 +141,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-8-txt">
 
 						<!-- Title -->
-						<h2 class="h2-md">An expert in Providing Content Writing Service.</h2>
+						<h1 class="h2-md">An expert in Providing Content Writing Service.</h1>
 
 						<!-- Text -->
 						<p class="p-lg">Fast Service | SEO Friendly | Within 2 Days | Unlimited Revisions | Free Meta Details | 100% Original Content.

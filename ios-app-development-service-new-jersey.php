@@ -66,7 +66,7 @@
 	<section id="hero-4" class="bg-scroll hero-section division  pb-0">
 		<div class="container">
 			<div class="row d-flex align-items-center justify-content-center mt-inverse-50 ">
-			     <h3 class="h3-xs text-center white-color "> Transform Your Business with Our Cutting Edge <span class="txtyelloww"><br/>iOS Development Services</span>  in New Jersey. </h3>
+			     <h1 class="h3-xs text-center white-color "> Transform Your Business with Our Cutting Edge <span class="txtyelloww"><br/>iOS Development Services</span>  in New Jersey. </h1>
 			<div class="col-md-6 col-lg-6 mt-inverse-10 ">
 					<div class="left-column wow fadeInRight">
 					    <div class="mt-15 p-40 text-center">
@@ -810,7 +810,7 @@
 								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*">
 							</div>
 							<div class="col-md-6">
 								<input type="text" name="company" class="form-control company" placeholder="Company Name*">

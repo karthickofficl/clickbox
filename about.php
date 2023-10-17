@@ -29,7 +29,13 @@
 	<meta name="twitter:description" content="Clickbox is a leading web development and digital marketing company based in Coimbatore. We specialize in SEO, social media, PPC, website design, and mobile app development services." />
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
+	<style>
+	    .review-4{
+	        height:310px;
+	    }
+	</style>
 </head>
+
 
 
 <body>
@@ -60,7 +66,7 @@
 					<div class="row row-cols-1 row-cols-md-1">
 						<!-- IMAGES-2 -->
 						<div class="col col-md-12 text-center">
-							<img class="img-fluid" src="../images/aboutimg-1.png" alt="about-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/about/aboutimg-1.webp" alt="about-image">
 						</div>
 					</div> <!-- End row -->
 				</div> <!-- END ABOUT-2 IMAGES -->
@@ -246,7 +252,7 @@
 					<div class="col-md-5 col-lg-6 order-first order-md-2">
 						<div class="img-block left-column wow fadeInLeft">
 
-							<img class="img-fluid" src="../images/aboutimg-2.png" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/about/aboutimg-2.webp" alt="content-image">
 						</div>
 					</div>
 				</div>
@@ -259,7 +265,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/start-your-business-about.png" alt="video-preview">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/about/start-your-business-about.webp" alt="video-preview">
 						</div>
 					</div>
 					<!-- TEXT BLOCK -->
@@ -308,7 +314,7 @@
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInLeft">
 							<!-- ../images/ourmoto-about.png -->
-							<img class="img-fluid" src="../images/vision-and-mision -about.png" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/about/vision-and-mision-about.webp" alt="content-image">
 						</div>
 					</div>
 				</div>

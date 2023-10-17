@@ -9,7 +9,7 @@
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Clickbox Agency | Full-service Branding Services</title>
+	<title>Clickbox Agency | Full Branding Services Coimbatore</title>
 
 	<meta name=description content="Elevate your brand with our comprehensive branding services in coimbatore. Stand out in the market with captivating designs and strategic positioning." />
 
@@ -45,13 +45,13 @@
 
 	<meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-	<meta property="og:title" content="Clickbox Agency | Full-service Branding Services" />
+	<meta property="og:title" content="Clickbox Agency | Full Branding Services Coimbatore" />
 
 	<meta property="og:description" content="Elevate your brand with our comprehensive branding services in coimbatore. Stand out in the market with captivating designs and strategic positioning." />
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:title" content="Clickbox Agency | Full-service Branding Services" />
+	<meta name="twitter:title" content="Clickbox Agency | Full Branding Services Coimbatore" />
 
 	<meta name="twitter:description" content="Elevate your brand with our comprehensive branding services in coimbatore. Stand out in the market with captivating designs and strategic positioning." />
 
@@ -68,8 +68,8 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
 					<div class="hero-4-txt white-color text-center">
-						<h1 class="h1-fsize white-color">We Provide <span class="txtyelloww">Corporate Branding Services </span>to Grow Your Identity</h1>
-						<p class="p-xl">Establish a distinctive brand identity that connects with your audience </p>
+						<h1 class="h1-fsize white-color">We Provide <span class="txtyelloww">Corporate Branding Services </span>To Grow Your Identity</h1>
+						<p class="p-xl">Establish A Distinctive Brand Identity That Connects With Your Audience </p>
 						<button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
 							<a href="https://www.clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Start Building Your Brand Now</a></button>
 					</div>
@@ -108,7 +108,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-xl-12">
 					<div class="section-title title-01 mb-30">
-						<h3 class="h4-xl text-center">Why is it Important to Have a Strong and <span class="txtred">Recognizable Brand Identity?</span> </h3>
+						<h3 class="h4-xl text-center">Why Is It Important To Have A Strong And <span class="txtred">Recognizable Brand Identity?</span> </h3>
 					</div>
 				</div>
 			</div>
@@ -154,7 +154,7 @@
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img class="img-fluid" src="../images/Branding Services Page/1.svg" alt="icon">
+									<img class="img-fluid" src="../images/Branding Services Page/Icons1/1.svg" alt="icon">
 								</div>
 							</div>
 
@@ -182,7 +182,7 @@
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img class="img-fluid" src="../images/Branding Services Page/2.svg" alt="icon">
+									<img class="img-fluid" src="../images/Branding Services Page/Icons1/2.svg" alt="icon">
 								</div>
 							</div>
 
@@ -209,7 +209,7 @@
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img class="img-fluid" src="../images/Branding Services Page/3.svg" alt="icon">
+									<img class="img-fluid" src="../images/Branding Services Page/Icons1/3.svg" alt="icon">
 								</div>
 							</div>
 
@@ -239,7 +239,7 @@
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img class="img-fluid" src="../images/Branding Services Page/5.svg" alt="icon">
+									<img class="img-fluid" src="../images/Branding Services Page/Icons1/5.svg" alt="icon">
 								</div>
 							</div>
 
@@ -267,7 +267,7 @@
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img class="img-fluid" src="../images/Branding Services Page/4.svg" alt="icon">
+									<img class="img-fluid" src="../images/Branding Services Page/Icons1/4.svg" alt="icon">
 								</div>
 							</div>
 
@@ -292,7 +292,7 @@
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img class="img-fluid" src="../images/Branding Services Page/6.svg" alt="icon">
+									<img class="img-fluid" src="../images/Branding Services Page/Icons1/6.svg" alt="icon">
 								</div>
 							</div>
 
@@ -339,7 +339,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-xl-12">
 					<div class="section-title title-01 mb-30">
-						<h3 class="h4-xl text-center">How Our Digital Branding Services <span class="txtred">Help to Build Brands</span> </h3>
+						<h3 class="h4-xl text-center">How Our Digital Branding Services <span class="txtred">Help To Build Brands</span> </h3>
 						<p class="p-lg">You may be wondering how to create a brand strategy.</p>
 					</div>
 				</div>
@@ -347,7 +347,7 @@
 			<div class="row  d-flex align-items-center justify-content-center">
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block">
-						<h3 class="h4-xl">How does the Clickbox Agency Brand Strategy Process work?</h3>
+						<h3 class="h4-xl">How Does The Clickbox Agency Brand Strategy Process Work?</h3>
 						<p class="p-lg">Our brand strategy process starts with a careful examination of your target audience, competitors, and organizational capabilities. We combine the three to find the brand value proposition, which helps you stand out in the marketplace and be relevant. Following that, we assist you in creating and communicating your brand story. Take advantage of one of India's top branding agencies.</p>
 					</div>
 				</div>
@@ -366,7 +366,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-30">
-						<h3 class="h4-xl text-center">Why is Clickbox Creative Marketing Agency one of the <span class="txtred">best branding businesses in India?</span><br /></h3>
+						<h3 class="h4-xl text-center">Why Is Clickbox Creative Marketing Agency One Of The <span class="txtred">Best Branding Businesses In India?</span><br /></h3>
 
 					</div>
 				</div>
@@ -499,7 +499,7 @@
 							<p class="p-lg">Imagine a design that lifts your brand above the noise, a visual identity that leaves a trail of wonder in its wake. Whether it's a stunning logo that captures the essence of your brand or a captivating custom website development that mesmerizes visitors, our designs have a gravitational pull that draws people in.</p>
 							<p class="p-lg">But it's not just about aesthetics. It's about telling your story in a way that resonates deeply, forging connections that transcend the ordinary. It's about crafting an experience that defies gravity, leaving an indelible mark on your audience's hearts and minds.</p>
 							<p class="p-lg">So, are you ready to explore the limitless possibilities of design? Let's embark on a journey together, where creativity knows no bounds, and where every project becomes a testament to the power of designing beyond gravity.</p>
-							<img src="" alt="" srcset="">
+							<img src="../images/Branding Services Page/Click Box Services pages-05.png" class="img-fluid" alt="branding-services" srcset="">
 							<p class="p-lg">Reach out to our UI/UX design service, and let's redefine what's possible through design. </p>
 							<p class="p-lg">UI (User Interface) and UX (User Experience) design services are essential components of creating user-friendly and visually appealing digital products, such as websites, mobile apps, and software applications.</p>
 							<p class="p-lg">UI design focuses on the visual elements that users interact with on a digital platform. This includes the layout, colors, typography, buttons, icons, and other visual elements that make up the user interface. A well-designed UI ensures that the interface is aesthetically pleasing, consistent, and intuitive, which can lead to a more engaging and satisfying user experience.</p>
@@ -968,7 +968,7 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
-			"name": "Clickbox Agency | Full-service Branding Services",
+			"name": "Clickbox Agency | Full Branding Services Coimbatore",
 			"alternateName": "branding agency in coimbatore, branding strategy, branding company in coimbatore, branding design, branding services in coimbatore, product branding, business branding, corporate branding, social media branding, digital branding in coimbatore, what is a branding design",
 			"url": "https://www.clickboxagency.com/branding-service-company-coimbatore/"
 		}
@@ -978,7 +978,7 @@
 		{
 			"@context": "https://schema.org",
 			"@type": "Organization",
-			"name": "Clickbox Agency | Full-service Branding Services",
+			"name": "Clickbox Agency | Full Branding Services Coimbatore",
 			"url": "https://www.clickboxagency.com/branding-service-company-coimbatore/",
 			"email": "info@clickboxagency.com",
 			"foundingDate": "2022",

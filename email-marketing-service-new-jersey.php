@@ -1,3 +1,61 @@
+<?php
+
+//  
+if (isset($_POST['send'])) {
+
+	// getting post values
+	$name = $_POST['name'];
+	$email = $_POST['email'];
+	$phone = $_POST['phone'];
+	$subject = 'Ecommerce SEO Service Form';
+
+	$to = 'sales@clickboxagency.com';
+	$htmlContent = ' 
+    <html> 
+    <head> 
+        <title>Welcome to Clickbox Agencies</title> 
+    </head> 
+    <body> 
+        <h1>Thanks you for joining with us!</h1> 
+        <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+            <tr> 
+                <th>Name:</th><td>' . $name . '</td> 
+            </tr> 
+            <tr style="background-color: #e0e0e0;"> 
+                <th>Email:</th><td>' . $email . '</td> 
+            </tr> 
+            <tr style="background-color: #e0e0e0;"> 
+            <th>Phone:</th><td>' . $phone . '</td> 
+        </tr> 
+
+        </table> 
+    </body> 
+    </html>';
+
+	// Set content-type header for sending HTML email 
+	$headers = "MIME-Version: 1.0" . "\r\n";
+	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+	$headers .= 'Cc: iamjamesstephan@gmail.com' . "\r\n";
+	$headers .= 'Cc: pradeepavm@gmail.com' . "\r\n";
+	// Additional headers 
+
+
+	$m = mail($to, $subject, $htmlContent, $headers);
+
+	// Set content-type header for sending HTML email
+
+	if (!$m) {
+		echo 'Message could not be sent.';
+	} else {
+		// echo 'Message has been sent';
+		$result = '
+    One of our representative will get in touch you.';
+	}
+}
+// else{
+//     print_r("ssdfs");die;
+// }
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,7 +115,7 @@
 
 	<meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-
+	
 </head>
 
 <body>
@@ -70,7 +128,7 @@
 				<div class="col-md-6 col-lg-6 ">
 					<div class="left-column wow fadeInRight ">
 						<div class="mt-25">
-							<img class="img-fluid " src="../images/275.png" alt="email-marketing-services-nj">
+							<img class="img-fluid " src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/275.webp" alt="email-marketing-services-nj">
 						</div>
 					</div>
 				</div>
@@ -149,7 +207,7 @@
 
 				<div class="col-md-5 col-lg-6">
 					<div class="post-inner-img">
-						<img src="../images/276.png" alt="email-marketing-services" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/276.webp" alt="email-marketing-services" class="img-fluid">
 					</div>
 				</div>
 			</div>
@@ -171,7 +229,7 @@
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block right-column wow fadeInRight">
-							<img class="img-fluid" src="../images/277.png" alt="email-marketing-services-newjersey">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/277.webp" alt="email-marketing-services-newjersey">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
@@ -211,7 +269,7 @@
 						</div>
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight">
-								<img class="img-fluid" src="../images/278.png" alt="email-marketing-services-nj">
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/278.webp" alt="email-marketing-services-nj">
 							</div>
 						</div>
 
@@ -223,7 +281,7 @@
 						<div class="col  ">
 							<div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-2 bg-white">
 								<div class="fbox-img ">
-									<img class="img-fluid-tool ico-125" src="../images/289.png" alt="email-marketing-services-newjersey-usa" />
+									<img class="img-fluid-tool ico-125" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/289.webp" alt="email-marketing-services-newjersey-usa" />
 								</div>
 								<h5 class="h5-md">Direct and Personalized Communication</h5>
 								<p class="p-lg"> Email allows you to directly reach your audience in their inbox, delivering personalized messages tailored to their specific needs and interests. It enables one-on-one communication, making it more personal and engaging compared to mass marketing channels.</p>
@@ -232,7 +290,7 @@
 						<div class="col  ">
 							<div class="fbox-8 mb-20 h-100 shadow wow fadeInUp p-2 bg-white">
 								<div class="fbox-img ">
-									<img class="img-fluid-tool ico-125" src="../images/290.png" alt="email-marketing-services-nj" />
+									<img class="img-fluid-tool ico-125" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/290.webp" alt="email-marketing-services-nj" />
 								</div>
 								<h5 class="h5-md">Cost-Effective </h5>
 								<p class="p-lg"> Email marketing Service nj is a cost-effective way to reach a large number of people. It eliminates printing and postage costs associated with traditional marketing methods. With email, you can create and send campaigns at a fraction of the cost, making it ideal for businesses of all sizes.</p>
@@ -241,7 +299,7 @@
 						<div class="col  ">
 							<div class="fbox-8 mb-20 h-100 shadow wow fadeInUp p-2 bg-white">
 								<div class="fbox-img ">
-									<img class="img-fluid-tool ico-125" src="../images/291.png" alt="email-marketing-services-newjersey" />
+									<img class="img-fluid-tool ico-125" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/291.webp" alt="email-marketing-services-newjersey" />
 								</div>
 								<h5 class="h5-md">Relationship Building and Customer Engagement</h5>
 								<p class="p-lg"> Email provides an opportunity to build and nurture relationships with your audience. By delivering valuable content, promotions, updates, and personalized recommendations, you can keep your subscribers engaged and informed, fostering trust and loyalty over time.</p>
@@ -250,7 +308,7 @@
 						<div class="col mt-20 ">
 							<div class="fbox-8 shadow mb-20 h-100 wow fadeInUp p-2 bg-white">
 								<div class="fbox-img ">
-									<img class="img-fluid-tool" src="../images/292.png" alt="email-marketing-services-nj" />
+									<img class="img-fluid-tool" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/292.webp" alt="email-marketing-services-nj" />
 								</div>
 								<h5 class="h5-md">Drive Conversions and Sales</h5>
 								<p class="p-lg"> Email marketing is an effective channel for driving conversions and generating sales. By strategically crafting your email campaigns, you can promote your products or services, highlight special offers or discounts, and include clear calls-to-action (CTAs) that prompt recipients to take desired actions.</p>
@@ -259,7 +317,7 @@
 						<div class="col  mt-20">
 							<div class="fbox-8 mb-20 h-100 shadow wow fadeInUp p-2 bg-white">
 								<div class="fbox-img ">
-									<img class="img-fluid-tool" src="../images/293.png" alt="email-marketing-services-nj" />
+									<img class="img-fluid-tool" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/293.webp" alt="email-marketing-services-nj" />
 								</div>
 								<h5 class="h5-md">Measurable and Data-Driven </h5>
 								<p class="p-lg"> Email marketing platforms provide valuable analytics and metrics to measure the effectiveness of your campaigns. You can track open rates, click-through rates, conversion rates, and other key performance indicators (KPIs) to gain insights into what resonates with your audience and optimize your future campaigns accordingly.</p>
@@ -268,7 +326,7 @@
 						<div class="col  mt-20">
 							<div class="fbox-8 mb-20 h-100 shadow wow fadeInUp p-2 bg-white">
 								<div class="fbox-img ">
-									<img class="img-fluid-tool" src="../images/294.png" alt="email-marketing-services-newjersey" />
+									<img class="img-fluid-tool" src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/294.webp" alt="email-marketing-services-newjersey" />
 								</div>
 								<h5 class="h5-md">Scalability and Reach</h5>
 								<p class="p-lg"> Email marketing provides a scalable way to reach a large audience. Whether you have a small subscriber list or a large database, you can effectively communicate with all of them simultaneously, allowing for efficient and widespread distribution of your messages.</p>
@@ -370,7 +428,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/125.png" alt="email-marketing-services-nj">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/125.webp" alt="email-marketing-services-nj">
 									</span>
 								</div>
 							</div>
@@ -388,7 +446,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/126.png" alt="email-marketing-services-newjersey">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/126.webp" alt="email-marketing-services-newjersey">
 									</span>
 								</div>
 							</div>
@@ -405,7 +463,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/127.png" alt="email-marketing-services-usa">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/127.webp" alt="email-marketing-services-usa">
 									</span>
 								</div>
 							</div>
@@ -423,7 +481,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/128.png" alt="email-marketing-services-nj">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/128.webp" alt="email-marketing-services-nj">
 									</span>
 								</div>
 							</div>
@@ -441,7 +499,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/129.png" alt="email-marketing-services-nj-usa">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/129.webp" alt="email-marketing-services-nj-usa">
 									</span>
 								</div>
 							</div>
@@ -460,7 +518,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/130.png" alt="email-marketing-services-usa">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/130.webp" alt="email-marketing-services-usa">
 									</span>
 								</div>
 							</div>
@@ -478,7 +536,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/127.png" alt="email-marketing-services-agency-usa">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/127.webp" alt="email-marketing-services-agency-usa">
 									</span>
 								</div>
 							</div>
@@ -496,7 +554,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/131.png" alt="email-marketing-services-company-nj">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/131.webp" alt="email-marketing-services-company-nj">
 									</span>
 								</div>
 							</div>
@@ -513,7 +571,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/png-icons/132.png" alt="email-marketing-services-agency">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/132.webp" alt="email-marketing-services-agency">
 									</span>
 								</div>
 							</div>
@@ -564,7 +622,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/119.png" alt="email-marketing-services">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/119.webp" alt="email-marketing-services">
 									</span>
 								</div>
 							</div>
@@ -593,7 +651,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/120.png" alt="email-marketing-services">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/120.webp" alt="email-marketing-services">
 									</span>
 								</div>
 							</div>
@@ -623,7 +681,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/121.png" alt="email-marketing-services-in-newjersey">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/121.webp" alt="email-marketing-services-in-newjersey">
 									</span>
 								</div>
 							</div>
@@ -651,7 +709,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/122.png" alt="email-marketing-services">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/122.webp" alt="email-marketing-services">
 									</span>
 								</div>
 							</div>
@@ -677,7 +735,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/123.png" alt="email-marketing-services">
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/123.webp" alt="email-marketing-services">
 									</span>
 								</div>
 							</div>
@@ -704,9 +762,9 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/124.png" alt="email-marketing-services">
-									</span>
-								</div>
+										<img src="https://clickboxagency.com/images-new/services/email-marketing-service-new-jersey/icon/124.webp" alt="email-marketing-services">
+									</span>							
+									</div>
 							</div>
 
 							<!-- Text -->
@@ -993,7 +1051,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-xl-6">
 					<div class="post-inner-img">
-						<img class="img-fluid" src="https://www.clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+						<img class="img-fluid" src="https://www.clickboxagency.com/images-new/contactus/contacts.webp" width="300" height="300" alt="Branch office" />
 					</div>
 				</div>
 				<div class="col-lg-6 col-xl-6">
@@ -1007,7 +1065,7 @@
 								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*">
 							</div>
 							<div class="col-md-6">
 								<input type="text" name="company" class="form-control company" placeholder="Company Name*">

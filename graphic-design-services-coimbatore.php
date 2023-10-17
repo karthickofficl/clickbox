@@ -100,17 +100,17 @@
 					<div class="left-column wow fadeInRight ">
 						<div class="hero-4-txt white-color text-center">
 							<div>
-								<h2 class="h2-lg text-center mt-inverse-40 text-bold">Delivering Great</h2>
+								<h2 class="h2-lg text-center mt-inverse-40 text-bold">Delivering Great Graphic Design Videos</h2>
 							</div>
 							<div class="contain">
 								<h2 class="w-100 h2-lg "><span class="typed-text txtyelloww text-bold"></span><span class="cursor">&nbsp;</span></h2>
 							</div>
-							<p class="p-xl mt-10">To take organizations to the next level</p>
+							<p class="p-xl mt-10">Driving Organizations Towards Success</p>
 
 
 							<div class="text-center mt-50">
 
-								<a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover">Get a Quote</a>
+								<a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover">Get A Quote</a>
 							</div>
 						</div>
 					</div>
@@ -121,14 +121,14 @@
 	</section>
 
 	<!-- SECTION 3 -->
-	<section id="content-3" class="bg-white pt-30 content-3  content-section division">
+	<section id="content-3" class="bg-white content-3  content-section division mt-50">
 		<div class="container">
-			<div class="top-row pb-30">
-				<div class="top-row pb-30">
+			<div class="top-row ">
+				<div class="top-row ">
 					<div class="row justify-content-center">
 						<div class="col-lg-10 col-xl-8">
 							<div class="section-title title-01 mb-30">
-								<h3 class="h4-xl text-center">Bringing Your <span class="txtred"> Vision to Life</span> </h3>
+								<h3 class="h4-xl text-center">Excellence In <span class="txtred">Graphic Design Videos</span> </h3>
 							</div>
 						</div>
 					</div>
@@ -146,14 +146,14 @@
 			</div>
 	</section>
 	<!-- FEATURES-5============================================= -->
-	<section id="features-4" class=" features-section division">
+	<section id="features-4" class=" features-section division mt-50">
 		<div class="container">
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
-					<div class="section-title title-01 mb-70">
+					<div class="section-title title-01 mb-40">
 						<!-- Title -->
-						<h3 class="h4-xl text-center">Our Graphic Design Services <span class="txtred">in Coimbatore</span></h3>
+						<h3 class="h4-xl text-center">Our Graphic Design Services <span class="txtred">In Coimbatore</span></h3>
 						<p class="p-lg">We offer a comprehensive range of Graphic design company in Coimbatore that cater to your diverse visual needs. Our team of experienced designers is committed to delivering exceptional designs that not only captivate but also communicate your brand's essence. Explore our offerings and discover how we can bring your ideas to life</p>
 					</div>
 				</div>
@@ -417,16 +417,15 @@
 			</div> <!-- END FEATURES-4 WRAPPER -->
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
-	<section id="features-4" class="pt-20 bg-snow features-section division">
+	<section id="features-4" class="bg-snow features-section division mt-50">
 		<div class="container">
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
-					<div class="section-title title-01 mb-70">
+					<div class="section-title title-01 mb-40">
 						<!-- Title -->
-						<h2 class="h3-xs "><span class="txtred">Why Choose Click Box Agency's Graphic Design service?</span></h2>
-						<p class="p-lg">Graphic Design service and take your brand's visuals to the next level</p>
-						<p class="p-lg">At Click Box Agency, we understand that choosing a Graphic design partner is a crucial decision that directly impacts your brand's success. We're not just a creative design agency; we're your creative allies, committed to delivering unparalleled designs that speak volumes. Here's why partnering with us is the right choice.</p>
+						<h2 class="h3-xs ">Why Choose <span class="txtred">Click Box Agency's Graphic Design Services?</span></h2>
+						<p class="p-lg">Graphic Design service and take your brand's visuals to the next level.At Click Box Agency, we understand that choosing a Graphic design partner is a crucial decision that directly impacts your brand's success. We're not just a creative design agency; we're your creative allies, committed to delivering unparalleled designs that speak volumes. Here's why partnering with us is the right choice.</p>
 					</div>
 				</div>
 			</div>
@@ -509,13 +508,13 @@
 			</div>
 
 	</section>
-	<section id="content-3" class="bg-white pt-60 content-3  content-section division">
+	<section id="content-3" class="bg-white content-3  content-section division mt-50">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title">
 						<h3 class="h4-xl text-center">Our Graphic Design <span class="txtred">Service Process</span></h3>
-						<p class="p-lg text-center mt-30">Contact us now, and let's start making something great together.</p>
+						<p class="p-lg text-center mt-20">Contact us now, and let's start making something great together.</p>
 					</div>
 				</div>
 			</div>
@@ -595,12 +594,12 @@
 	</section>
 	<!-- SECTION 4 -->
 	<!-- Section 12 -->
-	<section class="bg-white content-3 mt-50 mb-20 features-section division  ">
+	<section class="bg-white content-3 mt-60 features-section division  ">
 		<div class="container ">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-30">
-						<h3 class="h4-xl text-center">OUR WEAPONS TO <span class="txtred">KILLER DESIGN</span></h3>
+						<h3 class="h4-xl text-center">Our Weapons To <span class="txtred">Killer Design</span></h3>
 					</div>
 				</div>
 			</div>
@@ -679,14 +678,13 @@
 
 
 	<!-- Section 12 -->
-	<section class="bg-white content-3 pt-30 mb-20 features-section division  ">
+	<section class="bg-white content-3 features-section division  mt-50">
 		<div class="container ">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-30">
 						<h3 class="h4-xl text-center">Our <span class="txtred">Portfolio</span></h3>
-						<p class="p-lg text-center">Our portfolio showcases a stunning collection of our best work, guaranteed to leave you inspired and impressed</p>
-						<p class="p-lg text-center">At Click Box Agency, our clients' satisfaction is at the heart of everything we do. Don't just take our word for it; here's what our valued clients have to say about their experience with our graphic design agency in Coimbatore</p>
+						<p class="p-lg text-center">Our portfolio showcases a stunning collection of our best work, guaranteed to leave you inspired and impressed.At Click Box Agency, our clients' satisfaction is at the heart of everything we do. Don't just take our word for it; here's what our valued clients have to say about their experience with our graphic design agency in Coimbatore</p>
 					</div>
 				</div>
 			</div>
@@ -726,11 +724,11 @@
 	</section>
 
 	<!-- FAQs-2>===================================== -->
-	<section id="faqs-2" class="pt-20 faqs-section division">
+	<section id="faqs-2" class="faqs-section division mt-50">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01 mb-80">
+					<div class="section-title title-01 mb-40">
 						<h3 class="h4-xl text-center">Frequently <span class="txtred">Asked Questions</span></h3>
 					</div>
 				</div>
@@ -868,6 +866,13 @@
 					</div>
 				</div>
 
+			</div>
+			<div class="row">
+				<div class="col ">
+					<div class="more-questions">
+						<h5 class="h5-sm ">Have more questions? <a href="https://clickboxagency.com/contacts/">Ask your question here</a></h5>
+					</div>
+				</div>
 			</div>
 	</section>
 

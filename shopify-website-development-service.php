@@ -135,7 +135,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-lg-5 order-last order-lg-2">
 					<div class="hero-8-img pc-20 text-center">
-						<img class="img-fluid" src="../images/Shopify Website Development/01-02.png" alt="hero-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/01-02.webp" alt="hero-image">
 					</div>
 				</div>
 
@@ -145,7 +145,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-8-txt">
 
 						<!-- Title -->
-						<h2 class="h2-md">Create A Professional Website With Us!</h2>
+						<h1 class="h2-md">Create A Professional Website With Us!</h1>
 
 
 
@@ -215,7 +215,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-12 col-lg-5">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/Shopify Website Development/02-02.png" alt="content-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/02-02.webp" alt="content-image">
 					</div>
 				</div>
 
@@ -235,7 +235,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/Shopify Website Development/03-02.png" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/03-02.webp" alt="content-image">
 						</div>
 					</div>
 
@@ -317,7 +317,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-md-2">
 					<div class="rel img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/Shopify Website Development/04-02.png" alt="content-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/04-02.webp" alt="content-image">
 					</div>
 				</div>
 
@@ -362,7 +362,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/Shopify Website Development/05-02.png" alt="Digital marketing services" />
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/05-02.webp" alt="Digital marketing services" />
 							</div>
 
 							<!-- Title -->
@@ -383,7 +383,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/Shopify Website Development/06-02.png" alt="Social media marketing" />
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/06-02.webp" alt="Social media marketing" />
 							</div>
 
 							<!-- Title -->
@@ -416,7 +416,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/Shopify Website Development/07-02.png" alt="google Ads management" />
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/07-02.webp" alt="google Ads management" />
 							</div>
 
 							<!-- Title -->
@@ -441,7 +441,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/Shopify Website Development/08-02.png" alt="ecommerce seo services image" />
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/08-02.webp" alt="ecommerce seo services image" />
 							</div>
 
 							<!-- Title -->
@@ -520,7 +520,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-md-2">
 					<div class="rel img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/Shopify Website Development/09-02.png" alt="content-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/services/shopify-website-development-service/09-02.webp" alt="content-image">
 					</div>
 				</div>
 
@@ -693,35 +693,7 @@ if (isset($_POST['send'])) {
 	<!-- DIVIDER LINE -->
 	<hr class="divider">
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
-
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-							<!-- Text -->
-							<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
+	
 	<?php include('footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->
 	<?php include('footer-script.php') ?>
@@ -742,7 +714,7 @@ if (isset($_POST['send'])) {
 			"@context": "http://schema.org",
 			"@type": "WebSite",
 			"name": "Professional Shopify Website Development Services | ClickBox",
-			"alternateName": "shopify website developer, hire shopify developer, shopify development agency, shopify development service, shopify website development services, shopify website design ";
+			"alternateName": "shopify website developer, hire shopify developer, shopify development agency, shopify development service, shopify website development services, shopify website design ",
 			"url": "https://www.clickboxagency.com/"
 		}
 	</script>

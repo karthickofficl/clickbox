@@ -137,7 +137,7 @@ if (isset($_POST['send'])) {
 
 
 						<!-- Title -->
-						<h5 class="h5-lg white-color txt-justify">Welcome to our SaaS Digital Marketing Agency, Where We Focus on Helping B2B Brands Speed up Their Growth.</h5>
+						<h1 class="h5-lg white-color txt-justify">Welcome to our SaaS Digital Marketing Agency, Where We Focus on Helping B2B Brands Speed up Their Growth.</h1>
 
 						<!-- List -->
 						<ul class="simple-list">
@@ -320,7 +320,7 @@ if (isset($_POST['send'])) {
 						<h4 class="h4-md">The Most Common Errors Made by <br>SAAS Marketing Agencies</h4>
 
 						<!-- Text -->
-						<p class="p-xl">SAAS (Software as a Service) marketing companies must be careful not to make common mistakes that could hurt how well they do their jobs. Following are some errors to avoid:</p>
+						<p class="p-xl"><a href="https://tinyurl.com/cb-saastech" class="dblue" >SAAS (Software as a Service) marketing</a> companies must be careful not to make common mistakes that could hurt how well they do their jobs. Following are some errors to avoid:</p>
 
 					</div>
 				</div>
@@ -706,7 +706,7 @@ if (isset($_POST['send'])) {
 							</div>
 							<div class="col-md-12">
 								<!-- <p class="p-lg">Your Mobile Number: </p> -->
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" maxlength="10" class="form-control phone" placeholder="Mobile Number*">
 							</div>
 
 

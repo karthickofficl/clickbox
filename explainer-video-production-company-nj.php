@@ -57,7 +57,7 @@
 
 	<meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-
+	
 </head>
 
 <body>
@@ -66,67 +66,67 @@
 	<section id="hero-4" class="bg-scroll hero-section division  pb-20 ">
 		<div class="container">
 			<div class="row d-flex align-items-center justify-content-center">
-			    	<div class="col-md-6 col-lg-6 mt-inverse-40 " >
+				<div class="col-md-6 col-lg-6 mt-inverse-40 ">
 					<div class="left-column wow fadeInRight ">
-					    <div class="mt-15">
-						 <img class="img-fluid " src="../images/295.jpg" alt="we-are-generating-digital-marketing"> 
-						 </div>
+						<div class="mt-15">
+							<img class="img-fluid " src="../images/295.jpg" alt="we-are-generating-digital-marketing">
+						</div>
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6 mt-inverse-10 ">
-				    <div class="left-column wow fadeInRight ">
-					<div class="hero-4-txt white-color text-center">
-					    
-					<h1 class="h1-fsize white-color">Professional <span class="txtyelloww">Animated Explainer Video Company</span> <br> In New Jersey  </h1>
-						<p class="p-xl">To <span class="txtyelloww">wow</span> your audience, use the power of video.</p>
-                        <div class="text-center mt-20">
-						
-							<a href="https://clickboxagency.com/" class="btn btn-red yellow-hover" >Get My Free Offer Here</a>
+					<div class="left-column wow fadeInRight ">
+						<div class="hero-4-txt white-color text-center">
+
+							<h1 class="h1-fsize white-color">Professional <span class="txtyelloww">Animated Explainer Video Company</span> <br> In New Jersey </h1>
+							<p class="p-xl">To <span class="txtyelloww">wow</span> your audience, use the power of video.</p>
+							<div class="text-center mt-20">
+
+								<a href="https://clickboxagency.com/" class="btn btn-red yellow-hover">Get My Free Offer Here</a>
+							</div>
 						</div>
 					</div>
-					</div>
 				</div>
-				
+
 			</div>
 		</div>
-			
-	
-		</section>	
-		
-			<!-- SECTION 3 -->
-	
+
+
+	</section>
+
+	<!-- SECTION 3 -->
+
 	<section id="content-3" class="bg-white pt-20 content-3  content-section division">
 		<div class="container">
 			<div class="top-row ">
-			    	<div class="top-row pb-30">
-			    <div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01 mb-40">
-					<h2 class="h4-xl text-center">Just What Are These <span class="txtred">"Explainer Videos"?</span> </h2>
-					</div>
-				</div>
-			</div>
-				<div class="row d-flex align-items-center">
-					<div class="col-md-5 col-lg-6">
-						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/205.png" alt="we-are-generating-digital-marketing">
+				<div class="top-row pb-30">
+					<div class="row justify-content-center">
+						<div class="col-lg-10 col-xl-8">
+							<div class="section-title title-01 mb-40">
+								<h2 class="h4-xl text-center">Just What Are These <span class="txtred">"Explainer Videos"?</span> </h2>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-7 col-lg-6">
-						<div class="txt-block right-column wow fadeInLeft">
-						    
-								<p class="p-lg">Explainer videos are animated demonstrations of ideas, products, or services designed to pique viewers' interest and bring in potential customers. Organizations are expanding their online presence and raising product awareness by including interesting visual components, such as useful information.</p>
-						<p class="p-lg">Companies often choose an explainer Company nj since research indicates that people's brains comprehend pictures 60,000 times faster than words. In addition, it causes people to feel something and forces them to make a calculated choice.</p>
-						<p class="p-lg">Check out one of the engaging <a href="https://clickboxagency.com/" aria-label="Pay-Per-Click" title="Pay-Per-Click" class="txtbluee"><u>3D explanation Companies</u></a> that our skilled team produced for Mbits. It is a world-class scientific research platform with a focus on the potential of blockchain technology.</p>
+					<div class="row d-flex align-items-center">
+						<div class="col-md-5 col-lg-6">
+							<div class="img-block left-column wow fadeInRight">
+								<img class="img-fluid" src="../images/205.png" alt="we-are-generating-digital-marketing">
 							</div>
+						</div>
+						<div class="col-md-7 col-lg-6">
+							<div class="txt-block right-column wow fadeInLeft">
+
+								<p class="p-lg">Explainer videos are animated demonstrations of ideas, products, or services designed to pique viewers' interest and bring in potential customers. Organizations are expanding their online presence and raising product awareness by including interesting visual components, such as useful information.</p>
+								<p class="p-lg">Companies often choose an explainer Company nj since research indicates that people's brains comprehend pictures 60,000 times faster than words. In addition, it causes people to feel something and forces them to make a calculated choice.</p>
+								<p class="p-lg">Check out one of the engaging <a href="https://clickboxagency.com/" aria-label="Pay-Per-Click" title="Pay-Per-Click" class="txtbluee"><u>3D explanation Companies</u></a> that our skilled team produced for Mbits. It is a world-class scientific research platform with a focus on the potential of blockchain technology.</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 	</section>
 
-	
-	
+
+
 	<!-- Section 8 -->
 	<div id="servicecarousel-1" class=" pb-20 brands-section division">
 		<div class="container">
@@ -134,7 +134,7 @@
 				<div class="col-lg-12 col-sm-12">
 					<div class="brands-title ">
 						<h3 class="h4-xl text-center">Advantages of Having an <span class="txtred">Explanation Video?</span></h3>
-						
+
 					</div>
 				</div>
 			</div>
@@ -229,12 +229,12 @@
 						</div>
 					</div>
 				</div>
-				
+
 			</div>
 		</div>
 	</div>
 	<!-- Section 10 -->
-				<!-- SECTION 4 -->
+	<!-- SECTION 4 -->
 	<section class="bg-white content-3 mb-20 mt-20 features-section division ">
 		<div class="container ">
 			<div class="row justify-content-center">
@@ -244,7 +244,7 @@
 					</div>
 				</div>
 			</div>
-		
+
 			<div class="row mt-20">
 				<div class="col-lg-12 col-xl-12">
 					<div class="txt-block left-column wow fadeInRight">
@@ -252,8 +252,8 @@
 						<p class="p-lg">Since we are aware that every organization has different demands, we provide a variety of scalable solutions to satisfy your particular needs. Whether you want a straightforward cartoon production or a challenging live-action one, we can help.</p>
 						<p class="p-lg">Your project will be finished on schedule and within your allocated budget thanks to our efficient methodology. From the beginning to the end, we collaborate closely with you to ensure that we fully comprehend your vision and objectives. We also regularly inform you on the production process to guarantee that you are happy with the finished result.</p>
 						<div class="more-btn mt-20">
-						<a href="https://clickboxagency.com/" class="btn btn-red yellow-hover" >Captivate Your Audience and Boost Your Business with Clickbox</a>
-					
+							<a href="https://clickboxagency.com/" class="btn btn-red yellow-hover">Captivate Your Audience and Boost Your Business with Clickbox</a>
+
 						</div>
 					</div>
 				</div>
@@ -261,11 +261,11 @@
 		</div>
 		</div>
 	</section>
-	
 
-<!-- =================SECTION 2===================-->
 
-    <div id="brands-1" class="pt-20 pb-20 brands-section division">
+	<!-- =================SECTION 2===================-->
+
+	<div id="brands-1" class="pt-20 pb-20 brands-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
@@ -281,71 +281,71 @@
 					<div class="owl-carousel brands-carousel">
 						<!-- Designing -->
 						<div class="brand-logo">
-						     <a href="https://www.movavi.com/ " aria-label="Movavi Video Editor" title="Movavi Video Editor" >
-							<img class="img-fluid-tools"  src="https://clickboxagency.com/images/png-icons/64.jpg" alt="tools-logo" /></a>
-						
+							<a href="https://www.movavi.com/ " aria-label="Movavi Video Editor" title="Movavi Video Editor">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/64.jpg" alt="tools-logo" /></a>
+
 						</div>
 						<div class="brand-logo">
-						    <a href="https://www.rawshorts.com/" aria-label="Rawshorts" title="Rawshorts" >
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/65.jpg" alt="tools-logo" /></a>
-						
+							<a href="https://www.rawshorts.com/" aria-label="Rawshorts" title="Rawshorts">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/65.jpg" alt="tools-logo" /></a>
+
 						</div>
 						<div class="brand-logo">
-						    <a href="https://www.renderforest.com/" aria-label="Renderforest" title="Renderforest" >
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/66.jpg" alt="tools-logo" /></a>
-							
+							<a href="https://www.renderforest.com/" aria-label="Renderforest" title="Renderforest">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/66.jpg" alt="tools-logo" /></a>
+
 						</div>
 
 						<div class="brand-logo">
-						    <a href="https://www.animatron.com/" aria-label="Animatron" title="Animatron">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/67.jpg" alt="tools-logo" /></a>
-						
-						</div>
+							<a href="https://www.animatron.com/" aria-label="Animatron" title="Animatron">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/67.jpg" alt="tools-logo" /></a>
 
-						<!-- BRAND LOGO IMAGE -->
-						<div class="brand-logo">
-						    <a href="https://biteable.com/ " aria-label="Biteable" title="Biteable">
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/68.jpg" alt="tools-logo" /></a>
-						
 						</div>
 
 						<!-- BRAND LOGO IMAGE -->
 						<div class="brand-logo">
-						    <a href="https://www.powtoon.com/" aria-label="Powtoon" title="Powtoon"  >
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/69.jpg" alt="tools-logo" /></a>
-						
-						</div>
-						<div class="brand-logo">
-						    <a href="https://promo.com/ " aria-label="Promo by Slidely" title="Promo by Slidely" >
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/70.jpg" alt="tools-logo" /></a>
-							
-						</div>
-						<div class="brand-logo">
-						    <a href="https://www.vemely.com/ " aria-label="Vemely" title="Vemely" >
-							<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/71.jpg" alt="tools-logo" /></a>
-						
-						</div>
-					
+							<a href="https://biteable.com/ " aria-label="Biteable" title="Biteable">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/68.jpg" alt="tools-logo" /></a>
 
-						
+						</div>
+
+						<!-- BRAND LOGO IMAGE -->
+						<div class="brand-logo">
+							<a href="https://www.powtoon.com/" aria-label="Powtoon" title="Powtoon">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/69.jpg" alt="tools-logo" /></a>
+
+						</div>
+						<div class="brand-logo">
+							<a href="https://promo.com/ " aria-label="Promo by Slidely" title="Promo by Slidely">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/70.jpg" alt="tools-logo" /></a>
+
+						</div>
+						<div class="brand-logo">
+							<a href="https://www.vemely.com/ " aria-label="Vemely" title="Vemely">
+								<img class="img-fluid-tools" src="https://clickboxagency.com/images/png-icons/71.jpg" alt="tools-logo" /></a>
+
+						</div>
+
+
+
 					</div>
 				</div>
 			</div> <!-- End Brands Carousel -->
 		</div> <!-- End container -->
 	</div> <!-- END BRANDS-1 -->
 
-    <!-- =================SECTION 3===================-->
+	<!-- =================SECTION 3===================-->
 	</section>
 
 
-	
-		
-	
 
-	
+
+
+
+
 	<!-- FEATURES-5
 			============================================= -->
-<section id="features-4" class=" features-section division mt-20">
+	<section id="features-4" class=" features-section division mt-20">
 		<div class="container">
 
 
@@ -355,7 +355,7 @@
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title -->
-							<h3 class="h4-xl text-center">We Are Promoting Videos For <span class="txtred">Your Business</span> in New Jersey</h3>
+						<h3 class="h4-xl text-center">We Are Promoting Videos For <span class="txtred">Your Business</span> in New Jersey</h3>
 
 						<!-- Text -->
 
@@ -369,7 +369,7 @@
 
 
 					<!-- FEATURE BOX #1 -->
-					
+
 					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
@@ -377,8 +377,8 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img src="https://clickboxagency.com/images/png-icons/44.png" alt="digital marketing">
-								</span>
+										<img src="https://clickboxagency.com/images/png-icons/44.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -405,9 +405,9 @@
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/45.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/45.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -428,16 +428,16 @@
 
 
 					<!-- FEATURE BOX #3 -->
-				
+
 					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/46.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/46.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -463,9 +463,9 @@
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/47.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/47.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -489,9 +489,9 @@
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/48.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/48.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -510,15 +510,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/49.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/49.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -537,15 +537,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img src="https://clickboxagency.com/images/png-icons/50.png" alt="digital marketing">
-								</span>
+										<img src="https://clickboxagency.com/images/png-icons/50.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -564,15 +564,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img src="https://clickboxagency.com/images/png-icons/51.png" alt="digital marketing">
-								</span>
+										<img src="https://clickboxagency.com/images/png-icons/51.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -591,15 +591,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/52.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/52.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -618,15 +618,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
-								<span>
-									<img src="https://clickboxagency.com/images/png-icons/53.png" alt="digital marketing">
-								</span>
+									<span>
+										<img src="https://clickboxagency.com/images/png-icons/53.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -645,15 +645,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img src="https://clickboxagency.com/images/png-icons/54.png" alt="digital marketing">
-								</span>
+										<img src="https://clickboxagency.com/images/png-icons/54.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -672,15 +672,15 @@
 						</div>
 					</div>
 
-<div class="col">
+					<div class="col">
 						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-									<img src="https://clickboxagency.com/images/png-icons/55.png" alt="digital marketing">
-								</span>
+										<img src="https://clickboxagency.com/images/png-icons/55.png" alt="digital marketing">
+									</span>
 								</div>
 							</div>
 
@@ -707,8 +707,8 @@
 
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
-	
-	
+
+
 	<!-- SECTION 3 -->
 	<section class="bg-white content-3 mb-20 mt-50 features-section division  ">
 		<div class="container ">
@@ -719,63 +719,63 @@
 					</div>
 				</div>
 			</div>
-		
+
 			<div class="row mt-inverse-30">
-						
+
 				<div class="col-md-12">
-							<div class="owl-carousel brands-carousels owl-theme reviews-section " >
-									<div class="post-inner-img ">
-									<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/CwggrahTi_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-										</div>
-									<div class="post-inner-img ">
-									<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/Exg1Wqtc3js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-									</div>
-									<!-- Text -->
-									<div class="post-inner-img ">
-									<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/HrOxYe214sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-									</div>
-									<!-- <div class="post-inner-img">
+					<div class="owl-carousel brands-carousels owl-theme reviews-section ">
+						<div class="post-inner-img ">
+							<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/CwggrahTi_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						</div>
+						<div class="post-inner-img ">
+							<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/Exg1Wqtc3js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						</div>
+						<!-- Text -->
+						<div class="post-inner-img ">
+							<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/HrOxYe214sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						</div>
+						<!-- <div class="post-inner-img">
 									<iframe width="320" height="215" src="https://www.youtube.com/embed/CwggrahTi_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 										</div> -->
-									<div class="post-inner-img ">
-									<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/CwggrahTi_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-									</div>
-									<div class="post-inner-img ">
-									<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/Y9NudjqSfLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-									</div>
-									<div class="post-inner-img ">
-									<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/ggMQEMhPUOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-									</div>
-								
+						<div class="post-inner-img ">
+							<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/CwggrahTi_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						</div>
+						<div class="post-inner-img ">
+							<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/Y9NudjqSfLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						</div>
+						<div class="post-inner-img ">
+							<iframe width="540" height="350" class="margin-width" src="https://www.youtube.com/embed/ggMQEMhPUOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						</div>
 
 
-								
 
 
-							</div>
-						</div> <!-- END TESTIMONIALS CAROUSEL -->
 
-			
-			
+
+					</div>
+				</div> <!-- END TESTIMONIALS CAROUSEL -->
+
+
+
 			</div>
 		</div>
-		
+
 	</section>
-	   
-	
 
-	
 
-	
+
+
+
+
 
 	<!-- SECTION 5 -->
 	<section id="content-3" class="bg-white  content-3 mt-40 content-section division">
 		<div class="container">
-		    <div class="row justify-content-center">
+			<div class="row justify-content-center">
 				<div class="col-lg-12 col-sm-12">
 					<div class="brands-title ">
 						<h3 class="h4-xl text-center">Variety of <span class="txtred">Explanatory Videos</span></h3>
-						
+
 					</div>
 				</div>
 			</div>
@@ -784,7 +784,7 @@
 					<div class="txt-block left-column  wow fadeInLeft">
 						<h3 class="h4-xl"> 2D Character <span class="txtred">Animation</span></h3>
 						<p class="p-lg txt-justify">2D animation is a technique in which characters and environments are created in a two-dimensional space using perspective to simulate the illusion of depth. This type of animation is an excellent choice for B2C and B2B companies because it evokes sentiment, making it an ideal form of shareable content.</p>
-					
+
 						<!-- <div class="more-btn mt-20">
 							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Launch Your PPC Campaign Today</a>
 						</div> -->
@@ -792,9 +792,9 @@
 				</div>
 				<div class="col-md-5 col-lg-6 ">
 					<div class="right-column wow fadeInRight ">
-					   
-						 <img class="img-fluid" src="../images/206.png" alt="we-are-generating-digital-marketing"> 
-						 
+
+						<img class="img-fluid" src="../images/206.png" alt="we-are-generating-digital-marketing">
+
 					</div>
 				</div>
 			</div>
@@ -807,16 +807,16 @@
 			<div class="row d-flex align-items-center  mt-15">
 				<div class="col-md-5 col-lg-6 ">
 					<div class=" left-column wow fadeInRight ">
-					  
-						 <img class="img-fluid" src="../images/213.png" alt="we-are-generating-digital-marketing"> 
-					
+
+						<img class="img-fluid" src="../images/213.png" alt="we-are-generating-digital-marketing">
+
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6  ">
 					<div class="txt-block  right-column wow fadeInLeft">
 						<h3 class="h4-xl">Whiteboard <span class="txtred">Animation</span></h3>
 						<p class="p-lg txt-justify">Whiteboard movies are ideal for going into a little bit more depth about an explanation of a product, service, or process. For the purpose of elucidating a subject, this method involves sketching straightforward black-and-white images on a whiteboard.</p>
-					
+
 					</div>
 				</div>
 			</div>
@@ -830,7 +830,7 @@
 					<div class="txt-block left-column  wow fadeInLeft">
 						<h3 class="h4-xl"> Live <span class="txtred">Action</span></h3>
 						<p class="p-lg txt-justify">Everything in live action videos is captured by a camera. It's a good option for businesses that want to establish a personal connection with potential consumers by displaying real individuals in real settings. Due to its ability to captivate the audience, this format functions exceptionally well in explainer videos service india.</p>
-					
+
 						<!-- <div class="more-btn mt-20">
 							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Launch Your PPC Campaign Today</a>
 						</div> -->
@@ -838,9 +838,9 @@
 				</div>
 				<div class="col-md-5 col-lg-6 mt-inverse-40">
 					<div class=" right-column wow fadeInRight ">
-					    
-						 <img class="img-fluid" src="../images/207.png" alt="we-are-generating-digital-marketing"> 
-						
+
+						<img class="img-fluid" src="../images/207.png" alt="we-are-generating-digital-marketing">
+
 					</div>
 				</div>
 			</div>
@@ -853,16 +853,16 @@
 			<div class="row d-flex align-items-center mt-15 ">
 				<div class="col-md-5 col-lg-6 ">
 					<div class="left-column wow fadeInRight ">
-					  
-						 <img class="img-fluid" src="../images/208.png" alt="we-are-generating-digital-marketing"> 
-						
+
+						<img class="img-fluid" src="../images/208.png" alt="we-are-generating-digital-marketing">
+
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6 ">
 					<div class="txt-block  right-column wow fadeInLeft">
 						<h3 class="h4-xl">Stop <span class="txtred">Motion</span></h3>
 						<p class="p-lg txt-justify">It is a technique for creating the illusion of movement by photographing an object as it is moved in tiny increments. However, this technique is costly, and if you need to make a change, you may not be able to or it may cost a great deal of time and money.</p>
-					
+
 					</div>
 				</div>
 			</div>
@@ -876,7 +876,7 @@
 					<div class="txt-block left-column  wow fadeInLeft ">
 						<h3 class="h4-xl"> Typography</h3>
 						<p class="p-lg txt-justify">This style expresses an idea through the animation of typographic fonts. If the correct typefaces are used, the video can be formatted to highlight specific passages and help the audience remember them. This type receives bonus points for its affordable price and reduced production periods.</p>
-					
+
 						<!-- <div class="more-btn mt-20">
 							<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Launch Your PPC Campaign Today</a>
 						</div> -->
@@ -884,9 +884,9 @@
 				</div>
 				<div class="col-md-5 col-lg-6 ">
 					<div class=" right-column wow fadeInRight ">
-					  
-						 <img class="img-fluid" src="../images/209.png" alt="we-are-generating-digital-marketing"> 
-						
+
+						<img class="img-fluid" src="../images/209.png" alt="we-are-generating-digital-marketing">
+
 					</div>
 				</div>
 			</div>
@@ -899,16 +899,16 @@
 			<div class="row d-flex align-items-center mt-15 ">
 				<div class="col-md-5 col-lg-6 ">
 					<div class="left-column wow fadeInRight ">
-					    
-						 <img class="img-fluid " src="../images/210.png" alt="we-are-generating-digital-marketing"> 
-						
+
+						<img class="img-fluid " src="../images/210.png" alt="we-are-generating-digital-marketing">
+
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block  right-column wow fadeInLeft">
 						<h3 class="h4-xl">Screencast</h3>
 						<p class="p-lg txt-justify">A screencast is an audio-narrated digital recording of a screen capture. Since it is one of the low-cost alternatives to video production, many businesses utilize it, particularly for tutorials. If your product is a complex platform or software, you can use this approach to demonstrate how it operates.</p>
-					
+
 					</div>
 				</div>
 			</div>
@@ -1059,31 +1059,31 @@
 					</div>
 				</div>
 			</div>
-			
+
 	</section>
 	<!-- SECTION 3 -->
 
 	<section id="content-3" class="bg-white pt-50 content-3  content-section division">
 		<div class="container">
 			<div class="top-row pb-30">
-			    <div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01 mb-80">
-					<h3 class="h4-xl text-center">So Why Choose Clickbox for <span class="txtred">Your Explainer Video</span> Needs?</h3>
+				<div class="row justify-content-center">
+					<div class="col-lg-10 col-xl-8">
+						<div class="section-title title-01 mb-80">
+							<h3 class="h4-xl text-center">So Why Choose Clickbox for <span class="txtred">Your Explainer Video</span> Needs?</h3>
+						</div>
 					</div>
 				</div>
-			</div>
 				<div class="row d-flex align-items-center">
-					
+
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInRight">
-						    
-						    	<p class="p-lg">We have a proven track record of success, with hundreds of satisfied clients across a range of industries.</p>
-						<p class="p-lg">Our team of experts includes <span class="typed-text red-color"></span><span class="cursor">&nbsp;</span> and more, all working together to create a video that is engaging, informative, and effective.</p>
-						<p class="p-lg">We use the latest technology and techniques to create high-quality videos that stand out from the competition.</p>
-						<p class="p-lg">We offer competitive pricing and a range of customizable packages to meet your specific needs and budget.</p>
-						<p class="p-lg">We pride ourselves on our excellent customer service, and we are committed to working closely with you to ensure that your video exceeds your expectations.</p>
-				</div>
+
+							<p class="p-lg">We have a proven track record of success, with hundreds of satisfied clients across a range of industries.</p>
+							<p class="p-lg">Our team of experts includes <span class="typed-text red-color"></span><span class="cursor">&nbsp;</span> and more, all working together to create a video that is engaging, informative, and effective.</p>
+							<p class="p-lg">We use the latest technology and techniques to create high-quality videos that stand out from the competition.</p>
+							<p class="p-lg">We offer competitive pricing and a range of customizable packages to meet your specific needs and budget.</p>
+							<p class="p-lg">We pride ourselves on our excellent customer service, and we are committed to working closely with you to ensure that your video exceeds your expectations.</p>
+						</div>
 					</div>
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInLeft">
@@ -1094,10 +1094,10 @@
 			</div>
 		</div>
 	</section>
-		<!-- FEATURES-5
+	<!-- FEATURES-5
 			============================================= -->
 
-				<section id="features-4" class=" bg-white features-section division mt-30">
+	<section id="features-4" class=" bg-white features-section division mt-30">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
@@ -1201,37 +1201,37 @@
 			</div>
 		</div>
 	</section>
-<section  class="bg-white content-3 features-section division division mt-50">
+	<section class="bg-white content-3 features-section division division mt-50">
 		<div class="container">
 			<div class="row justify-content-center">
-				
-				
-						
-							<!-- TEXT BLOCK -->
-							<div class="col-lg-12 col-xl-12">
-								<div class="section-title wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-									<p class="p-lg txt-justify">
-									Now is the moment to give your business a boost by using completely personalized animated  Explainer videos. Using a combination of your requirements and our expertise, we produce both corporate and whiteboard movies. You've found the right place for animated explainer video services in New jersey! To promote your company's principles and ideas, we collaborate with you to produce "out-of-the-box" Company that people will really want to watch. Our number one priority is your satisfaction.
 
-								
-									</p>
-									<!-- Text -->
-				<!--				<div class="col-md-6 offset-md-3">-->
-				<!--	<div class="post-inner-img">-->
-				<!--		<img src="../images/155.png" alt="google analtics" class="img-fluid">-->
-				<!--	</div>-->
-				<!--</div>-->
-							
-						</div>
-						</div>
+
+
+				<!-- TEXT BLOCK -->
+				<div class="col-lg-12 col-xl-12">
+					<div class="section-title wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+						<p class="p-lg txt-justify">
+							Now is the moment to give your business a boost by using completely personalized animated Explainer videos. Using a combination of your requirements and our expertise, we produce both corporate and whiteboard movies. You've found the right place for animated explainer video services in New jersey! To promote your company's principles and ideas, we collaborate with you to produce "out-of-the-box" Company that people will really want to watch. Our number one priority is your satisfaction.
+
+
+						</p>
+						<!-- Text -->
+						<!--				<div class="col-md-6 offset-md-3">-->
+						<!--	<div class="post-inner-img">-->
+						<!--		<img src="../images/155.png" alt="google analtics" class="img-fluid">-->
+						<!--	</div>-->
+						<!--</div>-->
+
 					</div>
 				</div>
+			</div>
+		</div>
 	</section>
 
-	
 
 
-	
+
+
 
 	<!-- FAQs-2>===================================== -->
 	<section id="faqs-2" class="pt-50 faqs-section division">
@@ -1292,7 +1292,7 @@
 											<!-- TEXT BOX -->
 											<div class="txt-box">
 												<p class="p-lg">Our team works closely with you to understand your message, target audience, and goals. We then develop a script, create visuals, record voice overs, and edit the video to ensure it effectively conveys your message.</p>
-												
+
 											</div>
 										</div>
 									</div>
@@ -1346,10 +1346,10 @@
 						</div>
 					</div>
 				</div>
-				
+
 			</div>
 	</section>
-	
+
 	<!--  -->
 	<section id="content-3" class="bg-snow pt-50  content-3  content-section division">
 		<div class="container-fluid bortopbot">
@@ -1358,9 +1358,9 @@
 					<div class="col-md-10 col-lg-10   pt-40 ">
 						<div class="txt-block left-column wow fadeInLeft ">
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md text-white">A Professional Animated Explainer Video  Production Company NJ</span></h4>
+								<h4 class="h4-md text-white">A Professional Animated Explainer Video Production Company NJ</span></h4>
 								<p class="p-md text-white">Do you need help with just one video project or with your whole marketing plan? Contact Clickbox now for innovative animated video services and technological solutions that provide results.</p>
-								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
+								<a href="https://clickboxagency.com/contacts/" aria-label="GET FREE PROPOSAL" title="GET FREE PROPOSAL" target="_blank" class="btn btn-sm btn-skyblue yellow-hover">GET FREE PROPOSAL</a> &nbsp; <a href="tel:8870578887" aria-label="tel:8870578887" title="tel:8870578887" class="btn btn-sm btn-yellow skyblue-hover"> CALL +91 8870 578 887 </a>
 							</div>
 						</div>
 					</div>
@@ -1368,14 +1368,14 @@
 			</div>
 		</div>
 	</section>
-		<section id="contacts-2" class="bg-snow pt-60 contacts-section division">
+	<section id="contacts-2" class="bg-snow pt-60 contacts-section division">
 		<div class="container">
 			<!-- SECTION TITLE -->
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="section-title title-02 mb-80">
 						<!-- Title -->
-						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate,<br/> Drop us a Line</h2>
+						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate,<br /> Drop us a Line</h2>
 					</div>
 				</div>
 			</div>
@@ -1397,31 +1397,32 @@
 								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" class="form-control phone" placeholder="Mobile Number*" maxlength="10">
+								
 							</div>
 							<div class="col-md-6">
 								<input type="text" name="company" class="form-control company" placeholder="Company Name*">
 							</div>
 
 							<div class="col-md-6">
-							<select class="form-select" aria-label="services" name="services" id="services">
+								<select class="form-select" aria-label="services" name="services" id="services">
 									<option selected>Select your services</option>
-										<option value="Mobile App Development">Mobile App Development</option>
-										<option value="Web App Development">Web App Development</option>
-										<option value="Hire Dedicated Development">Hire Dedicated Development</option>
-										<option value="Ecommerce Development">Ecommerce Development</option>
-										<option value="Logo Design">Logo Design</option>
-										<option value="UI UX Design">UI UX Design</option>
-										<option value="Website Design and Development">Website Design and Development</option>
-										<option value="Wordpress Development">Wordpress Development</option>
-										<option value="Shopify Website Development">Shopify Website Development</option>
-										<option value="Website Redesigning">Website Redesigning</option>
-									    <option value="Digital Marketing">Digital Marketing</option>
-									    <option value="Search Engine Optimization">Search Engine Optimization</option>
-									    <option value="Social Media Marketing">Social Media Marketing</option>
-								    	<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
-								    	<option value="Explainer Video Creation">Explainer Video Creation</option>
-									
+									<option value="Mobile App Development">Mobile App Development</option>
+									<option value="Web App Development">Web App Development</option>
+									<option value="Hire Dedicated Development">Hire Dedicated Development</option>
+									<option value="Ecommerce Development">Ecommerce Development</option>
+									<option value="Logo Design">Logo Design</option>
+									<option value="UI UX Design">UI UX Design</option>
+									<option value="Website Design and Development">Website Design and Development</option>
+									<option value="Wordpress Development">Wordpress Development</option>
+									<option value="Shopify Website Development">Shopify Website Development</option>
+									<option value="Website Redesigning">Website Redesigning</option>
+									<option value="Digital Marketing">Digital Marketing</option>
+									<option value="Search Engine Optimization">Search Engine Optimization</option>
+									<option value="Social Media Marketing">Social Media Marketing</option>
+									<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
+									<option value="Explainer Video Creation">Explainer Video Creation</option>
+
 								</select>
 							</div>
 							<div class="col-md-6">
@@ -1524,84 +1525,84 @@
 			]
 		}
 	</script>
-		<script>
-    var owl = $('.brands-carousels');
-    owl.owlCarousel({
-      items: 4,
-      loop: true,
-      autoplay: false,
-      navBy: 1,
-      nav: false,
-      autoplayTimeout: 4000,
-      autoplayHoverPause: false,
-      smartSpeed: 2000,
-      responsive: {
-        0: {
-          items: 1
-        },
-        428: {
-          items: 1
-        },
-        550: {
-          items: 1
-        },
-        767: {
-          items: 1
-        },
-        768: {
-          items: 1
-         
-        },
-        991: {
-          items: 2
-        },
-        1000: {
-          items: 2
-        }
-      }
-    });
-  </script>
-   <script>
-        const typedTextSpan = document.querySelector(".typed-text");
-        const cursorSpan = document.querySelector(".cursor");
+	<script>
+		var owl = $('.brands-carousels');
+		owl.owlCarousel({
+			items: 4,
+			loop: true,
+			autoplay: false,
+			navBy: 1,
+			nav: false,
+			autoplayTimeout: 4000,
+			autoplayHoverPause: false,
+			smartSpeed: 2000,
+			responsive: {
+				0: {
+					items: 1
+				},
+				428: {
+					items: 1
+				},
+				550: {
+					items: 1
+				},
+				767: {
+					items: 1
+				},
+				768: {
+					items: 1
 
-        const textArray = ["scriptwriters", "designers", "animators", "voiceover artists"];
-        const typingDelay = 50;
-        const erasingDelay = 50;
-        const newTextDelay = 2000; // Delay between current and next text
-        let textArrayIndex = 0;
-        let charIndex = 0;
+				},
+				991: {
+					items: 2
+				},
+				1000: {
+					items: 2
+				}
+			}
+		});
+	</script>
+	<script>
+		const typedTextSpan = document.querySelector(".typed-text");
+		const cursorSpan = document.querySelector(".cursor");
 
-        function type() {
-            if (charIndex < textArray[textArrayIndex].length) {
-                if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
-                typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
-                charIndex++;
-                setTimeout(type, typingDelay);
-            } else {
-                cursorSpan.classList.remove("typing");
-                setTimeout(erase, newTextDelay);
-            }
-        }
+		const textArray = ["scriptwriters", "designers", "animators", "voiceover artists"];
+		const typingDelay = 50;
+		const erasingDelay = 50;
+		const newTextDelay = 2000; // Delay between current and next text
+		let textArrayIndex = 0;
+		let charIndex = 0;
 
-        function erase() {
-            if (charIndex > 0) {
-                if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
-                typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex - 1);
-                charIndex--;
-                setTimeout(erase, erasingDelay);
-            } else {
-                cursorSpan.classList.remove("typing");
-                textArrayIndex++;
-                if (textArrayIndex >= textArray.length) textArrayIndex = 0;
-                setTimeout(type, typingDelay + 1100);
-            }
-        }
+		function type() {
+			if (charIndex < textArray[textArrayIndex].length) {
+				if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+				typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
+				charIndex++;
+				setTimeout(type, typingDelay);
+			} else {
+				cursorSpan.classList.remove("typing");
+				setTimeout(erase, newTextDelay);
+			}
+		}
 
-        document.addEventListener("DOMContentLoaded", function() { // On DOM Load initiate the effect
-            if (textArray.length) setTimeout(type, newTextDelay + 250);
-        });
-    </script>
+		function erase() {
+			if (charIndex > 0) {
+				if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+				typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex - 1);
+				charIndex--;
+				setTimeout(erase, erasingDelay);
+			} else {
+				cursorSpan.classList.remove("typing");
+				textArrayIndex++;
+				if (textArrayIndex >= textArray.length) textArrayIndex = 0;
+				setTimeout(type, typingDelay + 1100);
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded", function() { // On DOM Load initiate the effect
+			if (textArray.length) setTimeout(type, newTextDelay + 250);
+		});
+	</script>
 	<!-- Custom Script -->
 	<!--<script src="../js/custom.js"></script>-->
 	<?php include('popup1.php') ?>

@@ -7,7 +7,7 @@ if (isset($_POST['send'])) {
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
 	
-	$subject = 'Enquiry From UI/UX Course';
+	$subject = 'Enquiry From SEO agency coimbatore';
 	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
     <html> 
@@ -108,6 +108,10 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:description" content="As a leading SEO Agency Coimbatore, we provide professional SEO services to our clients with effective practical strategies like organic search growth, etc.," />
 
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
+	<!-- FONT ICONS -->
+		<link href="../css/flaticon.css" rel="stylesheet">
+		<link href="./css/flaticon.css" rel="stylesheet">
+		<link href="https://clickboxagency.com/css/flaticon.css/" rel="stylesheet">
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
 
@@ -323,8 +327,9 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<span class="flaticon-idea"></span>
+						<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
+								<img src="../../images/Search engine optimization/Icon/1_2.svg" class="mt-25" alt="On-Page SEO" />
+								<!-- <span class="flaticon-idea"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -351,8 +356,9 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-								<span class="flaticon-smartphone"></span>
+								<img src="../../images/Search engine optimization/Icon/2_3.svg" class="mt-25" alt="Off-Page SEO" />
 							</div>
+
 
 							<!-- Text -->
 							<div class="fbox-txt-center">
@@ -378,8 +384,8 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
-								<span class="flaticon-algorithm"></span>
+						<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
+								<img src="../../images/Search engine optimization/Icon/3_2.svg" class="mt-25" alt="Website Optimization Services" />
 							</div>
 
 							<!-- Text -->
@@ -405,10 +411,9 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<!-- Icon -->
-							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
+						<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
+								<img src="../../images/Search engine optimization/Icon/4_2.svg" class="mt-25" alt="Content Optimization Services" />
 							</div>
-
 							<!-- Text -->
 							<div class="fbox-txt-center">
 
@@ -433,7 +438,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
+								<img src="../../images/Search engine optimization/Icon/5_2.svg" class="mt-25" alt="Local SEO Service" />
 							</div>
 
 							<!-- Text -->
@@ -459,7 +464,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
+								<img src="../../images/Search engine optimization/Icon/6_2.svg" class="mt-25" alt="International SEO Services" />
 							</div>
 
 							<!-- Text -->
@@ -485,7 +490,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
+								<img src="../../images/Search engine optimization/Icon/7_2.svg" class="mt-25" alt="Mobile SEO" />
 							</div>
 
 							<!-- Text -->
@@ -512,7 +517,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
+								<img src="../../images/Search engine optimization/Icon/8_2.svg" class="mt-25" alt="Ecommerce SEO Services" />
 							</div>
 
 							<!-- Text -->
@@ -538,7 +543,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
+								<img src="../../images/Search engine optimization/Icon/9_2.svg" class="mt-25" alt="Small-scale and Large-scale" />
 							</div>
 
 							<!-- Text -->
@@ -1057,35 +1062,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	<!-- CALL TO ACTION-5
-			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Best SEO Services in Coimbatore</h2>
-
-							<!-- Text -->
-							<p class="p-md">Increase organic visibility, quality traffic, increase leads & sales of your online business.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get a Free Quote</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->

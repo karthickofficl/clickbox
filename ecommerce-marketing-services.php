@@ -116,7 +116,7 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
-
+	
 </head>
 
 
@@ -137,9 +137,9 @@ if (isset($_POST['send'])) {
 					<div id="hero-9-form">
 
 						<!-- Title -->
-						<h4 class="h4-xs">Ecommerce SEO Service Company In India
+						<h1 class="h4-xs">Ecommerce SEO Service Company In India
 
-						</h4>
+						</h1>
 
 						<!-- Text -->
 						<p class="p-md">SEO is one of the affordable marketing types to grow your online store.

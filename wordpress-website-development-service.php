@@ -135,7 +135,7 @@ if (isset($_POST['send'])) {
 				<!-- HERO IMAGE -->
 				<div class="col-lg-5 order-last order-lg-2">
 					<div class="hero-8-img pc-20 text-center">
-						<img class="img-fluid" src="../images/wordpress website development/1.jpg" alt="hero-image">
+						<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/1.webp" alt="hero-image">
 					</div>
 				</div>
 
@@ -145,7 +145,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-8-txt">
 
 						<!-- Title -->
-						<h2 class="h2-md">Utilize Our Services For Quick and Safe Wordpress Website Development Services</h2>
+						<h1 class="h2-md">Utilize Our Services For Quick and Safe Wordpress Website Development Services</h1>
 
 
 
@@ -215,7 +215,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-12 col-lg-5">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/wordpress website development/2.jpg" alt="content-image">
+						<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/2.webp" alt="content-image">
 					</div>
 				</div>
 
@@ -237,8 +237,8 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title -->
-						<h1 class="h2-xs">We Provide Various WordPress Services
-						</h1>
+						<h2 class="h2-xs">We Provide Various WordPress Services
+						</h2>
 
 						<!-- Text -->
 						<p class="p-xl">See what services we offer to complete your WordPress website development project.
@@ -260,7 +260,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/3.jpg" alt="Digital marketing services" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/3.webp" alt="Digital marketing services" />
 							</div>
 
 							<!-- Title -->
@@ -281,7 +281,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/4.jpg" alt="Social media marketing" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/4.webp" alt="Social media marketing" />
 							</div>
 
 							<!-- Title -->
@@ -309,7 +309,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/5.jpg" alt="google Ads management" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/5.webp" alt="google Ads management" />
 							</div>
 
 							<!-- Title -->
@@ -333,7 +333,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/6.jpg" alt="ecommerce seo services image" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/6.webp" alt="ecommerce seo services image" />
 							</div>
 
 							<!-- Title -->
@@ -363,7 +363,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/7.jpg" alt="website design & developement" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/7.webp" alt="website design & developement" />
 							</div>
 
 							<!-- Title -->
@@ -384,7 +384,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/8.jpg" alt="Marketing strategy consulting" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/8.webp" alt="Marketing strategy consulting" />
 							</div>
 
 							<!-- Title -->
@@ -414,7 +414,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/9.jpg" alt="website design & developement" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/9.webp" alt="website design & developement" />
 							</div>
 
 							<!-- Title -->
@@ -435,7 +435,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/wordpress website development/10.jpg" alt="Marketing strategy consulting" />
+								<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/10.webp" alt="Marketing strategy consulting" />
 							</div>
 
 							<!-- Title -->
@@ -465,7 +465,7 @@ if (isset($_POST['send'])) {
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/wordpress website development/11.jpg" alt="content-image">
+							<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/11.webp" alt="content-image">
 						</div>
 					</div>
 
@@ -505,7 +505,7 @@ if (isset($_POST['send'])) {
 					<div class="section-title title-01 mb-70">
 
 						<!-- Title  -->
-						<h1 class="h2-xs">Our WordPress Development Services Benefits</h1>
+						<h2 class="h2-xs">Our WordPress Development Services Benefits</h2>
 
 						<!-- Text  -->
 						<p class="p-md">Top WordPress developers who amaze our clients with their elegance and excellence.
@@ -724,7 +724,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-md-2">
 					<div class="rel img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/seo-05.png" alt="content-image">
+						<img class="img-fluid" src="https://clickboxagency.com//images-new/services/wordpress-website-development-service/seo-05.webp" alt="content-image">
 					</div>
 				</div>
 

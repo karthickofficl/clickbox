@@ -68,7 +68,7 @@
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-md-10">
 					<div class="hero-4-txt white-color text-center">
-					<h1 class="h1-fsize white-color">Boost Your Online Visibility with Our <span class="txtyelloww">Results-Driven PPC Strategies</span></h1>
+						<h1 class="h1-fsize white-color">Boost Your Online Visibility with Our <span class="txtyelloww">Results-Driven PPC Strategies</span></h1>
 						<p class="p-xl">Expert <a href="https://www.clickboxagency.com/google-ads-agency/" aria-label="Pay-Per-Click" title="Pay-Per-Click" class="txtbluee"><u>Pay-Per-Click</u></a> Ads Services to Drive Targeted Traffic and Boost Conversions Get a lot of people to see your brand and you'll get more leads.</p>
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 				<div class="row d-flex align-items-center">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/166.png" alt="we-are-generating-digital-marketing">
+							<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/166.webp" alt="we-are-generating-digital-marketing">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
@@ -123,13 +123,13 @@
 				<div class="col-lg-6 col-xl-6 d-flex justify-content-center">
 					<ul class="simple-list">
 						<li class="list-item">
-							<p class="p-lg">Increased competition</p>
+							<p class="p-lg">Data Privacy Concerns	</p>
 						</li>
 						<li class="list-item">
-							<p class="p-lg">Surge in ad blockers </p>
+							<p class="p-lg">Tech Stack Complexity </p>
 						</li>
 						<li class="list-item">
-							<p class="p-lg">Strict industry regulations</p>
+							<p class="p-lg">Global Market Expansion</p>
 						</li>
 					</ul>
 
@@ -161,7 +161,7 @@
 			<div class="row  justify-content-center">
 				<div class="col-lg-8 col-xl-8">
 					<div class="post-inner-img">
-						<img src="../images/155.png" alt="google analtics" class="img-fluid">
+						<img src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/155.webp" alt="google analtics" class="img-fluid">
 					</div>
 				</div>
 			</div>
@@ -169,14 +169,14 @@
 			<div class="row d-flex align-items-center">
 				<div class="col-md-5 col-lg-6">
 					<div class="img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/167.png" alt="we-are-generating-digital-marketing">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/167.webp" alt="we-are-generating-digital-marketing">
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6">
 					<div class="txt-block right-column wow fadeInLeft">
 						<h2 class="h3-xs">PPC Agency That <span class="txtred">Delivers Positive Results</span></h2>
 						<p class="p-md txtred">To help you save both time and money, we optimize your paid accounts</p>
-						<p class="p-lg txt-justify">Since the year 2020, our ppc management company NJ has been offering comprehensive pay per click solutions to boost our clients' market success. In order to help you expand your campaign and reach your marketing objectives, our ppc campaign management company NJ  makes use of data and analytics.</p>
+						<p class="p-lg txt-justify">Since the year 2020, our ppc management company NJ has been offering comprehensive pay per click solutions to boost our clients' market success. In order to help you expand your campaign and reach your marketing objectives, our ppc campaign management company NJ makes use of data and analytics.</p>
 						<p class="p-lg txt-justify">Learn how our ppc campaign management services has changed the landscape of digital marketing for the largest names in your field.</p>
 					</div>
 				</div>
@@ -186,7 +186,7 @@
 					<div class="col  ">
 						<div class="fbox-8 shadow mb-40 h-100 wow fadeInUp p-3 bg-white">
 							<div class="fbox-img ">
-								<img class="img-fluid" src="../images/168.png" alt="creative mobile seo india" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/168.webp" alt="creative mobile seo india" />
 							</div>
 							<h5 class="h5-md">Delivering a URL</h5>
 							<p class="p-lg"> Delivering a URL refers to how a URL actually appears in the location bar. A crucial component of any effective portable SEO strategy is URL delivery. To succeed with this area of flexible SEO, organizations must create and maintain their URL delivery rules using elements like sitemaps, approved labels, and internal connections.</p>
@@ -195,7 +195,7 @@
 					<div class="col  ">
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3 bg-white">
 							<div class="fbox-img ">
-								<img class="img-fluid" src="../images/169.png" alt="mobile seo company" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/169.webp" alt="mobile seo company" />
 							</div>
 							<h5 class="h5-md">Page Delivery </h5>
 							<p class="p-lg">JavaScript is typically used to manage and control page delivery, but it is difficult to predict how this will affect creeping and ordering. Even though Google claims that JavaScript can be slower and isn't a bad factor for rankings, the programming language can actually increase complexity and reduce a piece of content's ability to rank.</p>
@@ -204,7 +204,7 @@
 					<div class="col  ">
 						<div class="fbox-8 mb-40 h-100 shadow wow fadeInUp p-3 bg-white">
 							<div class="fbox-img ">
-								<img class="img-fluid" src="../images/170.png" alt="mobile seo company" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/170.webp" alt="mobile seo company" />
 							</div>
 							<h5 class="h5-md">Mobile Focused Pricing</h5>
 							<p class="p-lg">Monitoring to the map, which suggests the code or microdata, that aids a flexible web search tool in locating a page. Any item evaluations, surveys, locations, plans, and item complexities are included in the outline. These elements increase a page's suitability for various endeavors and increase the likelihood that the page will appear in search engine results.</p>
@@ -238,7 +238,7 @@
 				</div>
 				<div class="col-md-5 col-lg-6">
 					<div class="img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/171.png" alt="we-are-generating-digital-marketing">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/171.webp" alt="we-are-generating-digital-marketing">
 					</div>
 				</div>
 			</div>
@@ -251,7 +251,7 @@
 			<div class="row d-flex align-items-center">
 				<div class="col-md-5 col-lg-6">
 					<div class="img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/172.png" alt="we-are-generating-digital-marketing">
+						<img class="img-fluid" src="https://www.clickboxagency.com/images-new/services/pay-per-click-advertising-company/172.webp" alt="we-are-generating-digital-marketing">
 					</div>
 				</div>
 				<div class="col-md-7 col-lg-6">
@@ -282,7 +282,7 @@
 						<div class="squire-icons">
 							<div class="ico-65">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="research and analysis">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/analyst.webp" alt="research and analysis">
 								</span>
 							</div>
 						</div>
@@ -298,7 +298,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="planning and implementation">
+										<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/1.webp" alt="planning and implementation">
 									</span>
 								</div>
 							</div>
@@ -315,7 +315,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/control.svg" alt="monitoring">
+										<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/2.webp" alt="monitoring">
 									</span>
 								</div>
 							</div>
@@ -332,7 +332,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/analytics.svg" alt="reporting and analysis">
+										<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/3.webp" alt="reporting and analysis">
 									</span>
 								</div>
 							</div>
@@ -362,7 +362,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/logo-design.svg" alt="logo design">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-1.webp" alt="logo design">
 								</span>
 							</div>
 						</div>
@@ -377,7 +377,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ui-ux.svg" alt="ui ux design">
+								    <img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-2.webp"alt="ui ux design">
 								</span>
 							</div>
 						</div>
@@ -392,7 +392,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/programmer.svg" alt="website development">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-7.webp" alt="website development">
 								</span>
 							</div>
 						</div>
@@ -407,7 +407,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="ecommerce devlopement">
+								<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-8.webp" alt="ecommerce devlopement">
 								</span>
 							</div>
 						</div>
@@ -422,7 +422,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="mobile app development">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-9.webp" alt="mobile app development">
 								</span>
 							</div>
 						</div>
@@ -437,7 +437,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="digital marketing">
+								<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-10.webp" alt="digital marketing">
 								</span>
 							</div>
 						</div>
@@ -452,7 +452,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/ecommerce.svg" alt="ecommerce devlopement">
+								<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-11.webp" alt="ecommerce devlopement">
 								</span>
 							</div>
 						</div>
@@ -467,7 +467,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/app-development.svg" alt="mobile app development">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-12.webp" alt="mobile app development">
 								</span>
 							</div>
 						</div>
@@ -482,7 +482,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/social-media-marketing.svg" alt="digital marketing">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-13.webp" alt="digital marketing">
 								</span>
 							</div>
 						</div>
@@ -498,7 +498,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/content-creator.svg" alt="content marketing">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-14.webp" alt="content marketing">
 								</span>
 							</div>
 						</div>
@@ -513,7 +513,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/seo.svg" alt="seo">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-15.webp" alt="seo">
 								</span>
 							</div>
 						</div>
@@ -528,7 +528,7 @@
 						<div class="fbox-ico-home">
 							<div class="ico-65-home">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/teaching.svg" alt="explainer video">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/icon/icon-16.webp"" alt="explainer video">
 								</span>
 							</div>
 						</div>
@@ -558,7 +558,7 @@
 						<div class="squire-icons">
 							<div class="ico-65">
 								<span>
-									<img src="https://clickboxagency.com/images/png-icons/analyst.svg" alt="research and analysis">
+									<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/analytics.webp" alt="research and analysis">
 								</span>
 							</div>
 						</div>
@@ -575,7 +575,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/process.svg" alt="planning and implementation">
+										<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/process.webp" alt="planning and implementation">
 									</span>
 								</div>
 							</div>
@@ -669,7 +669,7 @@
 						</div>
 					</div>
 					<div class="col">
-						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">]
+						<div class="fbox-4 pl-25 mb-40 wow fadeInUp">
 							<div class="fbox-ico">
 								<div class="ico-65">
 									<span class="flaticon-seo"></span>
@@ -703,19 +703,19 @@
 							<h6 class="h6-md">Experience and Expertise</h6>
 							<details>
 								<summary>Highlight your company's experience and expertise in PPC advertising service. Showcase your team's qualifications, certifications, and past successes to show that you know how to make effective PPC campaigns and have the skills to do so.</summary>
-								</details>
+							</details>
 						</div>
 						<div class="fbox-txt-infograpic text-right-info">
 							<h6 class="h6-md">Customized Solutions</h5>
 								<details>
 									<summary>Emphasize your ability to create customized PPC solutions that are tailored to each client's unique needs and goals.This shows that you take the time to understand your clients' businesses and create campaigns that are designed to deliver results.</summary>
-									
+
 								</details>
 						</div>
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1">
-						<img src="https://clickboxagency.com/images/png-icons/why-choose-us-home.png" alt="why choose clickboxagency" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/pay-per-click-advertising-company/why-choose-us-home.webp" alt="why choose clickboxagency" class="img-fluid">
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
 						<div class="fbox-txt-infograpic">
@@ -729,7 +729,7 @@
 							<h6 class="h6-md">Results-Driven Approach</h6>
 							<details>
 								<summary>Emphasize your results-driven approach to PPC advertising. Use data and analytics to optimize campaigns for better performance and showcase your ability to deliver measurable results for clients.</summary>
-				
+
 							</details>
 						</div>
 

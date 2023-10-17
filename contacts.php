@@ -12,7 +12,7 @@ if (isset($_POST['send'])) {
 	$sendNDA = $_POST['sendNDA'];
 	$message = $_POST['message'];
 	$subject = 'Contact Page Form Details';
-	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com,sofia@akkenna.com";
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
     <html> 
     <head> 
@@ -63,7 +63,6 @@ if (isset($_POST['send'])) {
 	} else {
 		$result = '
 		One of our representative will get in touch you.';
-		
 	}
 }
 ?>
@@ -99,6 +98,18 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:description" content="ClickBox provides various digital marketing services, web designing, and web hosting services in Coimbatore. Call: +91 88705 78887 or email: info@clickboxagency.com" />
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
+	<style>
+		input[type="number"]::-webkit-inner-spin-button,
+		input[type="number"]::-webkit-outer-spin-button {
+			-webkit-appearance: none;
+			margin: 0;
+		}
+
+		input[type="number"] {
+			-moz-appearance: textfield;
+			/* Firefox */
+		}
+	</style>
 
 </head>
 
@@ -112,7 +123,7 @@ if (isset($_POST['send'])) {
 				<div class="col-md-10 col-lg-8">
 					<div class="section-title title-02 mb-80">
 						<!-- Title -->
-						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate, <br/>Drop us a Line</h2>
+						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate, <br />Drop us a Line</h2>
 					</div>
 				</div>
 			</div>
@@ -120,7 +131,7 @@ if (isset($_POST['send'])) {
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-xl-6">
 					<div class="post-inner-img">
-						<img class="img-fluid" src="https://www.clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+						<img class="img-fluid" src="https://www.clickboxagency.com/images-new/contactus/contacts.webp" width="300" height="300" alt="Branch office" />
 					</div>
 				</div>
 				<div class="col-lg-6 col-xl-6">
@@ -131,10 +142,10 @@ if (isset($_POST['send'])) {
 								<input type="text" name="name" class="form-control name" placeholder="Your Name*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
+								<input type="email" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*">
 							</div>
 							<div class="col-md-6">
 								<input type="text" name="company" class="form-control company" placeholder="Company Name*">
@@ -143,22 +154,22 @@ if (isset($_POST['send'])) {
 							<div class="col-md-6">
 								<select class="form-select" aria-label="services" name="services" id="services" required>
 									<option value="">Select your services</option>
-										<option value="Mobile App Development">Mobile App Development</option>
-										<option value="Web App Development">Web App Development</option>
-										<option value="Hire Dedicated Development">Hire Dedicated Development</option>
-										<option value="Ecommerce Development">Ecommerce Development</option>
-										<option value="Logo Design">Logo Design</option>
-										<option value="UI UX Design">UI UX Design</option>
-										<option value="Website Design and Development">Website Design and Development</option>
-										<option value="Wordpress Development">Wordpress Development</option>
-										<option value="Shopify Website Development">Shopify Website Development</option>
-										<option value="Website Redesigning">Website Redesigning</option>
-									    <option value="Digital Marketing">Digital Marketing</option>
-									    <option value="Search Engine Optimization">Search Engine Optimization</option>
-									    <option value="Social Media Marketing">Social Media Marketing</option>
-								    	<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
-								    	<option value="Explainer Video Creation">Explainer Video Creation</option>
-									
+									<option value="Mobile App Development">Mobile App Development</option>
+									<option value="Web App Development">Web App Development</option>
+									<option value="Hire Dedicated Development">Hire Dedicated Development</option>
+									<option value="Ecommerce Development">Ecommerce Development</option>
+									<option value="Logo Design">Logo Design</option>
+									<option value="UI UX Design">UI UX Design</option>
+									<option value="Website Design and Development">Website Design and Development</option>
+									<option value="Wordpress Development">Wordpress Development</option>
+									<option value="Shopify Website Development">Shopify Website Development</option>
+									<option value="Website Redesigning">Website Redesigning</option>
+									<option value="Digital Marketing">Digital Marketing</option>
+									<option value="Search Engine Optimization">Search Engine Optimization</option>
+									<option value="Social Media Marketing">Social Media Marketing</option>
+									<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
+									<option value="Explainer Video Creation">Explainer Video Creation</option>
+
 								</select>
 							</div>
 							<div class="col-md-6">
@@ -205,19 +216,20 @@ if (isset($_POST['send'])) {
 			<h1 class="p-lg text-center txtbluee">Our Offices</h1>
 			<h3 class="p-lg text-center">Visit Our Offices, We’re Easy to Reach</h3>
 			<div class="cta-8-wrapper pc-25">
-				<div class="row row-cols-1 row-cols-md-2 mt-lg-4">
+				<div class="row row-cols-1 row-cols-md-2 mt-lg-4 d-flex justify-content-center">
 					<!-- BOX #1-->
-					<div class=" col-lg-4">
-						<div class="cta-box cta-top-box bg-white wow fadeInUp">
-							<!-- Title -->
-							<h5 class="h5-md text-center">Canada</h5>
-							<div class="post-inner-img">
-								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-canada.jpg" width="200" height="200" alt="Branch office" />
-							</div>
-							<!-- Text -->
-							<p class="p-md text-center">644,Orchards Blvd SW,<br> Edmonton Alberta,<br> T6X 2L4,<br>+1 (780) 678-7657</p>
-						</div>
-					</div> <!-- END BOX #1-->
+					<!--<div class=" col-lg-4">-->
+					<!--	<div class="cta-box cta-top-box bg-white wow fadeInUp">-->
+					<!-- Title -->
+					<!--		<h5 class="h5-md text-center">Canada</h5>-->
+					<!--		<div class="post-inner-img">-->
+					<!--			<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-canada.jpg" width="200" height="200" alt="Branch office" />-->
+					<!--		</div>-->
+					<!-- Text -->
+					<!--		<p class="p-md text-center">644,Orchards Blvd SW,<br> Edmonton Alberta,<br> T6X 2L4,<br>+1 (780) 678-7657</p>-->
+					<!--	</div>-->
+					<!--</div> -->
+					<!-- END BOX #1-->
 
 
 					<!-- BOX #2 -->
@@ -226,7 +238,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md text-center">USA</h5>
 							<div class="post-inner-img">
-								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-united-states-america.jpg" width="200" height="200" alt="Branch office" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images-new/contactus/flag-united-states-america.webp" width="200" height="200" alt="Branch office" />
 							</div>
 							<!-- Text -->
 							<p class="p-md text-center">1040D Orchard Street,<br> North Brunswick,<br> NJ 08902,<br> +1 587 545 6195</p>
@@ -239,7 +251,7 @@ if (isset($_POST['send'])) {
 							<!-- Title -->
 							<h5 class="h5-md text-center">India - Coimbatore</h5>
 							<div class="post-inner-img">
-								<img class="img-fluid" src="https://www.clickboxagency.com/images/flag-india.jpg" width="200" height="200" alt="Branch office" />
+								<img class="img-fluid" src="https://www.clickboxagency.com/images-new/contactus/flag-india.webp" width="200" height="200" alt="Branch office" />
 							</div>
 							<!-- Text -->
 							<p class="p-md text-center">178/4, KPN complex,<br> Avinashi Road,Coimbatore,<br> Tamil Nadu - 641004,<br> +91 887 057 8887</p>

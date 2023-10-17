@@ -108,10 +108,10 @@
 					<div class="left-column wow fadeInRight ">
 						<div class="hero-4-txt white-color text-center">
                             <div>
-								<h2 class="h2-lg text-center mt-inverse-40 text-bold">We Create Websites For</h2>
+								<h1 class="h2-lg text-center text-white mt-inverse-40 text-bold">We Create Websites For</h1>
 							</div>
 							<div class="contain">
-                                        <h2 class="w-100 h2-lg "><span class="typed-text txtyelloww text-bold"></span><span class="cursor">&nbsp;</span></h2>
+                                        <h1 class="w-100 h2-lg "><span class="typed-text txtyelloww text-bold"></span><span class="cursor">&nbsp;</span></h1>
                             </div>
 							<p class="p-xl mt-10">Fascinate people who visit your website.  Get in touch with ClickBox Agency for exemplary website design in New Jersey, USA. You will notice the difference.</p>
 
@@ -148,7 +148,7 @@
 					<div class="row d-flex align-items-center">
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight">
-								<img class="img-fluid" src="../images/205.png" alt="developing-websites-nj">
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/205.webp" alt="developing-websites-nj">
 							</div>
 						</div>
 						<div class="col-md-7 col-lg-6">
@@ -167,17 +167,6 @@
 				</div>
 			</div>
 	</section>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -219,7 +208,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/79.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/79.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -248,7 +237,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/80.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/80.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -278,7 +267,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/81.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/81.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -306,7 +295,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/82.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/82.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -332,7 +321,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/83.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/83.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -359,7 +348,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/84.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/84.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -386,7 +375,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/85.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/85.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -412,7 +401,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/86.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/86.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -462,7 +451,7 @@
 			<div class="row  justify-content-center">
 				<div class="col-lg-8 col-xl-8">
 					<div class="post-inner-img">
-						<img src="../images/266.png" alt="developing-websites-nj" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/266.webp" alt="developing-websites-nj" class="img-fluid">
 					</div>
 				</div>
 			</div>
@@ -489,7 +478,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/98.png" alt="developing-websites-newjersey" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/98.webp" alt="developing-websites-newjersey" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">HTML</h5>
@@ -499,7 +488,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center    purple-color">
-									<img src="../images/png-icons/99.png" alt="developing-websites-newjersey-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/99.webp" alt="developing-websites-newjersey-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">CSS</h5>
@@ -509,7 +498,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center    purple-color">
-									<img src="../images/png-icons/100.png" alt="developing-websites-nj-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/100.webp" alt="developing-websites-nj-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">JavaScript</h5>
@@ -520,7 +509,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center  purple-color">
-									<img src="../images/png-icons/101.png" alt="developing-websites-nj" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/101.webp" alt="developing-websites-nj" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">jQuery</h5>
@@ -530,7 +519,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/102.png" alt="developing-websites-newjersey" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/102.webp" alt="developing-websites-newjersey" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Bootstrap</h5>
@@ -541,7 +530,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center  purple-color">
-									<img src="../images/png-icons/103.png" alt="developing-websites-nj-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/103.webp" alt="developing-websites-nj-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Angular</h5>
@@ -551,7 +540,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/104.png" alt="developing-websites-newjersey-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/104.webp" alt="developing-websites-newjersey-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">React</h5>
@@ -561,7 +550,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/105.png" alt="developing-websites-nj" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/105.webp" alt="developing-websites-nj" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">PHP</h5>
@@ -571,7 +560,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/106.png" alt="developing-websites-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/106.webp" alt="developing-websites-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Python</h5>
@@ -581,7 +570,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/107.png" alt="developing-websites-newjersey" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/107.webp" alt="developing-websites-newjersey" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Node.js</h5>
@@ -592,7 +581,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center   purple-color">
-									<img src="../images/png-icons/108.png" alt="developing-websites-newjersey-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/108.webp" alt="developing-websites-newjersey-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">ASP.NET</h5>
@@ -602,7 +591,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center  bg-tra-red purple-color">
-									<img src="../images/png-icons/109.png" alt="developing-websites-nj-usa" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/109.webp" alt="developing-websites-nj-usa" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Django</h5>
@@ -613,7 +602,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center  purple-color">
-									<img src="../images/png-icons/110.png" alt="developing-websites-newjersey" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/110.webp" alt="developing-websites-newjersey" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Express.js</h5>
@@ -623,7 +612,7 @@
 						<div class="brand-logo">
 							<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 								<div class="fbox-ico-center  purple-color">
-									<img src="../images/png-icons/111.png" alt="developing-websites-nj" class="img-fluid">
+									<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/111.webp" alt="developing-websites-nj" class="img-fluid-80">
 								</div>
 								<div class="fbox-txt-center">
 									<h5 class="h5-md">Laravel</h5>
@@ -685,7 +674,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInLeft">
-							<img class="img-fluid" src="../images/268.png" alt="developing-websites-nj">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/268.png" alt="developing-websites-nj">
 						</div>
 					</div>
 
@@ -727,27 +716,27 @@
 					<div class="owl-carousel brands-carousels owl-theme reviews-section">
 						<div class="col brand-logo ">
 
-							<img class="img-fluid h-100 pl-20 pr-30" src="../images/269.PNG" alt="developing-websites-usa">
+							<img class="img-fluid h-100 pl-20 pr-30" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/269.webp" alt="developing-websites-usa">
 
 						</div>
 						<div class="brand-logo ">
 
-							<img class="img-fluid h-100 pl-20 pr-30" src="../images/270.PNG" alt="developing-websites-newjersey">
+							<img class="img-fluid h-100 pl-20 pr-30" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/270.webp" alt="developing-websites-newjersey">
 
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid h-100 pl-20 pr-30" src="../images/271.PNG" alt="developing-websites-nj">
+							<img class="img-fluid h-100 pl-20 pr-30" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/271.webp" alt="developing-websites-nj">
 						</div>
 
 						<div class="brand-logo">
-							<img class="img-fluid h-100 pl-20 pr-30" src="../images/272.PNG" alt="developing-websites-nj-usa">
+							<img class="img-fluid h-100 pl-20 pr-30" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/272.webp" alt="developing-websites-nj-usa">
 						</div>
 						<div class="brand-logo">
-							<img class="img-fluid h-100 pl-20 pr-30" src="../images/273.PNG" alt="developing-websites-newjersey-usa">
+							<img class="img-fluid h-100 pl-20 pr-30" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/273.webp" alt="developing-websites-newjersey-usa">
 						</div>
 
 						<div class="brand-logo">
-							<img class="img-fluid h-100 pl-20 pr-30" src="../images/274.PNG" alt="developing-websites-newjersey">
+							<img class="img-fluid h-100 pl-20 pr-30" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/274.webp" alt="developing-websites-newjersey">
 						</div>
 					</div>
 				</div>
@@ -791,7 +780,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/87.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/87.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -815,7 +804,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/88.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/88.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -845,7 +834,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/89.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/89.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -874,7 +863,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/90.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/90.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -901,7 +890,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/91.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/91.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -928,7 +917,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/92.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/92.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -955,7 +944,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/93.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/93.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -982,7 +971,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/94.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/94.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -1008,7 +997,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/95.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/95.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -1035,7 +1024,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/96.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/96.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -1061,7 +1050,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/97.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/97.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -1087,7 +1076,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/112.png" alt="developing-websites">
+										<img src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/icon/112.webp" alt="developing-websites">
 									</span>
 								</div>
 							</div>
@@ -1194,7 +1183,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-nj" src="../images/192.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/192.webp">
 							</figure>
 							<figcaption> Education </figcaption>
 						</a>
@@ -1202,7 +1191,7 @@
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-newjersey" src="../images/193.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/193.webp">
 							</figure>
 							<figcaption> Food & Restaurant </figcaption>
 						</a>
@@ -1210,7 +1199,7 @@
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-usa" src="../images/194.jpg">
+								<img class="lazyload" alt="Dev Technosys-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/194.webp">
 							</figure>
 							<figcaption> Travel & Tours </figcaption>
 						</a>
@@ -1218,7 +1207,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-nj-usa" src="../images/195.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/195.webp">
 							</figure>
 							<figcaption> Healthcare </figcaption>
 						</a>
@@ -1226,7 +1215,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-nj" src="../images/196.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/196.webp">
 							</figure>
 							<figcaption> Gaming </figcaption>
 						</a>
@@ -1234,7 +1223,7 @@
 					<div class="col-md-6 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="../images/197.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/197.webp">
 							</figure>
 							<figcaption> Ecommerce </figcaption>
 						</a>
@@ -1242,7 +1231,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-newjersey" src="../images/198.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/198.webp">
 							</figure>
 							<figcaption> Service Marketplace </figcaption>
 						</a>
@@ -1250,7 +1239,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-usa" src="../images/199.jpg">
+								<img class="lazyload" alt="Dev Technosys-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/199.webp">
 							</figure>
 							<figcaption> Automotives </figcaption>
 						</a>
@@ -1258,7 +1247,7 @@
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-nj" src="../images/200.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/200.webp">
 							</figure>
 							<figcaption> Banking </figcaption>
 						</a>
@@ -1266,7 +1255,7 @@
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="../images/201.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/201.webp">
 							</figure>
 							<figcaption> Real Estate </figcaption>
 						</a>
@@ -1274,7 +1263,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys-newjersey" src="../images/202.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/202.webp">
 							</figure>
 							<figcaption> On-demand </figcaption>
 						</a>

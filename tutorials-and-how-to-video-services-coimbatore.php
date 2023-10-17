@@ -9,11 +9,11 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Top Rated Video Service Production | Clickbox Agency</title>
+    <title>Top Rated Video Service Production Coimbatore | Clickbox Agency</title>
 
-    <meta name=description content="Clickbox Agency is the top video production company, especially in tutorials and how-to video services, which help grow your brand or business online." />
+    <meta name=description content="Clickbox Agency is the top video production company in coimbatore, especially in tutorials and how-to video services, which help grow your brand or business online." />
 
-    <meta name=keywords content="video production company nj, tutorial videos nj, hot-to videos nj, educational videos, event videos nj, commercial videos nj, promotional documentary videos nj, corporate videos nj, real estate videos, music videos services nj, social media videos nj" />
+    <meta name=keywords content="video production company coimbatore, tutorial videos coimbatore, how-to videos coimbatore, educational videos, event videos coimbatore, commercial videos coimbatore, promotional documentary videos coimbatore, corporate videos coimbatore, real estate videos, music videos services coimbatore, social media videos coimbatore" />
 
     <meta name="language" content="en" />
 
@@ -45,15 +45,15 @@
 
     <meta property="og:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
-    <meta property="og:title" content="Top Rated Video Service Production | Clickbox Agency" />
+    <meta property="og:title" content="Top Rated Video Service Production Coimbatore | Clickbox Agency" />
 
-    <meta property="og:description" content="Clickbox Agency is the top video production company, especially in tutorials and how-to video services, which help grow your brand or business online." />
+    <meta property="og:description" content="Clickbox Agency is the top video production company in coimbatore, especially in tutorials and how-to video services, which help grow your brand or business online." />
 
     <meta name="twitter:card" content="summary" />
 
-    <meta name="twitter:title" content="Top Rated Video Service Production | Clickbox Agency" />
+    <meta name="twitter:title" content="Top Rated Video Service Production Coimbatore | Clickbox Agency" />
 
-    <meta name="twitter:description" content="Clickbox Agency is the top video production company, especially in tutorials and how-to video services, which help grow your brand or business online." />
+    <meta name="twitter:description" content="Clickbox Agency is the top video production company in coimbatore, especially in tutorials and how-to video services, which help grow your brand or business online." />
 
     <meta name="twitter:image" content="https://clickboxagency.com/images/clickbox-og.jpg" />
     <?php include('header-style.php') ?>
@@ -69,8 +69,8 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="col-md-10">
                     <div class="hero-4-txt white-color text-center">
-                        <h1 class="h1-fsize white-color">We Provide <span class="txtyelloww">Clickbox’s Tutorials and </span>How-to Videos Service Production</h1>
-                        <p class="p-xl">Explain Complicated Stuff in Easy Steps</p>
+                        <h1 class="h1-fsize white-color">We Provide <span class="txtyelloww">Clickbox’s Tutorials And </span>How-To Videos Service Production</h1>
+                        <p class="p-xl">Explain Complicated Stuff In Easy Steps</p>
                         <button type="submit" class="homebtn btn-pink yellow-hover submit mt-10" name="send">
                             <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us">Start Exploring</a></button>
                     </div>
@@ -91,7 +91,7 @@
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                    <h2 class="h3-xs">Clickbox Tutorial and <span class="txtred">Video Services</span></h2>
+                    <h2 class="h3-xs">Clickbox Tutorial And <span class="txtred">Video Services</span></h2>
                     <p class="p-lg txt-justify">We're a top-notch instructional video company that makes things clear. Clickbox Creative Marketing Agency's experts turn tough stuff into easy videos with cool visuals. We use fancy tech to make learning fun and simple. Let's explore clarity together!</p>
                         <p class="p-lg txt-justify"><b>Our focus:</b></p>
                         <ul >
@@ -103,7 +103,7 @@
                     </div>
                 </div>
                 <div class="col-md-5 col-lg-6">
-                    <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-02.png">
+                    <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-02.png" alt="Click Box Services">
                 </div>
             </div>
         </div>
@@ -115,7 +115,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
                     <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center">Tutorial Videos : <span class="txtred"> What Are They, and Why Do You Need Them?</span></h2>
+                        <h2 class="h3-xs text-center">Tutorial Videos : <span class="txtred"> What Are They, And Why Do You Need Them?</span></h2>
                         <p class="p-lg text-center">Tutorial videos are educational clips designed to guide viewers through various processes, concepts, tasks, and <a href="https://clickboxagency.com/ui-ux-design-service/" class="txtbluee">UI/UX design</a> in a clear and visual manner. They serve as valuable tools for simplifying complex information and enhancing learning experiences. Why You Need Tutorial Videos:</p>
                      </div>
                 </div>
@@ -126,7 +126,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/1.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/2.svg" alt="Effortless Learning">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Effortless Learning</h5>
@@ -137,7 +137,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/2.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/1.svg" alt="Visual Clarity">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Visual Clarity</h5>
@@ -148,7 +148,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/3.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/4.svg" alt="Engagement">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Engagement</h5>
@@ -160,7 +160,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/4.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/3.svg"alt="Step-by-Step Guidance">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Step-by-Step Guidance</h5>
@@ -171,7 +171,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/5.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/7.svg" alt="Product Understanding">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Product Understanding</h5>
@@ -183,7 +183,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/6.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/5.svg"alt="Saves Time">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Saves Time</h5>
@@ -194,7 +194,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/7.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/6.svg" alt="Multilingual Reach">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Multilingual Reach</h5>
@@ -205,7 +205,7 @@
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
                                 <div class="ico-45">
-                                    <img src="../images/Top Rated Video Service/8.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/8.svg" alt="Problem-Solving">
                                 </div>
                                 <div class="fbox-txt-center">
                                     <h5 class="h5-md">Problem-Solving</h5>
@@ -228,7 +228,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 col-xl-12">
                     <div class="section-title title-01 mb-30">
-                        <h3 class="h4-xl text-center">How to Make <span class="txtred">Excellent Video Tutorials</span> </h3>
+                        <h3 class="h4-xl text-center">How To Make <span class="txtred">Excellent Video Tutorials</span> </h3>
                         <p class="p-lg">Creating outstanding video tutorials involves a combination of thoughtful planning and engaging execution.</p>
                     </div>
                 </div>
@@ -248,7 +248,7 @@
                 </div>
                 <div class="col-md-5 col-lg-6">
                     <div class="img-block right-column wow fadeInRight">
-                        <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-03.png">
+                        <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-03.png"alt="Click Box Services">
                     </div>
                 </div>
             </div>
@@ -268,7 +268,7 @@
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                        <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-04.png">
+                        <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-04.png" alt="Click Box Services">
                     </div>
                 </div>
                 <div class="col-md-5 col-lg-6">
@@ -295,7 +295,7 @@
                         <!-- Text  -->
                         <p class="p-lg">Videos have the amazing ability to tell stories that evoke emotions and guide people's thoughts and actions. When done effectively, videos can significantly boost conversions, regardless of your business type.</p>
 
-                        <p class="p-lg txtbluee"><b>What's the key to successful video marketing?</b></p>
+                        <p class="p-lg txtbluee"><b>What's the Key to Successful Video Marketing?</b></p>
                         <p class="p-lg">Whether you have your own team or hire a video production company, there are three main stages of video creation to consider</p>
 
                     </div>
@@ -313,7 +313,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                                <img src="../images/Top Rated Video Service/9.svg">
+                                <img src="../images/Top Rated Video Service/9.svg" alt="Planning Phase">
                             </div>
 
                             <!-- Title -->
@@ -333,7 +333,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                                <img src="../images/Top Rated Video Service/10.svg">
+                                <img src="../images/Top Rated Video Service/10.svg" alt="Shooting Phase">
                             </div>
 
                             <!-- Title -->
@@ -353,7 +353,7 @@
 
                             <!-- Icon -->
                             <div class="ico-70 skyblue-color">
-                                <img src="../images/Top Rated Video Service/11.svg">
+                                <img src="../images/Top Rated Video Service/11.svg" alt="Editing Phase ">
                             </div>
 
                             <!-- Title -->
@@ -418,7 +418,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/12.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/12.svg" alt="Event Videos">
                                 </div>
                             </div>
 
@@ -446,7 +446,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/13.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/13.svg" alt="Commercial/Advertising Videos">
                                 </div>
                             </div>
 
@@ -473,7 +473,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/14.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/14.svg " alt="Promotional Documentary Videos">
                                 </div>
                             </div>
 
@@ -503,7 +503,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/15.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/15.svg" alt="Corporate Videos">
                                 </div>
                             </div>
 
@@ -531,7 +531,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/16.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/16.svg" alt="Real Estate Videos">
                                 </div>
                             </div>
 
@@ -558,7 +558,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/17.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/17.svg" alt="Educational Videos">
                                 </div>
                             </div>
 
@@ -585,7 +585,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/18.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/18.svg" alt="Music Video Services">
                                 </div>
                             </div>
 
@@ -612,7 +612,7 @@
                             <div class="fbox-ico">
                                 <div class="ico-60 shape-ico violet-red-color">
                                     <img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-                                    <img src="../images/Top Rated Video Service/19.svg">
+                                    <img src="../images/Top Rated Video Service/Icons1/19.svg" alt="Social Media Videos">
                                 </div>
                             </div>
 
@@ -647,7 +647,7 @@
                         <div class="txt-block left-column wow fadeInLeft ">
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
                             <h4 class="h4-md"><span style="color: #fff;">Not Sure What Type Of Video You Require For Your Business?</span></h4>
-                                <a href="https://clickboxagency.com/contacts/" aria-label="contact" title="contact" class="btn btn-sm btn-skyblue yellow-hover">Initiate a Chat</a>
+                                <a href="https://clickboxagency.com/contacts/" aria-label="contact" title="contact" class="btn btn-sm btn-skyblue yellow-hover">Initiate A Chat</a>
 
                             </div>
                         </div>
@@ -665,14 +665,14 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 col-xl-12">
                     <div class="section-title title-01 mb-30">
-                        <h3 class="h4-xl text-center">Advantages of<span class="txtred"> How-To Videos for Your Business</span> </h3>
+                        <h3 class="h4-xl text-center">Advantages Of<span class="txtred"> How-To Videos For Your Business</span> </h3>
                         <p class="p-lg">How-to videos have become an invaluable asset for businesses, providing numerous benefits that can significantly enhance your brand's presence, engagement, and success. These videos offer a dynamic way to connect with your audience and deliver value. Here are some compelling advantages of incorporating How-To videos into your business strategy:</p>
                     </div>
                 </div>
             </div>
             <div class="row  d-flex align-items-center justify-content-center">
                 <div class="col-md-7 col-lg-6">
-                    <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-05.png">
+                    <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-05.png" alt="Click Box Services">
                 </div>
                 <div class="col-md-5 col-lg-6 ">
                     <div class="right-column wow fadeInRight ">
@@ -717,7 +717,7 @@
                 </div>
                 <div class="col-md-5 col-lg-6  d-flex align-items-left">
                     <div class="img-block right-column wow fadeInRight">
-                        <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-06.png">
+                        <img class="img-fluid" src="../images/Top Rated Video Service/Click Box Services pages-06.png" alt="Click Box Services">
                     </div>
                 </div>
             </div>
@@ -732,7 +732,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 col-xl-12">
                     <div class="section-title  mb-30">
-                        <h3 class="h4-xl text-center">Our Approach to <span class="txtred">Making How-To Videos</span></h3>
+                        <h3 class="h4-xl text-center">Our Approach To <span class="txtred">Making How-To Videos</span></h3>
                         <p>At Clickbox Creative Marketing Agency, our approach to How-To video production is rooted in delivering clear, engaging, and <a href="https://clickboxagency.com/blog-writing-service/" class="txtbluee">informative content</a> that resonates with your target audience. Our step-by-step process ensures that each video is meticulously crafted to effectively educate, inspire, and connect with viewers. Here's how we approach How-To video production:</p>
                     </div>
                 </div>
@@ -745,7 +745,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/20.svg">
+                                        <img src="../images/Top Rated Video Service/20.svg" alt="Strategy Development">
                                     </span>
                                 </div>
                             </div>
@@ -763,7 +763,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/21.svg">
+                                        <img src="../images/Top Rated Video Service/21.svg" alt="Content Planning">
                                     </span>
                                 </div>
                             </div>
@@ -780,7 +780,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/22.svg">
+                                        <img src="../images/Top Rated Video Service/22.svg" alt="Visual Storyboarding">
                                     </span>
                                 </div>
                             </div>
@@ -798,7 +798,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/23.svg">
+                                        <img src="../images/Top Rated Video Service/23.svg" alt="Professional Filming">
                                     </span>
                                 </div>
                             </div>
@@ -816,7 +816,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/24.svg">
+                                        <img src="../images/Top Rated Video Service/24.svg" alt="Engaging Editing">
                                     </span>
                                 </div>
                             </div>
@@ -834,7 +834,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/25.svg">
+                                        <img src="../images/Top Rated Video Service/25.svg" alt="Narration or Voiceover">
                                     </span>
                                 </div>
                             </div>
@@ -853,7 +853,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/26.svg">
+                                        <img src="../images/Top Rated Video Service/26.svg" alt="Graphics and Animations">
                                     </span>
                                 </div>
                             </div>
@@ -871,7 +871,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/27.svg">
+                                        <img src="../images/Top Rated Video Service/27.svg" alt="Music and Sound Effects">
                                     </span>
                                 </div>
                             </div>
@@ -889,7 +889,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/28.svg">
+                                        <img src="../images/Top Rated Video Service/28.svg" alt="Quality Assurance">
                                     </span>
                                 </div>
                             </div>
@@ -908,7 +908,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/29.svg">
+                                        <img src="../images/Top Rated Video Service/29.svg" alt="Client Collaboration">
                                     </span>
                                 </div>
                             </div>
@@ -926,7 +926,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/30.svg">
+                                        <img src="../images/Top Rated Video Service/30.svg"alt="Final Delivery">
                                     </span>
                                 </div>
                             </div>
@@ -945,7 +945,7 @@
                             <div class="squire-icons">
                                 <div class="ico-65">
                                     <span>
-                                        <img src="../images/Top Rated Video Service/30.svg">
+                                        <img src="../images/Top Rated Video Service/31.svg" alt="Continuous Improvemen">
                                     </span>
                                 </div>
                             </div>
@@ -978,7 +978,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-8">
                     <div class="section-title title-01 mb-40">
-                        <h3 class="h4-xl text-center">Queries? <span class="txtred">We Have the Answers</span></h3>
+                        <h3 class="h4-xl text-center">Queries? <span class="txtred">We Have The Answers</span></h3>
                     </div>
                 </div>
             </div>
@@ -1152,8 +1152,8 @@
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "name": "Top Rated Video Service Production | Clickbox Agency",
-            "alternateName": "video production company nj, tutorial videos nj, hot-to videos nj, educational videos, event videos nj, commercial videos nj, promotional documentary videos nj, corporate videos nj, real estate videos, music videos services nj, social media videos nj",
+            "name": "Top Rated Video Service Production Coimbatore | Clickbox Agency",
+            "alternateName": "video production company coimbatore, tutorial videos coimbatore, how-to videos coimbatore, educational videos, event videos coimbatore, commercial videos coimbatore, promotional documentary videos coimbatore, corporate videos coimbatore, real estate videos, music videos services coimbatore, social media videos coimbatore",
             "url": "https://www.clickboxagency.com/tutorials-and-how-to-video-services-coimbatore/"
         }
     </script>
@@ -1162,11 +1162,11 @@
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Top Rated Video Service Production | Clickbox Agency",
+            "name": "Top Rated Video Service Production Coimbatore | Clickbox Agency",
             "url": "https://www.clickboxagency.com/tutorials-and-how-to-video-services-coimbatore/",
             "email": "info@clickboxagency.com",
             "foundingDate": "2022",
-            "description": "Clickbox Agency is the top video production company, especially in tutorials and how-to video services, which help grow your brand or business online.",
+            "description": "Clickbox Agency is the top video production company in coimbatore, especially in tutorials and how-to video services, which help grow your brand or business online.",
             "logo": "https://www.clickboxagency.com/images/logo-01.png",
             "contactPoint": {
                 "@type": "ContactPoint",

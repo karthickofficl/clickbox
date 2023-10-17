@@ -145,7 +145,7 @@ if (isset($_POST['send'])) {
 					<div class="hero-8-txt">
 
 						<!-- Title -->
-						<h2 class="h2-md">An Expert in Providing Press Release Content Writing Service.</h2>
+						<h1 class="h2-md">An Expert in Providing Press Release Content Writing Service.</h1>
 
 						<!-- Text -->
 						<!-- <p class="p-lg">Feugiat primis ligula risus auctor egestas and augue viverra mauri tortor

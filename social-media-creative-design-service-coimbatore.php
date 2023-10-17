@@ -60,20 +60,9 @@
 
 
     <style>
-        .nav-pills .nav-link {
-            border-radius: 0px !important;
-        }
-
-        .nav-pills .nav-link.active {
-            background-color: white !important;
-            color: black !important;
-            font-weight: bold;
-            border-bottom: 2px solid #CF1E46 !important;
-        }
-
-        .nav-link {
-            color: grey !important;
-        }
+       .height-80{
+        height: 80px !important;
+       }
     </style>
 
 </head>
@@ -85,28 +74,22 @@
     <section id="hero-4" class="bg-scroll hero-section division  pb-0">
         <div class="container">
             <div class="row d-flex align-items-center justify-content-center mt-inverse-50 ">
-                <h3 class="h3-xs text-center white-color ">We Are a Social Media <br /><span class="txtyelloww">Creative Design Service in Coimbatore</span></h3>
-                <!-- <div class="col-md-6 col-lg-6 mt-inverse-10 ">
-                    <div class="left-column wow fadeInRight">
-                        <div class="mt-15 p-40 text-center">
-                            <img class="img-fluid " src="../images/Ultimate Social Media Creative/1.png" alt="social-media-development">
-                        </div>
-                    </div>
-                </div> -->
-                <div class="col-md-6 col-lg-6  mt-inverse-10">
+                <h3 class="h3-xs text-center white-color ">We Are A Social Media <br /><span class="txtyelloww">Creative Design Service In Coimbatore</span></h3>
+                
+                <div class="col-md-6 col-lg-6  mt-inverse-10 mt-4">
                     <div class="left-column wow fadeInRight ">
                         <div class=" white-color text-center">
-
-
-                            <p class="p-xl">Looking to take your online presence to the next level?</p>
-                            <p class="p-xl">
-                                Creative Strategies,
-                                Creative Ideas,
-                                Creative Journey
-                            </p>
+                            <p class="p-xl">Looking To Take Your Online Presence To The Next Level?<br> Creative Strategies.
+                                Creative Ideas.
+                                Creative Journey</p>
+                            <!--<p class="p-xl">-->
+                            <!--    Creative Strategies,-->
+                            <!--    Creative Ideas,-->
+                            <!--    Creative Journey-->
+                            <!--</p>-->
                             <div class="text-center mt-40 mb-40">
 
-                                <a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover">Get a Quote</a>
+                                <a href="https://clickboxagency.com/contacts/" class="btn btn-red yellow-hover">Get A Quote</a>
                             </div>
                         </div>
                     </div>
@@ -117,18 +100,18 @@
 
 
     <!-- SECTION 4 -->
-    <section class=" content-3 pt-30 features-section division mb-40">
+    <section class=" content-3 features-section division mt-50">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
-                    <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center"> <span class="txtred px-1">Social Media Creative</span>Design Service in Coimbatore</h2>
+                    <div class="section-title ">
+                        <h2 class="h3-xs text-center"> <span class="txtred px-1">Social Media Creative</span>Design Service In Coimbatore</h2>
                     </div>
                 </div>
             </div>
             <div class="row  d-flex align-items-center justify-content-center">
-                <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/Ultimate Social Media Creative/2.png" alt="social-media-development">
+                <div class="col-md-5 col-lg-6 d-flex align-items-center justify-content-center">
+                <img class="img-fluid width-80" src="../images/Ultimate Social Media Creative/2.png" alt="social-media-development">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
@@ -158,12 +141,12 @@
     </section>
 
 
-    <section class=" content-3 pt-30 features-section division mb-40">
+    <section class=" content-3 features-section division mt-50">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
-                    <div class="section-title  mb-30">
-                        <h2 class="h3-xs text-center"> <span class="txtred">What Does A Unique Service</span>For Social Media Mean? </h2>
+                    <div class="section-title mb-20">
+                        <h2 class="h3-xs text-center"> <span class="txtred">What Does A Unique Service</span> For Social Media Mean? </h2>
                     </div>
                 </div>
             </div>
@@ -195,8 +178,8 @@
                     </div>
                 </div>
 
-                <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/Ultimate Social Media Creative/3.png" alt="social-media-development">
+                <div class="col-md-5 col-lg-6 d-flex align-items-center justify-content-center">
+                <img class="img-fluid width-80" src="../images/Ultimate Social Media Creative/3.png" alt="social-media-development">
                 </div>
 
             </div>
@@ -205,7 +188,7 @@
     </section>
 
 
-    <section class=" content-3 pt-30 features-section division mb-40">
+    <section class=" content-3 features-section division mt-50">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
@@ -219,8 +202,8 @@
             </div>
             <div class="row  d-flex align-items-center justify-content-center">
 
-                <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/Ultimate Social Media Creative/4.png" alt="social-media-development">
+                <div class="col-md-5 col-lg-6 d-flex align-items-center justify-content-center">
+                <img class="img-fluid width-80" src="../images/Ultimate Social Media Creative/4.png" alt="social-media-development">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
@@ -237,7 +220,7 @@
 
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                        <h5 class="h5-xs text-center"> <span class="txtred">Create Brand Recognition by </span>Personalizing the User Experience</h5>
+                        <h5 class="h5-xs text-center"> <span class="txtred">Create Brand Recognition By </span>Personalizing The User Experience</h5>
                         <p class="p-lg"><a href="https://clickboxagency.com/social-media-marketing-agency-in-new-jersey/" class="txtbluee"></a>Social media creatives help convey your brand's message, values, and personality visually. Consistent branding across platforms establishes recognition, and personalized content tailored to your target audience enhances their connection to your brand.</p>
                     </div>
                 </div>
@@ -250,12 +233,12 @@
 
             <div class="row  d-flex align-items-center justify-content-center">
 
-                <div class="col-md-5 col-lg-6">
-                <img class="img-fluid " src="../images/Ultimate Social Media Creative/6.png" alt="social-media-development">
+                <div class="col-md-5 col-lg-6 d-flex align-items-center justify-content-center">
+                <img class="img-fluid width-80" src="../images/Ultimate Social Media Creative/6.png" alt="social-media-development">
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                        <h5 class="h5-xs text-center"> <span class="txtred">Cost-Effective and Time-Efficient Method to</span> Reach Your Target Customers </h5>
+                        <h5 class="h5-xs text-center"> <span class="txtred">Cost-Effective And Time-Efficient Method To</span> Reach Your Target Customers </h5>
                         <p class="p-lg"> Compared to traditional advertising methods, social media creatives offer a cost-effective means of reaching a highly targeted audience. Social media platforms allow you to define specific demographics, interests, and behaviors, ensuring that your content reaches the right people.</p>
                     </div>
                 </div>
@@ -268,7 +251,7 @@
 
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                        <h5 class="h5-xs text-center"> Factors Contributing to<span class="txtred"> Better Google Rankings  </span>for Your Company's Website</h5>
+                        <h5 class="h5-xs text-center"> Factors Contributing To<span class="txtred"> Better Google Rankings  </span>For Your Company's Website</h5>
                         <p class="p-lg">Social signals, such as engagement on social media, can indirectly impact your website's SEO. While social media itself may not be a direct ranking factor, increased visibility, shares, and links generated from social media can contribute to improved search engine rankings.</p>
                     </div>
                 </div>
@@ -286,7 +269,7 @@
                 </div>
                 <div class="col-md-7 col-lg-6">
                     <div class="txt-block">
-                        <h5 class="h5-xs text-center">Attractive and <span class="txtred"> appealing creatives for </span>expanded market penetration</h5>
+                        <h5 class="h5-xs text-center">Attractive And <span class="txtred"> Appealing Creatives For </span>Expanded Market Penetration</h5>
                         <p class="p-lg"> High-quality and visually appealing creatives are more likely to capture the attention of users as they scroll through their social media feeds. This can result in higher engagement rates, increased sharing, and a broader market reach as your content stands out amidst the competition.</p>
                     </div>
                 </div>
@@ -313,7 +296,7 @@
                     <div class="section-title title-01 mb-40">
 
                         <!-- Title -->
-                        <h3 class="h4-xl text-center mt-40">Development Of The <span class="txtred"> Social Media Creative Company In Coimbatore  </span></h3>
+                        <h3 class="h4-xl text-center">Development Of The <span class="txtred"> Social Media Creative Company In Coimbatore  </span></h3>
                         <p class="p-lg">It seems like you're outlining the steps involved in the development of a social media creative company in Coimbatore. Let's look at each of these steps in detail.
 
                         </p>
@@ -572,10 +555,10 @@
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">
                 <div class="col-lg-12 col-xl-12">
-                    <div class="section-title title-01 mb-70">
+                    <div class="section-title title-01 mb-40">
 
                         <!-- Title -->
-                        <h3 class="h4-xl text-center">Why Connect With ClickBox Agency,<span class="txtred"> a Social Media Creative Company?</span></h3>
+                        <h3 class="h4-xl text-center">Why Connect With ClickBox Agency,<span class="txtred"> A Social Media Creative Company?</span></h3>
                         <p class="p-lg text-center">ClickBox Creative Marketing Agency will transform your online presence and boost your brand.</p>
 
                     </div>
@@ -885,11 +868,11 @@
     
 
 
-    <section class="bg-white content-3 features-section division mt-50">
+    <section class="bg-white content-3 features-section division mt-20">
         <div class="container ">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
-                    <div class="section-title  mb-30">
+                    <div class="section-title ">
                         <h2 class="h3-xs text-center">Social Media Platforms <span class="txtred">We Work On</span></h2>
 
                     </div>
@@ -900,21 +883,21 @@
                     <div class="owl-carousel service-carousel">
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                    <img src="../images/Ultimate Social Media Creative/19.svg" class="mt-25">
+                                    <img src="../images/Ultimate Social Media Creative/facebook.svg" class="mt-25" alt="Facebook">
                                     <h5 class="h5-xs text-center mt-10">Facebook</span></h5>
 
                             </div>
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                                    <img src="../images/Ultimate Social Media Creative/20.svg" class="mt-25">
+                                    <img src="../images/Ultimate Social Media Creative/linkedin.svg" class="mt-25" alt="LinkedIn">
                                     <h5 class="h5-xs text-center mt-10">LinkedIn</span></h5>
 
                             </div>
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                            <img src="../images/Ultimate Social Media Creative/21.svg" class="mt-25">
+                            <img src="../images/Ultimate Social Media Creative/instagram.svg" class="mt-25" alt="Instagram">
                             <h5 class="h5-xs text-center mt-10">Instagram</span></h5>
 
                             </div>
@@ -922,14 +905,14 @@
 
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                            <img src="../images/Ultimate Social Media Creative/22.svg" class="mt-25">
-                            <h5 class="h5-xs text-center mt-10">Youtube</span></h5>
+                            <img src="../images/Ultimate Social Media Creative/youtube.svg" class="mt-35 height-80" alt="Youtube">
+                            <h5 class="h5-xs text-center mt-20">Youtube</span></h5>
 
                             </div>
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                            <img src="../images/Ultimate Social Media Creative/23.svg" class="mt-25">
+                            <img src="../images/Ultimate Social Media Creative/whatsapp.svg" class="mt-25" alt="WhatsApp">
                             <h5 class="h5-xs text-center mt-10">WhatsApp</span></h5>
 
                             </div>
@@ -937,14 +920,14 @@
 
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                            <img src="../images/Ultimate Social Media Creative/24.svg" class="mt-25">
-                            <h5 class="h5-xs text-center mt-10">Twitter</span></h5>
+                            <img src="../images/Ultimate Social Media Creative/twitter.svg" class="mt-35 height-80" alt="Twitter">
+                            <h5 class="h5-xs text-center mt-20">Twitter</span></h5>
                             </div>
                         </div>
                         <div class="brand-logo">
                             <div class="fbox-3 pc-15 mb-40 wow fadeInUp">
-                            <img src="../images/Ultimate Social Media Creative/25.svg" class="mt-25">
-                            <h5 class="h5-xs text-center mt-10">Pinterest</span></h5>
+                            <img src="../images/Ultimate Social Media Creative/pinterest.svg" class="mt-35 height-80" alt="Pinterest">
+                            <h5 class="h5-xs text-center mt-20">Pinterest</span></h5>
                             </div>
                         </div>
 
@@ -954,7 +937,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-10">
                     <div class="section-title  mb-30">
-                       <p class="p-lg">Associate with <a href="https://clickboxagency.com/contacts/" class="txtbluee">ClickBox, a social media management agency in coimbatore</a>, a well-versed social media creative company leading the marketplace with efficient designers on board.</p>
+                       <p class="p-lg text-center">Associate with <a href="https://clickboxagency.com/contacts/" class="txtbluee">ClickBox, a social media management agency in coimbatore</a>, a well-versed social media creative company leading the marketplace with efficient designers on board.</p>
                     </div>
                 </div>
             </div>
@@ -963,15 +946,15 @@
     </section>
 
 
-    <section id="content-3" class="bg-snow  content-3  content-section division mt-50">
+    <section id="content-3" class="bg-snow  content-3  content-section division ">
         <div class="container-fluid bortopbot">
             <div class="top-row ">
                 <div class="row d-flex align-items-center justify-content-center">
                     <div class="col-md-12 col-lg-12  bgyellowhover pt-40 ">
                         <div class="txt-block left-column wow fadeInLeft ">
                             <div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-                                <h4 class="h4-md"><span style="color: #fff;">Are you struggling to make your mark in the digital world?</span></h4>
-                                <a href="https://clickboxagency.com/contacts/" aria-label="career" title="career" class="btn btn-sm btn-skyblue yellow-hover">We've got just the solution for you</a>
+                                <h4 class="h4-md"><span style="color: #fff;">Are You Struggling To Make Your Mark In The Digital World?</span></h4>
+                                <a href="https://clickboxagency.com/contacts/" aria-label="contact us" title="contact us" class="btn btn-sm btn-skyblue yellow-hover">We've Got Just The Solution For You</a>
 
                             </div>
                         </div>
@@ -983,7 +966,7 @@
     </section>
 
     <!-- FAQs-2>===================================== -->
-    <section id="faqs-2" class="pt-20 pb-20 faqs-section division">
+    <section id="faqs-2" class="faqs-section division mt-50">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xl-8">

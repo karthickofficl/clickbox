@@ -6,7 +6,7 @@ if (isset($_POST['send'])) {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
-	
+
 	$subject = 'Enquiry From UI/UX Course';
 	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com";
 	$htmlContent = ' 
@@ -45,7 +45,6 @@ if (isset($_POST['send'])) {
 	} else {
 		$result = '
 		One of our representative will get in touch you.';
-		
 	}
 }
 ?>
@@ -110,6 +109,11 @@ if (isset($_POST['send'])) {
 	<meta name="twitter:image" content="www.clickboxagency.com/images/clickbox-og.jpg" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/header-style.php') ?>
+	<style>
+		.review-4 {
+			height: 310px;
+		}
+	</style>
 
 </head>
 
@@ -319,7 +323,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-purple purple-color">
-								<span class="flaticon-idea"></span>
+								<img src="../../images/Search engine optimization/Icon/1_2.svg" class="mt-25" alt="On-Page SEO" />
+								<!-- <span class="flaticon-idea"></span> -->
 							</div>
 
 							<!-- Text -->
@@ -346,8 +351,9 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-red red-color">
-								<span class="flaticon-smartphone"></span>
+								<img src="../../images/Search engine optimization/Icon/2_3.svg" class="mt-25" alt="Off-Page SEO" />
 							</div>
+
 
 							<!-- Text -->
 							<div class="fbox-txt-center">
@@ -374,7 +380,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-skyblue skyblue-color">
-								<span class="flaticon-algorithm"></span>
+								<img src="../../images/Search engine optimization/Icon/3_2.svg" class="mt-25" alt="Website Optimization Services" />
 							</div>
 
 							<!-- Text -->
@@ -401,9 +407,8 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
+								<img src="../../images/Search engine optimization/Icon/4_2.svg" class="mt-25" alt="Content Optimization Services" />
 							</div>
-
 							<!-- Text -->
 							<div class="fbox-txt-center">
 
@@ -428,7 +433,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
+								<img src="../../images/Search engine optimization/Icon/5_2.svg" class="mt-25" alt="Local SEO Service" />
 							</div>
 
 							<!-- Text -->
@@ -438,7 +443,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Local SEO Service</h5>
 
 								<!-- Text -->
-								<p class="p-lg">We as a local SEO company kolkata, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
+								<p class="p-lg">We as a local SEO company coimbatore, provide local SEO services that mean, we optimize your website keywords based on local searches by your customers. If you are running a business with a local audience target, then local SEO service is the best choice.
 
 
 								</p>
@@ -454,7 +459,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
+								<img src="../../images/Search engine optimization/Icon/6_2.svg" class="mt-25" alt="International SEO Services" />
 							</div>
 
 							<!-- Text -->
@@ -480,7 +485,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-orange orange-color">
-								<span class="flaticon-web-design"></span>
+								<img src="../../images/Search engine optimization/Icon/7_2.svg" class="mt-25" alt="Mobile SEO" />
 							</div>
 
 							<!-- Text -->
@@ -507,7 +512,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Icon -->
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-yellow yellow-color">
-								<span class="flaticon-layers"></span>
+								<img src="../../images/Search engine optimization/Icon/8_2.svg" class="mt-25" alt="Ecommerce SEO Services" />
 							</div>
 
 							<!-- Text -->
@@ -517,7 +522,7 @@ if (isset($_POST['send'])) {
 								<h5 class="h5-md">Ecommerce SEO Services</h5>
 
 								<!-- Text -->
-								<p class="p-lg">A normal business website is different from an eCommerce website as the eCommerce site is all about selling different products to the customers. In eCommerce SEO services kolkata, we make a deep analysis to find the top and best keywords of the products that your customers are looking for. Based on this research, we will update your website on eCommerce keywords.
+								<p class="p-lg">A normal business website is different from an eCommerce website as the eCommerce site is all about selling different products to the customers. In eCommerce SEO services coimbatore, we make a deep analysis to find the top and best keywords of the products that your customers are looking for. Based on this research, we will update your website on eCommerce keywords.
 
 
 								</p>
@@ -533,7 +538,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-3 pc-15 mb-40 wow fadeInUp">
 
 							<div class="fbox-ico-center ico-rounded-lg ico-45 bg-tra-green green-color">
-								<span class="flaticon-email"></span>
+								<img src="../../images/Search engine optimization/Icon/9_2.svg" class="mt-25" alt="Small-scale and Large-scale" />
 							</div>
 
 							<!-- Text -->
@@ -557,6 +562,7 @@ if (isset($_POST['send'])) {
 
 				</div>
 			</div> <!-- END FEATURES-3 WRAPPER -->
+
 
 
 		</div> <!-- End container -->
@@ -1043,33 +1049,7 @@ if (isset($_POST['send'])) {
 
 	<!-- CALL TO ACTION-5
 			============================================= -->
-	<section id="cta-5" class="cta-section division ">
-		<div class="container">
-			<div class="rel bg-10 cta-5-wrapper">
-				<div class="row justify-content-center">
 
-
-					<!-- CALL TO ACTION TEXT -->
-					<div class="col-lg-8">
-						<div class="cta-5-txt white-color text-center">
-
-							<!-- Title -->
-							<h2 class="h2-xs">Best SEO Services in Kolkata</h2>
-
-							<!-- Text -->
-							<p class="p-md">Increase organic visibility, quality traffic, increase leads & sales of your online business.
-
-							</p>
-
-							<!-- Button -->
-							<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get a Free Quote</a>
-
-						</div>
-					</div>
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END CALL TO ACTION-5 -->
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
 	</div> <!-- END PAGE CONTENT -->

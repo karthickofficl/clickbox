@@ -66,199 +66,197 @@
 	<section id="hero-4" class="bg-scroll hero-section division   pb-0">
 		<div class="container">
 			<div class="row d-flex align-items-center justify-content-center  ">
-			    	<h3 class="h3-xs text-center white-color mt-inverse-40">Get top-notch services from the best <span class="txtyelloww"><br/>Mobile App Development Company</span>  in New Jersey </h3>
-			
-			    <div class="row d-flex align-items-center">
+				<h1 class="h3-xs text-center white-color mt-inverse-40">Get top-notch services from the best <span class="txtyelloww"><br />Mobile App Development Company</span> in New Jersey </h1>
+
+				<div class="row d-flex align-items-center">
 					<div class="col-md-6 col-lg-6 mb-20">
 						<div class="img-block left-column wow fadeInRight replace p-40 ">
-						 <img class="img-fluid " src="../images/258.png" alt="mobile-app-development"> 
+							<img class="img-fluid " src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/258.webp" alt="mobile-app-development">
 						</div>
 					</div>
-            	<div class="col-md-6 col-lg-6  mt-inverse-10">
-				    <div class="left-column wow fadeInRight ">
-					<div class=" white-color text-center">
-					    
-				
-						<p class="p-xl mt-10">Developing innovative digital products and scalable solutions that encourage more engagement.</p>
-                        <div class="text-center mt-10 mb-20">
-						
-                        <a href="https://clickboxagency.com/contacts/" aria-label="Build Your Android App" title="Build Your Android App" class="btn btn-sm btn-skyblue yellow-hover mt-30 ">Schedule a Free Consultation</a> &nbsp;
+					<div class="col-md-6 col-lg-6  mt-inverse-10">
+						<div class="left-column wow fadeInRight ">
+							<div class=" white-color text-center">
 
-						
+
+								<p class="p-xl mt-10">Developing innovative digital products and scalable solutions that encourage more engagement.</p>
+								<div class="text-center mt-10 mb-20">
+
+									<a href="https://clickboxagency.com/contacts/" aria-label="Build Your Android App" title="Build Your Android App" class="btn btn-sm btn-skyblue yellow-hover mt-30 ">Schedule a Free Consultation</a> &nbsp;
+
+
+								</div>
 							</div>
+						</div>
 					</div>
-					</div>
-				</div>
-					 <!-- <div class="col-md-4 col-lg-5 mb-20 " >
+					<!-- <div class="col-md-4 col-lg-5 mb-20 " >
 					<div class="left-column wow fadeInRight ">
 					    <div class="mt-15">
 						 <img class="img-fluid " src="../images/222.png" alt="we-are-generating-digital-marketing"> 
 						 </div>
 					</div>
 				</div>  -->
+				</div>
 			</div>
-		</div>
-			
-	
-		</section>	
-        			<!-- SECTION 3 -->
-	
+
+
+	</section>
+	<!-- SECTION 3 -->
+
 	<section id="content-3" class="bg-white content-3 mt-30  content-section division">
 		<div class="container">
 			<div class="top-row pb-30">
-			    	<div class="top-row ">
-			    <div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01 mb-20">
-					<h3 class="h4-xl text-center">Premier <span class="txtred">Mobile App Development Company</span><br/> in New Jersey </h3>
-					</div>
-				</div>
-			</div>
-				<div class="row d-flex align-items-center">
-					<div class="col-md-5 col-lg-6">
-						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/259.png" alt="mobile-app-development">
+				<div class="top-row ">
+					<div class="row justify-content-center">
+						<div class="col-lg-10 col-xl-8">
+							<div class="section-title title-01 mb-20">
+								<h3 class="h4-xl text-center">Premier <span class="txtred">Mobile App Development Company</span><br /> in New Jersey </h3>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-7 col-lg-6">
-						<div class="txt-block right-column wow fadeInLeft">
-						    
+					<div class="row d-flex align-items-center">
+						<div class="col-md-5 col-lg-6">
+							<div class="img-block left-column wow fadeInRight">
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/259.webp" alt="mobile-app-development">
+							</div>
+						</div>
+						<div class="col-md-7 col-lg-6">
+							<div class="txt-block right-column wow fadeInLeft">
+
 								<p class="p-lg">We are a leading mobile app development company provider in New Jersey, and our specialty is the creation of great mobile apps for Flutter, React Native, Android, and iOS. Our apps are not only visually appealing, but they also have a high level of functionality and are focused on performance. In order to provide your consumers with an immersive experience that strikes a chord with them, the skilled developers on our team go above and beyond the scope of a conventional app launch. </p>
-                                <p class="p-lg">We have years of expertise in the field, and as a result, we have developed our talents to the point where we can design mobile apps for your future company needs that are business-centric, objective-focused, and performance-driven. Our skilled pool of competent developers, who are specialists in the production of unique hand-code, inventiveness, and analytical skills, is a source of great pride for our company. </p>
-                               </div>
+								<p class="p-lg">We have years of expertise in the field, and as a result, we have developed our talents to the point where we can design mobile apps for your future company needs that are business-centric, objective-focused, and performance-driven. Our skilled pool of competent developers, who are specialists in the production of unique hand-code, inventiveness, and analytical skills, is a source of great pride for our company. </p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 	</section>
 
-        <section id="content-3" class="bg-white  content-3  content-section division ">
+	<section id="content-3" class="bg-white  content-3  content-section division ">
 		<div class="container">
-        <div class="top-row pb-30">
-			    <div class="row justify-content-center">
-				<div class="col-lg-10 col-xl-8">
-					<div class="section-title title-01  mb-20">
-					<h3 class="h4-xl text-center">How Does Work for ClickBox <span class="txtred"><br/>Mobile App Development Company</span> In New Jersey? </h3>
-                    <p class="p-lg">Make Your Website And Out With The Top-Notch Mobile Application  Development Company In New Jersey.</p>
-                              	
-                </div>
-				</div>
-			</div>
-			<div class="row d-flex align-items-center">
-				<div class="col-md-7 col-lg-6">
-					<div class="txt-block left-column  wow fadeInLeft">
-                    <h5 class="h5-md txtbluee">Consultation</h5>
-						<p class="p-lg txt-justify">ClickBox Mobile app development in new jersey team thoroughly discusses customer needs before beginning any project. To succeed, we must understand our clients' website design and functionality needs. This talk will provide our consumers with a clear website plan and address any questions. We know that meticulous planning is crucial to any business's success, therefore we change our planning method as soon as our customers submit them to us. Our experts will help your website succeed on digital platforms.</p>
-			
-						
-					</div>
-				</div>
-				<div class="col-md-5 col-lg-6">
-					<div class="img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/260.png" alt="mobile-app-development">
-					</div>
-				</div>
-			</div>
+			<div class="top-row pb-30">
+				<div class="row justify-content-center">
+					<div class="col-lg-10 col-xl-8">
+						<div class="section-title title-01  mb-20">
+							<h3 class="h4-xl text-center">How Does Work for ClickBox <span class="txtred"><br />Mobile App Development Company</span> In New Jersey? </h3>
+							<p class="p-lg">Make Your Website And Out With The Top-Notch Mobile Application Development Company In New Jersey.</p>
 
-		</div>
+						</div>
+					</div>
+				</div>
+				<div class="row d-flex align-items-center">
+					<div class="col-md-7 col-lg-6">
+						<div class="txt-block left-column  wow fadeInLeft">
+							<h5 class="h5-md txtbluee">Consultation</h5>
+							<p class="p-lg txt-justify">ClickBox Mobile app development in new jersey team thoroughly discusses customer needs before beginning any project. To succeed, we must understand our clients' website design and functionality needs. This talk will provide our consumers with a clear website plan and address any questions. We know that meticulous planning is crucial to any business's success, therefore we change our planning method as soon as our customers submit them to us. Our experts will help your website succeed on digital platforms.</p>
+
+
+						</div>
+					</div>
+					<div class="col-md-5 col-lg-6">
+						<div class="img-block right-column wow fadeInRight">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/260.webp" alt="mobile-app-development">
+						</div>
+					</div>
+				</div>
+
+			</div>
 	</section>
-    <section id="content-3" class="bg-tra-skyblue content-3   content-section division">
+	<section id="content-3" class="bg-tra-skyblue content-3   content-section division">
 		<div class="container">
 			<div class="top-row pb-30 pt-30">
-	
+
 				<div class="row d-flex align-items-center mt-20">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/261.png" alt="mobile-app-development">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/261.webp" alt="mobile-app-development">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInLeft">
-                        <h5 class="h5-md txtbluee">User Experience Design</h5>
-								<p class="p-lg">With the expertise of its exceptional design team, ClickBox will create an interface for your mobile app that is not only visually appealing but also easy to navigate. We prioritize the user experience and ensure that the app is designed in accordance with the latest design trends. Our goal is to create a seamless and intuitive user interface that enhances the overall user experience. </p>
+							<h5 class="h5-md txtbluee">User Experience Design</h5>
+							<p class="p-lg">With the expertise of its exceptional design team, ClickBox will create an interface for your mobile app that is not only visually appealing but also easy to navigate. We prioritize the user experience and ensure that the app is designed in accordance with the latest design trends. Our goal is to create a seamless and intuitive user interface that enhances the overall user experience. </p>
 
-                               </div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-    
-    <section id="content-3" class="bg-white  content-3  content-section division ">
+
+	<section id="content-3" class="bg-white  content-3  content-section division ">
 		<div class="container">
-        <div class="top-row pb-20 pt-30">
-			    
-			<div class="row d-flex align-items-center">
-				<div class="col-md-7 col-lg-6">
-					<div class="txt-block left-column  wow fadeInLeft">
-                    <h5 class="h5-md txtbluee">Development</h5>
-						<p class="p-lg txt-justify">We leverage the latest tools and technologies to develop reliable and scalable mobile apps. Our developers adhere to industry standards and best practices to ensure that the app maintains the highest level of quality. In addition, we prioritize the user experience and optimize the app for fast-loading speed and compatibility across all devices. With our creative approach, we will design a user-friendly website that meets your expectations and more.</p>
-			
-						
-					</div>
-				</div>
-				<div class="col-md-5 col-lg-6">
-					<div class="img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/262.png" alt="mobile-app-development">
-					</div>
-				</div>
-			</div>
+			<div class="top-row pb-20 pt-30">
 
-		</div>
+				<div class="row d-flex align-items-center">
+					<div class="col-md-7 col-lg-6">
+						<div class="txt-block left-column  wow fadeInLeft">
+							<h5 class="h5-md txtbluee">Development</h5>
+							<p class="p-lg txt-justify">We leverage the latest tools and technologies to develop reliable and scalable mobile apps. Our developers adhere to industry standards and best practices to ensure that the app maintains the highest level of quality. In addition, we prioritize the user experience and optimize the app for fast-loading speed and compatibility across all devices. With our creative approach, we will design a user-friendly website that meets your expectations and more.</p>
+						</div>
+					</div>
+					<div class="col-md-5 col-lg-6">
+						<div class="img-block right-column wow fadeInRight">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/262.webp" alt="mobile-app-development">
+						</div>
+					</div>
+				</div>
+
+			</div>
 	</section>
-    <section id="content-3" class="bg-tra-skyblue content-3 mt-30  content-section division">
+	<section id="content-3" class="bg-tra-skyblue content-3 mt-30  content-section division">
 		<div class="container">
 			<div class="top-row pb-30 pt-30">
-			    
+
 				<div class="row d-flex align-items-center ">
 					<div class="col-md-5 col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="../images/263.png" alt="mobile-app-development">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/263.webp" alt="mobile-app-development">
 						</div>
 					</div>
 					<div class="col-md-7 col-lg-6">
 						<div class="txt-block right-column wow fadeInLeft">
-                        <h5 class="h5-md txtbluee">Testing</h5>
-								<p class="p-lg">We will launch the app to the app stores once it has been evaluated and authorized by the client. In addition, we provide post-deployment support as well as maintenance services to ensure that the program continues to function normally after it has been implemented. </p>
+							<h5 class="h5-md txtbluee">Testing</h5>
+							<p class="p-lg">We will launch the app to the app stores once it has been evaluated and authorized by the client. In addition, we provide post-deployment support as well as maintenance services to ensure that the program continues to function normally after it has been implemented. </p>
 
-                               </div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-    <section id="content-3" class="bg-white  content-3  content-section division ">
+	<section id="content-3" class="bg-white  content-3  content-section division ">
 		<div class="container">
-        <div class="top-row pb-20 pt-30">
-			    
-			<div class="row d-flex align-items-center">
-				<div class="col-md-7 col-lg-6">
-					<div class="txt-block left-column  wow fadeInLeft">
-                    <h5 class="h5-md txtbluee">Launch</h5>
-						<p class="p-lg txt-justify">ClickBox is a React Native App development company in New Jersey, we pride ourselves on being a top-notch team of experienced and skilled developers. We provide customized react native mobile app development solutions that meet the specific needs of businesses in various industries. We understand the importance of developing high-quality mobile apps that are fast, responsive, and provide an excellent user experience. Our team of developers uses the latest technology and best practices to ensure that our clients' apps meet the latest industry standards, are fully functional, and provide a great user experience. We take a collaborative approach to app development, working closely with our clients to ensure that their app meets their specific needs and stands out from the competition.</p>
-			
-						
-					</div>
-				</div>
-				<div class="col-md-5 col-lg-6">
-					<div class="img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/264.png" alt="mobile-app-development">
-					</div>
-				</div>
-			</div>
+			<div class="top-row pb-20 pt-30">
 
-		</div>
+				<div class="row d-flex align-items-center">
+					<div class="col-md-7 col-lg-6">
+						<div class="txt-block left-column  wow fadeInLeft">
+							<h5 class="h5-md txtbluee">Launch</h5>
+							<p class="p-lg txt-justify">ClickBox is a React Native App development company in New Jersey, we pride ourselves on being a top-notch team of experienced and skilled developers. We provide customized react native mobile app development solutions that meet the specific needs of businesses in various industries. We understand the importance of developing high-quality mobile apps that are fast, responsive, and provide an excellent user experience. Our team of developers uses the latest technology and best practices to ensure that our clients' apps meet the latest industry standards, are fully functional, and provide a great user experience. We take a collaborative approach to app development, working closely with our clients to ensure that their app meets their specific needs and stands out from the competition.</p>
+
+
+						</div>
+					</div>
+					<div class="col-md-5 col-lg-6">
+						<div class="img-block right-column wow fadeInRight">
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/264.webp" alt="mobile-app-development">
+						</div>
+					</div>
+				</div>
+
+			</div>
 	</section>
-	
-    <!-- SECTION 3 -->
+
+	<!-- SECTION 3 -->
 	<section id="features-4" class=" bg-white features-section division">
 		<div class="container">
-        <div class="row justify-content-center">
+			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-30">
 						<h3 class="h4-xl text-center">Why need <span class="txtred">Mobile App Development?</span></h3>
 						<p class="p-lg text-center">Mobile apps have become increasingly important in today's digital age, and here are some reasons why:
-</p>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -266,20 +264,20 @@
 			<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
 				<div class="col squire-cards-col">
 					<div class="squire-cards squire-cards-blue h-100">
-                    <div class="squire-icons">
+						<div class="squire-icons">
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/313.png" alt="mobile-app-development">
+										<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/313.webp" alt="mobile-app-development">
 									</span>
 								</div>
 							</div>
 						</div>
-                        <div class="squire-content mt-15">
-							
+						<div class="squire-content mt-15">
+
 							<h5 class="h6-md text-white ">Icon-Accessibility:</h5>
 							<p class="p-lg text-squire-muted">Mobile apps provide customers with easy and convenient access to a business's products or services from anywhere at any time. This accessibility increases customer engagement and satisfaction, leading to improved customer loyalty.</p>
-</div>
+						</div>
 					</div>
 				</div>
 				<div class="col squire-cards-col">
@@ -288,15 +286,15 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/314.png" alt="mobile-app-development">
+										<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/314.webp" alt="mobile-app-development">
 									</span>
 								</div>
 							</div>
 						</div>
-                        <div class="squire-content mt-15">
-						    <h5 class="h6-md text-white mt-10">Icon-Enhanced User Experience:</h5>
+						<div class="squire-content mt-15">
+							<h5 class="h6-md text-white mt-10">Icon-Enhanced User Experience:</h5>
 							<p class="p-lg text-squire-muted">A well-designed mobile app can provide customers with a seamless and intuitive experience, making it easier for them to interact with the business. This, in turn, enhances their overall satisfaction with the business and builds brand loyalty.</p>
-</div>
+						</div>
 					</div>
 				</div>
 				<div class="col squire-cards-col">
@@ -305,15 +303,15 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/315.png" alt="mobile-app-development">
+										<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/315.webp" alt="mobile-app-development">
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
-                        <h5 class="h6-md text-white mt-10">Icon-Marketing Opportunities:</h5>
+							<h5 class="h6-md text-white mt-10">Icon-Marketing Opportunities:</h5>
 							<p class="p-lg text-squire-muted">Mobile apps provide businesses with new marketing opportunities through push notifications and in-app promotions. These opportunities help businesses to increase their reach and engagement with customers.</p>
-						
+
 						</div>
 					</div>
 				</div>
@@ -323,15 +321,15 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/316.png" alt="mobile-app-development">
+										<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/316.webp" alt="mobile-app-development">
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
-                        <h5 class="h6-md text-white mt-10">Icon-Competitive Advantage:</h5>
+							<h5 class="h6-md text-white mt-10">Icon-Competitive Advantage:</h5>
 							<p class="p-lg text-squire-muted">As more businesses adopt mobile apps, having a mobile app can provide a competitive advantage by differentiating the business from its competitors.</p>
-						
+
 						</div>
 					</div>
 				</div>
@@ -341,16 +339,16 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/317.png" alt="mobile-app-development">
+										<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/317.webp" alt="mobile-app-development">
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
-                        <h5 class="h6-md text-white mt-10">Icon-Insights and Analytics:
-</h5>
+							<h5 class="h6-md text-white mt-10">Icon-Insights and Analytics:
+							</h5>
 							<p class="p-lg text-squire-muted">Mobile apps provide businesses with valuable insights into customer behavior and preferences, helping businesses to improve their products or services and better target their marketing efforts.</p>
-						
+
 						</div>
 					</div>
 				</div>
@@ -360,51 +358,35 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/318.png" alt="mobile-app-development">
+										<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/318.webp" alt="mobile-app-development">
 									</span>
 								</div>
 							</div>
 						</div>
 						<div class="squire-content mt-15">
-                        <h5 class="h6-md text-white mt-10">Increased Customer Engagement:</h5>
+							<h5 class="h6-md text-white mt-10">Increased Customer Engagement:</h5>
 							<p class="p-lg text-squire-muted">Mobile apps offer a direct channel for communication and engagement with your customers. You can send push notifications to provide updates, promotions, and personalized offers, thereby increasing customer engagement and fostering brand loyalty.</p>
-						
+
 						</div>
 					</div>
 				</div>
 			</div>
 	</section>
 
-   
-
-  
-
-	
-	
 
 
 
-  
-	
-		
-	
 
-	
 	<!-- FEATURES-5
 			============================================= -->
 
-
-	
-		<!-- FEATURES-5
-			============================================= -->
-
-				<section id="features-4" class=" bg-white features-section division mt-50">
+	<section id="features-4" class=" bg-white features-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-40">
-						<h3 class="h4-xl text-center">Bringing Your Ideas to Life Across Industries With Seamless <span class="txtyellow"><br/>React Native App development </span>in New Jersey</h3>
-						<p class="p-lg text-center mt-10">Contact us with your perfect project needs to enter the digital world with an appropriate React Native application. If you are working on a personal or corporate project involving these industries, hire React native developers.</p>
+						<h3 class="h4-xl text-center">Industry</span></h3>
+						<!--<p class="p-lg text-center">PHP is a fantastic choice for building websites and web applications for a wide range of industries because it is flexible and easy to change. Our PHP development services in New Jersey can help you build a strong online presence that engages and keeps your audience's attention, regardless of your industry, whether it's finance, healthcare, e-commerce, or another field. Our team of expert PHP developers has the technical expertise and creativity to create custom web solutions for your business that meet all of its needs. Let us help you make an online experience that keeps people interested, raises the visibility of your brand, and grows your business.</p>-->
 					</div>
 				</div>
 			</div>
@@ -413,15 +395,15 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/192.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/192.webp">
 							</figure>
-							<figcaption> Education & e-learning </figcaption>
+							<figcaption> Education </figcaption>
 						</a>
 					</div>
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/193.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/193.webp">
 							</figure>
 							<figcaption> Food & Restaurant </figcaption>
 						</a>
@@ -429,31 +411,31 @@
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/194.jpg">
+								<img class="lazyload" alt="Dev Technosys-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/194.webp">
 							</figure>
-							<figcaption> Travel & Tourism </figcaption>
+							<figcaption> Travel & Tours </figcaption>
 						</a>
 					</div>
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/195.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/195.webp">
 							</figure>
-							<figcaption> Healthcare & Medical </figcaption>
+							<figcaption> Healthcare </figcaption>
 						</a>
 					</div>
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/196.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/196.webp">
 							</figure>
-							<figcaption> Entertainment & media </figcaption>
+							<figcaption> Gaming </figcaption>
 						</a>
 					</div>
 					<div class="col-md-6 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/197.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/197.webp">
 							</figure>
 							<figcaption> Ecommerce </figcaption>
 						</a>
@@ -461,31 +443,31 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/198.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/198.webp">
 							</figure>
-							<figcaption> Non-profit & social organizations </figcaption>
+							<figcaption> Service Marketplace </figcaption>
 						</a>
 					</div>
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/199.jpg">
+								<img class="lazyload" alt="Dev Technosys-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/199.webp">
 							</figure>
-							<figcaption> Automotive industry </figcaption>
+							<figcaption> Automotives </figcaption>
 						</a>
 					</div>
 					<div class="col-md-2 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/200.jpg">
+								<img class="lazyload" alt="Dev Technosys-nj" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/200.webp">
 							</figure>
-							<figcaption> Finance & banking </figcaption>
+							<figcaption> Banking </figcaption>
 						</a>
 					</div>
 					<div class="col-md-4 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/201.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey-usa" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/201.webp">
 							</figure>
 							<figcaption> Real Estate </figcaption>
 						</a>
@@ -493,7 +475,7 @@
 					<div class="col-md-3 col">
 						<a href="">
 							<figure>
-								<img class="lazyload" alt="Dev Technosys" src="../images/202.jpg">
+								<img class="lazyload" alt="Dev Technosys-newjersey" src="https://clickboxagency.com/images-new/services/website-development-company-new-jersey/202.webp">
 							</figure>
 							<figcaption> On-demand </figcaption>
 						</a>
@@ -503,7 +485,7 @@
 		</div>
 	</section>
 
-    <!-- Section 4 -->
+	<!-- Section 4 -->
 	<section class="bg-white content-3 pt-50 mb-20 features-section division  ">
 		<div class="container ">
 			<div class="row justify-content-center">
@@ -519,89 +501,89 @@
 					<!-- FEATURE BOX #1 -->
 					<div class="col  mt-20">
 						<div class="pt-20 pr-40 bg-white h-100 wow fadeInUp">
-					<div class="text-center">
-							<div class="fbox-ico-center  ico-rounded-lg  ">
-								<img src="../images/320.png" alt="mobile-app-development-icon" class="img-fluid text-center">
+							<div class="text-center">
+								<div class="fbox-ico-center  ico-rounded-lg  ">
+									<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/320.webp" alt="mobile-app-development-icon" class="img-fluid text-center">
+								</div>
+							</div>
+							<div class="mt-15">
+								<h5 class="h5-sm text-center">Android App Development</h5>
+								<p class="p-lg text-center">Businesses can get more leads because people all over the world use Android OS. Our Android mobile app development company in New Jersey provides a significant route to meet your goals. With the help of mobile app developers in New Jersey, you can keep your brand's reputation intact. At the same time, it needs to cut down on the costs of development.</p>
 							</div>
 						</div>
-                            <div class="mt-15">
-							<h5 class="h5-sm text-center">Android App Development</h5>
-							<p class="p-lg text-center">Businesses can get more leads because people all over the world use Android OS. Our Android mobile app development company in New Jersey provides a significant route to meet your goals. With the help of mobile app developers in New Jersey, you can keep your brand's reputation intact. At the same time, it needs to cut down on the costs of development.</p>
-						</div>
-                        </div>
 					</div>
 					<!-- FEATURE BOX #2 -->
 					<div class="col  mt-20">
 						<div class="pt-20 pr-40 bg-white h-100  wow fadeInUp">
-						    	<div class="text-center">
-							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/322.png" alt="mobile-app-development-icon" class="img-fluid">
+							<div class="text-center">
+								<div class="fbox-ico-center ico-rounded-lg ">
+									<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/322.webp" alt="mobile-app-development-icon" class="img-fluid">
+								</div>
 							</div>
+							<div class="mt-15">
+								<h5 class="h5-sm text-center">iOS App Development</h5>
+								<p class="p-lg text-center">iOS is constantly changing to protect your data from all kinds of viruses and malware. It keeps you safe from all dangers. If you're not sure whether or not to use an iOS app development, think about its brand value, improved scalability, great security, good looks, and popularity in the business.</p>
 							</div>
-                            <div class="mt-15">
-							<h5 class="h5-sm text-center">iOS App Development</h5>
-							<p class="p-lg text-center">iOS is constantly changing to protect your data from all kinds of viruses and malware. It keeps you safe from all dangers. If you're not sure whether or not to use an iOS app development, think about its brand value, improved scalability, great security, good looks, and popularity in the business.</p>
 						</div>
-                        </div>
 					</div>
 					<!-- FEATURE BOX #3 -->
 					<div class="col  mt-20">
 						<div class="pt-20 pr-40 bg-white h-100  wow fadeInUp">
-						    	<div class="text-center">
-							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/321.png" alt="mobile-app-development-icon" class="img-fluid">
+							<div class="text-center">
+								<div class="fbox-ico-center ico-rounded-lg ">
+									<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/321.webp" alt="mobile-app-development-icon" class="img-fluid">
+								</div>
 							</div>
+							<div class="mt-15">
+								<h5 class="h5-sm text-center">Xamarin</h5>
+								<p class="p-lg text-center">Xamarin is a cross-platform mobile app development framework owned by Microsoft that allows developers to build high-quality native mobile apps for both Android and iOS platforms using a single codebase.</p>
 							</div>
-                            <div class="mt-15">
-							<h5 class="h5-sm text-center">Xamarin</h5>
-							<p class="p-lg text-center">Xamarin is a cross-platform mobile app development framework owned by Microsoft that allows developers to build high-quality native mobile apps for both Android and iOS platforms using a single codebase.</p>
 						</div>
-                        </div>
 					</div>
 					<!-- FEATURE BOX #4 -->
 					<div class="col mt-20">
 						<div class="pt-20 pr-40 bg-white h-100  wow fadeInUp">
-						    	<div class="text-center">
-							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/319.png" alt="mobile-app-development-icon" class="img-fluid">
+							<div class="text-center">
+								<div class="fbox-ico-center ico-rounded-lg ">
+									<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/319.webp" alt="mobile-app-development-icon" class="img-fluid">
+								</div>
 							</div>
+							<div class="mt-15">
+								<h5 class="h5-sm text-center">Flutter App Development </h5>
+								<p class="p-lg text-center">Our Flutter development team uses this cross-platform framework to build native mobile apps for both Android and iOS platforms using a single codebase. We ensure that our Flutter apps are optimized for performance and provide an excellent user experience.</p>
 							</div>
-                            <div class="mt-15">
-							<h5 class="h5-sm text-center">Flutter App Development </h5>
-							<p class="p-lg text-center">Our Flutter development team uses this cross-platform framework to build native mobile apps for both Android and iOS platforms using a single codebase. We ensure that our Flutter apps are optimized for performance and provide an excellent user experience.</p>
 						</div>
-                        </div>
 					</div>
 					<!-- FEATURE BOX #5 -->
 					<div class="col mt-20">
 						<div class="pt-20 pr-40 bg-white h-100  wow fadeInUp">
-						    	<div class="text-center">
-							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/323.png" alt="mobile-app-development-icon" class="img-fluid">
+							<div class="text-center">
+								<div class="fbox-ico-center ico-rounded-lg ">
+									<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/323.webp" alt="mobile-app-development-icon" class="img-fluid">
+								</div>
 							</div>
+							<div class="mt-15">
+								<h5 class="h5-sm text-center">Ionic App Development</h5>
+								<p class="p-lg text-center">Ionic focuses exclusively on the look and feel of mobile applications. Its user interface has the capacity to provide the finest user experience possible. Ionic is a top cross-platform app development in new jersey and a hybrid mobile application development framework that has a firm grasp of AngularJS and HTML5.</p>
 							</div>
-                            <div class="mt-15">
-							<h5 class="h5-sm text-center">Ionic App Development</h5>
-							<p class="p-lg text-center">Ionic focuses exclusively on the look and feel of mobile applications. Its user interface has the capacity to provide the finest user experience possible. Ionic is a top cross-platform app development in new jersey and a hybrid mobile application development framework that has a firm grasp of AngularJS and HTML5.</p>
 						</div>
-                        </div>
 					</div>
 					<!-- FEATURE BOX #6 -->
 					<div class="col mt-20">
 						<div class="pt-20 pr-40 bg-white h-100  wow fadeInUp">
-						    	<div class="text-center">
-							<div class="fbox-ico-center ico-rounded-lg ">
-								<img src="../images/324.png" alt="mobile-app-development-icon" class="img-fluid">
+							<div class="text-center">
+								<div class="fbox-ico-center ico-rounded-lg ">
+									<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/324.webp" alt="mobile-app-development-icon" class="img-fluid">
+								</div>
 							</div>
+							<div class="mt-15">
+								<h5 class="h5-sm text-center">React Native App Development</h5>
+								<p class="p-lg text-center">React Native is a lifesaver because it lets a smartphone app be portable and work well. Our mobile application development in New Jersey thinks it gives businesses the best quality experiences that set them apart from the rest of the world. It gives new businesses a chance to do something special.</p>
 							</div>
-                            <div class="mt-15">
-							<h5 class="h5-sm text-center">React Native App Development</h5>
-							<p class="p-lg text-center" >React Native is a lifesaver because it lets a smartphone app be portable and work well. Our mobile application development in New Jersey thinks it gives businesses the best quality experiences that set them apart from the rest of the world. It gives new businesses a chance to do something special.</p>
 						</div>
-                        </div>
 					</div>
 					<!-- FEATURE BOX #7 -->
-					
+
 
 				</div>
 			</div>
@@ -609,174 +591,174 @@
 		</div>
 	</section>
 
-    <section class="pb-50 technologystack-nft-sec paddTop0 mb-30  mt-40 ">
-            <div class="container">
-               <div class="main-heading-box mb-20 text-center ">
-                  <h2 class="pt-30"> <span class="txt-litewhite">Technologies We Use</span> </h2>
-               </div>
-               <div class="row">
-                  <div class="col-md-6 mb-10  margin-width">
-                     <div class="technologystack-box text-center ">
-                        <h4>Mobile</h4>
-                        <ul class="technologystack-box-list text-center">
-                           <li>
-                              <figure><img alt="Java" class=" lazyloaded" data-src="../images/mb-icon-1.png" width="62" height="62" src="../images/mb-icon-1.png"></figure>
-                              <figcaption>
-                                 <h6>iOS</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="Kotlin" class=" lazyloaded" data-src="../images/mb-icon-2.png" width="62" height="62" src="../images/mb-icon-2.png"></figure>
-                              <figcaption>
-                                 <h6>Android</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="Android Studio" class=" lazyloaded" data-src="../images/mb-icon-3.svg" width="62" height="62" src="../images/mb-icon-3.svg"></figure>
-                              <figcaption>
-                                 <h6>React Native</h6>
-                              </figcaption>
-                           </li>
-                           <!--<li>-->
-                           <!--   <figure><img alt="Android NDK" class=" lazyloaded" data-src="../images/bp-tech-img-4.png" width="62" height="62" src="../images/bp-tech-img-4.png"></figure>-->
-                           <!--   <figcaption>-->
-                           <!--      <h6>Objective</h6>-->
-                           <!--   </figcaption>-->
-                           <!--</li>-->
-                           <!--<li>-->
-                           <!--   <figure><img alt="Android NDK" class=" lazyloaded" data-src="../images/bp-tech-img-4.png" width="62" height="62" src="../images/bp-tech-img-4.png"></figure>-->
-                           <!--   <figcaption>-->
-                           <!--      <h6>Xamarin</h6>-->
-                           <!--   </figcaption>-->
-                           <!--</li>-->
-                           <li>
-                              <figure><img alt="Android NDK" class=" lazyloaded" data-src="../images/mb-icon-4.svg" width="62" height="62" src="../images/mb-icon-4.svg"></figure>
-                              <figcaption>
-                                 <h6>Flutter</h6>
-                              </figcaption>
-                           </li>
-                        </ul>
-                     </div>
-                  </div>
-                  
-                  <div class="col-md-6 mb-30 margin-width">
-                     <div class="technologystack-box  text-center">
-                        <h4>Front End</h4>
-                        <ul class="technologystack-box-list text-center">
-                           <li>
-                              <figure><img alt="Retrofit" class=" lazyloaded" data-src="../images/front-icon-1.svg" width="62" height="62" src="../images/front-icon-1.svg"></figure>
-                              <figcaption>
-                                 <h6>Angular js</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="OkHttp" class=" lazyloaded" data-src="../images/front-icon-2.svg" width="62" height="62" src="../images/front-icon-2.svg"></figure>
-                              <figcaption>
-                                 <h6>React js</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="Glide" class=" lazyloaded" data-src="../images/front-icon-3.svg" width="62" height="62" src="../images/front-icon-3.svg"></figure>
-                              <figcaption>
-                                 <h6>jquery</h6>
-                              </figcaption>
-                           </li>
-                           <!--<li>-->
-                           <!--   <figure><img alt="Picasso" class=" lazyloaded" data-src="../images/ff-tech-img-4.png" width="62" height="62" src="../images/ff-tech-img-4.png"></figure>-->
-                           <!--   <figcaption>-->
-                           <!--      <h6>Blockchain</h6>-->
-                           <!--   </figcaption>-->
-                           <!--</li>-->
-                           <li>
-                              <figure><img alt="Picasso" class=" lazyloaded" data-src="../images/front-icon-4.svg" width="62" height="62" src="../images/front-icon-4.svg"></figure>
-                              <figcaption>
-                                 <h6>HTML 5</h6>
-                              </figcaption>
-                           </li>
-                        </ul>
-                     </div>
-                  </div>
-                  
-                  <div class="col-md-6 mb-30 margin-width">
-                     <div class="technologystack-box  text-center">
-                        <h4>Backend</h4>
-                        <ul class="technologystack-box-list text-center">
-                           <li>
-                              <figure><img alt="Firebase" class=" lazyloaded" data-src="../images/bk-icon-1.svg" width="62" height="62" src="../images/bk-icon-1.svg"></figure>
-                              <figcaption>
-                                 <h6>PHP</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="Google Cloud" class=" lazyloaded" data-src="../images/bk-icon-2.svg" width="62" height="62" src="../images/bk-icon-2.svg"></figure>
-                              <figcaption>
-                                 <h6>.NET</h6>
-                              </figcaption>
-                           </li>
-                           <!--<li>-->
-                           <!--   <figure><img alt="Node.js" class=" lazyloaded" data-src="../images/pl-tech-img-3.png" width="62" height="62" src="../images/pl-tech-img-3.png"></figure>-->
-                           <!--   <figcaption>-->
-                           <!--      <h6>Laravel</h6>-->
-                           <!--   </figcaption>-->
-                           <!--</li>-->
-                           <li>
-                              <figure><img alt="AWS" class=" lazyloaded" data-src="../images/bk-icon-3.svg" width="62" height="62" src="../images/bk-icon-3.svg"></figure>
-                              <figcaption>
-                                 <h6>Nodejs</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="AWS" class=" lazyloaded" data-src="../images/bk-icon-4.svg" width="62" height="62" src="../images/bk-icon-4.svg"></figure>
-                              <figcaption>
-                                 <h6>Python</h6>
-                              </figcaption>
-                           </li>
-                        </ul>
-                     </div>
-                  </div>
+	<section class="pb-50 technologystack-nft-sec paddTop0 mb-30  mt-40 ">
+		<div class="container">
+			<div class="main-heading-box mb-20 text-center ">
+				<h2 class="pt-30"> <span class="txt-litewhite">Technologies We Use</span> </h2>
+			</div>
+			<div class="row">
+				<div class="col-md-6 mb-10  margin-width">
+					<div class="technologystack-box text-center ">
+						<h4>Mobile</h4>
+						<ul class="technologystack-box-list text-center">
+							<li>
+								<figure><img alt="Java" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-1.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-1.webp"></figure>
+								<figcaption>
+									<h6>iOS</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="Kotlin" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-2.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-2.webp"></figure>
+								<figcaption>
+									<h6>Android</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="Android Studio" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-3.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-3.webp"></figure>
+								<figcaption>
+									<h6>React Native</h6>
+								</figcaption>
+							</li>
+							<!--<li>-->
+							<!--   <figure><img alt="Android NDK" class=" lazyloaded" data-src="../images/bp-tech-img-4.png" width="62" height="62" src="../images/bp-tech-img-4.png"></figure>-->
+							<!--   <figcaption>-->
+							<!--      <h6>Objective</h6>-->
+							<!--   </figcaption>-->
+							<!--</li>-->
+							<!--<li>-->
+							<!--   <figure><img alt="Android NDK" class=" lazyloaded" data-src="../images/bp-tech-img-4.png" width="62" height="62" src="../images/bp-tech-img-4.png"></figure>-->
+							<!--   <figcaption>-->
+							<!--      <h6>Xamarin</h6>-->
+							<!--   </figcaption>-->
+							<!--</li>-->
+							<li>
+								<figure><img alt="Android NDK" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-4.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/mb-icon-4.webp"></figure>
+								<figcaption>
+									<h6>Flutter</h6>
+								</figcaption>
+							</li>
+						</ul>
+					</div>
+				</div>
 
-                  <div class="col-md-6 mb-30 margin-width">
-                     <div class="technologystack-box text-center">
-                        <h4>Database</h4>
-                        <ul class="technologystack-box-list text-center">
-                           <li>
-                              <figure><img alt="Android Native" class=" lazyloaded" data-src="../images/db-icon-1.svg" width="62" height="62" src="../images/db-icon-1.svg"></figure>
-                              <figcaption>
-                                 <h6>MySQL</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="Flutter" class=" lazyloaded" data-src="../images/db-icon-2.png" width="62" height="62" src="../images/db-icon-2.png"></figure>
-                              <figcaption>
-                                 <h6>MsSQL</h6>
-                              </figcaption>
-                           </li>
-                           <li>
-                              <figure><img alt="XML" class=" lazyloaded" data-src="../images/db-icon-3.svg" width="62" height="62" src="../images/db-icon-3.svg"></figure>
-                              <figcaption>
-                                 <h6>MongoDB</h6>
-                              </figcaption>
-                           </li>
-                          
-                        </ul>
-                     </div>
-                  </div>
-                 
-        
-             
-               </div>
-            </div>
-         </section>
+				<div class="col-md-6 mb-30 margin-width">
+					<div class="technologystack-box  text-center">
+						<h4>Front End</h4>
+						<ul class="technologystack-box-list text-center">
+							<li>
+								<figure><img alt="Retrofit" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-1.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-1.webp"></figure>
+								<figcaption>
+									<h6>Angular js</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="OkHttp" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-2.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-2.webp"></figure>
+								<figcaption>
+									<h6>React js</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="Glide" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-3.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-3.webp"></figure>
+								<figcaption>
+									<h6>jquery</h6>
+								</figcaption>
+							</li>
+							<!--<li>-->
+							<!--   <figure><img alt="Picasso" class=" lazyloaded" data-src="../images/ff-tech-img-4.png" width="62" height="62" src="../images/ff-tech-img-4.png"></figure>-->
+							<!--   <figcaption>-->
+							<!--      <h6>Blockchain</h6>-->
+							<!--   </figcaption>-->
+							<!--</li>-->
+							<li>
+								<figure><img alt="Picasso" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-4.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/front-icon-4.webp"></figure>
+								<figcaption>
+									<h6>HTML 5</h6>
+								</figcaption>
+							</li>
+						</ul>
+					</div>
+				</div>
 
-    <!-- Section 10 -->
+				<div class="col-md-6 mb-30 margin-width">
+					<div class="technologystack-box  text-center">
+						<h4>Backend</h4>
+						<ul class="technologystack-box-list text-center">
+							<li>
+								<figure><img alt="Firebase" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-1.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-1.webp"></figure>
+								<figcaption>
+									<h6>PHP</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="Google Cloud" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-2.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-2.webp"></figure>
+								<figcaption>
+									<h6>.NET</h6>
+								</figcaption>
+							</li>
+							<!--<li>-->
+							<!--   <figure><img alt="Node.js" class=" lazyloaded" data-src="../images/pl-tech-img-3.png" width="62" height="62" src="../images/pl-tech-img-3.png"></figure>-->
+							<!--   <figcaption>-->
+							<!--      <h6>Laravel</h6>-->
+							<!--   </figcaption>-->
+							<!--</li>-->
+							<li>
+								<figure><img alt="AWS" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-3.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-3.webp"></figure>
+								<figcaption>
+									<h6>Nodejs</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="AWS" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-4.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/bk-icon-4.webp"></figure>
+								<figcaption>
+									<h6>Python</h6>
+								</figcaption>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="col-md-6 mb-30 margin-width">
+					<div class="technologystack-box text-center">
+						<h4>Database</h4>
+						<ul class="technologystack-box-list text-center">
+							<li>
+								<figure><img alt="Android Native" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/db-icon-1.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/db-icon-1.webp"></figure>
+								<figcaption>
+									<h6>MySQL</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="Flutter" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/db-icon-2.webp" width="62" height="62" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/db-icon-2.webp"></figure>
+								<figcaption>
+									<h6>MsSQL</h6>
+								</figcaption>
+							</li>
+							<li>
+								<figure><img alt="XML" class=" lazyloaded" data-src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/db-icon-3.webp" width="62" height="62" src="../images/db-icon-3.svg"></figure>
+								<figcaption>
+									<h6>MongoDB</h6>
+								</figcaption>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+
+
+
+			</div>
+		</div>
+	</section>
+
+	<!-- Section 10 -->
 
 	<section id="features-4" class=" pb-40 bg-white features-section division">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-70">
-						<h3 class="h4-xl text-center">Why Choose ClickBox for<span class="txtred"> Mobile App Development</span><br/>in New Jersey?</h3>
-							</div>
+						<h3 class="h4-xl text-center">Why Choose ClickBox for<span class="txtred"> Mobile App Development</span><br />in New Jersey?</h3>
+					</div>
 				</div>
 			</div>
 			<div class="fbox-4-wrapper fbox-4-wide">
@@ -788,7 +770,7 @@
 							<h6 class="h6-md">Work Efficiency</h6>
 							<!-- Text -->
 							<details>
-								<summary>Our team comprises skilled mobile app analysts, development team strategists, and designers who are dedicated  <br><span class="readmore">Read more...</span></summary>
+								<summary>Our team comprises skilled mobile app analysts, development team strategists, and designers who are dedicated <br><span class="readmore">Read more...</span></summary>
 								<p class="p-lg ">to delivering exceptional user experiences. We are not just focused on building mobile apps; we also create cutting-edge app store apps that have made us a leading mobile development company in Coimbatore.</p>
 							</details>
 						</div>
@@ -798,15 +780,15 @@
 							<h6 class="h6-md">Client Satisfaction</h5>
 								<!-- Text -->
 								<details>
-									<summary>Our goal is to ensure complete client satisfaction with their mobile app needs, whether it's for cross-platform apps  <br><span class="readmore">Read more...</span></summary>
+									<summary>Our goal is to ensure complete client satisfaction with their mobile app needs, whether it's for cross-platform apps <br><span class="readmore">Read more...</span></summary>
 									<p class="p-lg ">or Android app development in New Jersey. We work extensively towards implementing the right solution and representing the brand through our thorough research and in-depth business insights.</p>
 								</details>
 						</div>
 						<!-- Text -->
-					
+
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1 ">
-						<img src="../images/185.png" alt="why choose clickboxagency" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/185.webp" alt="why choose clickboxagency" class="img-fluid">
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
@@ -815,7 +797,7 @@
 							<!-- Title -->
 							<h6 class="h6-md">Interactive UI/UX</h6>
 							<details>
-								<summary>Our team of creative designers is proficient in converting UX design into interactive prototype mobile apps.  <br><span class="readmore">Read more...</span></summary>
+								<summary>Our team of creative designers is proficient in converting UX design into interactive prototype mobile apps. <br><span class="readmore">Read more...</span></summary>
 								<!-- Text -->
 								<p class="p-lg "> specialize in creating complete customer-centric and enterprise-level apps for various purposes such as entertainment, business, graphics, and more. Our design works like a sales machine for your business, delivering exceptional results.</p>
 							</details>
@@ -830,7 +812,7 @@
 								<p class="p-lg ">price for your enterprise app without compromising on quality. Our well-established team comprises highly skilled professionals dedicated to delivering great functional apps.</p>
 							</details>
 						</div>
-						
+
 					</div>
 				</div>
 			</div>
@@ -838,18 +820,18 @@
 	</section>
 
 
-	
-	  <section id="content-3" class="bg-snow pt-50  content-3  content-section division">
+
+	<section id="content-3" class="bg-snow pt-50  content-3  content-section division">
 		<div class="container-fluid bortopbot">
 			<div class="top-row squire-cards-red">
 				<div class="row d-flex align-items-center justify-content-center">
 					<div class="col-md-10 col-lg-10   pt-40 ">
 						<div class="txt-block left-column wow fadeInLeft ">
 							<div class="fbox-4 pr-25 mb-40 wow fadeInUp text-center">
-								<h4 class="h4-md text-white">Want your business to get to the next level?<br/> You might just need a mobile app. </span></h4>
+								<h4 class="h4-md text-white">Want your business to get to the next level?<br /> You might just need a mobile app. </span></h4>
 								<p class="p-md text-white">If you want a reliable and experienced service for making mobile apps, you don't have to look any further. Contact us today to talk about what you need for your mobile application development company in new jersey, and we'll be happy to give you a free consultation and quote.</p>
-								<a href="https://clickboxagency.com/contacts/" aria-label="Connect With Experts!" title="Connect With Experts!" class="btn btn-sm btn-yellow red-hover">  Connect With Experts!
-</a> 
+								<a href="https://clickboxagency.com/contacts/" aria-label="Connect With Experts!" title="Connect With Experts!" class="btn btn-sm btn-yellow red-hover"> Connect With Experts!
+								</a>
 							</div>
 						</div>
 					</div>
@@ -857,13 +839,13 @@
 			</div>
 		</div>
 	</section>
-    <section id="content-2" class="content-2  pt-40 content-section division">
+	<section id="content-2" class="content-2  pt-40 content-section division">
 		<div class="container">
-        <div class="row justify-content-center">
+			<div class="row justify-content-center">
 				<div class="col-lg-10 col-xl-10">
 					<div class="section-title  mb-30">
 						<h3 class="h4-xl text-center">What Does It Take to<span class="txtred"> Build an App</span> and How Much Does It Cost?</h3>
-							</div>
+					</div>
 				</div>
 			</div>
 			<div class="row d-flex align-items-center">
@@ -872,7 +854,7 @@
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/seo-01.png" alt="mobile-app-development-icon">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/seo-01.webp" alt="mobile-app-development-icon">
 					</div>
 				</div>
 
@@ -885,10 +867,10 @@
 						<div class="txt-box">
 
 							<!-- Title -->
-							
+
 							<p class="p-lg">The typical cost of developing an Android mobile app is determined by a number of factors, including the app's design, the level of complexity involved, the outsourcing location, the platforms, and the features. If you want to turn your concept into a successful business, you should definitely engage the best Android mobile app development services firm. This kind of organization assists brands in achieving great results in their businesses.</p>
 
-							
+
 
 							<p class="p-lg">We have a large clientele that provides leading mobile app solutions all over the world since we are a pioneering company in New Jersey that specializes in the creation of Android mobile applications. We have a qualified team of Android app developers that are able to construct mobile apps with outstanding user experiences, regardless of whether you want native, ios, flutter, hybrid, or cross-platform app development in new jersey mobile applications for your business. In order to make the process easier for you, we also offer a trustworthy app cost calculator that will assist you in determining an approximate budget for your app concept in advance. You may receive a rough estimate of the price of your mobile app in a matter of minutes by doing nothing more than selecting the features that you want it to include.</p>
 						</div> <!-- END TEXT BOX -->
@@ -902,7 +884,7 @@
 	</section> <!-- END CONTENT-2 -->
 
 
-	
+
 
 	<!-- FAQs-2>===================================== -->
 	<section id="faqs-2" class="pt-20 faqs-section division">
@@ -955,7 +937,7 @@
 								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingThree">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-											<b>  How do I choose a mobile app development company?</b>
+											<b> How do I choose a mobile app development company?</b>
 										</button>
 									</h2>
 									<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -963,12 +945,12 @@
 											<!-- TEXT BOX -->
 											<div class="txt-box">
 												<p class="p-lg">To choose a mobile app development company, you should consider factors such as their experience, portfolio, pricing, and customer reviews. It's also important to ensure that the company has the skills and resources necessary to develop the type of app you need.</p>
-												
+
 											</div>
 										</div>
 									</div>
 								</div>
-                                <div class="accordion-item">
+								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFour">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											<b> What are some common challenges faced during mobile app development, and how can they be overcome?</b>
@@ -979,12 +961,12 @@
 											<!-- TEXT BOX -->
 											<div class="txt-box">
 												<p class="p-lg">Some common challenges in mobile app development include ensuring compatibility across different devices and platforms, ensuring the app is secure, and dealing with user feedback and bug fixes. These challenges can be overcome by thoroughly testing the app before release, maintaining good communication with users, and working with a skilled and experienced development team.</p>
-												
+
 											</div>
 										</div>
 									</div>
 								</div>
-                                <div class="accordion-item">
+								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingFive">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 											<b> How long does it take to make an app for a phone?</b>
@@ -995,7 +977,7 @@
 											<!-- TEXT BOX -->
 											<div class="txt-box">
 												<p class="p-lg">The amount of time it takes to make a mobile app depends on how hard the project is. It might take a few weeks to make a simple app, but it could take several months to make a complicated one.</p>
-												
+
 											</div>
 										</div>
 									</div>
@@ -1045,7 +1027,7 @@
 										</div>
 									</div>
 								</div>
-                                <div class="accordion-item">
+								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingNine">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
 											<b> How do I ensure that my mobile app is secure?</b>
@@ -1057,7 +1039,7 @@
 										</div>
 									</div>
 								</div>
-                                <div class="accordion-item">
+								<div class="accordion-item">
 									<h2 class="accordion-header" id="headingTen">
 										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
 											<b>What are the important factors to consider in mobile app development?</b>
@@ -1073,12 +1055,12 @@
 						</div>
 					</div>
 				</div>
-				
+
 			</div>
 	</section>
-	
 
-    
+
+
 
 
 	<section id="contacts-2" class="bg-snow pt-30 contacts-section division">
@@ -1088,7 +1070,7 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="section-title title-02 mb-80">
 						<!-- Title -->
-						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate,<br/> Drop us a Line</h2>
+						<h2 class="p-lg txtredd">Have a Question? Need Help? Don't Hesitate,<br /> Drop us a Line</h2>
 					</div>
 				</div>
 			</div>
@@ -1096,7 +1078,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-xl-6">
 					<div class="post-inner-img">
-						<img class="img-fluid" src="https://www.clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/services/mobile-app-development-company-new-jersey/contacts.webp" width="300" height="300" alt="Branch office" />
 					</div>
 				</div>
 				<div class="col-lg-6 col-xl-6">
@@ -1117,24 +1099,24 @@
 							</div>
 
 							<div class="col-md-6">
-						<select class="form-select" aria-label="services" name="services" id="services">
+								<select class="form-select" aria-label="services" name="services" id="services">
 									<option selected>Select your services</option>
-										<option value="Mobile App Development">Mobile App Development</option>
-										<option value="Web App Development">Web App Development</option>
-										<option value="Hire Dedicated Development">Hire Dedicated Development</option>
-										<option value="Ecommerce Development">Ecommerce Development</option>
-										<option value="Logo Design">Logo Design</option>
-										<option value="UI UX Design">UI UX Design</option>
-										<option value="Website Design and Development">Website Design and Development</option>
-										<option value="Wordpress Development">Wordpress Development</option>
-										<option value="Shopify Website Development">Shopify Website Development</option>
-										<option value="Website Redesigning">Website Redesigning</option>
-									    <option value="Digital Marketing">Digital Marketing</option>
-									    <option value="Search Engine Optimization">Search Engine Optimization</option>
-									    <option value="Social Media Marketing">Social Media Marketing</option>
-								    	<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
-								    	<option value="Explainer Video Creation">Explainer Video Creation</option>
-									
+									<option value="Mobile App Development">Mobile App Development</option>
+									<option value="Web App Development">Web App Development</option>
+									<option value="Hire Dedicated Development">Hire Dedicated Development</option>
+									<option value="Ecommerce Development">Ecommerce Development</option>
+									<option value="Logo Design">Logo Design</option>
+									<option value="UI UX Design">UI UX Design</option>
+									<option value="Website Design and Development">Website Design and Development</option>
+									<option value="Wordpress Development">Wordpress Development</option>
+									<option value="Shopify Website Development">Shopify Website Development</option>
+									<option value="Website Redesigning">Website Redesigning</option>
+									<option value="Digital Marketing">Digital Marketing</option>
+									<option value="Search Engine Optimization">Search Engine Optimization</option>
+									<option value="Social Media Marketing">Social Media Marketing</option>
+									<option value="Pay Per Click Advertising">Pay Per Click Advertising</option>
+									<option value="Explainer Video Creation">Explainer Video Creation</option>
+
 								</select>
 							</div>
 							<div class="col-md-6">
@@ -1175,7 +1157,7 @@
 			</div> <!-- END CONTACT FORM -->
 		</div> <!-- End container -->
 	</section> <!-- END CONTACTS-2 -->
-	
+
 
 
 	<?php include('footer.php') ?>
@@ -1239,42 +1221,42 @@
 			]
 		}
 	</script>
-<script>
-    var owl = $('.brands-carousels');
-    owl.owlCarousel({
-      items: 5,
-      loop: true,
-      autoplay: true,
-      navBy: 1,
-      nav: false,
-      autoplayTimeout: 4000,
-      autoplayHoverPause: false,
-      smartSpeed: 2000,
-      responsive: {
-        0: {
-          items: 2
-        },
-        428: {
-          items: 2
-        },
-        550: {
-          items: 2
-        },
-        767: {
-          items: 2
-        },
-        768: {
-          items: 2
-        },
-        991: {
-          items: 3
-        },
-        1000: {
-          items: 3
-        }
-      }
-    });
-  </script>
+	<script>
+		var owl = $('.brands-carousels');
+		owl.owlCarousel({
+			items: 5,
+			loop: true,
+			autoplay: true,
+			navBy: 1,
+			nav: false,
+			autoplayTimeout: 4000,
+			autoplayHoverPause: false,
+			smartSpeed: 2000,
+			responsive: {
+				0: {
+					items: 2
+				},
+				428: {
+					items: 2
+				},
+				550: {
+					items: 2
+				},
+				767: {
+					items: 2
+				},
+				768: {
+					items: 2
+				},
+				991: {
+					items: 3
+				},
+				1000: {
+					items: 3
+				}
+			}
+		});
+	</script>
 
 	<!-- Custom Script -->
 	<!--<script src="../js/custom.js"></script>-->

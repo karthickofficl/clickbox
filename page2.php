@@ -11,11 +11,9 @@
 
 	<title>ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India</title>
 
-	<meta name=description
-		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta name=description content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
-	<meta name=keywords
-		content="seo agency, digital marketing agency, seo agency india, digital marketing agency india, seo agency coimbatore, digital marketing agency coimbatore" />
+	<meta name=keywords content="seo agency, digital marketing agency, seo agency india, digital marketing agency india, seo agency coimbatore, digital marketing agency coimbatore" />
 
 	<meta name="language" content="en" />
 
@@ -49,15 +47,13 @@
 
 	<meta property="og:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India" />
 
-	<meta property="og:description"
-		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta property="og:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
 	<meta name="twitter:card" content="summary" />
 
 	<meta name="twitter:title" content="ClickBox Agency: Digital Marketing, SEO Agency in Coimbatore, India" />
 
-	<meta name="twitter:description"
-		content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
+	<meta name="twitter:description" content="Clickbox Agency is a global digital marketing and SEO agency based in India.  We specialize in SEO, social media, PPC, content writing, website design..." />
 
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 
@@ -74,13 +70,13 @@
 
 
 			<!-- SECTION TITLE -->
-			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
-					<div class="section-title title-02 mb-85">
-						<h2 class="h2-xs">Relevant news and more for you. Welcome to our blog</h2>
-					</div>
-				</div>
-			</div>
+			<!--<div class="row justify-content-center">-->
+			<!--	<div class="col-md-10 col-lg-8">-->
+			<!--		<div class="section-title title-02 mb-85">-->
+			<!--			<h2 class="h2-xs">Relevant news and more for you. Welcome to our blog</h2>-->
+			<!--		</div>-->
+			<!--	</div>-->
+			<!--</div>-->
 
 
 			<!-- FEATURED POST 1 -->
@@ -90,9 +86,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/advanced-seo-techniques.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/advanced-seo-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -112,10 +106,10 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/advanced-seo-techniques/">
-								<a href="https://clickboxagency.com/advanced-seo-techniques/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+
+							<a href="https://clickboxagency.com/advanced-seo-techniques/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -130,9 +124,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/google-analytics-metrics.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/google-analytics-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -151,10 +143,9 @@
 							to research and add a lot of valued contents...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/google-analytics-metrics/">
-								<a href="https://clickboxagency.com/google-analytics-metrics/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/google-analytics-metrics/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -169,8 +160,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/linkedin-post-lead.png"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/linkedin-lead-generation.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -189,10 +179,9 @@
 							used by people for sports, memes, and entertainment...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/linkedin-lead-generation/">
-								<a href="https://clickboxagency.com/linkedin-lead-generation/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/linkedin-lead-generation/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -207,8 +196,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/nykaa-1.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/nykaa-1.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -229,10 +217,9 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/nykaa-success-story/">
-								<a href="https://clickboxagency.com/nykaa-success-story/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/nykaa-success-story/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -247,9 +234,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/saas-marketing-techniques.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/saas-marketing-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -268,10 +253,9 @@
 							competition in this evolving business is huge...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/saas-marketing-techniques/">
-								<a href="https://clickboxagency.com/saas-marketing-techniques/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/saas-marketing-techniques/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -286,8 +270,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/viral-marketing.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/fomo-marketing-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -307,10 +290,10 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/fomo-marketing-techniques/">
-								<a href="https://clickboxagency.com/fomo-marketing-techniques/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+
+							<a href="https://clickboxagency.com/fomo-marketing-techniques/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -326,8 +309,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/boost-your-instagram.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/boost-your-instagram.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -346,10 +328,9 @@
 							without spending a single penny from your marketing budget...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/boost-your-instagram/">
-								<a href="https://clickboxagency.com/boost-your-instagram/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+							<a href="https://clickboxagency.com/boost-your-instagram/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -364,9 +345,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/how-to-leads-for-business.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-leads-for-business.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -376,8 +355,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/how-to-generate-leads-for-business/"
-								class="txt-justify">How To Generate Leads For Business?</a>
+							<a href="https://clickboxagency.com/how-to-generate-leads-for-business/" class="txt-justify">How To Generate Leads For Business?</a>
 						</h5>
 
 						<!-- Text -->
@@ -386,10 +364,9 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/how-to-generate-leads-for-business/">
-								<a href="https://clickboxagency.com/how-to-generate-leads-for-business/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+								<a href="https://clickboxagency.com/how-to-generate-leads-for-business/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -404,9 +381,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/role-of-orm-in-digital-marketing.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://www.clickboxagency.com/images-new/blog/effective-digital-marketing.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -416,8 +391,7 @@
 
 						<!-- Post Link -->
 						<h5 class="h5-xl">
-							<a href="https://clickboxagency.com/images/blog/digital-marketing-specialist.jpg"
-								class="txt-justify">How Do I Become an Effective Digital Marketing Specialist?</a>
+							<a href="https://clickboxagency.com/become-digital-marketing-specialist/" class="txt-justify">How Do I Become an Effective Digital Marketing Specialist?</a>
 						</h5>
 
 						<!-- Text -->
@@ -426,11 +400,9 @@
 						</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a
-								href="https://clickboxagency.com/become-digital-marketing-specialist/">
-								<a href="https://clickboxagency.com/become-digital-marketing-specialist/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+								<a href="https://clickboxagency.com/become-digital-marketing-specialist/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -445,9 +417,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid"
-								src="https://clickboxagency.com/images/blog/how-to-create-content-for-websites.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images/blog/how-to-create-content-for-websites.jpg" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -466,10 +436,9 @@
 							website...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/create-content-for-website/">
-								<a href="https://clickboxagency.com/create-content-for-website/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+								<a href="https://clickboxagency.com/create-content-for-website/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -484,8 +453,7 @@
 					<!-- BLOG POST IMAGE -->
 					<div class="col-lg-7 blog-post-img">
 						<div class="hover-overlay">
-							<img class="img-fluid" src="https://clickboxagency.com/images/blog/viral-marketing.jpg"
-								alt="blog-post-image" />
+							<img class="img-fluid" src="https://clickboxagency.com/images-new/blog/viral-marketing-blog.webp" alt="blog-post-image" />
 							<div class="item-overlay"></div>
 						</div>
 					</div>
@@ -504,10 +472,9 @@
 							business markets their product...</p>
 
 						<!-- Post Meta -->
-						<div class="post-meta"><a href="https://clickboxagency.com/viral-marketing-campaigns/">
-								<a href="https://clickboxagency.com/viral-marketing-campaigns/"
-									class="btn  btn-pink yellow-hover last-link">Read More</a>
-							</a></div>
+						<div class="post-meta">
+								<a href="https://clickboxagency.com/viral-marketing-campaigns/" class="btn  btn-pink yellow-hover last-link">Read More</a>
+						</div>
 
 					</div> <!-- END BLOG POST TEXT -->
 
@@ -533,8 +500,7 @@
 							</li>
 							<li class="page-item"><a class="page-link" href="https://clickboxagency.com/blogs/">1</a>
 							</li>
-							<li class="page-item active" aria-current="page"><a class="page-link"
-									href="https://clickboxagency.com/page2/">2</a></li>
+							<li class="page-item active" aria-current="page"><a class="page-link" href="https://clickboxagency.com/page2/">2</a></li>
 							<li class="page-item"><a class="page-link" href="../#">3</a></li>
 							<li class="page-item">
 								<a class="page-link" href="../#" aria-label="Next">
@@ -547,7 +513,7 @@
 			</div> <!-- End row -->
 		</div> <!-- End container -->
 	</div> <!-- END PAGE PAGINATION -->
-	
+
 	<?php include('footer.php') ?>
 
 	</div> <!-- END PAGE CONTENT -->

@@ -20,6 +20,10 @@
 		padding: 5px 0;
 		transition: all 0.3s ease-in-out;
 	}
+	.wsmenu>.wsmenu-list>li>a:hover,
+	.wsmenu>.wsmenu-list>li>a:hover {
+		color: #656565;
+	}
 
 	.wsmenu>.wsmenu-list>li>.wsmegamenu.w-100 {
 		width: 100% !important;
@@ -39,10 +43,9 @@
 
 <!-- PAGE CONTENT
 		============================================= -->
-<div id="page" class="page">
-	<!-- HEADER
-			============================================= -->
-	<header id="header" class="header tra-menu navbar-dark">
+<!-- <div id="page" class="page">
+	
+	<header id="header" class="header tra-menu navbar-dark"> -->
 		<div class="header-wrapper">
 			<!-- MOBILE HEADER -->
 			<div class="wsmobileheader clearfix">
@@ -62,21 +65,21 @@
 							<li class="nl-simple" aria-haspopup="true"><a href="https://clickboxagency.com/about/">About Us</a></li>
 
 							<!-- SERVICE MEGA MENU -->
-							<!-- MEGAMENU -->
-							<li aria-haspopup="true" class="mg_link"><a href="#">Services<span class="wsarrow"></span></a>
+								<!-- MEGAMENU -->
+							<li aria-haspopup="true" class="mg_link"><a href="https://clickboxagency.com/our-services-in-coimbatore/">Services<span class="wsarrow"></span></a>
 								<div class="wsmegamenu w-100 clearfix">
 									<div class="container">
 										<div class="row row-cols-1 row-cols-lg-5">
 
 											<!-- MEGAMENU LINKS -->
 											<ul class="col link-list">
-												<li aria-haspopup="true"><a href="../">
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/digital-marketing-agency-coimbatore/">
 														<p class="headpara">Digital Marketing</p>
 													</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/pay-per-click-advertising-company-new-jersey/">Pay Per Click (PPC)</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/seo-company-in-india/">Search Engine Optimization</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/social-media-marketing-agency-in-new-jersey/">Social Media Marketing</a></li>
-												<li aria-haspopup="true"><a href="#">Social Media Optimization</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/social-media-optimization-service-coimbatore/">Social Media Optimization</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-marketing-services/">Ecommerce Marketing</a></li>
 												<!--<li aria-haspopup="true"><a href="https://www.clickboxagency.com/app-promotion-service/">App Promotion</a></li>-->
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/app-promotion-service-new-jersey/">App Promotion</a></li>
@@ -92,20 +95,20 @@
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/php-development-service-new-jersey/">PHP Web Development</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-website-development-service/">E-commerce Development</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/shopify-website-development-service/">Shopify Website Development</a></li>
-												<li aria-haspopup="true"><a href="#">CMS Development</a></li>
+												<li aria-haspopup="true"><a href="https://clickboxagency.com/cms-website-design-company-coimbatore/">CMS Development</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/crm-development-company-new-jersey/">CRM Development</a></li>
 												<!-- 2nd  -->
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/mobile-app-development-company-new-jersey/">
 														<p class="headpara">Mobile App Development</p>
 													</a></li>
-												<li aria-haspopup="true"><a href="#">Flutter Development</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/flutter-app-development-company-coimbatore/">Flutter Development</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/react-native-development-company-new-jersey/">React Native Development</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/ios-app-development-service-new-jersey/">iOS App Development</a></li>
 												<!--<li aria-haspopup="true"><a href="#">Android App Development</a></li>-->
 											</ul>
 											<!-- MEGAMENU LINKS -->
 											<ul class="col link-list">
-												<li aria-haspopup="true"><a href="../">
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/branding-service-company-coimbatore/">
 														<p class="headpara">Branding</p>
 													</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/logo-design-service/">Logo Design</a></li>
@@ -117,10 +120,10 @@
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/packaging-design-writing-service/">Packaging Design</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/company-profile-design-service/">Company Profile Design</a></li>
 												<!-- 2nd  -->
-												<li aria-haspopup="true"><a href="../">
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/graphic-design-services-coimbatore/">
 														<p class="headpara">Graphic Design</p>
 													</a></li>
-												<li aria-haspopup="true"><a href="#">Social Media Creatives</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/social-media-creative-design-service-coimbatore/">Social Media Creatives</a></li>
 												<!--<li aria-haspopup="true"><a href="#">Print Media Designs</a></li>-->
 												<!--<li aria-haspopup="true"><a href="#">Corporate Presentations</a></li>-->
 											
@@ -145,23 +148,23 @@
 
 											<!-- MEGAMENU LINKS -->
 											<ul class="col link-list">
-												<li aria-haspopup="true"><a href="../">
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/video-creation-services-coimbatore/">
 														<p class="headpara">Videos Creation</p>
 													</a></li>
 												<li aria-haspopup="true"><a href="https://clickboxagency.com/explainer-video-production-company-nj/">Explainer Videos</a></li>
-												<li aria-haspopup="true"><a href="../">Educational Videos</a></li>
-												<li aria-haspopup="true"><a href="../">Tutorial & How-to Videos</a></li>
-												<li aria-haspopup="true"><a href="../">Commercial Videos</a></li>
-												<li aria-haspopup="true"><a href="../">Whiteboard Animation</a></li>
-												<li aria-haspopup="true"><a href="../">Social Media Videos</a></li>
-												<li aria-haspopup="true"><a href="../">Ecommerce Product Videos</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/educational-video-company-coimbatore/">Educational Videos</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/tutorials-and-how-to-video-services-coimbatore/">Tutorial & How-to Videos</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/commercial-video-services-coimbatore/">Commercial Videos</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/whiteboard-animation-company-in-india/">Whiteboard Animation</a></li>
+												<li aria-haspopup="true"><a href="https://www.clickboxagency.com/social-media-video-services-coimbatore/">Social Media Videos</a></li>
+												<li aria-haspopup="true"><a href="https://clickboxagency.com/ecommerce-product-video-services-coimbatore/">Ecommerce Product Videos</a></li>
 											</ul>
 
 										</div> <!--End row -->
 									</div> <!-- End container -->
 								</div> <!-- End wsmegamenu -->
 							</li> <!-- END MEGAMENU -->
-							<li aria-haspopup="true" class="mg_link"><a href="#">Packages<span class="wsarrow"></span></a>
+							<li aria-haspopup="true" class="mg_link"><a href="https://clickboxagency.com/package-service-page/">Packages<span class="wsarrow"></span></a>
 								<div class="wsmegamenu w-75 clearfix">
 									<div class="container">
 										<div class="row">
@@ -262,4 +265,4 @@
 				</div>
 			</div> <!-- END NAVIGATION MENU -->
 		</div> <!-- End header-wrapper -->
-	</header> <!-- END HEADER -->
+	<!-- </header>  -->

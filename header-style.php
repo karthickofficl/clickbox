@@ -53,6 +53,9 @@
 				.cc-compliance {
 					padding-left: 4em
 				}
+				.smllogo >img{
+					width: 100px;
+				}
 			}
 		</style>
 

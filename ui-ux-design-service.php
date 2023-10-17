@@ -137,9 +137,9 @@ if (isset($_POST['send'])) {
 					<div class="hero-10-txt">
 
 						<!-- Title -->
-						<h3 class="h3-xs wow fadeInUp">
+						<h1 class="h3-xs wow fadeInUp">
 							Design of a User Interface and Experience, Designed for Mobile Devices, Desktop Screens, and More-ClickBox
-						</h3>
+						</h1>
 
 						<!-- Buttons Group -->
 						<div class="btns-group wow fadeInUp mb-4">
@@ -417,7 +417,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img src="../images/UI Ux Design/Asset 21.svg" >
+									<img src="../images/UI Ux Design/Asset 21.svg"  alt="Understand">
 									<!-- <span class="flaticon-dashboard"></span> -->
 								</div>
 							</div>
@@ -446,7 +446,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img src="../images/UI Ux Design/Asset 22.svg" >
+									<img src="../images/UI Ux Design/Asset 22.svg"   alt="Understand Research" >
 								</div>
 							</div>
 
@@ -490,7 +490,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img src="../images/UI Ux Design/Asset 23.svg" >
+									<img src="../images/UI Ux Design/Asset 23.svg"  alt="Sketch" >
 								</div>
 							</div>
 
@@ -521,7 +521,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img src="../images/UI Ux Design/Asset 24.svg" >
+									<img src="../images/UI Ux Design/Asset 24.svg"  alt="Design">
 								</div>
 							</div>
 
@@ -549,7 +549,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img src="../images/UI Ux Design/Asset 25.svg" >
+									<img src="../images/UI Ux Design/Asset 25.svg"  alt="Implement">
 								</div>
 							</div>
 
@@ -576,7 +576,7 @@ if (isset($_POST['send'])) {
 							<div class="fbox-ico">
 								<div class="ico-60 shape-ico violet-red-color">
 									<img class="ico-bkg" src="../images/ico-bkg.png" alt="ico-bkg">
-									<img src="../images/UI Ux Design/Asset 26.svg" >
+									<img src="../images/UI Ux Design/Asset 26.svg"  alt="Evaluate" >
 								</div>
 							</div>
 
@@ -733,35 +733,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- End container -->
 	</section> <!-- END FAQs-2 -->
 
-	 <!-- CALL TO ACTION-5
-			============================================= -->
-			<section id="cta-5" class="cta-section division ">
-  	<div class="container">
-  		<div class="rel bg-10 cta-5-wrapper">
-  			<div class="row justify-content-center">
-
-
-  				<!-- CALL TO ACTION TEXT -->
-  				<div class="col-lg-8">
-  					<div class="cta-5-txt white-color text-center">
-
-  						<!-- Title -->
-  						<h2 class="h2-xs">Build Your Business Online Without Borders</h2>
-
-  						<!-- Text -->
-  						<p class="p-md">We will help you bring your brand to life. Our digital marketing team is always ready to help.
-
-  						</p>
-
-  						<!-- Button -->
-  						<a href="https://clickboxagency.com/contacts/" class="btn btn-skyblue tra-white-hover">Get in touch with us</a>
-
-  					</div>
-  				</div>
-  			</div>
-  		</div> <!-- End row -->
-  	</div> <!-- End container -->
-  </section> <!-- END CALL TO ACTION-5 -->
+	 
 <?php include('footer.php') ?>
 
 </div> <!-- END PAGE CONTENT -->

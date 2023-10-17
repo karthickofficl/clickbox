@@ -136,9 +136,9 @@ if (isset($_POST['send'])) {
 					<div class="hero-10-txt">
 
 						<!-- Title -->
-						<h3 class="h3-xs wow fadeInUp">
+						<h1 class="h3-xs wow fadeInUp">
 							Create a Lasting Impression Of Your Company With Our Logo Design Service
-						</h3>
+						</h1>
 
 						<!-- Buttons Group -->
 						<div class="btns-group wow fadeInUp mb-4">

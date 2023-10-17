@@ -1,3 +1,71 @@
+<?php
+
+if (isset($_POST['send'])) {
+
+	// getting post values
+	$name = $_POST['name'];
+	$email = $_POST['email'];
+	$phone = $_POST['phone'];
+	$services = $_POST['services'];
+	$company = $_POST['company'];
+	$budget = $_POST['budget'];
+	$sendNDA = $_POST['sendNDA'];
+	$message = $_POST['message'];
+	$subject = 'Contact Page Form Details';
+	$to = "sales@akkenna.com,james@akkenna.com,pradeep@akkenna.com,info@clickboxagency.com,muthu@akkenna.com";
+	$htmlContent = ' 
+    <html> 
+    <head> 
+        <title>Welcome to Clickbox Agencies</title> 
+    </head> 
+    <body> 
+        <h3>Hi Admin, Please find the below New Member Contact Details!</h3> 
+               <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+            <tr> 
+                <th>Name:</th><td>' . $name . '</td> 
+            </tr> 
+            <tr style="background-color: #e0e0e0;"> 
+                <th>Email:</th><td>' . $email . '</td> 
+            </tr> 
+            <tr style="background-color: #e0e0e0;"> 
+                <th>Phone:</th><td>' . $phone . '</td> 
+            </tr> 
+            <tr style="background-color: #e0e0e0;"> 
+               <th>Services:</th><td>' . $services . '</td> 
+           </tr> 
+           <tr style="background-color: #e0e0e0;"> 
+              <th>Company:</th><td>' . $company . '</td> 
+           </tr> 
+		   <tr style="background-color: #e0e0e0;"> 
+              <th>Budget:</th><td>' . $budget . '</td> 
+           </tr> 
+		   <tr style="background-color: #e0e0e0;"> 
+		      <th>send NDA:</th><td>' . $sendNDA . '</td> 
+	        </tr> 
+		    <tr style="background-color: #e0e0e0;"> 
+		        <th>Message:</th><td>' . $message . '</td> 
+         	</tr> 
+	 </table> 
+    </body> 
+    </html>';
+
+	// Set content-type header for sending HTML email 
+	$headers = "MIME-Version: 1.0" . "\r\n";
+	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+	// Additional headers 
+	$m = mail($to, $subject, $htmlContent, $headers);
+	echo $m;
+	// Set content-type header for sending HTML email
+
+	if (!$m) {
+		echo 'Message could not be sent.';
+	} else {
+		$result = '
+		One of our representative will get in touch you.';
+	}
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -60,16 +128,17 @@
 
 	<style>
 		.read-more-content {
-            display: none;
+			display: none;
 			font-size: 16px;
-        }
+		}
 
-          .read-more-button {
-             background-color: white;
-             border: none;
-             cursor: pointer;
-           }
+		.read-more-button {
+			background-color: white;
+			border: none;
+			cursor: pointer;
+		}
 	</style>
+	
 </head>
 
 <body>
@@ -78,11 +147,11 @@
 	<section id="hero-4" class="bg-scroll hero-section division  pb-20 ">
 		<div class="container">
 			<div class="row d-flex align-items-center justify-content-center">
-				<h3 class="h3-xs  text-center mt-inverse-50 txtyelloww">IOS & Android <span class="white-color"> <br />Mobile App Promotion Service in New Jersey</span> </h3>
+				<h1 class="h3-xs  text-center mt-inverse-50 txtyelloww">IOS & Android <span class="white-color"> <br />Mobile App Promotion Service in New Jersey</span> </h1>
 				<div class="col-md-6 col-lg-6  mt-20 ">
 					<div class="left-column wow fadeInRight ">
 						<div class="mt-15">
-							<img class="img-fluid " src="../images/253.png" alt="mobile-app-promotion-service-in-newjersey">
+							<img class="img-fluid " src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/253.webp" alt="mobile-app-promotion-service-in-newjersey">
 						</div>
 					</div>
 				</div>
@@ -159,7 +228,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/302.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/302.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -188,7 +257,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/303.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/303.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -218,7 +287,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/png-icons/46.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/46.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -247,7 +316,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/304.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/304.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -273,7 +342,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/305.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/305.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -300,7 +369,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/306.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/306.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -328,7 +397,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/307.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/307.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -355,7 +424,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/308.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/308.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -381,7 +450,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/309.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/309.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -407,7 +476,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/310.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/310.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -432,7 +501,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/311.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/311.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -458,7 +527,7 @@
 							<div class="fbox-ico">
 								<div class="ico-65 skyblue-color">
 									<span>
-										<img src="https://clickboxagency.com/images/312.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/312.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -504,7 +573,7 @@
 					<div class="row d-flex align-items-center">
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight">
-								<img class="img-fluid" src="../images/205.png" alt="mobile-app-promotion-service-in-nj">
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/205.webp" alt="mobile-app-promotion-service-in-nj">
 							</div>
 						</div>
 						<div class="col-md-7 col-lg-6">
@@ -555,7 +624,7 @@
 			<div class="row  justify-content-center">
 				<div class="col-lg-8 col-xl-8">
 					<div class="post-inner-img">
-						<img src="../images/254.png" alt="mobile-app-promotion-service-newjersey-usa" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/254.webp" alt="mobile-app-promotion-service-newjersey-usa" class="img-fluid">
 					</div>
 				</div>
 			</div>
@@ -627,7 +696,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/296.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/296.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -645,7 +714,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/297.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/297.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -662,7 +731,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/298.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/298.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -680,7 +749,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/299.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/299.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -698,7 +767,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/300.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/300.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -717,7 +786,7 @@
 							<div class="squire-icons">
 								<div class="ico-65">
 									<span>
-										<img src="../images/301.png" alt="mobile-app-promotion-service">
+										<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/301.webp" alt="mobile-app-promotion-service">
 									</span>
 								</div>
 							</div>
@@ -752,17 +821,17 @@
 							<h6 class="h6-md">Expert Group</h6>
 							<!-- Text -->
 							<details>
-									<summary class="content">
-                               We have a skilled staff that provides mobile app marketing services NJ, with tailored tactics for each
-                             
-                                   <p class="read-more-content">app. All have delivered outstanding results for a variety of app marketing tasks. We offer tailored tactics to meet your individual requirements.</p>
-                              
-                                 <button class="readmore read-more-button">Read more...</button>
-                            
+								<summary class="content">
+									We have a skilled staff that provides mobile app marketing services NJ, with tailored tactics for each
 
-							</summary>
-									
-								</details>
+									<p class="read-more-content">app. All have delivered outstanding results for a variety of app marketing tasks. We offer tailored tactics to meet your individual requirements.</p>
+
+									<button class="readmore read-more-button">Read more...</button>
+
+
+								</summary>
+
+							</details>
 						</div>
 						<!-- Text -->
 						<div class="fbox-txt-infograpic text-right-info">
@@ -771,15 +840,15 @@
 								<!-- Text -->
 								<details>
 									<summary class="content">
-                                   We have a specialized staff to assist you and answer any questions you may have about mobile app
-                             
-                                   <p class="read-more-content"> advertising. We have a solid reputation for offering web marketing services for mobile apps to customers all around the globe.</p>
-                              
-                                 <button class="readmore read-more-button">Read more...</button>
-                           </summary>
-									
+										We have a specialized staff to assist you and answer any questions you may have about mobile app
+
+										<p class="read-more-content"> advertising. We have a solid reputation for offering web marketing services for mobile apps to customers all around the globe.</p>
+
+										<button class="readmore read-more-button">Read more...</button>
+									</summary>
+
 								</details>
-								
+
 
 						</div>
 						<!-- Text -->
@@ -789,19 +858,19 @@
 								<!-- Text -->
 								<details>
 									<summary class="content">
-                               For app marketing, King of Digital Marketing employs cutting-edge techniques and technology.
-                             
-                                   <p class="read-more-content">We employ the most up-to-date tools for better planning, analysis, advertising, content production, and installation with the highest ROI.</p>
-                              
-                                 <button class="readmore read-more-button">Read more...</button>
-								 </summary>
-									
-									</details>
-									
+										For app marketing, King of Digital Marketing employs cutting-edge techniques and technology.
+
+										<p class="read-more-content">We employ the most up-to-date tools for better planning, analysis, advertising, content production, and installation with the highest ROI.</p>
+
+										<button class="readmore read-more-button">Read more...</button>
+									</summary>
+
+								</details>
+
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-2 order-sm-1 mt-30">
-						<img src="../images/185.png" alt="why choose clickboxagency" class="img-fluid">
+						<img src="https://clickboxagency.com/images-new/services/app-promotion-service-new-jersey/185.webp" alt="why choose clickboxagency" class="img-fluid">
 
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 order-md-3 order-sm-3 mobile-infograpic-col">
@@ -810,33 +879,33 @@
 							<!-- Title -->
 							<h6 class="h6-md">An Expert in ASO</h6>
 							<details>
-									<summary class="content">
-                               Hire an expert ASO team in Delhi, India, to push your app to the top of the Play Store rankings.It allows you
-                             
-                                   <p class="read-more-content"> to obtain the most downloads naturally while also increasing retention. We are referred to as the King of ASO Services.</p>
-                              
-                                 <button class="readmore read-more-button">Read more...</button>
-								 </summary>
-									
-									</details>
-									
+								<summary class="content">
+									Hire an expert ASO team in Delhi, India, to push your app to the top of the Play Store rankings.It allows you
+
+									<p class="read-more-content"> to obtain the most downloads naturally while also increasing retention. We are referred to as the King of ASO Services.</p>
+
+									<button class="readmore read-more-button">Read more...</button>
+								</summary>
+
+							</details>
+
 						</div>
 						<!-- Text -->
 						<div class="fbox-txt-infograpic">
 							<!-- Title -->
 							<h6 class="h6-md">Packages at Reasonable Prices</h6>
 							<details>
-									<summary class="content">
-                               We provide inexpensive Mobile App Promotion packages in NJ, India. We price based on cost per
-                           
-                                   <p class="read-more-content">install or campaign management in Google or Social Media, with ASO Package included.</p>
-                              
-                                   <button class="readmore read-more-button">Read more...</button>
-							
-								   </summary>
-									
-									</details>
-									
+								<summary class="content">
+									We provide inexpensive Mobile App Promotion packages in NJ, India. We price based on cost per
+
+									<p class="read-more-content">install or campaign management in Google or Social Media, with ASO Package included.</p>
+
+									<button class="readmore read-more-button">Read more...</button>
+
+								</summary>
+
+							</details>
+
 
 						</div>
 						<div class="fbox-txt-infograpic">
@@ -844,16 +913,16 @@
 							<h6 class="h6-md">Services of the Highest Caliber</h6>
 							<!-- Text -->
 							<details>
-									<summary class="content">
-                               From the beginning of the project, we advise on app UI and UX consultancy, pre-launch campaign planning,
-                             
-                                   <p class="read-more-content"> installation, and high retention. Many brands rely on us to provide high-quality services.</p>
-                              
-                                 <button class="readmore read-more-button">Read more...</button>
-								 </summary>
-									
-									</details>
-									
+								<summary class="content">
+									From the beginning of the project, we advise on app UI and UX consultancy, pre-launch campaign planning,
+
+									<p class="read-more-content"> installation, and high retention. Many brands rely on us to provide high-quality services.</p>
+
+									<button class="readmore read-more-button">Read more...</button>
+								</summary>
+
+							</details>
+
 						</div>
 					</div>
 				</div>
@@ -1030,7 +1099,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-xl-6">
 					<div class="post-inner-img">
-						<img class="img-fluid" src="https://www.clickboxagency.com/images/contacts.png" width="300" height="300" alt="Branch office" />
+						<img class="img-fluid" src="https://www.clickboxagency.com/images-new/contactus/contacts.webp" width="300" height="300" alt="Branch office" />
 					</div>
 				</div>
 				<div class="col-lg-6 col-xl-6">
@@ -1044,7 +1113,7 @@
 								<input type="text" name="email" class="form-control email" placeholder="Email Address*">
 							</div>
 							<div class="col-md-6">
-								<input type="text" name="phone" class="form-control phone" placeholder="Mobile Number*">
+								<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*">
 							</div>
 							<div class="col-md-6">
 								<input type="text" name="company" class="form-control company" placeholder="Company Name*">
@@ -1215,30 +1284,30 @@
 	</script>
 	<script>
 		document.addEventListener('DOMContentLoaded', function() {
-  // Find the necessary elements
-  const contentSections = document.querySelectorAll('.content');
-  
-  contentSections.forEach(function(section) {
-    const readMoreButton = section.querySelector('.read-more-button');
-    const readMoreContent = section.querySelector('.read-more-content');
+			// Find the necessary elements
+			const contentSections = document.querySelectorAll('.content');
 
-    // Initial state: hide the "Read More" button if full content is not available
-    // if (readMoreContent.scrollHeight <= readMoreContent.clientHeight) {
-    //   readMoreButton.style.display = 'none';
-    // }
+			contentSections.forEach(function(section) {
+				const readMoreButton = section.querySelector('.read-more-button');
+				const readMoreContent = section.querySelector('.read-more-content');
 
-  // Toggle "Read More" and "Read Less" states when the button is clicked
-  readMoreButton.addEventListener('click', function() {
-    if (readMoreButton.innerText === 'Read more...') {
-      readMoreContent.style.display = 'block';
-      readMoreButton.innerText = 'Read Less';
-    } else {
-      readMoreContent.style.display = 'none';
-      readMoreButton.innerText = 'Read more...';
-    }
-  });
-});
-});
+				// Initial state: hide the "Read More" button if full content is not available
+				// if (readMoreContent.scrollHeight <= readMoreContent.clientHeight) {
+				//   readMoreButton.style.display = 'none';
+				// }
+
+				// Toggle "Read More" and "Read Less" states when the button is clicked
+				readMoreButton.addEventListener('click', function() {
+					if (readMoreButton.innerText === 'Read more...') {
+						readMoreContent.style.display = 'block';
+						readMoreButton.innerText = 'Read Less';
+					} else {
+						readMoreContent.style.display = 'none';
+						readMoreButton.innerText = 'Read more...';
+					}
+				});
+			});
+		});
 	</script>
 	<script>
 		var owl = $('.brands-carousels');
