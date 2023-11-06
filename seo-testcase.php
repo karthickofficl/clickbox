@@ -41,9 +41,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$result = '
 		One of our representative will get in touch you.';
 		header("Location: https://clickboxagency.com/clickdemo/seo-testcase/");
-        die();
+		die();
 	}
-// 	exit();
+	// 	exit();
 }
 ?>
 <!DOCTYPE html>
@@ -105,7 +105,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<?php include('header-style.php') ?>
 	<style>
 		.price-table {
-		   
+
 			width: 100%;
 			border-collapse: collapse;
 			border: 0;
@@ -128,12 +128,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		.price {
 			text-align: center;
 		}
-		
+
 
 		tr.sticky-header {
-			
-			position:-webkit-sticky;
-			position:sticky;
+
+			position: -webkit-sticky;
+			position: sticky;
 			align-items: left-column;
 			top: 70px;
 			background-color: #fff;
@@ -148,33 +148,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		.fa-times-circle {
 			color: #ea1f1f;
 		}
+
 		.content-col {
 			margin: 5px;
 		}
-		.price-1{
-			border-bottom: none!important;
+
+		.price-1 {
+			border-bottom: none !important;
 		}
+
 		@media (max-width: 600px) {
-		  
-		   .main-comparisontable{ 
-		        overflow-x:scroll;
-		       
-		   }
+
+			.main-comparisontable {
+				overflow-x: scroll;
+
+			}
 		}
-		
-		
-		
-		
-		
-		
-		
-		
 	</style>
 </head>
 
 <body>
 	<?php include('header.php') ?>
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -195,29 +190,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 							<label for="recipient-name" class="col-form-label">Mobile:</label>
 							<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*">
 						</div>
-						<!-- <div class="mb-3">
-							<label for="message-text" class="col-form-label">Message:</label>
-							<textarea class="form-control" id="message-text"></textarea>
-						</div> -->
 						<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-					<button type="submit" class="btn btn-primary" name="send">Submit</button>
-					</div>
+							<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+							<button type="submit" class="btn btn-primary" name="send">Submit</button>
+						</div>
 						<div class="col-sm-10 col-sm-offset-2">
-									<?php if (!empty($result)) {
-										echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
-									} ?>
-		</div>
+							<?php if (!empty($result)) {
+								echo '<div class="alert alert-success"><b>Your message sent successfully! </b>' . $result . '</div>';
+							} ?>
+						</div>
 					</form>
 				</div>
-				<!--<div class="modal-footer">-->
-				<!--	<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>-->
-				<!--	<button type="submit" class="btn btn-primary" name="send">Submit</button>-->
-				<!--</div>-->
 			</div>
 		</div>
 	</div>
-	
+
 	<section id="content-3" class="bg-snow content-3 inner-page-hero content-section division">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -608,15 +595,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 							<td class="price-1"></td>
 							<td class="price-1">
 								<h5 class="h5-xs  txtblack">Basic</h5>
-                               <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button>						
+								<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button>
 							</td>
 							<td class="price-1">
 								<h5 class="h5-xs  txtblack">Advance </h5>
-							<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button>						
+								<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button>
 							</td>
 							<td class="price-1">
 								<h5 class="h5-xs txtblack">Premium </h5>
-							    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button>						
+								<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button>
 							</td>
 						</tr>
 
@@ -1629,7 +1616,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<!--	}-->
 	<!--</script>-->
 	<script src="../js/custom.js"></script>
-	</*?php include('popup1.php') ?*/>
+	</*?php include('popup1.php') ?* />
 
 </body>
 

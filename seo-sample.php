@@ -79,12 +79,12 @@
 		.price {
 			text-align: center;
 		}
-		
+
 
 		tr.sticky-header {
-			
-			position:-webkit-sticky;
-			position:sticky;
+
+			position: -webkit-sticky;
+			position: sticky;
 			align-items: left-column;
 			top: 70px;
 			background-color: #fff;
@@ -99,19 +99,61 @@
 		.fa-times-circle {
 			color: #ea1f1f;
 		}
+
 		.content-col {
 			margin: 5px;
 		}
-		.price-1{
-			border-bottom: none!important;
+
+		.price-1 {
+			border-bottom: none !important;
 		}
 
-		
+		/* Tooltip */
+		.popover-manual-container {
+			position: relative;
+			cursor: pointer;
+		}
+
+		.popover-manual-container:hover .popover-manual-content {
+			display: block !important;
+			width: 300px;
+			background-color: #000;
+			color: #fff;
+			font-weight: 400;
+			text-align: center;
+			border-radius: 6px;
+			padding: 5px;
+			margin-top: -50px;
+			position: absolute;
+			z-index: 1;
+			margin-left: -130px;
+			font-size: 14px !important;
+			line-height: 1em;
+		}
+
+		.popover-manual-content:after {
+			content: '';
+			position: absolute;
+			display: inline-block;
+			width: 7px;
+			height: 7px;
+			left: 136px;
+			bottom: -5px;
+			margin-top: 20px;
+			background-image: url(https://www.infidigit.com/wp-content/uploads/2023/08/Down-Button-1.svg);
+			background-size: cover;
+		}
+
+		.popover-manual-content {
+			display: none;
+			color: red;
+		}
 	</style>
 </head>
 
 <body>
 	<?php include('header.php') ?>
+
 	<section id="content-3" class="bg-snow content-3 inner-page-hero content-section division">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -547,10 +589,10 @@
 								<p class="content-col">Website & Competitor Analysis</p>
 							</td>
 							<td class="tooltipelement">
-								<span class="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Disabled popover">
-									<i class="fa fa-question-circle-o" aria-hidden="true"></i>
+								<span class="popover-manual-container">
+									<span class="popover-manual-content">In-depth SEO audit analyzing pages for technical, on-page, and off-page aspects, providing comprehensive insights.</span>
+									<i class="fa fa-question-circle-o tooltip-icon"></i>
 								</span>
-
 							</td>
 							<td class="price">
 								<i class="fa fa-check-circle fa-lg p-2">
@@ -568,7 +610,10 @@
 								<p class="content-col">Keywords Research</p>
 							</td>
 							<td class="tooltipelement">
-								<i class="fa fa-question-circle-o" aria-hidden="true"></i>
+								<span class="popover-manual-container">
+									<span class="popover-manual-content">In-depth SEO audit analyzing pages for technical, on-page, and off-page aspects, providing comprehensive insights.</span>
+									<i class="fa fa-question-circle-o tooltip-icon"></i>
+								</span>
 							</td>
 							<td class="price">
 								<i class="fa fa-check-circle fa-lg p-2">

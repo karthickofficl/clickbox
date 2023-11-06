@@ -17,10 +17,11 @@
   	s.src = "https://widgets.in5.nopaperforms.com/emwgts.js";
   	document.body.appendChild(s);
   </script>
-  <a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
-  	<!-- <i class="fa fa-whatsapp"></i> -->
-  	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="watsapp" >
-  </a>
+  <!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Get Proposal</button> -->
+  <!-- <a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button"> -->
+  <button data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo" class="wtbtn btn-circle fixedbutton-whatsapp" id="webcall" role="button" type="button">
+  	<img src="https://clickboxagency.com/images/watsappicon.png" class="wapp-wh" alt="watsapp">
+  </button>
   <!-- btn-success -->
 
   <!-- <a href="tel:8870578887" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
@@ -68,10 +69,11 @@
   		color: #ACACB5;
   		font-weight: 100;
   	}
-	  .twitter-size{
-		max-width:18px;
-		max-height: 18px;
-	}
+
+  	.twitter-size {
+  		max-width: 18px;
+  		max-height: 18px;
+  	}
   </style>
 
   <!-- FOOTER-1
@@ -79,7 +81,7 @@
   <footer id="footer-1" class="footer division mt-lg-2 mt-sm-2 ">
   	<div class="container">
   		<!-- HEAD FOOTER -->
-  			<div class="row row-cols-1 row-cols-md-4 row-cols-lg-4">
+  		<div class="row row-cols-1 row-cols-md-4 row-cols-lg-4">
 
   			<!-- FIRST -->
   			<div class="col">
@@ -96,7 +98,7 @@
   				</div>
   			</div>
   			<!-- SECOND -->
-  			
+
   			<!-- THIRD -->
   			<div class="col">
   				<!-- ALREADY WRITE CODE -->
@@ -117,11 +119,11 @@
   				<!-- <div class="col-sm-8 col-md-4 col-lg-3 mt-md-4 mt-lg-0"> -->
   				<div class="footer-links socialiconres ">
   					<ul class="footer-socials text-secondary ico-25 text-center clearfix  ">
-  						<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span  style="color:#ff00ad;"><img src="https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/instagram.svg" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span  style="color:#0557fb;"><img src="https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/facebook.svg" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span  style="color: #04a4f8;"><img src="https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/linkedin.svg" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://twitter.com/clickboxagency" target="_blank"><span  style="color:#02b1f4;"><img src="https://www.clickboxagency.com/images/twitter-x-newlogo2.svg" class="twitter-size" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span  style="color:#FF0000;"><img src="	https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/youtube.svg" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span style="color:#ff00ad;"><img src="https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/instagram.svg" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span style="color:#0557fb;"><img src="https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/facebook.svg" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span style="color: #04a4f8;"><img src="https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/linkedin.svg" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://twitter.com/clickboxagency" target="_blank"><span style="color:#02b1f4;"><img src="https://www.clickboxagency.com/images/twitter-x-newlogo2.svg" class="twitter-size" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span style="color:#FF0000;"><img src="	https://www.clickboxagency.com/images/Ultimate%20Social%20Media%20Creative/youtube.svg" alt="clickboxagency"></span></a></li>
   					</ul>
   					<!-- </div> -->
   				</div>
@@ -161,7 +163,7 @@
   						<li>
   							<p class="p-lg"><a href="https://www.clickboxagency.com/app-promotion-service/" style="color: #ededed;">App Promotion</a></p>
   						</li>
-  					
+
   					</ul>
 
   				</div>
@@ -280,7 +282,7 @@
   						<li>
   							<p class="p-lg"><a href="#" style="color: #ededed;">Case Study</a></p>
   						</li>
-						  <li>
+  						<li>
   							<p class="p-lg"><a href="https://clickboxagency.com/career/" style="color: #ededed;">Careers</a></p>
   						</li>
   					</ul>
@@ -356,5 +358,3 @@
   <!--End of Tawk.to Script-->
 
   <script src="https://www.google.com/recaptcha/api.js?render=6LcO-RMgAAAAAAxBDHPIYKJbsDs6nkMiq2rSk6dN"></script>
-
- 

@@ -115,6 +115,8 @@ if (isset($_POST['send'])) {
 
 <body>
 	<?php include('header.php') ?>
+	<?php include('numberget.php') ?>
+	
 	<!-- CONTACTS EDIT -->
 	<section id="contacts-2" class="bg-snow pt-100 contacts-section division">
 		<div class="container">

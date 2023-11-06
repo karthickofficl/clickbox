@@ -4,27 +4,26 @@
   		<i class="fa fa-phone" style="color:blue;"></i>
   		<p class="m-0">Call</p>
   	</a>
-  	<a href="https://api.whatsapp.com/send?phone=918870578887" id="webcall" class="mobile-cta-panel-item pt-1 pb-1" role="button">
+  	<!-- <a href="https://api.whatsapp.com/send?phone=918870578887" id="webcall" class="mobile-cta-panel-item pt-1 pb-1" role="button">
   		<i class="fa fa-whatsapp" style="color:#25d366;"></i>
   		<p class="m-0">Whatsapp</p>
-  	</a>
+  	</a> -->
 
   </div>
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
   	var s = document.createElement("script");
   	s.type = "text/javascript";
   	s.async = true;
   	s.src = "https://widgets.in5.nopaperforms.com/emwgts.js";
   	document.body.appendChild(s);
-  </script>
-  <a href="https://api.whatsapp.com/send?phone=918870578887" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
-  	<!-- <i class="fa fa-whatsapp"></i> -->
-  	<img src="https://clickboxagency.com/images-new/footer/watsappicon.webp" class="wapp-wh" alt="watsapp" sizes="" srcset="">
-  </a>
-  <!-- btn-success -->
-  <!-- <a href="tel:8870578887" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
-  	<i class="fa fa-phone" aria-hidden="true"></i>
+  </script> -->
+  <!-- <a href="" target="_blank" class="wtbtn  btn-circle  fixedbutton-whatsapp" id="webcall" role="button" type="button">
+  <img src="https://clickboxagency.com/images-new/footer/watsappicon.webp" class="wapp-wh" alt="watsapp" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">
   </a> -->
+  <!-- btn-success -->
+  <a href="tel:8870578887" class="btn btn-danger btn-circle fixedbutton-call" id="webcall" role="button" type="button">
+  	<i class="fa fa-phone" aria-hidden="true"></i>
+  </a>
   <!-- START -->
 
   <style>
@@ -67,10 +66,11 @@
   		color: #ACACB5;
   		font-weight: 100;
   	}
-	.twitter-size{
-		max-width:18px;
-		max-height: 18px;
-	}
+
+  	.twitter-size {
+  		max-width: 18px;
+  		max-height: 18px;
+  	}
   </style>
 
   <!-- FOOTER-1
@@ -95,7 +95,7 @@
   				</div>
   			</div>
   			<!-- SECOND -->
-  			
+
   			<!-- THIRD -->
   			<div class="col">
   				<!-- ALREADY WRITE CODE -->
@@ -116,12 +116,12 @@
   				<!-- <div class="col-sm-8 col-md-4 col-lg-3 mt-md-4 mt-lg-0"> -->
   				<div class="footer-links socialiconres ">
   					<ul class="footer-socials text-secondary ico-25 text-center clearfix  ">
-						<li></li>
-  						<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span  style="color:#ff00ad;"><img src="https://www.clickboxagency.com/images-new/footer/instagram.webp" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span  style="color:#0557fb;"><img src="https://www.clickboxagency.com/images-new/footer/facebook.webp" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span  style="color: #04a4f8;"><img src="https://www.clickboxagency.com/images-new/footer/linkedin.webp" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://twitter.com/clickboxagency" target="_blank"><span  style="color:#02b1f4;"><img src="https://www.clickboxagency.com/images-new/footer/twitter-x-newlogo2.webp" class="twitter-size" alt="clickboxagency"></span></a></li>
-  						<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span  style="color:#FF0000;"><img src="	https://www.clickboxagency.com/images-new/footer/youtube.webp" alt="clickboxagency"></span></a></li>
+  						<li></li>
+  						<li><a href="https://www.instagram.com/clickbox_agency/" target="_blank"><span style="color:#ff00ad;"><img src="https://www.clickboxagency.com/images-new/footer/instagram.webp" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.facebook.com/Clickbox-Agency-106763298597846/" target="_blank"><span style="color:#0557fb;"><img src="https://www.clickboxagency.com/images-new/footer/facebook.webp" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.linkedin.com/company/clickbox-agency/" target="_blank"><span style="color: #04a4f8;"><img src="https://www.clickboxagency.com/images-new/footer/linkedin.webp" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://twitter.com/clickboxagency" target="_blank"><span style="color:#02b1f4;"><img src="https://www.clickboxagency.com/images-new/footer/twitter-x-newlogo2.webp" class="twitter-size" alt="clickboxagency"></span></a></li>
+  						<li><a href="https://www.youtube.com/channel/UCcIsJX8IMuVwg5m-w3ehpXw" target="_blank"><span style="color:#FF0000;"><img src="	https://www.clickboxagency.com/images-new/footer/youtube.webp" alt="clickboxagency"></span></a></li>
   					</ul>
   					<!-- </div> -->
   				</div>
@@ -161,7 +161,7 @@
   						<li>
   							<p class="p-lg"><a href="https://www.clickboxagency.com/app-promotion-service/" style="color: #ededed;">App Promotion</a></p>
   						</li>
-  					
+
   					</ul>
 
   				</div>
@@ -300,8 +300,8 @@
   					<p class="p-lg text-white"><a href="https://clickboxagency.com/privacy-policy/" class="text-white">Privacy Policy</a> &nbsp; <a href="https://clickboxagency.com/terms-of-service/" class="text-white">Terms & Conditions</a></p>
   				</div>
   			</div>
-  			
-  			
+
+
   		</div>
   		<!-- <hr style="height:2px;border:none;color:#333;background-color:#333;"> -->
   		<!-- BOTTOM FOOTER -->

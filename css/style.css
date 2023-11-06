@@ -1708,6 +1708,7 @@ ol.digit-list p {
 /*  BUTTON SETTINGS
   /*------------------------------------------*/
 .wtbtn {
+  background-color: transparent;
   color: #fff;
   font-size: 1.5rem;
   line-height: 1;

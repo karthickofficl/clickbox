@@ -118,6 +118,15 @@ if (isset($_POST['send'])) {
 
 	<meta name="twitter:image" content="https://www.clickboxagency.com/images/clickbox-og.jpg" />
 	<?php include('header-style.php') ?>
+	<style>
+		#refresh-button {
+			cursor: pointer
+		}
+
+		.text-red {
+			padding: 15px;
+		}
+	</style>
 </head>
 
 <body>
@@ -136,89 +145,41 @@ if (isset($_POST['send'])) {
 						<p class="p-xl">Agency Based Live</p>
 
 						<span>
-							<h2 class="h2-xs">Become a Certified UI UX Designer in 12 Weeks!</h2>
-							<!--<h3 class="h3-md">Become a Certified UI UX Designer in 12 Weeks!</h3>-->
-						</span> <span>
+							<h1 class="h2-xs">Become a Certified UI UX Designer in 12 Weeks!</h1>
+
+						</span>
+						<span>
 							<h5 class="h5-lg"> 100% Placement Assistance.</h5>
 						</span>
 
 						<!-- Text -->
 						<p class="p-md">ClickBox Agency offers this UI UX design course in Coimbatore. This UI UX design course offers training aligned with industry standards in Design Thinking, Interaction Design, Wireframing, and more to prepare you for a successful future in UI UX designer.</p>
 						</br>
-						<div class="col-lg-12 col-xl-12">
-							<div class="form-holder">
-								<form name="contactform" method="post" class="row contact-form">
-									<div class="col-lg-6 col-xl-6">
-										<div class="row">
-											<div class="col-sm-6 ">
-												<input type="text" name="name" class="form-control name" placeholder="Your Name*">
-											</div>
-											<div class="col-sm-6 ">
-												<input type="email" name="email" class="form-control email" placeholder="Email Address*">
-											</div>
-											<div class="col-sm-6  mt-25">
-												<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*">
-											</div>
-											<div class="col-sm-6 mt-25 ">
-												<select class="form-select grey-color" aria-label="courses" name="courses" id="courses">
-													<option value="">Select your Courses </option>
-													<option value="Digital Marketing">Digital Marketing Course</option>
-													<option value="UI/UX Course">UI/UX Course</option>
-												</select>
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-6">
-										<div class="row">
-											<div class="col-lg-12">
-												<div class="col-md-12 mt-1">
-													<textarea class="form-control grey-color img-fluid-tools message" name="message" minlength="50" maxlength="100" rows="6" placeholder="Share Your Comments:" required></textarea>
-												</div>
-											</div>
-											<div class="col-lg-12">
-												<div class="submit-captcha">
-													<div class="col-md-3">
-														<input type="checkbox" name="sendNDA" class="checkboxone">
-														<label for="sendNDA">Send NDA</label>
-													</div>
 
-													<div id="captcha-container">
-														<p class="text-red"><b>I'm not robot</b></p>
-														<p id="captcha-text"></p>
-														<input type="text" id="captcha-input" maxlength="2" size="2">
-														<i id="refresh-button" class="fa fa-refresh"></i>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="col-sm-12 form-btn mt-20 text-center">
-										<button type="submit" id="submit-button" class="btn btn-md btn-pink tra-grey-hover submit" name="send" style="padding: 10px 34px !important;">Get Started Now</button>
-									</div>
-								</form>
-							</div>
-						</div>
-
-
-						<!-- <form method="post" class="grey-color ">
+						<form method="post" class="grey-color ">
 							<div class="row d-flex ">
 								<div class="col-lg-6 mt-1">
+
+
+									<!-- Form Input -->
 									<div class="row ">
 										<div class="col-sm-6 ">
-											<input type="text" name="name" class="form-control grey-color name" placeholder="Enter Your Name*" autocomplete="off" required>
+											<input type="text" name="name" class="form-control name" placeholder="Your Name*">
 										</div>
 										</br>
+
+										<!-- Form Input -->
 										<div class="col-sm-6 ">
-											<input type="email" name="email" class="form-control grey-color  email" placeholder="Enter Your Email*" autocomplete="off" required>
+											<input type="email" name="email" class="form-control email" placeholder="Email Address*">
 										</div>
 										</br>
 
 										<div class="col-sm-6  mt-25">
-											<input type="number" name="phone" class="form-control grey-color  phone" placeholder="Enter Your Phone*" autocomplete="off" required>
+											<input type="number" name="phone" class="form-control phone" maxlength="10" placeholder="Mobile Number*" autocomplete="off" required>
 										</div>
 										</br>
 										<div class="col-sm-6 mt-25 ">
-											<select class="form-select grey-color" aria-label="courses" name="courses" id="courses" required>
+											<select class="form-select grey-color" name="courses" id="courses" required>
 												<option value="">Select your Courses </option>
 												<option value="Digital Marketing">Digital Marketing Course</option>
 												<option value="UI/UX Course">UI/UX Course</option>
@@ -233,24 +194,38 @@ if (isset($_POST['send'])) {
 									<div class="col-md-12 mt-1">
 										<textarea class="form-control grey-color img-fluid-tools message" name="message" minlength="50" maxlength="100" rows="6" placeholder="Share Your Comments:" required></textarea>
 									</div>
-								</div>
-								<div class="col-lg-12 contact-form-msg">
-									<span class="loading"></span>
-								</div>
-								<div class="form-group">
-									<div class="col-sm-12 col-sm-offset-2">
-										<?php if (!empty($result)) {
-											echo '<div class="alert bg-success alert-dark"><b>Your message sent successfully! </b>' . $result . '</div>';
-										} ?>
+
+									<div class="submit-captcha">
+										<div class="col-md-3">
+											<input type="checkbox" name="sendNDA" class="checkboxone">
+											<label for="sendNDA">Send NDA</label>
+										</div>
+
+										<div id="captcha-container">
+											<p class="text-red"><b>I'm not robot</b></p>
+											<p id="captcha-text"></p>
+											<input type="text" id="captcha-input" maxlength="2" size="2">
+											<i id="refresh-button" class="fa fa-refresh"></i>
+
+
+										</div>
 									</div>
-								</div>
-								<div class="col-sm-12  mt-20 text-center">
-									<button type="submit" class="btn btn-md btn-pink tra-grey-hover submit" name="send" style="padding: 10px 34px !important;">Get Started Now</button>
-								</div>
+									<div class="col-lg-12 contact-form-msg">
+										<span class="loading"></span>
+									</div>
+									<div class="form-group">
+										<div class="col-sm-12 col-sm-offset-2">
+											<?php if (!empty($result)) {
+												echo '<div class="alert bg-success alert-dark "><b>Your message sent successfully! </b>' . $result . '</div>';
+											} ?>
+										</div>
+									</div>
+									<div class="col-sm-12 form-btn mt-20 text-center">
+										<button type="submit" id="submit-button" class="btn btn-md btn-pink tra-grey-hover submit" name="send" style="padding: 10px 34px !important;">Get Started Now</button>
+									</div>
 
-							</div>
-						</form> -->
-
+								</div>
+						</form>
 						<!-- HERO QUICK FORM -->
 
 
@@ -309,7 +284,7 @@ if (isset($_POST['send'])) {
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="https://clickboxagency.com/images/accelerate-your-knowledge.png" alt="content-image">
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/digital-marketing-internship-coimbatore/accelerate-your-knowledge.webp" loading="lazy" alt="content-image">
 							</div>
 						</div>
 
@@ -332,9 +307,6 @@ if (isset($_POST['send'])) {
 
 								<!-- Text -->
 								<p class="p-lg">The whole product set of UX tools from Optimal Workshop is available for an extended free trial of one month to learners enrolled in the UI UX Design Specialization. Get your free trial now!</p>
-								<!-- <div class="more-btn mt-20">
-									<a href="https://api.whatsapp.com/send?phone=918870578887" class="btn btn-violet-red tra-grey-hover">Start Your Career in Digital Marketing Today!</a>
-								</div> -->
 
 							</div>
 						</div> <!-- END TEXT BLOCK -->
@@ -344,8 +316,7 @@ if (isset($_POST['send'])) {
 		</div> <!-- END FEATURES-4 WRAPPER -->
 		</div> <!-- End container -->
 	</section> <!-- END FEATURES-4 -->
-	<!-- CONTENT-6
-			============================================= -->
+	<!-- CONTENT-6	============================================= -->
 	<section id="content-6" class="content-6  content-section division">
 		<div class="container">
 			<div class="row d-flex align-items-center">
@@ -413,7 +384,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-6 col-lg-7">
 					<div class="img-block right-column wow fadeInLeft">
-						<img class="img-fluid" src="../images/digital-marketing-course-highlights.png" alt="content-image">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/digital-marketing-course-highlights.webp" loading="lazy" alt="content-image">
 					</div>
 				</div>
 
@@ -490,7 +461,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6 order-first order-lg-2 order-md-2">
 					<div class="rel img-block right-column wow fadeInRight">
-						<img class="img-fluid" src="../images/logo-design-01.png" alt="video-preview">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/logo-design-01.webp" loading="lazy" alt="video-preview">
 					</div>
 				</div>
 
@@ -505,7 +476,7 @@ if (isset($_POST['send'])) {
 				<!-- IMAGE BLOCK -->
 				<div class="col-md-5 col-lg-6">
 					<div class="rel img-block left-column wow fadeInRight">
-						<img class="img-fluid" src="../images/who-can-take-up-this-uiux-design-course.png" alt="video-preview">
+						<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/who-can-take-up-this-uiux-design-course.webp" loading="lazy" alt="video-preview">
 					</div>
 				</div>
 
@@ -600,7 +571,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/ui-ux-design-course01.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/ui-ux-design-course01.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -621,7 +592,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/UI-UX-1-02.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/UI-UX-1-02.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -643,7 +614,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/16.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/16.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -671,7 +642,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/UI-UX-1-03.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/UI-UX-1-03.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -689,7 +660,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/01.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/01.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -706,7 +677,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/UI-UX-1-04.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/UI-UX-1-04.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -732,7 +703,7 @@ if (isset($_POST['send'])) {
 						<div class="fbox-8 mb-40 wow fadeInUp">
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="homeimgsize" src="../images/UI-UX-1-05.png" alt="feature-icon" />
+								<img class="homeimgsize" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/UI-UX-1-05.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -752,7 +723,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/digital-marketing-course-highlights.png" alt="feature-icon" />
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/digital-marketing-course-highlights.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -769,7 +740,7 @@ if (isset($_POST['send'])) {
 
 							<!-- Image -->
 							<div class="fbox-img bg-whitesmoke-gradient">
-								<img class="img-fluid" src="../images/03.png" alt="feature-icon" />
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/03.webp" loading="lazy" alt="feature-icon" />
 							</div>
 
 							<!-- Title -->
@@ -819,7 +790,7 @@ if (isset($_POST['send'])) {
 						<!-- IMAGE BLOCK -->
 						<div class="col-md-5 col-lg-6">
 							<div class="img-block left-column wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-								<img class="img-fluid" src="../images/03.png" alt="content-image">
+								<img class="img-fluid" src="https://clickboxagency.com/images-new/internship/ui-ux-design-course-coimbatore/03.webp" loading="lazy" alt="content-image">
 							</div>
 						</div>
 
@@ -1054,6 +1025,7 @@ if (isset($_POST['send'])) {
 	</script>
 	<!-- Custom Script -->
 	<script src="../js/custom.js"></script>
+	<script src="https://clickboxagency.com/js/contact.js"></script>
 	<?/*php include('popup1.php')*/ ?>
 
 </body>
